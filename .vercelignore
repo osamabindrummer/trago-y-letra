@@ -1,0 +1,14 @@
+.git
+.vercel
+.env*
+.vite
+coverage
+dist
+node_modules
+output
+playwright-report
+test-results
+docs
+tests
+data/fixtures
+data/research

@@ -33,6 +33,18 @@ npm run build
 
 `npm run start` sirve ese mismo artefacto en producción local. La interfaz vive en `src/` y el catálogo canónico continúa en `data/source/catalog.json`.
 
+## Despliegue
+
+El sitio se publica desde este mismo repositorio en Vercel. Tras enlazar el proyecto una vez con `vercel link`, ejecuta:
+
+```bash
+vercel --prod
+```
+
+Vercel ejecuta `npm run build` y sirve el contenido estático de `dist/`. La carpeta local `.vercel/` y los artefactos de pruebas se mantienen fuera de Git y del paquete de despliegue.
+
+Sitio público: [trago-y-letra.vercel.app](https://trago-y-letra.vercel.app).
+
 ## Flujo editorial
 
 1. Los candidatos sin revisar van a `data/research/candidates/` y deben pasar `npm run validate:research`.
