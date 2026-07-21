@@ -1,0 +1,130 @@
+{
+  "author_id": "miguel-de-cervantes",
+  "run": {
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "low",
+    "executed_at": "2026-07-21T04:35:58Z",
+    "search_rounds": 4
+  },
+  "candidates": [
+    {
+      "drink_name_candidate": "Vino tinto",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Don Quijote de la Mancha, primera parte",
+      "claim_candidate": "En el capítulo XXXV, la ventera reclama el daño de sus cueros y el vino derramado tras la aventura nocturna de don Quijote en la venta.",
+      "why_it_matters": "La escena vincula explícitamente el vino tinto con una de las confusiones narrativas más reconocibles de la primera parte. El vino pertenece a la venta y el episodio no documenta consumo ni preferencia de Cervantes.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://cvc.cervantes.es/literatura/clasicos/quijote/edicion/parte1/cap35/cap35_02.htm",
+          "title": "Don Quijote de la Mancha. Primera parte, capítulo XXXV",
+          "author_or_publisher": "Miguel de Cervantes / Centro Virtual Cervantes",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "romperme mis cueros y derramarme mi vino",
+          "locator": "Primera parte, capítulo XXXV, sección 2; parlamento de la ventera",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Abrir también la primera sección del capítulo para cotejar la acción que precede al reclamo de la ventera.",
+        "Atribuir el episodio a don Quijote y a la venta; no presentarlo como hábito ni preferencia del autor.",
+        "No inferir una denominación, variedad o receta histórica desde la expresión vino tinto."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Vino de Ciudad Real",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Don Quijote de la Mancha, segunda parte",
+      "claim_candidate": "En el capítulo XIII, Sancho bebe de una bota, identifica el vino como de Ciudad Real y relata una prueba familiar sobre sus sabores.",
+      "why_it_matters": "La bebida, el personaje y el origen que se le atribuye aparecen de forma directa en una escena de conversación y comida. Es evidencia narrativa, no una afirmación sobre los gustos de Cervantes ni una garantía de equivalencia con un vino actual.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://cvc.cervantes.es/literatura/clasicos/quijote/edicion/parte2/cap13/cap13_02.htm",
+          "title": "Don Quijote de la Mancha. Segunda parte, capítulo XIII",
+          "author_or_publisher": "Miguel de Cervantes / Centro Virtual Cervantes",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "¿este vino es de Ciudad Real?",
+          "locator": "Segunda parte, capítulo XIII, sección 2; diálogo de Sancho con el del Bosque",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Conservar el nombre geográfico tal como aparece en la obra; no convertirlo automáticamente en una denominación de origen contemporánea.",
+        "La escena culmina con ambos escuderos bebiendo; no atribuir ese consumo al autor.",
+        "Si se usa como recomendación, justificar por el pasaje y no por una supuesta preferencia regional de Cervantes."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Vinos españoles e italianos",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "El licenciado Vidriera",
+      "claim_candidate": "En El licenciado Vidriera, un huésped enumera vinos italianos y ofrece otros de lugares españoles, entre ellos Esquivias, Ciudad Real y Ribadavia.",
+      "why_it_matters": "El pasaje presenta una lista explícita de vinos dentro de una Novela ejemplar y da una base textual para investigar una bebida concreta. No permite afirmar cuál prefería Cervantes ni reducir el catálogo a una marca o producto moderno.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://www.cervantesvirtual.com/obra-visor/el-licenciado-vidriera--0/html/ff31463c-82b1-11df-acc7-002185ce6064_15.html",
+          "title": "El licenciado Vidriera",
+          "author_or_publisher": "Miguel de Cervantes / Biblioteca Virtual Miguel de Cervantes",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "ofreció a Esquivias, a Alanís, a Cazalla, Guadalcanal y la Membrilla",
+          "locator": "Pasaje del huésped tras la reseña de vinos, visor de obra, sección 15",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://cvc.cervantes.es/literatura/cervantistas/coloquios/cl_X/cl_X_33.pdf",
+          "title": "España e Italia en las Novelas ejemplares",
+          "author_or_publisher": "Chul Park / Centro Virtual Cervantes",
+          "publication_date": null,
+          "source_tier_candidate": "scholarly",
+          "support_excerpt": "En El Licenciado Vidriera Cervantes elogia la calidad del vino italiano",
+          "locator": "p. 9 del PDF, sección sobre El licenciado Vidriera",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [
+        {
+          "claim": "La enumeración de vinos en una obra no demuestra que Cervantes bebiera o prefiriera alguno de ellos.",
+          "sources": [
+            {
+              "url": "https://www.cervantesvirtual.com/obra-visor/el-licenciado-vidriera--0/html/ff31463c-82b1-11df-acc7-002185ce6064_15.html",
+              "title": "El licenciado Vidriera",
+              "author_or_publisher": "Miguel de Cervantes / Biblioteca Virtual Miguel de Cervantes",
+              "publication_date": null,
+              "source_tier_candidate": "primary",
+              "support_excerpt": "más vinos nombró el huésped",
+              "locator": "Pasaje inmediatamente posterior a la reseña de vinos, visor de obra, sección 15",
+              "accessed_at": "2026-07-21"
+            }
+          ]
+        }
+      ],
+      "verification_notes": [
+        "La fuente primaria debe seguir siendo el soporte de cualquier afirmación sobre la escena; el artículo académico sólo ayuda a contextualizarla.",
+        "Seleccionar un solo vino del catálogo requeriría un criterio editorial posterior y no puede presentarse como favorito de Cervantes.",
+        "Verificar la paginación del PDF académico antes de una ficha canónica."
+      ],
+      "status": "candidate_generated"
+    }
+  ],
+  "queries_used": [
+    "site:cervantesvirtual.com Don Quijote vino odres",
+    "site:cervantesvirtual.com Novelas ejemplares vino",
+    "Don Quijote primera parte capítulo XXXV odres vino texto completo",
+    "El licenciado Vidriera vinos de Esquivias Cervantes"
+  ],
+  "unresolved_questions": [
+    "¿Qué candidato ofrece una base editorial más clara para una sola bebida normalizada sin confundir un vino histórico con un producto contemporáneo?",
+    "¿La promoción debería privilegiar la escena de los odres o el diálogo de Sancho sobre el vino de Ciudad Real?",
+    "¿Existe una edición crítica consultable que permita añadir página a los localizadores de los tres pasajes?"
+  ],
+  "stop_reason": "Se completaron cuatro rondas de búsqueda. Se conservaron tres candidatos de presencia textual con fuentes primarias de acceso público; no se encontró ni se afirmó una preferencia biográfica de Cervantes. Ningún candidato fue aprobado, publicado ni promovido al catálogo canónico."
+}

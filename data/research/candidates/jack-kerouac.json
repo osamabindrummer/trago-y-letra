@@ -1,0 +1,195 @@
+{
+  "author_id": "jack-kerouac",
+  "run": {
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "low",
+    "executed_at": "2026-07-21T04:24:43Z",
+    "search_rounds": 4
+  },
+  "candidates": [
+    {
+      "drink_name_candidate": "Cerveza",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "On the Road",
+      "claim_candidate": "Sal Paradise y Dean Moriarty salen a tomar unas cervezas para poder conversar sin la tía de Sal presente.",
+      "why_it_matters": "El extracto editorial identifica la bebida, a los personajes y la situación narrativa. No respalda una preferencia ni un hábito de Kerouac.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://www.penguinrandomhouse.ca/books/540752/on-the-road-by-jack-kerouac/excerpt",
+          "title": "Excerpt from On the Road",
+          "author_or_publisher": "Jack Kerouac / Penguin Random House Canada",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "So we went out to have a few beers because we couldn’t talk ... in front of my aunt.",
+          "locator": "Parte 1, capítulo 1; extracto editorial",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Confirmar el capítulo y la edición usados para la futura ficha canónica.",
+        "Mantener la atribución del consumo a Sal y Dean, no al autor."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Cerveza",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "On the Road",
+      "claim_candidate": "Sal Paradise decide gastar un dólar en cerveza y va con un compañero a un antiguo salón de Stuart, Iowa.",
+      "why_it_matters": "Es una acción concreta de un narrador-personaje durante el viaje y permite distinguir una escena de ficción de cualquier afirmación biográfica.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://lito-assets.s3.amazonaws.com/ontheroad_puzzle_17x22_bw_stamped.pdf",
+          "title": "On the Road",
+          "author_or_publisher": "Jack Kerouac / PDF de texto consultado",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "I decided to spend a buck on beer; we went to an old saloon in Stuart and had a few.",
+          "locator": "Parte 1, capítulo 5; página digital 1 del PDF",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Verificar una edición autorizada o bibliotecaria antes de promover: el PDF consultado no identifica de forma suficiente su edición.",
+        "No traducir la escena en un hábito del autor."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Vino",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Big Sur",
+      "claim_candidate": "El narrador Jack Duluoz despierta solo, toma un sorbo de vino y luego se da un baño caliente.",
+      "why_it_matters": "La bebida y la acción del narrador aparecen de forma explícita en un capítulo identificable. Es una escena de la novela, no prueba de consumo de Kerouac fuera de ella.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Big_Sur/Chapter_27",
+          "title": "Big Sur, Chapter 27",
+          "author_or_publisher": "Jack Kerouac / Wikisource",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "I wake up at one in the afternoon alone and take a swig of wine.",
+          "locator": "capítulo 27, primer párrafo",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Confirmar la edición de Big Sur y su paginación antes de publicar una referencia bibliográfica.",
+        "La novela es autobiográfica, pero el candidato se clasifica deliberadamente como aparición en obra."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Whiskey",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Big Sur",
+      "claim_candidate": "Ben Fagan recuerda a Jack Duluoz borracho de whiskey en 1957 durante una conversación en San Francisco.",
+      "why_it_matters": "La escena nombra el whiskey y atribuye el recuerdo a un personaje. Su tono de deterioro obliga a evitar toda romantización y no permite diagnosticar ni afirmar hechos biográficos.",
+      "confidence_candidate": "medium",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Big_Sur/Chapter_30",
+          "title": "Big Sur, Chapter 30",
+          "author_or_publisher": "Jack Kerouac / Wikisource",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "You said in 1957 in the grass drunk on whiskey you were the greatest thinker in the world.",
+          "locator": "capítulo 30, conversación entre Jack Duluoz y Ben Fagan",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/b241ca50-68b0-4d6a-8d4b-1f8726011c41/content",
+          "title": "Tesis académica sobre Big Sur y la figura del bohemio",
+          "author_or_publisher": "Virginia Tech",
+          "publication_date": null,
+          "source_tier_candidate": "scholarly",
+          "support_excerpt": "Cita el pasaje como Kerouac, Big Sur, p. 164.",
+          "locator": "página 69 del PDF, nota y cita del capítulo 30",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "La fuente académica ayuda a localizar una paginación, pero debe cotejarse con la edición de Big Sur que se cite públicamente.",
+        "No elevar esta voz novelística a consumo documentado de Kerouac."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Whiskey",
+      "relationship_type_candidate": "author_documented",
+      "work_candidate": null,
+      "claim_candidate": "Una transcripción secundaria atribuye a Kerouac, en una carta a Gary Snyder de 1958, la frase «I have to get some whiskey». ",
+      "why_it_matters": "Podría ser una mención directa del autor en correspondencia, pero la evidencia web accesible reproduce el pasaje de forma secundaria y no basta para una ficha biográfica.",
+      "confidence_candidate": "low",
+      "sources": [
+        {
+          "url": "https://thedailybeatblog.blogspot.com/2018/12/jack-kerouac-on-this-date-in-1958.html",
+          "title": "Jack Kerouac on this date in 1958",
+          "author_or_publisher": "The Daily Beat",
+          "publication_date": "2018-12-01",
+          "source_tier_candidate": "discovery_only",
+          "support_excerpt": "I have to get some whiskey.",
+          "locator": "entrada del 1 de diciembre de 2018; atribuye la carta a pp. 192-193",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://books.google.com/books/about/Selected_Letters_1957_1969.html?id=8OVaAAAAMAAJ",
+          "title": "Selected Letters, 1957-1969",
+          "author_or_publisher": "Jack Kerouac, ed. Ann Charters / Viking",
+          "publication_date": "1999",
+          "source_tier_candidate": "primary",
+          "support_excerpt": "El registro identifica la colección de correspondencia de Kerouac editada por Ann Charters.",
+          "locator": "ficha bibliográfica; no muestra la carta ni las páginas 192-193",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [
+        {
+          "url": "https://thedailybeatblog.blogspot.com/2018/12/jack-kerouac-on-this-date-in-1958.html",
+          "title": "Jack Kerouac on this date in 1958",
+          "claim": "La transcripción está en un blog y no sustituye la consulta directa de la carta o de la edición citada.",
+          "source_tier_candidate": "discovery_only",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "verification_notes": [
+        "Bandera myth_risk: no usar este candidato para afirmar preferencia, frecuencia ni consumo efectivo sin consultar la carta completa.",
+        "Verificar destinatario, fecha, páginas 192-193 y contexto de la frase en Selected Letters, 1957-1969.",
+        "Si la carta sólo expresa intención o una frase aislada, mantenerlo rechazado o de confianza baja."
+      ],
+      "status": "candidate_generated"
+    }
+  ],
+  "queries_used": [
+    "Jack Kerouac On the Road beer text chapter",
+    "Jack Kerouac Big Sur whiskey text chapter",
+    "site:archive.org Jack Kerouac letters drinking alcohol",
+    "site:.edu Jack Kerouac drinking biography alcohol",
+    "site:en.wikisource.org/wiki/Big_Sur beer Jack Kerouac",
+    "site:en.wikisource.org/wiki/Big_Sur whiskey Jack Kerouac",
+    "site:en.wikisource.org/wiki/Big_Sur wine Jack Kerouac",
+    "Jack Kerouac papers alcohol letters archive whiskey",
+    "Big Sur Kerouac bottle of wine chapter",
+    "Big Sur Kerouac whiskey Chapter",
+    "On the Road Kerouac I decided to spend a buck on beer",
+    "On the Road Kerouac That night we all drank beer",
+    "I have to get some whiskey Kerouac Selected Letters",
+    "Jack Kerouac Selected Letters 1957-1969 whiskey",
+    "site:books.google.com Jack Kerouac I have to get some whiskey",
+    "site:archive.org/details Jack Kerouac Selected Letters"
+  ],
+  "unresolved_questions": [
+    "¿Qué edición autorizada y estable de On the Road permitirá verificar la escena de Stuart, Iowa, sin depender del PDF de procedencia editorial incompleta?",
+    "¿Qué edición de Big Sur se empleará para fijar páginas de los capítulos 27 y 30?",
+    "¿La carta a Gary Snyder citada como pp. 192-193 de Selected Letters, 1957-1969 contiene el pasaje completo y en qué contexto aparece?",
+    "Las asociaciones biográficas con vino, cerveza o whiskey halladas en fuentes de descubrimiento no se convierten en candidatos de preferencia sin una fuente primaria o especializada independiente."
+  ],
+  "stop_reason": "Se completaron cuatro rondas de búsqueda. Se priorizaron cuatro escenas textuales con bebidas identificables; el único candidato biográfico directo queda en confianza baja, con fuente de descubrimiento y riesgo de afirmación excesiva. No se aprueba ni publica ningún candidato."
+}

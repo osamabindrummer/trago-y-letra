@@ -1,0 +1,105 @@
+{
+  "author_id": "f-scott-fitzgerald",
+  "run": {
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "low",
+    "executed_at": "2026-07-21T04:19:46Z",
+    "search_rounds": 2
+  },
+  "candidates": [
+    {
+      "drink_name_candidate": "Gin Rickey",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "The Great Gatsby",
+      "claim_candidate": "Tom Buchanan vuelve con cuatro gin rickeys; Gatsby, Nick, Daisy y Jordan los beben durante una escena de tensión en la casa Buchanan.",
+      "why_it_matters": "La bebida está nombrada y el consumo se atribuye a personajes concretos en una escena identificable; no demuestra una preferencia de Fitzgerald.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://sites.wp.odu.edu/wp-content/uploads/sites/9252/2018/08/great-gatsby.pdf",
+          "title": "The Great Gatsby",
+          "author_or_publisher": "F. Scott Fitzgerald / Old Dominion University",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "Tom came back, preceding four gin rickeys that clicked full of ice.",
+          "locator": "capítulo 7",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Verificar la edición que se use públicamente antes de añadir paginación.",
+        "Mantener la atribución a los personajes; no presentar el Gin Rickey como bebida favorita del autor."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Mint julep",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "The Great Gatsby",
+      "claim_candidate": "Daisy Buchanan ofrece preparar un mint julep a Tom durante la confrontación de la novela.",
+      "why_it_matters": "La mención nombra una bebida concreta dentro de la misma escena central de la obra, sin requerir inferencias biográficas.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://sites.wp.odu.edu/wp-content/uploads/sites/9252/2018/08/great-gatsby.pdf",
+          "title": "The Great Gatsby",
+          "author_or_publisher": "F. Scott Fitzgerald / Old Dominion University",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "I'll make you a mint julep.",
+          "locator": "capítulo 7",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "La fuente respalda una oferta de Daisy, no confirma que el julep sea preparado o consumido en el pasaje.",
+        "No inferir un hábito de Fitzgerald desde esta mención narrativa."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Champagne",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Tender Is the Night",
+      "claim_candidate": "Abe North pide otra botella de champagne y Dick Diver rechaza seguir bebiendo en una escena nocturna en París.",
+      "why_it_matters": "El diálogo identifica la bebida y muestra una dinámica narrativa de presión y límite; no debe romantizarse ni trasladarse a la biografía del autor.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://gutenbergcanada.ca/ebooks/fitzgeraldfs-tenderisthenight/fitzgeraldfs-tenderisthenight-00-e.html",
+          "title": "Tender Is the Night",
+          "author_or_publisher": "F. Scott Fitzgerald / Project Gutenberg Canada",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "We'll have another bottle of champagne. No more for me, said Dick.",
+          "locator": "Libro 1, capítulo 14",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Conservar el contexto de consumo problemático de Abe North; no convertir la escena en una celebración del alcohol.",
+        "No usar este diálogo como prueba de consumo o preferencia de Fitzgerald."
+      ],
+      "status": "candidate_generated"
+    }
+  ],
+  "queries_used": [
+    "F Scott Fitzgerald The Great Gatsby full text gin rickey chapter 2",
+    "F Scott Fitzgerald Tender Is the Night full text champagne chapter",
+    "F Scott Fitzgerald gin rickey biography archival source",
+    "F Scott Fitzgerald drinks biography alcohol gin rickey source",
+    "site:gutenberg.ca The Great Gatsby gin rickeys Fitzgerald",
+    "site:archive.org The Great Gatsby four gin rickeys",
+    "four gin rickeys Fitzgerald",
+    "site:fitzgerald.narod.ru Tender Is the Night champagne"
+  ],
+  "unresolved_questions": [
+    "¿Existe una fuente primaria, archivo o biografía con aparato crítico que documente que Fitzgerald prefería específicamente el Gin Rickey, en vez de repetir una asociación popular?",
+    "¿Qué edición estable de The Great Gatsby se empleará para fijar páginas además de los localizadores por capítulo?",
+    "Las fuentes encontradas sobre gin y vida social de Fitzgerald no bastan por sí solas para formular una recomendación biográfica ni para diagnosticar dependencia."
+  ],
+  "stop_reason": "Se completaron dos rondas de búsqueda y se hallaron tres candidatos de aparición en obra con fuente primaria. Las afirmaciones biográficas sobre Gin Rickey y vida social no alcanzaron evidencia proporcional dentro del alcance y se dejan sin candidato."
+}

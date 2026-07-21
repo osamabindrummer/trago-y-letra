@@ -1,0 +1,33 @@
+{
+  "reviewed_at": "2026-07-21",
+  "items": [
+    {
+      "author_id": "edgar-allan-poe",
+      "candidate": "Absenta como bebida de Poe",
+      "decision": "rejected",
+      "reason": "La asociación aparece como mito biográfico posterior; se publica en su lugar una aparición textual de amontillado.",
+      "source": "https://www.eapoe.org/geninfo/poealchl.htm"
+    },
+    {
+      "author_id": "ernest-hemingway",
+      "candidate": "Daiquiri como bebida favorita de Hemingway",
+      "decision": "rejected",
+      "reason": "La evidencia revisada no justifica presentar una preferencia inequívoca. La ficha publicada usa absenta en The Sun Also Rises.",
+      "source": "https://www.spiritsanddistilling.com/dictionary/acref-9780199311132-e-295"
+    },
+    {
+      "author_id": "william-faulkner",
+      "candidate": "Mint julep como bebida favorita de Faulkner",
+      "decision": "rejected",
+      "reason": "No se localizó evidencia primaria o especializada que sostenga la preferencia. La ficha conserva un toddy que aparece en The Sound and the Fury.",
+      "source": "data/research/candidates/william-faulkner.json"
+    },
+    {
+      "author_id": "raymond-chandler",
+      "candidate": "Gin gimlet como bebida favorita de Chandler",
+      "decision": "rejected",
+      "reason": "La atribución biográfica queda en baja confianza. La ficha usa el diálogo de personajes de The Long Goodbye.",
+      "source": "data/research/candidates/raymond-chandler.json"
+    }
+  ]
+}

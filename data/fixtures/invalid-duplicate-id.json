@@ -1,0 +1,6 @@
+{
+  "authors": [
+    { "id": "repetido", "slug": "uno", "canonical_name": "Uno Sintético", "aliases": [], "country": "Ficción", "birth_year": 1980, "bio_es": "Autor sintético creado para probar el rechazo de identificadores repetidos dentro del catálogo editorial de prueba.", "featured_works": ["obra-a", "obra-b"], "status": "published", "reviewed_at": "2026-07-21" },
+    { "id": "repetido", "slug": "dos", "canonical_name": "Dos Sintético", "aliases": [], "country": "Ficción", "birth_year": 1981, "bio_es": "Autor sintético creado para probar el rechazo de identificadores repetidos dentro del catálogo editorial de prueba.", "featured_works": ["obra-c", "obra-d"], "status": "published", "reviewed_at": "2026-07-21" }
+  ], "works": [], "drinks": [], "recommendations": [], "evidence": [], "sources": []
+}

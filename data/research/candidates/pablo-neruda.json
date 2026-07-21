@@ -1,0 +1,62 @@
+{
+  "author_id": "pablo-neruda",
+  "run": { "model": "gpt-5.6-terra", "reasoning_effort": "low", "executed_at": "2026-07-21T06:00:00Z", "search_rounds": 4 },
+  "candidates": [
+    {
+      "drink_name_candidate": "Vino",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Oda al vino (Odas elementales)",
+      "claim_candidate": "En «Oda al vino», la voz poética presenta el vino como materia de canto y de conversación compartida alrededor de una mesa.",
+      "why_it_matters": "Es una relación directa con una obra de Neruda y no requiere inferir un hábito personal del autor. Una eventual ficha debe evitar convertir esa celebración lírica en una invitación al consumo excesivo.",
+      "confidence_candidate": "high",
+      "sources": [
+        { "url": "https://neruda.uchile.cl/obra/obraodaselementales10.html", "title": "Oda al vino", "author_or_publisher": "Pablo Neruda / Universidad de Chile", "publication_date": null, "source_tier_candidate": "primary", "support_excerpt": "Amo sobre una mesa, cuando se habla, la luz de una botella de inteligente vino.", "locator": "Texto completo, estrofa final, antes de «Que lo beban».", "accessed_at": "2026-07-21" },
+        { "url": "https://www.neruda.uchile.cl/obra/odaselementales.htm", "title": "Odas elementales", "author_or_publisher": "Universidad de Chile / Fundación Pablo Neruda", "publication_date": null, "source_tier_candidate": "reputable_secondary", "support_excerpt": "Oda al vino", "locator": "Índice de la antología digital; identifica el poema dentro de Odas elementales.", "accessed_at": "2026-07-21" }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": ["Cotejar con una edición autorizada e incorporar editorial, año, ISBN y página o poema como localizador estable.", "La afirmación debe quedar limitada a la presencia y tratamiento poético del vino; no prueba una bebida favorita ni una receta de Neruda.", "Mantener una explicación sobria: el poema alude al alcohol y no debe usarse para romantizar la embriaguez."],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Whisky",
+      "relationship_type_candidate": "author_documented",
+      "work_candidate": null,
+      "claim_candidate": "Un texto de divulgación de la Fundación Pablo Neruda describe al poeta como conocido por su preferencia por el whisky.",
+      "why_it_matters": "Es una atribución institucional concreta, pero el texto consultado no identifica fuente primaria, fecha, marca ni preparación. Debe tratarse como pista biográfica verificable, no como prueba concluyente.",
+      "confidence_candidate": "medium",
+      "sources": [
+        { "url": "https://cultura.fundacionneruda.org/2022/01/cual-es-tu-bar-favorito-de-las-casas-museos-de-pablo-neruda/", "title": "¿Cuál es tu bar favorito de las Casas-museos de Pablo Neruda?", "author_or_publisher": "Portal Cultura de Fundación Pablo Neruda", "publication_date": "2022-01-01", "source_tier_candidate": "reputable_secondary", "support_excerpt": "Conocido el poeta por su preferencia por el whisky.", "locator": "Párrafo inicial, después de la mención a Odas elementales.", "accessed_at": "2026-07-21" }
+      ],
+      "contradicting_evidence": [{ "claim": "La fuente institucional no ofrece en la página una cita, testimonio, documento de archivo ni referencia bibliográfica que permita verificar el origen de la preferencia atribuida.", "sources": [{ "url": "https://cultura.fundacionneruda.org/2022/01/cual-es-tu-bar-favorito-de-las-casas-museos-de-pablo-neruda/", "title": "¿Cuál es tu bar favorito de las Casas-museos de Pablo Neruda?", "author_or_publisher": "Portal Cultura de Fundación Pablo Neruda", "publication_date": "2022-01-01", "source_tier_candidate": "reputable_secondary", "support_excerpt": "Conocido el poeta por su preferencia por el whisky.", "locator": "Párrafo inicial; la atribución aparece sin aparato de fuentes visible.", "accessed_at": "2026-07-21" }] }],
+      "verification_notes": ["Buscar una carta, entrevista, testimonio fechado o inventario de casa-museo que documente consumo, pedido o preparación de whisky por Neruda.", "No publicar «whisky favorito» ni atribuir marca, cóctel o cantidad sin corroboración independiente.", "Marcar myth_risk moderado: casas-museo y bares pueden amplificar asociaciones culturales sin documentar su procedencia."],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Vino francés",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "Confieso que he vivido",
+      "claim_candidate": "En un pasaje de sus memorias, el narrador describe que sus anfitrionas llevaron vinos viejos conservados según las leyes del vino de Francia.",
+      "why_it_matters": "Si se confirma en una edición autorizada, conecta el vino con una escena concreta de hospitalidad y gastronomía. La copia accesible localizada no tiene procedencia editorial verificable, por lo que aún no basta para publicación.",
+      "confidence_candidate": "low",
+      "sources": [{ "url": "https://tavapy.gov.py/biblioteca/wp-content/uploads/2022/03/NerudaP-Confieso-que-he-vivido-memorias-1.pdf", "title": "Confieso que he vivido", "author_or_publisher": "Pablo Neruda; copia digital atribuida a librosmaravillosos.com", "publication_date": null, "source_tier_candidate": "discovery_only", "support_excerpt": "De sus bodegas trajeron vinos viejos, conservados por ellas según las leyes del vino de Francia.", "locator": "PDF consultado, p. 24 del visor, capítulo «El joven provinciano»; cotejar con edición autorizada.", "accessed_at": "2026-07-21" }],
+      "contradicting_evidence": [{ "claim": "La copia digital consultada identifica colaboradores ajenos a la edición y no acredita una licencia ni procedencia editorial autorizada; sirve sólo para localizar el pasaje.", "sources": [{ "url": "https://tavapy.gov.py/biblioteca/wp-content/uploads/2022/03/NerudaP-Confieso-que-he-vivido-memorias-1.pdf", "title": "Confieso que he vivido", "author_or_publisher": "Pablo Neruda; copia digital atribuida a librosmaravillosos.com", "publication_date": null, "source_tier_candidate": "discovery_only", "support_excerpt": "Colaboración de Sergio Barros", "locator": "PDF consultado, portada y encabezados; la procedencia requiere comprobación.", "accessed_at": "2026-07-21" }] }],
+      "verification_notes": ["Cotejar capítulo, página y redacción con una edición autorizada de Confieso que he vivido.", "No convertir esta escena en prueba de una preferencia de Neruda por vino francés: describe los vinos de las anfitrionas.", "No reutilizar ni incorporar la copia digital al repositorio."],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Leche fresca",
+      "relationship_type_candidate": "author_documented",
+      "work_candidate": null,
+      "claim_candidate": "La Fundación Pablo Neruda menciona que, en su juventud, Neruda bebía leche fresca con compañeros de bohemia lírica y estudiantil en Maruri.",
+      "why_it_matters": "Es una anécdota de bebida no alcohólica atribuida al poeta por una institución vinculada a su legado. Puede servir para una alternativa sin alcohol sólo si se localiza su origen; por ahora debe conservarse como anécdota, no como preferencia comprobada.",
+      "confidence_candidate": "low",
+      "sources": [{ "url": "https://cultura.fundacionneruda.org/2022/01/cual-es-tu-bar-favorito-de-las-casas-museos-de-pablo-neruda/", "title": "¿Cuál es tu bar favorito de las Casas-museos de Pablo Neruda?", "author_or_publisher": "Portal Cultura de Fundación Pablo Neruda", "publication_date": "2022-01-01", "source_tier_candidate": "reputable_secondary", "support_excerpt": "beber en su juventud de sombrero y alón leche fresca entre sus compañeros de bohemia", "locator": "Párrafo inicial, oración posterior a whisky y agua; verificar la formulación completa en fuente primaria.", "accessed_at": "2026-07-21" }],
+      "contradicting_evidence": [{ "claim": "La página de divulgación no identifica quién documentó la anécdota ni aporta fecha, obra, testimonio o archivo que permita determinar su procedencia.", "sources": [{ "url": "https://cultura.fundacionneruda.org/2022/01/cual-es-tu-bar-favorito-de-las-casas-museos-de-pablo-neruda/", "title": "¿Cuál es tu bar favorito de las Casas-museos de Pablo Neruda?", "author_or_publisher": "Portal Cultura de Fundación Pablo Neruda", "publication_date": "2022-01-01", "source_tier_candidate": "reputable_secondary", "support_excerpt": "O de beber en su juventud de sombrero y alón leche fresca", "locator": "Párrafo inicial; no hay aparato de fuentes visible.", "accessed_at": "2026-07-21" }] }],
+      "verification_notes": ["Marcar myth_risk: la fuente presenta la anécdota sin origen identificable.", "Buscar un testimonio, memoria, carta o biografía con referencia que sitúe la escena de Maruri.", "No llamarla bebida favorita ni presentarla como alternativa histórica al whisky."],
+      "status": "candidate_generated"
+    }
+  ],
+  "queries_used": ["site:memoriachilena.gob.cl Pablo Neruda Oda al vino", "site:uchile.cl Pablo Neruda Oda al vino", "site:fundacionneruda.org Pablo Neruda vino whisky", "Pablo Neruda Confieso que he vivido whisky vino texto", "site:neruda.uchile.cl/obra Oda al vino Pablo Neruda", "site:neruda.uchile.cl whisky Pablo Neruda", "site:memoriachilena.gob.cl Confieso que he vivido vino Neruda", "site:fundacionneruda.org whisky Neruda preferencia", "En todos los países me preocuparon los derroteros del vino", "Pablo Neruda whisky Confieso que he vivido", "Pablo Neruda leche fresca Maruri", "Pablo Neruda vino Confieso que he vivido Neruda"],
+  "unresolved_questions": ["¿Qué edición autorizada de Odas elementales permitirá fijar un localizador bibliográfico estable para «Oda al vino»?", "¿Qué carta, entrevista, testimonio o archivo respalda la preferencia por whisky atribuida por la Fundación Pablo Neruda?", "¿Cuál es el origen documental de la anécdota de la leche fresca en Maruri?", "¿Qué edición autorizada de Confieso que he vivido confirma el pasaje de los vinos franceses y su número de página?", "¿Hay evidencia independiente de que Neruda consumiera whisky, en vez de una asociación cultural repetida por casas-museo?"],
+  "stop_reason": "Se completaron cuatro rondas de búsqueda. Se conservan cuatro candidatos sin aprobación ni publicación: una aparición textual de vino de alta confianza, una atribución institucional de whisky que requiere fuente primaria, un pasaje de memorias localizado sólo en una copia no verificable y una anécdota no alcohólica marcada con riesgo de mito."
+}

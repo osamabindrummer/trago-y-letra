@@ -1,0 +1,47 @@
+{
+  "name": "trago-y-letra",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate:content && npm run build:content && vite build",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "validate:research": "tsx scripts/validate-research.ts",
+    "build:content": "tsx scripts/build-content.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "npm run build:content && playwright test",
+    "lint": "eslint .",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "ajv": "latest",
+    "ajv-formats": "latest",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "latest",
+    "@playwright/test": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@types/node": "latest",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.0.2",
+    "eslint": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest",
+    "globals": "latest",
+    "jsdom": "latest",
+    "tsx": "latest",
+    "typescript": "5.9.3",
+    "typescript-eslint": "latest",
+    "vite": "8.0.13",
+    "vitest": "latest"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}

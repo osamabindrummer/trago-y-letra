@@ -1,0 +1,136 @@
+{
+  "author_id": "stephen-king",
+  "run": {
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "low",
+    "executed_at": "2026-07-21T04:30:05Z",
+    "search_rounds": 4
+  },
+  "candidates": [
+    {
+      "drink_name_candidate": "Martini",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "The Shining",
+      "claim_candidate": "En \"The Shining\", Jack Torrance imagina martinis servidos en el Colorado Lounge del Overlook Hotel.",
+      "why_it_matters": "La bebida se vincula con un personaje y una escena de recaída imaginada, no con una preferencia de Stephen King. Por su contexto de dependencia y violencia, no debe tratarse como un maridaje celebratorio.",
+      "confidence_candidate": "medium",
+      "sources": [
+        {
+          "url": "https://catalog.coloradocollege.edu/cgi-bin/koha/opac-detail.pl?biblionumber=421478&query_desc=an%3A405288",
+          "title": "The shining",
+          "author_or_publisher": "Stephen King / Doubleday; catálogo de Colorado College Libraries",
+          "publication_date": "1977-01-01",
+          "source_tier_candidate": "primary",
+          "support_excerpt": "",
+          "locator": "Edición original de 1977 identificada por el catálogo; confirmar capítulo, página y redacción en un ejemplar autorizado.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/2600/calhan/2959035/Stephen-King-The-Shining.pdf",
+          "title": "The Shining",
+          "author_or_publisher": "Copia alojada por Calhan School District; procedencia editorial no verificada",
+          "publication_date": null,
+          "source_tier_candidate": "discovery_only",
+          "support_excerpt": "Jack contemplated the twenty imaginary drinks, the martini glasses blushing droplets of condensation.",
+          "locator": "Sección \"The Colorado Lounge\" en la copia consultada; no usar como edición de referencia.",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [
+        {
+          "claim": "La escena pertenece a Jack Torrance y no prueba consumo, preferencia ni receta atribuible a Stephen King.",
+          "sources": [
+            {
+              "url": "https://catalog.coloradocollege.edu/cgi-bin/koha/opac-detail.pl?biblionumber=421478&query_desc=an%3A405288",
+              "title": "The shining",
+              "author_or_publisher": "Stephen King / Doubleday; catálogo de Colorado College Libraries",
+              "publication_date": "1977-01-01",
+              "source_tier_candidate": "primary",
+              "support_excerpt": "",
+              "locator": "La fuente identifica la novela; el pasaje requiere cotejo en una edición autorizada.",
+              "accessed_at": "2026-07-21"
+            }
+          ]
+        }
+      ],
+      "verification_notes": [
+        "Cotejar el pasaje en una edición autorizada de The Shining y registrar capítulo, página e ISBN de esa edición antes de cualquier promoción.",
+        "No presentar el martini como bebida de King ni como una receta histórica del Overlook Hotel.",
+        "Si se promoviera, revisar primero si una recomendación alcohólica basada en esta escena es editorialmente apropiada; la trama representa daño asociado a la dependencia."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Alcohol (abstinencia y recuperación)",
+      "relationship_type_candidate": "abstinence_or_recovery",
+      "work_candidate": "On Writing: A Memoir of the Craft",
+      "claim_candidate": "King declaró en una entrevista de 2000 que dejó las drogas y el alcohol; su sitio oficial presenta On Writing como una memoria cuya necesidad de escribir lo condujo hacia la recuperación.",
+      "why_it_matters": "El vínculo relevante es abstinencia y recuperación, no una bebida para celebrar. La evidencia no identifica una alternativa sin alcohol favorita ni autoriza diagnosticar o simplificar el proceso de King.",
+      "confidence_candidate": "medium",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/books/2000/sep/14/stephenking.fiction1",
+          "title": "Part two of the full Stephen King interview",
+          "author_or_publisher": "The Guardian; entrevista de Tim Adams a Stephen King",
+          "publication_date": "2000-09-14",
+          "source_tier_candidate": "reputable_secondary",
+          "support_excerpt": "When I gave up dope and alcohol ... eventually the writing came back.",
+          "locator": "Entrevista, respuesta de King posterior a la pregunta sobre 1987-1988.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://stephenking.com/works/nonfiction/on-writing-a-memoir-of-the-craft.html",
+          "title": "On Writing: A Memoir of the Craft",
+          "author_or_publisher": "StephenKing.com",
+          "publication_date": null,
+          "source_tier_candidate": "reputable_secondary",
+          "support_excerpt": "King's overwhelming need to write spurred him toward recovery.",
+          "locator": "Descripción de la obra, párrafo principal.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://www.simonandschuster.biz/books/On-Writing/Stephen-King/9781982159375",
+          "title": "On Writing: A Memoir of the Craft",
+          "author_or_publisher": "Scribner / Simon & Schuster",
+          "publication_date": "2020-06-02",
+          "source_tier_candidate": "reputable_secondary",
+          "support_excerpt": "the link between writing and living spurred his recovery",
+          "locator": "Descripción editorial de la edición de 2020.",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Leer On Writing en una edición autorizada antes de atribuir al libro una formulación específica sobre alcohol, sobriedad o fechas.",
+        "Mantener la cita de la entrevista como declaración de King, no como consejo médico ni modelo universal de recuperación.",
+        "Una futura bebida sin alcohol debe ser una decisión editorial explícita: estas fuentes no documentan una bebida concreta preferida por King."
+      ],
+      "status": "candidate_generated"
+    }
+  ],
+  "queries_used": [
+    "site:stephenking.com \"On Writing\" alcohol recovery",
+    "Stephen King interview sobriety alcohol recovery primary source",
+    "Stephen King The Shining novel \"gin\" \"bar\" text",
+    "Stephen King The Shining novel \"martini\" text",
+    "site:books.google.com \"The Shining\" \"Lloyd\" \"martini glasses\"",
+    "site:books.google.com Stephen King \"The Shining\" \"twenty imaginary drinks\"",
+    "site:archive.org \"The Shining\" Stephen King \"martini\"",
+    "Stephen King The Shining martini academic article page 1977",
+    "site:newyorker.com Stephen King \"On Writing\" recovery",
+    "site:theparisreview.org Stephen King alcohol recovery interview",
+    "site:penguinrandomhouse.com \"On Writing\" Stephen King recovery",
+    "site:news.harvard.edu Stephen King sobriety alcohol interview",
+    "Stephen King BBC HARDtalk 2020 alcohol addiction transcript",
+    "site:bbc.co.uk Stephen King \"I don't drink\" alcohol 32 years",
+    "site:stephenking.com interview alcohol sobriety",
+    "Stephen King \"On Writing\" 1987 alcohol sobriety publisher excerpt"
+  ],
+  "unresolved_questions": [
+    "¿Qué capítulo, página e ISBN de una edición autorizada de The Shining permiten verificar el pasaje del Colorado Lounge?",
+    "¿La edición autorizada de On Writing precisa cómo describe King su propia recuperación y evita una formulación demasiado amplia de las fuentes editoriales?",
+    "¿Es editorialmente apropiado conservar una recomendación alcohólica derivada de una escena de daño y dependencia, aun con alternativa sin alcohol?",
+    "¿Existe una bebida sin alcohol documentada en la vida o la obra de King que permita tratar recuperación sin inventar una preferencia?"
+  ],
+  "stop_reason": "Se completaron cuatro rondas de búsqueda. Se conservan dos candidatos sin aprobación ni publicación: una aparición narrativa de martini que exige cotejo en edición autorizada y un vínculo de abstinencia/recuperación sustentado por una entrevista directa y descripciones oficiales de On Writing. No se encontró evidencia suficiente para atribuir una bebida favorita a Stephen King."
+}

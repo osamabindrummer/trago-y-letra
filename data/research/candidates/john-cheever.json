@@ -1,0 +1,173 @@
+{
+  "author_id": "john-cheever",
+  "run": {
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "low",
+    "executed_at": "2026-07-21T04:27:15Z",
+    "search_rounds": 4
+  },
+  "candidates": [
+    {
+      "drink_name_candidate": "Gin tonic",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "The Swimmer",
+      "claim_candidate": "En \"The Swimmer\", un barman entrega a Neddy Merrill un gin tonic durante su recorrido por piscinas vecinas.",
+      "why_it_matters": "La bebida, el personaje y la escena están explícitos en el cuento. El texto también sitúa el trago dentro de una progresión de consumo; no permite atribuir este hábito a Cheever.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://www.loa.org/images/pdf/Cheever_Swimmer.pdf",
+          "title": "The Swimmer",
+          "author_or_publisher": "John Cheever / Library of America",
+          "publication_date": null,
+          "source_tier_candidate": "primary",
+          "support_excerpt": "A smiling bartender ... gave him a gin and tonic.",
+          "locator": "p. 728 de la edición PDF; inicio del recorrido de Neddy Merrill.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://www.newyorker.com/magazine/1964/07/18/the-swimmer",
+          "title": "The Swimmer",
+          "author_or_publisher": "John Cheever / The New Yorker",
+          "publication_date": "1964-07-18",
+          "source_tier_candidate": "primary",
+          "support_excerpt": "It was his fourth or fifth drink.",
+          "locator": "Párrafo posterior a la piscina de los Levy.",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Confirmar la edición que se citaría en la ficha antes de conservar la paginación de Library of America.",
+        "No describir el gin tonic como bebida de Cheever: esta evidencia corresponde a Neddy Merrill.",
+        "Una eventual promoción debe contextualizar el consumo problemático del personaje con lenguaje sobrio."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Gin",
+      "relationship_type_candidate": "appears_in_work",
+      "work_candidate": "The Sorrows of Gin",
+      "claim_candidate": "En \"The Sorrows of Gin\", la narración asocia el gin con consumo dañino y conflictos domésticos de varios personajes.",
+      "why_it_matters": "Es una relación textual directa, pero negativa: el cuento no convierte el gin en un maridaje celebratorio ni demuestra una preferencia de Cheever.",
+      "confidence_candidate": "high",
+      "sources": [
+        {
+          "url": "https://www.newyorker.com/magazine/1953/12/12/the-sorrows-of-gin",
+          "title": "The Sorrows of Gin",
+          "author_or_publisher": "John Cheever / The New Yorker",
+          "publication_date": "1953-12-12",
+          "source_tier_candidate": "primary",
+          "support_excerpt": "She’d take a little gin for her nervousness, then a little for her tiredness.",
+          "locator": "Pasaje de la conversación entre Mrs. Henlein y Amy Lawton.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://www.newyorker.com/magazine/2002/08/19/dry-martini",
+          "title": "Dry Martini",
+          "author_or_publisher": "John Lahr / The New Yorker",
+          "publication_date": "2002-08-19",
+          "source_tier_candidate": "reputable_secondary",
+          "support_excerpt": "how rarely the Martini is mentioned, and how often it’s just called gin.",
+          "locator": "Párrafo sobre los cuentos de Cheever y el martini.",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [
+        {
+          "claim": "El título y la presencia de gin en el cuento no demuestran que Cheever consumiera o prefiriera gin.",
+          "sources": [
+            {
+              "url": "https://www.newyorker.com/magazine/1953/12/12/the-sorrows-of-gin",
+              "title": "The Sorrows of Gin",
+              "author_or_publisher": "John Cheever / The New Yorker",
+              "publication_date": "1953-12-12",
+              "source_tier_candidate": "primary",
+              "support_excerpt": "the filthy stuff",
+              "locator": "Juicio de Mrs. Henlein sobre la botella de gin del padre de Amy.",
+              "accessed_at": "2026-07-21"
+            }
+          ]
+        }
+      ],
+      "verification_notes": [
+        "No promover como recomendación alcohólica sin una decisión editorial explícita sobre la pertinencia de una escena de consumo dañino.",
+        "No atribuir el gin a Cheever ni a un único personaje: el cuento presenta distintos consumos y daños.",
+        "Conservar el candidato por trazabilidad aunque pueda terminar rechazado por tratamiento editorial."
+      ],
+      "status": "candidate_generated"
+    },
+    {
+      "drink_name_candidate": "Alcohol (abstinencia)",
+      "relationship_type_candidate": "abstinence_or_recovery",
+      "work_candidate": "The Journals of John Cheever",
+      "claim_candidate": "Fuentes sobre los diarios, entrevistas y biografía de Cheever sitúan un tratamiento en 1975 y una sobriedad posterior; no identifican una bebida para recomendar.",
+      "why_it_matters": "La relación relevante es recuperación, no consumo. Puede justificar una futura alternativa sin alcohol, pero no una receta ni una celebración de la dependencia.",
+      "confidence_candidate": "medium",
+      "sources": [
+        {
+          "url": "https://www.newsweek.com/story-he-told-himself-204818",
+          "title": "The Story He Told Himself",
+          "author_or_publisher": "Newsweek",
+          "publication_date": null,
+          "source_tier_candidate": "reputable_secondary",
+          "support_excerpt": "Before finding Alcoholics Anonymous in 1975-he never drank again.",
+          "locator": "Párrafo que resume los diarios y la recuperación de 1975.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://us.macmillan.com/books/9780374601003/whenallthemenworehats/",
+          "title": "When All the Men Wore Hats",
+          "author_or_publisher": "Susan Cheever / Farrar, Straus and Giroux",
+          "publication_date": null,
+          "source_tier_candidate": "reputable_secondary",
+          "support_excerpt": "My father had gotten sober in 1975.",
+          "locator": "Extracto del libro, párrafos sobre Smithers y Alcoholics Anonymous.",
+          "accessed_at": "2026-07-21"
+        },
+        {
+          "url": "https://www.ubcpress.ca/conversations-with-john-cheever",
+          "title": "Conversations with John Cheever",
+          "author_or_publisher": "Scott Donaldson / University of British Columbia Press",
+          "publication_date": null,
+          "source_tier_candidate": "scholarly",
+          "support_excerpt": "A remarkable change occurred ... when he stopped drinking.",
+          "locator": "Descripción editorial, párrafo sobre la primavera de 1975.",
+          "accessed_at": "2026-07-21"
+        }
+      ],
+      "contradicting_evidence": [],
+      "verification_notes": [
+        "Consultar The Journals of John Cheever y la biografía de Scott Donaldson para fijar entradas, fechas y contexto antes de promover.",
+        "La evidencia no autoriza diagnosticar clínicamente a Cheever ni asignar causalidad simple entre sobriedad y calidad literaria.",
+        "Si se promueve, usar una bebida sin alcohol genuina y explicar que es una decisión editorial; no existe una bebida histórica específica en estas fuentes."
+      ],
+      "status": "candidate_generated"
+    }
+  ],
+  "queries_used": [
+    "John Cheever journals drinking sobriety recovery source",
+    "John Cheever journals alcohol drinking 1975 rehabilitation source",
+    "John Cheever The Swimmer text gin drinks full text",
+    "John Cheever story cocktail highball text",
+    "site:newyorker.com The Sorrows of Gin John Cheever",
+    "site:loa.org John Cheever The Sorrows of Gin gin",
+    "John Cheever journals sober 1975 primary interview quote",
+    "John Cheever Smithers rehabilitation source obituary",
+    "John Cheever The Swimmer gin and tonic Library of America",
+    "John Cheever The Swimmer fourth or fifth drink New Yorker",
+    "John Cheever The Journals alcohol clinic 1975 review",
+    "John Cheever recovery 1975 biography university press",
+    "John Cheever gin journals quote cocktails",
+    "John Cheever recovery Falconer sobriety source",
+    "John Cheever alcohol abstinence 1975 Susan Cheever source",
+    "John Cheever drinking myth favorite drink gin"
+  ],
+  "unresolved_questions": [
+    "¿Qué entradas y páginas de The Journals of John Cheever permiten documentar directamente el periodo de consumo y recuperación sin depender de reseñas?",
+    "¿Qué biografía con aparato de fuentes confirma la cronología de Smithers, Alcoholics Anonymous y la sobriedad posterior?",
+    "¿Es editorialmente apropiado promover alguno de los cuentos centrados en consumo dañino, aun con una alternativa sin alcohol?",
+    "¿Existe una bebida sin alcohol documentada en la vida u obra de Cheever que permita una recomendación de recuperación más concreta?"
+  ],
+  "stop_reason": "Se completaron cuatro rondas de búsqueda. Se conservan tres candidatos: dos apariciones narrativas directas y un vínculo de recuperación. No se encontró evidencia suficiente para atribuir una bebida favorita a Cheever; las asociaciones de consumo se mantienen separadas de la sobriedad y sin aprobación."
+}
