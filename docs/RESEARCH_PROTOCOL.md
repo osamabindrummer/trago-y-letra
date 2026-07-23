@@ -320,9 +320,9 @@ Toda decisión debe tener una nota breve. Los descartes se conservan para evitar
 
 Sólo después de aprobar la evidencia:
 
-1. Redactar reseña del autor en 50–90 palabras.
+1. Redactar la reseña del autor en una o dos frases breves.
 2. Elegir dos obras representativas.
-3. Redactar explicación del vínculo en 40–100 palabras.
+3. Redactar la explicación del vínculo en una o dos frases breves.
 4. Evitar diagnósticos, eufemismos y celebración de conductas dañinas.
 5. Nombrar contradicciones relevantes de manera concisa.
 6. Preparar o vincular una receta normalizada.

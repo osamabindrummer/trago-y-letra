@@ -19,3 +19,10 @@ test('la interfaz funciona con teclado y respeta movimiento reducido', async ({ 
   await page.keyboard.press('Enter')
   await expect(page.getByRole('heading', { name: 'Julio Cortázar' })).toBeVisible()
 })
+
+test('el acceso rápido Poe abre la ficha correcta', async ({ page }) => {
+  await page.goto('/')
+  await page.getByRole('button', { name: 'Poe', exact: true }).click()
+  await expect(page.getByRole('heading', { name: 'Edgar Allan Poe' })).toBeVisible()
+  await expect(page.getByRole('heading', { name: 'Charles Bukowski' })).toHaveCount(0)
+})

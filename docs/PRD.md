@@ -130,11 +130,11 @@ Cada ficha mostrará:
 - nombre canónico;
 - país o tradición literaria;
 - años de nacimiento y muerte cuando corresponda;
-- reseña original de 50 a 90 palabras conservada en la base editorial y disponible sólo en un detalle ampliado, no en la tarjeta principal;
+- reseña original breve, de una o dos frases, conservada en la base editorial y disponible sólo en un detalle ampliado, no en la tarjeta principal;
 - dos obras recomendadas, sin sinopsis extensas;
 - bebida principal;
 - tipo de vínculo visible;
-- explicación original de 40 a 100 palabras;
+- explicación original breve, de una o dos frases;
 - nivel de confianza disponible en los datos y en el detalle ampliado, sin competir con la recomendación principal;
 - enlace o referencia bibliográfica de respaldo;
 - receta;

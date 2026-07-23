@@ -10,6 +10,13 @@ Webapp estática en español para descubrir una bebida vinculada con un autor o 
 
 ## Inicio rápido
 
+En macOS, puedes abrir `abrir.command` con doble clic. El launcher prepara las
+dependencias cuando hace falta, actualiza el catálogo, levanta el servidor local
+y abre la página en el navegador. Mantén su ventana de Terminal abierta mientras
+usas el sitio.
+
+También puedes iniciar el proyecto manualmente:
+
 ```bash
 npm install
 npm run dev

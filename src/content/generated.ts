@@ -14,7 +14,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1893,
       "death_year": 1967,
-      "bio_es": "Escritora estadounidense vinculada con el cuento, la crítica y la poesía. La ficha toma una escena de Big Blonde y mantiene su contexto doloroso: una bebida de un personaje no es una invitación a romantizar el consumo ni una afirmación sobre Parker.",
+      "bio_es": "Escritora estadounidense vinculada con el cuento, la crítica y la poesía. Su mirada aguda encuentra humor, incomodidad y melancolía en los gestos cotidianos.",
       "featured_works": [
         "big-blonde",
         "dorothy-parker-poems"
@@ -50,8 +50,8 @@ export const content: PublicCatalog = {
           "work_id": "big-blonde",
           "drink_id": "scotch",
           "relationship_type": "appears_in_work",
-          "headline_es": "Una escena que no pide celebración",
-          "explanation_es": "En Big Blonde, Hazel Morse decide que el whisky escocés es la bebida que mejor tolera. La escena está atravesada por su malestar; la ficha la presenta como una aparición narrativa, no como un gesto simpático ni una preferencia atribuida a Dorothy Parker.",
+          "headline_es": "Whisky escocés para Hazel Morse",
+          "explanation_es": "En Big Blonde, Hazel Morse decide que el whisky escocés es la bebida que mejor tolera. Una elección que acompaña el malestar de la protagonista.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-parker-scotch"
@@ -120,7 +120,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1920,
       "death_year": 1994,
-      "bio_es": "Poeta y narrador estadounidense. Esta ficha se limita a una escena de un poema publicado: el hablante toma cerveza. No usa esa voz poética para diagnosticar al autor ni para convertir el alcohol en una promesa de creatividad.",
+      "bio_es": "Poeta y narrador estadounidense de voz directa y áspera. Sus textos recorren habitaciones, trabajos, visitas y personajes al margen de las buenas maneras.",
       "featured_works": [
         "i-am-visited-by-an-editor-and-a-poet",
         "post-office"
@@ -156,8 +156,8 @@ export const content: PublicCatalog = {
           "work_id": "i-am-visited-by-an-editor-and-a-poet",
           "drink_id": "cerveza",
           "relationship_type": "appears_in_work",
-          "headline_es": "Tres cervezas en una voz poética",
-          "explanation_es": "En el poema I Am Visited by an Editor and a Poet, la voz cuenta que bebe cerveza durante una visita. La asociación queda en el poema y su hablante: no convierte la bebida en emblema de Bukowski ni relaciona alcohol y creatividad como una regla.",
+          "headline_es": "Tres cervezas y una visita",
+          "explanation_es": "En el poema I Am Visited by an Editor and a Poet, la voz bebe tres cervezas durante la visita de un editor y un poeta.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bukowski-cerveza"
@@ -225,7 +225,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1922,
       "death_year": 1969,
-      "bio_es": "Novelista y poeta estadounidense asociado a la generación beat. La recomendación está anclada a una escena de On the Road donde dos personajes salen por cerveza. No afirma que la bebida defina a Kerouac ni convierte una escena de ficción en una biografía.",
+      "bio_es": "Novelista y poeta estadounidense asociado a la generación beat. Sus páginas avanzan al ritmo de viajes, conversaciones, amistades y una búsqueda constante de movimiento.",
       "featured_works": [
         "on-the-road",
         "big-sur"
@@ -261,8 +261,8 @@ export const content: PublicCatalog = {
           "work_id": "on-the-road",
           "drink_id": "cerveza",
           "relationship_type": "appears_in_work",
-          "headline_es": "Una conversación fuera de casa",
-          "explanation_es": "En On the Road, Sal Paradise y Dean Moriarty salen a tomar cerveza para conversar. Es una aparición de la bebida en una escena de personajes y no un atajo para describir a Kerouac o sus costumbres personales.",
+          "headline_es": "Cerveza para conversar",
+          "explanation_es": "En On the Road, Sal Paradise y Dean Moriarty salen a tomar cerveza para conversar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-cerveza"
@@ -330,7 +330,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1896,
       "death_year": 1940,
-      "bio_es": "Novelista estadounidense cuya obra retrata el brillo y la tensión social de los años veinte. Esta ficha se concentra en una escena de The Great Gatsby donde varios personajes reciben gin rickeys; no utiliza esa escena como prueba de una preferencia personal del autor.",
+      "bio_es": "Novelista estadounidense cuya obra retrata el brillo y la tensión social de los años veinte. Bajo sus fiestas elegantes suelen asomar deseos, rivalidades y promesas difíciles de cumplir.",
       "featured_works": [
         "the-great-gatsby",
         "tender-is-the-night"
@@ -366,8 +366,8 @@ export const content: PublicCatalog = {
           "work_id": "the-great-gatsby",
           "drink_id": "gin-rickey",
           "relationship_type": "appears_in_work",
-          "headline_es": "Cuatro vasos con hielo antes de la confrontación",
-          "explanation_es": "En el capítulo 7 de The Great Gatsby, Tom Buchanan vuelve con cuatro gin rickeys para Gatsby, Nick, Daisy y Jordan. La bebida acompaña una escena de tensión en la casa Buchanan. Es una presencia narrativa precisa, no una prueba de que Fitzgerald la bebiera o la prefiriera.",
+          "headline_es": "Cuatro gin rickeys antes de la tensión",
+          "explanation_es": "En el capítulo 7 de The Great Gatsby, Tom Buchanan vuelve con cuatro gin rickeys para Gatsby, Nick, Daisy y Jordan. La bebida les acompaña en una escena de tensión en la casa Buchanan.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-fitzgerald-gin-rickey"
@@ -446,7 +446,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1897,
       "death_year": 1962,
-      "bio_es": "Novelista estadounidense de narrativa experimental, conocido por el territorio ficticio de Yoknapatawpha. La relación publicada procede de una escena de The Sound and the Fury donde un personaje propone un toddy. No se presenta como indicio de una bebida preferida por Faulkner.",
+      "bio_es": "Novelista estadounidense de narrativa experimental, conocido por el territorio ficticio de Yoknapatawpha. Sus historias cruzan familias, memoria y tiempo con voces que exigen una lectura atenta.",
       "featured_works": [
         "the-sound-and-the-fury",
         "as-i-lay-dying"
@@ -482,8 +482,8 @@ export const content: PublicCatalog = {
           "work_id": "the-sound-and-the-fury",
           "drink_id": "hot-toddy",
           "relationship_type": "appears_in_work",
-          "headline_es": "Una oferta de cuidado en una escena doméstica",
-          "explanation_es": "En The Sound and the Fury, el tío Maury propone preparar un toddy a Caroline Compson cuando está inquieta. La ficha se limita a esa aparición textual y al personaje que la formula. No presenta el toddy como bebida de Faulkner ni convierte la escena en una receta histórica.",
+          "headline_es": "Un toddy para Caroline Compson",
+          "explanation_es": "En The Sound and the Fury, el tío Maury propone preparar un toddy a Caroline Compson para calmar su inquietud.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-faulkner-toddy"
@@ -567,7 +567,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1894,
       "death_year": 1961,
-      "bio_es": "Escritor estadounidense de novela policial y creador de Sam Spade. La recomendación se apoya en una acción concreta de Spade en The Maltese Falcon: el personaje toma un Manhattan. No traslada esa escena a los hábitos de Hammett ni a una receta atribuida al autor.",
+      "bio_es": "Escritor estadounidense de novela policial y creador de Sam Spade. Sus detectives se mueven entre oficinas, engaños y conversaciones donde cada detalle puede cambiar el caso.",
       "featured_works": [
         "the-maltese-falcon",
         "the-thin-man"
@@ -603,8 +603,8 @@ export const content: PublicCatalog = {
           "work_id": "the-maltese-falcon",
           "drink_id": "manhattan",
           "relationship_type": "appears_in_work",
-          "headline_es": "El Manhattan de Sam Spade en el escritorio",
-          "explanation_es": "En The Maltese Falcon, Sam Spade saca un Manhattan embotellado y un vaso de papel del cajón de su escritorio después de una reunión con Joel Cairo. La recomendación identifica esa acción del personaje, sin trasladar el trago a la vida o las preferencias de Dashiell Hammett.",
+          "headline_es": "El Manhattan del escritorio de Sam Spade",
+          "explanation_es": "En The Maltese Falcon, Sam Spade saca del cajón de su escritorio un Manhattan embotellado y un vaso de papel después de reunirse con Joel Cairo.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-hammett-manhattan"
@@ -681,7 +681,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1888,
       "death_year": 1959,
-      "bio_es": "Novelista estadounidense asociado a la ficción policial de Los Ángeles y al detective Philip Marlowe. Esta ficha usa una bebida descrita por sus personajes en The Long Goodbye: no convierte ese diálogo de ficción en una afirmación sobre los hábitos ni las preferencias personales de Chandler.",
+      "bio_es": "Novelista estadounidense asociado a la ficción policial de Los Ángeles y al detective Philip Marlowe. Sus diálogos afilados recorren una ciudad de lealtades dudosas y despedidas largas.",
       "featured_works": [
         "the-long-goodbye",
         "the-big-sleep"
@@ -717,8 +717,8 @@ export const content: PublicCatalog = {
           "work_id": "the-long-goodbye",
           "drink_id": "gimlet",
           "relationship_type": "appears_in_work",
-          "headline_es": "Un diálogo de Marlowe y Lennox en Victor's",
-          "explanation_es": "En The Long Goodbye, Philip Marlowe y Terry Lennox beben gimlets en el bar Victor's. Lennox describe su propia proporción de ginebra y cordial de lima. La recomendación procede de ese encuentro narrativo: no afirma que Chandler bebiera gimlets ni que fueran su trago favorito.",
+          "headline_es": "Gimlets en el bar Victor's",
+          "explanation_es": "En The Long Goodbye, Philip Marlowe y Terry Lennox beben gimlets en el bar Victor's. Entre copa y copa, Lennox explica su proporción de ginebra y cordial de lima.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-chandler-gimlet"
@@ -792,7 +792,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1899,
       "death_year": 1961,
-      "bio_es": "Escritor estadounidense cuya prosa depurada marcó buena parte de la narrativa del siglo XX. En esta ficha, la bebida no se atribuye a sus hábitos: se vincula con una escena concreta de su novela The Sun Also Rises y se identifica al narrador que bebe.",
+      "bio_es": "Escritor estadounidense cuya prosa depurada marcó buena parte de la narrativa del siglo XX. Sus personajes viajan, observan y callan tanto como dicen.",
       "featured_works": [
         "the-sun-also-rises",
         "a-moveable-feast"
@@ -830,8 +830,8 @@ export const content: PublicCatalog = {
           "work_id": "the-sun-also-rises",
           "drink_id": "absenta-con-agua",
           "relationship_type": "appears_in_work",
-          "headline_es": "Una escena amarga en la última noche de la fiesta",
-          "explanation_es": "En The Sun Also Rises, el narrador Jake Barnes bebe absenta sin azúcar mientras observa la última noche de la fiesta de Pamplona. La asociación se limita a esa escena y a ese personaje: no afirma que Hemingway la prefiriera ni la convirtiera en una costumbre propia.",
+          "headline_es": "Absenta en la última noche de fiesta",
+          "explanation_es": "En The Sun Also Rises, Jake Barnes bebe absenta sin azúcar mientras observa la última noche de la fiesta de Pamplona.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-hemingway-absenta"
@@ -905,7 +905,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1809,
       "death_year": 1849,
-      "bio_es": "Poeta, narrador y crítico estadounidense, figura decisiva del cuento moderno. La ficha deja fuera leyendas sobre su vida y se centra en el amontillado que mueve la trama de un relato: una aparición textual, no una bebida atribuida a Poe.",
+      "bio_es": "Poeta, narrador y crítico estadounidense, figura decisiva del cuento moderno. Sus relatos convierten habitaciones, secretos y obsesiones en mecanismos de suspense inolvidables.",
       "featured_works": [
         "the-cask-of-amontillado",
         "the-fall-of-the-house-of-usher"
@@ -941,8 +941,8 @@ export const content: PublicCatalog = {
           "work_id": "the-cask-of-amontillado",
           "drink_id": "amontillado",
           "relationship_type": "appears_in_work",
-          "headline_es": "El vino que hace avanzar el relato",
-          "explanation_es": "En The Cask of Amontillado, Montresor atrae a Fortunato a las catacumbas con una supuesta pipa de amontillado. La bebida está en el centro de la trama y de su engaño. La ficha se limita al relato: no respalda ninguna leyenda sobre qué bebía Poe.",
+          "headline_es": "El amontillado de la trampa",
+          "explanation_es": "En The Cask of Amontillado, Montresor atrae a Fortunato a las catacumbas con una supuesta pipa de amontillado. La bebida será partícipe de la trama y de su engaño.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-poe-amontillado"
@@ -1011,7 +1011,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1888,
       "death_year": 1953,
-      "bio_es": "Dramaturgo estadounidense y premio Nobel. La recomendación procede de la utilería y los diálogos de The Iceman Cometh; la obra aborda daño, abstinencia y autoengaño, por lo que la ficha no presenta el alcohol como evasión ni como atributo admirable.",
+      "bio_es": "Dramaturgo estadounidense y premio Nobel. Sus obras reúnen familias, amistades y viejas promesas en escenas donde el autoengaño tarde o temprano pierde terreno.",
       "featured_works": [
         "the-iceman-cometh",
         "long-days-journey-into-night"
@@ -1047,8 +1047,8 @@ export const content: PublicCatalog = {
           "work_id": "the-iceman-cometh",
           "drink_id": "scotch",
           "relationship_type": "appears_in_work",
-          "headline_es": "Una botella que Hickey deja intacta",
-          "explanation_es": "En The Iceman Cometh, Rocky lleva a Hickey una botella de whiskey, vaso y chaser. Hickey explica que ha dejado de beber, mientras el entorno insiste en la antigua rutina. La recomendación describe esa tensión dramática y no trata el alcohol como una salida ni como un adorno bohemio.",
+          "headline_es": "La botella intacta de Hickey",
+          "explanation_es": "En The Iceman Cometh, Rocky lleva a Hickey una botella de whiskey, un vaso y un chaser. Hickey la deja intacta mientras los demás insisten en su antigua rutina.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-oneill-whiskey"
@@ -1117,7 +1117,7 @@ export const content: PublicCatalog = {
       "country": "Cuba",
       "birth_year": 1929,
       "death_year": 2005,
-      "bio_es": "Narrador y crítico cubano, autor de una prosa marcada por La Habana, el cine y el juego verbal. La ficha usa una anécdota periodística verificable sobre agua durante su discurso del Premio Cervantes; no infiere una bebida alcohólica ni un hábito del autor.",
+      "bio_es": "Narrador y crítico cubano, autor de una prosa marcada por La Habana, el cine y el juego verbal. En sus páginas, el idioma también baila, bromea y cambia de ritmo.",
       "featured_works": [
         "tres-tristes-tigres",
         "la-habana-para-un-infante-difunto"
@@ -1152,8 +1152,8 @@ export const content: PublicCatalog = {
           "author_id": "guillermo-cabrera-infante",
           "drink_id": "agua-mineral",
           "relationship_type": "author_documented",
-          "headline_es": "Agua durante el discurso del Cervantes",
-          "explanation_es": "Según una crónica de El País sobre la entrega del Premio Cervantes de 1998, Miriam Gómez llevó agua para que Guillermo Cabrera Infante pudiera beber continuamente durante el acto. La ficha no deduce una preferencia general ni convierte la escena en una anécdota alcohólica.",
+          "headline_es": "Agua para el discurso del Cervantes",
+          "explanation_es": "Durante la entrega del Premio Cervantes de 1998, Miriam Gómez llevó agua para que Guillermo Cabrera Infante pudiera beber a lo largo de su discurso.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-cabrera-infante-agua"
@@ -1223,7 +1223,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1937,
       "death_year": 2005,
-      "bio_es": "Periodista y narrador estadounidense vinculado al gonzo. La recomendación identifica una mención narrativa de Fear and Loathing in Las Vegas y no la presenta como guía de consumo ni como declaración biográfica sobre Thompson.",
+      "bio_es": "Periodista y narrador estadounidense vinculado al gonzo. Su escritura mezcla reportaje, velocidad y una mirada feroz sobre el espectáculo político y cultural.",
       "featured_works": [
         "fear-and-loathing-in-las-vegas",
         "the-rum-diary"
@@ -1259,8 +1259,8 @@ export const content: PublicCatalog = {
           "work_id": "fear-and-loathing-in-las-vegas",
           "drink_id": "singapore-sling",
           "relationship_type": "appears_in_work",
-          "headline_es": "Una mención en el Polo Lounge",
-          "explanation_es": "Una fuente de historia de cócteles identifica la escena de Fear and Loathing in Las Vegas en que el grupo pasa horas en el Polo Lounge con Singapore Slings, mezcal aparte y cerveza. Se publica como referencia narrativa secundaria, no como consejo de consumo ni como hábito documentado de Thompson.",
+          "headline_es": "Singapore Slings en el Polo Lounge",
+          "explanation_es": "En Fear and Loathing in Las Vegas, el grupo pasa horas en el Polo Lounge entre Singapore Slings, mezcal y cerveza.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thompson-singapore-sling"
@@ -1344,7 +1344,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1912,
       "death_year": 1982,
-      "bio_es": "Cuentista y novelista estadounidense. La ficha toma un gin tonic de The Swimmer, donde el trayecto del personaje cambia de tono de forma inquietante. Se trata de una escena de ficción, no de una invitación a imitarla ni de una preferencia personal de Cheever.",
+      "bio_es": "Cuentista y novelista estadounidense. Sus barrios residenciales, piscinas y reuniones familiares suelen comenzar bajo una luz tranquila antes de revelar sus grietas.",
       "featured_works": [
         "the-swimmer",
         "the-sorrows-of-gin"
@@ -1380,8 +1380,8 @@ export const content: PublicCatalog = {
           "work_id": "the-swimmer",
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
-          "headline_es": "Un gin tonic al borde de la piscina",
-          "explanation_es": "En The Swimmer, un barman da a Neddy Merrill un gin tonic mientras continúa su recorrido entre piscinas. La bebida pertenece a una escena que se vuelve progresivamente incómoda; no se presenta como una preferencia de Cheever ni como una forma de evadir ese trasfondo.",
+          "headline_es": "Un gin tonic entre piscinas",
+          "explanation_es": "En The Swimmer, un barman da a Neddy Merrill un gin tonic mientras continúa su recorrido entre piscinas. La escena se volverá progresivamente más incómoda.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cheever-gin-tonic"
@@ -1456,7 +1456,7 @@ export const content: PublicCatalog = {
       "country": "Uruguay",
       "birth_year": 1909,
       "death_year": 1994,
-      "bio_es": "Narrador uruguayo y creador de Santa María. Un cuestionario publicado atribuye al propio Onetti un sueño de dicha que nombra whisky y novela policial; se conserva como respuesta textual, sin convertirla en una pauta ni en una idealización del consumo.",
+      "bio_es": "Narrador uruguayo y creador de Santa María. Sus personajes atraviesan ciudades grises, proyectos inciertos y derrotas que todavía conservan algo de imaginación.",
       "featured_works": [
         "el-astillero",
         "juntacadaveres"
@@ -1491,8 +1491,8 @@ export const content: PublicCatalog = {
           "author_id": "juan-carlos-onetti",
           "drink_id": "scotch",
           "relationship_type": "author_documented",
-          "headline_es": "Whisky y una novela policial aún por leer",
-          "explanation_es": "En un cuestionario Proust reproducido por El País, Onetti responde que su sueño de dicha era whisky y una buena novela policial que todavía no hubiera leído. La frase se conserva como una respuesta del autor, sin elevarla a receta, frecuencia ni invitación a beber.",
+          "headline_es": "Whisky y una novela policial por leer",
+          "explanation_es": "En un cuestionario Proust, Onetti responde que su sueño de dicha era whisky y una buena novela policial que todavía no hubiera leído.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-onetti-whisky"
@@ -1563,7 +1563,7 @@ export const content: PublicCatalog = {
       "country": "Argentina",
       "birth_year": 1914,
       "death_year": 1984,
-      "bio_es": "Narrador argentino cuya obra explora el juego, la música y las formas abiertas. Esta ficha prefiere café y mate presentes en Rayuela: una pausa compartida por personajes, sin convertir una escena literaria en información biográfica sobre Cortázar.",
+      "bio_es": "Narrador argentino cuya obra explora el juego, la música y las formas abiertas. Sus libros invitan a cambiar el orden, escuchar el ritmo y entrar por puertas inesperadas.",
       "featured_works": [
         "rayuela",
         "bestuario"
@@ -1599,8 +1599,8 @@ export const content: PublicCatalog = {
           "work_id": "rayuela",
           "drink_id": "cafe-con-mate",
           "relationship_type": "appears_in_work",
-          "headline_es": "Café y mate en la madrugada de Oliveira",
-          "explanation_es": "En el capítulo 3 de Rayuela, Oliveira y la Maga pasan la noche leyendo y escuchando discos; se levantan alternativamente para calentar café o cebar mate. La propuesta sirve ambas bebidas por separado y se limita a esa escena de personajes, no a una costumbre de Cortázar.",
+          "headline_es": "Café y mate en la madrugada",
+          "explanation_es": "En el capítulo 3 de Rayuela, Oliveira y la Maga pasan la noche leyendo y escuchando discos. Por turnos, se levantan a calentar café o cebar mate.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cortazar-cafe-mate"
@@ -1674,7 +1674,7 @@ export const content: PublicCatalog = {
       "country": "España",
       "birth_year": 1547,
       "death_year": 1616,
-      "bio_es": "Escritor español, autor de Don Quijote de la Mancha. La ficha se apoya en una escena donde Sancho Panza prueba e identifica un vino; la recomendación pertenece a ese pasaje y no afirma una preferencia del autor.",
+      "bio_es": "Escritor español y autor de Don Quijote de la Mancha. Sus páginas reúnen caminos, ventas, conversaciones y aventuras que todavía juegan con quien las lee.",
       "featured_works": [
         "don-quijote-segunda-parte",
         "novelas-ejemplares"
@@ -1710,8 +1710,8 @@ export const content: PublicCatalog = {
           "work_id": "don-quijote-segunda-parte",
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
-          "headline_es": "Sancho reconoce un vino de Ciudad Real",
-          "explanation_es": "En el capítulo XIII de la segunda parte de Don Quijote, Sancho bebe de una bota e identifica el vino como de Ciudad Real antes de explicar su habilidad para reconocer vinos. La recomendación corresponde al pasaje y a Sancho, no a una preferencia atribuida a Cervantes.",
+          "headline_es": "Sancho reconoce el vino",
+          "explanation_es": "En el capítulo XIII de la segunda parte de Don Quijote, Sancho bebe de una bota e identifica el vino como de Ciudad Real. Su talento para reconocer vinos hará el resto.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cervantes-vino"
@@ -1780,7 +1780,7 @@ export const content: PublicCatalog = {
       "country": "Chile",
       "birth_year": 1904,
       "death_year": 1973,
-      "bio_es": "Poeta chileno y premio Nobel. La ficha se basa en el vino como materia poética de Oda al vino y no en listas de bebidas favoritas. La receta contemporánea no pretende recrear un servicio histórico ni explicar la vida del autor.",
+      "bio_es": "Poeta chileno y premio Nobel. Su obra transforma objetos, paisajes, afectos y alimentos en materia poética capaz de hablarle tanto a una persona como a una multitud.",
       "featured_works": [
         "odas-elementales",
         "confieso-que-he-vivido"
@@ -1816,8 +1816,8 @@ export const content: PublicCatalog = {
           "work_id": "odas-elementales",
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
-          "headline_es": "El vino como materia de una oda",
-          "explanation_es": "En Oda al vino, el vino aparece como materia poética y conversación compartida. La ficha usa ese vínculo textual y evita repetir la atribución popular de una bebida favorita. La copa y el mosto son servicios contemporáneos, no reconstrucciones de una práctica del poeta.",
+          "headline_es": "El vino que inspira una oda",
+          "explanation_es": "En Oda al vino, el vino tinto aparece como materia poética y combustible para la conversación compartida.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-neruda-vino"
@@ -1886,7 +1886,7 @@ export const content: PublicCatalog = {
       "country": "España",
       "birth_year": 1866,
       "death_year": 1936,
-      "bio_es": "Dramaturgo y narrador español asociado al esperpento. La recomendación sigue una acotación de Luces de bohemia: Max Estrella y Don Latino comparten morapio. La escena pertenece a sus personajes y no asegura costumbres de Valle-Inclán.",
+      "bio_es": "Dramaturgo y narrador español asociado al esperpento. Sus personajes recorren tabernas, calles y salones donde la realidad se deforma hasta mostrar mejor sus absurdos.",
       "featured_works": [
         "luces-de-bohemia",
         "sonatas"
@@ -1923,7 +1923,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "Morapio en la taberna de Pica Lagartos",
-          "explanation_es": "En la escena III de Luces de bohemia, la acotación presenta a Máximo Estrella y Don Latino bebiendo sendos quinces de morapio. La receta propone vino contemporáneo y no afirma que Valle-Inclán lo bebiera ni pretende fijar qué producto histórico exacto era el morapio.",
+          "explanation_es": "En la escena III de Luces de bohemia, Máximo Estrella y Don Latino beben sendos quinces de morapio en la taberna de Pica Lagartos.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-valle-inclan-morapio"
@@ -1992,7 +1992,7 @@ export const content: PublicCatalog = {
       "country": "Estados Unidos",
       "birth_year": 1938,
       "death_year": 1988,
-      "bio_es": "Cuentista y poeta estadounidense de prosa contenida. La ficha usa la conversación alrededor de gin y tónica en What We Talk About When We Talk About Love, sin borrar sus tensiones ni hacer del alcohol una explicación de la escritura o de la vida de Carver.",
+      "bio_es": "Cuentista y poeta estadounidense de prosa contenida. Sus relatos reúnen conversaciones corrientes, silencios y pequeños gestos que cambian por completo el peso de una habitación.",
       "featured_works": [
         "what-we-talk-about-when-we-talk-about-love",
         "cathedral"
@@ -2028,8 +2028,8 @@ export const content: PublicCatalog = {
           "work_id": "what-we-talk-about-when-we-talk-about-love",
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
-          "headline_es": "Gin y tónica alrededor de la mesa",
-          "explanation_es": "Al inicio de What We Talk About When We Talk About Love, el gin y el agua tónica circulan por la mesa mientras cuatro personajes hablan de amor. La relación pertenece a la situación narrativa y no se usa para explicar la obra de Carver ni para idealizar un consumo que el cuento vuelve tenso.",
+          "headline_es": "Gin y tónica para hablar de amor",
+          "explanation_es": "Al inicio de What We Talk About When We Talk About Love, el gin y el agua tónica circulan por la mesa mientras cuatro personajes hablan de amor.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-carver-gin-tonic"
@@ -2103,7 +2103,7 @@ export const content: PublicCatalog = {
       ],
       "country": "Estados Unidos",
       "birth_year": 1947,
-      "bio_es": "Narrador estadounidense de terror y fantasía. King ha hablado públicamente de dejar alcohol y drogas; por eso esta ficha elige una alternativa sin alcohol y rotula el vínculo como abstinencia o recuperación, sin tratar esa experiencia como una anécdota pintoresca.",
+      "bio_es": "Narrador estadounidense de terror y fantasía. Sus historias encuentran puertas hacia lo inquietante en hoteles, pueblos, familias y objetos que parecían perfectamente comunes.",
       "featured_works": [
         "on-writing",
         "the-shining"
@@ -2139,8 +2139,8 @@ export const content: PublicCatalog = {
           "work_id": "on-writing",
           "drink_id": "tonica-citricos-cero",
           "relationship_type": "abstinence_or_recovery",
-          "headline_es": "Una alternativa sin alcohol, por recuperación",
-          "explanation_es": "En una entrevista de 2000, Stephen King cuenta que dejó las drogas y el alcohol y que la escritura volvió a sostenerse sin esa búsqueda de efecto. Por eso la ficha propone una tónica sin alcohol: no atribuye una bebida favorita ni transforma la recuperación en una estética de consumo.",
+          "headline_es": "Esta ronda va sin alcohol",
+          "explanation_es": "En una entrevista del año 2000, Stephen King cuenta que dejó las drogas y el alcohol y que la escritura volvió a sostenerse sin esa búsqueda de efecto. Nos quedamos sin alcohol.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-king-recuperacion"

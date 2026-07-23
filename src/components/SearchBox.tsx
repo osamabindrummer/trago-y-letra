@@ -8,7 +8,11 @@ interface Props {
   onRandom: () => void
 }
 
-const examples = ['Hemingway', 'Poe', 'Rayuela']
+const examples = [
+  { label: 'Hemingway', authorId: 'ernest-hemingway' },
+  { label: 'Poe', authorId: 'edgar-allan-poe' },
+  { label: 'Rayuela', authorId: 'julio-cortazar' },
+]
 
 export function SearchBox({ authors, onSelect, onRandom }: Props) {
   const inputId = useId()
@@ -24,12 +28,9 @@ export function SearchBox({ authors, onSelect, onRandom }: Props) {
     onSelect(author)
   }
 
-  const search = (value: string) => {
-    setQuery(value)
-    setActiveIndex(-1)
-    setShowResults(false)
-    const firstMatch = searchAuthors(authors, value)[0]
-    if (firstMatch) choose(firstMatch)
+  const chooseExample = (authorId: string) => {
+    const author = authors.find((candidate) => candidate.id === authorId)
+    if (author) choose(author)
   }
 
   const onChange = (event: ChangeEvent<HTMLInputElement>) => {
@@ -113,7 +114,9 @@ export function SearchBox({ authors, onSelect, onRandom }: Props) {
       <div className="quick-picks" aria-label="Búsquedas de ejemplo">
         <span>Prueba con</span>
         {examples.map((example) => (
-          <button type="button" key={example} onClick={() => search(example)}>{example}</button>
+          <button type="button" key={example.authorId} onClick={() => chooseExample(example.authorId)}>
+            {example.label}
+          </button>
         ))}
         <button type="button" onClick={onRandom}>Al azar</button>
       </div>
