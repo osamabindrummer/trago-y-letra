@@ -326,7 +326,7 @@ Sólo después de aprobar la evidencia:
 4. Evitar diagnósticos, eufemismos y celebración de conductas dañinas.
 5. Nombrar contradicciones relevantes de manera concisa.
 6. Preparar o vincular una receta normalizada.
-7. Preparar alternativa sin alcohol.
+7. Si la evidencia justifica una bebida sin alcohol, tratarla como recomendación principal; no generar una alternativa automática.
 
 ### Paso 7 — Promoción
 
@@ -421,7 +421,7 @@ No se debe forzar un maridaje para cumplir una cuota. Para mantener 20 autores e
 - [ ] Fragmentos breves y con localizador.
 - [ ] Reseña y explicación redactadas originalmente.
 - [ ] Receta normalizada, no copiada.
-- [ ] Alternativa sin alcohol disponible.
+- [ ] Una recomendación sin alcohol, cuando corresponda, está respaldada y posee receta propia.
 - [ ] Lenguaje sobrio ante dependencia o recuperación.
 - [ ] Esquema y reglas cruzadas aprobados.
 - [ ] Estado final y nota de decisión registrados.

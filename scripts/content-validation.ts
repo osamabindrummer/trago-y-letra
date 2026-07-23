@@ -38,8 +38,8 @@ export function validateCatalog(catalog: Catalog, schema: object): string[] {
   }
   for (const work of catalog.works) if (!authorIds.has(work.author_id)) errors.push(`work ${work.id}: author_id inexistente`)
   for (const drink of catalog.drinks) {
-    if (!drinkIds.has(drink.zero_proof_alternative_id)) errors.push(`drink ${drink.id}: alternativa sin alcohol inexistente`)
-    if (drink.alcoholic && !catalog.drinks.find((candidate) => candidate.id === drink.zero_proof_alternative_id && !candidate.alcoholic)) errors.push(`drink ${drink.id}: su alternativa debe ser sin alcohol`)
+    if (drink.zero_proof_alternative_id && !drinkIds.has(drink.zero_proof_alternative_id)) errors.push(`drink ${drink.id}: alternativa sin alcohol inexistente`)
+    if (drink.alcoholic && drink.zero_proof_alternative_id && !catalog.drinks.find((candidate) => candidate.id === drink.zero_proof_alternative_id && !candidate.alcoholic)) errors.push(`drink ${drink.id}: su alternativa debe ser sin alcohol`)
   }
   for (const recommendation of catalog.recommendations) validateRecommendation(recommendation, { authorIds, workIds, drinkIds, evidenceIds, works: new Map(catalog.works.map((work) => [work.id, work])) }, errors)
   for (const evidence of catalog.evidence) {

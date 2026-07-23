@@ -8,4 +8,8 @@ describe('búsqueda de autores', () => {
     expect(searchAuthors(content.authors, 'Cortazar')[0].canonical_name).toBe('Julio Cortázar')
     expect(searchAuthors(content.authors, 'Cortazr')[0].canonical_name).toBe('Julio Cortázar')
   })
+
+  it('encuentra un autor a partir del título de una obra', () => {
+    expect(searchAuthors(content.authors, 'Rayuela')[0].canonical_name).toBe('Julio Cortázar')
+  })
 })

@@ -26,4 +26,11 @@ describe('contratos editoriales', () => {
     mutable.recommendations[0].confidence = 'low'
     expect(validateCatalog(mutable, schema).join('\n')).toContain('confidence low no es publicable')
   })
+
+  it('acepta bebidas sin una alternativa automática', async () => {
+    const [catalog, schema] = await Promise.all([readJson('data/source/catalog.json'), readJson('data/schema/catalog.schema.json')])
+    const mutable = structuredClone(catalog as Catalog)
+    delete mutable.drinks.find((drink) => drink.alcoholic)?.zero_proof_alternative_id
+    expect(validateCatalog(mutable, schema)).toEqual([])
+  })
 })

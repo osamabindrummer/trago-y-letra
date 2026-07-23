@@ -1,8 +1,8 @@
 # PRD — Trago y Letra
 
 **Estado:** listo para implementación secuencial  
-**Versión:** 1.0  
-**Fecha:** 2026-07-20  
+**Versión:** 1.1
+**Fecha:** 2026-07-22
 **Nombre de trabajo:** Trago y Letra  
 **Documento complementario:** `docs/RESEARCH_PROTOCOL.md`
 
@@ -37,8 +37,7 @@ La oportunidad consiste en convertir ese material disperso en una experiencia:
 - inmediata y entretenida;
 - trazable hasta una fuente;
 - honesta respecto del grado de certeza;
-- ampliable autor por autor;
-- útil incluso para quien no consume alcohol, mediante una alternativa sin alcohol.
+- ampliable autor por autor.
 
 ## 3. Objetivo de la primera versión
 
@@ -55,7 +54,7 @@ Al finalizar este PRD debe existir un proyecto que:
 - muestre dos obras recomendadas por autor;
 - muestre al menos una bebida y la explicación de su vínculo;
 - muestre el tipo de vínculo, nivel de certeza y fuentes;
-- incluya receta y alternativa sin alcohol;
+- incluya una receta breve y comprensible;
 - funcione sin llamadas a modelos o servicios externos en tiempo de navegación;
 - incluya validaciones automáticas para impedir datos incompletos o no aprobados.
 
@@ -84,10 +83,9 @@ Lector adulto que busca una experiencia lúdica para acompañar una lectura, org
 2. Buscar una variante como “Fitzgerald”, “Scott Fitzgerald” o un nombre sin tilde.
 3. Abrir la explicación y comprender si la conexión viene de la vida, una obra o una decisión editorial.
 4. Consultar ingredientes y preparación.
-5. Elegir una alternativa sin alcohol.
-6. Pedir otra recomendación cuando exista más de una aprobada.
-7. Abrir la fuente para revisar el respaldo.
-8. Recibir sugerencias útiles cuando no haya coincidencia.
+5. Pedir otra recomendación cuando exista más de una aprobada.
+6. Abrir la fuente para revisar el respaldo.
+7. Recibir sugerencias útiles cuando no haya coincidencia.
 
 ## 6. Principios de producto y contenido
 
@@ -95,8 +93,8 @@ Lector adulto que busca una experiencia lúdica para acompañar una lectura, org
 2. **No inventar es más importante que completar.** Un autor sin evidencia queda pendiente o se sustituye antes de publicar.
 3. **Distinguir hecho de interpretación.** “Bebida documentada”, “Aparece en la obra” y “Maridaje editorial” deben verse diferentes.
 4. **No romantizar la dependencia.** Cuando exista adicción o recuperación, se describirá con sobriedad y sin convertirla en rasgo pintoresco.
-5. **Una receta no es una prescripción.** Se incluirá consumo responsable y alternativa sin alcohol.
-6. **Diseño contenido.** Una entrada, una respuesta clara y pocos controles.
+5. **Juego directo para personas adultas.** La interfaz entrega la combinación sin avisos paternalistas ni alternativas obligatorias ajenas al resultado editorial.
+6. **Diseño contenido.** El buscador domina el primer pantallazo; la respuesta se organiza en tres tarjetas y se evita todo preámbulo innecesario.
 7. **La base editorial es el activo canónico.** La interfaz consume los datos; no los corrige ni los completa.
 
 ## 7. Alcance funcional
@@ -108,9 +106,10 @@ La portada mostrará:
 - nombre de trabajo del producto;
 - pregunta “¿A quién lees?”;
 - campo de búsqueda con autocompletado;
-- una breve explicación del criterio documental;
-- acceso a un autor aleatorio;
-- aviso discreto para mayores de edad y consumo responsable.
+- una sola línea breve que sintetice el juego;
+- acceso a un autor aleatorio.
+
+El campo de búsqueda deberá ser el centro de atención del primer pantallazo. La portada utilizará una imagen atmosférica original de una cantina de los años cincuenta, con libros y coctelería, cuya procedencia quede registrada en el repositorio.
 
 ### RF-02 — Búsqueda
 
@@ -131,16 +130,17 @@ Cada ficha mostrará:
 - nombre canónico;
 - país o tradición literaria;
 - años de nacimiento y muerte cuando corresponda;
-- reseña original de 50 a 90 palabras;
+- reseña original de 50 a 90 palabras conservada en la base editorial y disponible sólo en un detalle ampliado, no en la tarjeta principal;
 - dos obras recomendadas, sin sinopsis extensas;
 - bebida principal;
 - tipo de vínculo visible;
 - explicación original de 40 a 100 palabras;
-- nivel de confianza;
+- nivel de confianza disponible en los datos y en el detalle ampliado, sin competir con la recomendación principal;
 - enlace o referencia bibliográfica de respaldo;
 - receta;
-- alternativa sin alcohol;
 - botón “otra opción” si existe más de una recomendación aprobada.
+
+En escritorio y tablet, la respuesta se mostrará en tres tarjetas contiguas: autor, recomendación con procedencia y preparación. En móvil, las mismas tarjetas se apilarán en ese orden.
 
 ### RF-04 — Tipos de vínculo
 
@@ -172,9 +172,12 @@ Cada bebida deberá incluir:
 
 La redacción será propia. No se copiarán instrucciones expresivas de recetarios contemporáneos.
 
-### RF-07 — Alternativa sin alcohol
+### RF-07 — Experiencia directa
 
-Toda recomendación alcohólica tendrá una alternativa sin alcohol relacionada por sabor, ritual o contexto. No se presentará como réplica exacta si no lo es.
+- La interfaz principal no mostrará advertencias de consumo responsable ni avisos de mayoría de edad.
+- No se exigirá ni se propondrá una alternativa sin alcohol junto a cada recomendación.
+- Una bebida sin alcohol podrá ser la recomendación principal cuando la evidencia editorial lo justifique, por ejemplo en un vínculo de abstinencia o recuperación.
+- El contenido metodológico y las fuentes permanecerán disponibles, pero no competirán visualmente con la búsqueda ni con el resultado.
 
 ### RF-08 — Página metodológica
 
@@ -329,7 +332,7 @@ Campos mínimos:
 
 ```text
 id, name_es, aliases[], category, alcoholic, ingredients[],
-steps[], glassware, garnish, zero_proof_alternative_id, recipe_note
+steps[], glassware, garnish, zero_proof_alternative_id?, recipe_note
 ```
 
 ### Recommendation
@@ -461,7 +464,7 @@ El agente ejecutor debe completar una fase y su gate antes de comenzar la siguie
 1. Crear portada y búsqueda.
 2. Crear ficha de autor.
 3. Mostrar tipo de vínculo, confianza y fuentes.
-4. Mostrar receta y alternativa sin alcohol.
+4. Mostrar la receta.
 5. Implementar estados vacío, no encontrado y error de contenido.
 6. Diseñar primero para pantalla móvil y verificar escritorio.
 
@@ -486,7 +489,7 @@ El agente ejecutor debe completar una fase y su gate antes de comenzar la siguie
 4. Registrar mitos, contradicciones y candidatos descartados.
 5. Si un autor alcanza el límite de investigación sin evidencia publicable, marcarlo como bloqueado y sustituirlo por el siguiente candidato de alta disponibilidad documentado en el backlog.
 
-**Gate 5:** 20 autores publicables; cada uno con dos obras, una recomendación respaldada, receta, alternativa sin alcohol y fuentes verificadas.
+**Gate 5:** 20 autores publicables; cada uno con dos obras, una recomendación respaldada, receta y fuentes verificadas.
 
 ### Fase 6 — Calidad integral
 
@@ -519,7 +522,6 @@ El agente ejecutor debe completar una fase y su gate antes de comenzar la siguie
 - Referencias entre archivos existentes.
 - Cero recomendaciones publicadas sin evidencia suficiente.
 - Cero autores no publicados en el índice.
-- Toda bebida alcohólica posee alternativa sin alcohol.
 - Toda URL tiene protocolo permitido.
 - Fechas y enumeraciones válidas.
 
@@ -558,8 +560,7 @@ La primera versión puede funcionar sin analítica. Si se incorpora una solució
 - búsqueda con resultado o sin resultado;
 - autor consultado;
 - solicitud de otra bebida;
-- apertura de una fuente;
-- apertura de alternativa sin alcohol.
+- apertura de una fuente.
 
 No se almacenará el texto libre de búsquedas sin una evaluación de privacidad.
 
@@ -585,7 +586,6 @@ No se almacenará el texto libre de búsquedas sin una evaluación de privacidad
 - [ ] Una o más recomendaciones por autor.
 - [ ] Toda recomendación publicada posee evidencia suficiente.
 - [ ] Recetas normalizadas y redactadas originalmente.
-- [ ] Alternativa sin alcohol para cada bebida alcohólica.
 - [ ] Búsqueda por nombres y alias.
 - [ ] Página metodológica y página de fuentes.
 - [ ] Validación de esquemas y reglas cruzadas.

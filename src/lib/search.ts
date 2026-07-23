@@ -22,7 +22,11 @@ export function searchAuthors(authors: PublicAuthor[], query: string): PublicAut
   const term = normalize(query)
   if (!term) return authors
   return authors.map((author) => {
-    const terms = [author.canonical_name, ...author.aliases].map(normalize)
+    const terms = [
+      author.canonical_name,
+      ...author.aliases,
+      ...author.works.flatMap((work) => [work.original_title, work.display_title_es]),
+    ].map(normalize)
     const match = terms.some((candidate) => candidate.includes(term) || term.includes(candidate))
     const distance = Math.min(...terms.map((candidate) => editDistance(term, candidate)))
     return { author, score: match ? 0 : distance }

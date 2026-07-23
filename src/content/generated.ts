@@ -2,7 +2,7 @@
 import type { PublicCatalog } from '../../scripts/content-types'
 
 export const content: PublicCatalog = {
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-23",
   "authors": [
     {
       "id": "dorothy-parker",
@@ -77,7 +77,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Sirve el whisky en un vaso corto.",
               "Añade hielo si lo prefieres.",
-              "Tómalo despacio o elige la alternativa sin alcohol."
+              "Sírvelo tal como está o con un cubo grande de hielo."
             ],
             "glassware": "Vaso corto",
             "zero_proof_alternative_id": "te-ahumado",
@@ -968,7 +968,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Enfría una copa pequeña.",
               "Sirve el amontillado sin hielo.",
-              "Acompáñalo de agua y elige la alternativa si lo prefieres."
+              "Sirve de inmediato."
             ],
             "glassware": "Copa de jerez",
             "zero_proof_alternative_id": "te-ambar",
@@ -1074,7 +1074,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Sirve el whisky en un vaso corto.",
               "Añade hielo si lo prefieres.",
-              "Tómalo despacio o elige la alternativa sin alcohol."
+              "Sírvelo tal como está o con un cubo grande de hielo."
             ],
             "glassware": "Vaso corto",
             "zero_proof_alternative_id": "te-ahumado",
@@ -1518,7 +1518,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Sirve el whisky en un vaso corto.",
               "Añade hielo si lo prefieres.",
-              "Tómalo despacio o elige la alternativa sin alcohol."
+              "Sírvelo tal como está o con un cubo grande de hielo."
             ],
             "glassware": "Vaso corto",
             "zero_proof_alternative_id": "te-ahumado",
@@ -1737,7 +1737,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Sirve el vino en una copa.",
               "Déjalo reposar un momento.",
-              "Elige mosto si prefieres una alternativa sin alcohol."
+              "Sírvelo a temperatura fresca."
             ],
             "glassware": "Copa de vino",
             "zero_proof_alternative_id": "mosto-tinto",
@@ -1843,7 +1843,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Sirve el vino en una copa.",
               "Déjalo reposar un momento.",
-              "Elige mosto si prefieres una alternativa sin alcohol."
+              "Sírvelo a temperatura fresca."
             ],
             "glassware": "Copa de vino",
             "zero_proof_alternative_id": "mosto-tinto",
@@ -1949,7 +1949,7 @@ export const content: PublicCatalog = {
             "steps": [
               "Sirve el vino en una copa.",
               "Déjalo reposar un momento.",
-              "Elige mosto si prefieres una alternativa sin alcohol."
+              "Sírvelo a temperatura fresca."
             ],
             "glassware": "Copa de vino",
             "zero_proof_alternative_id": "mosto-tinto",
@@ -2230,7 +2230,7 @@ export const content: PublicCatalog = {
       "steps": [
         "Sirve el whisky en un vaso corto.",
         "Añade hielo si lo prefieres.",
-        "Tómalo despacio o elige la alternativa sin alcohol."
+        "Sírvelo tal como está o con un cubo grande de hielo."
       ],
       "glassware": "Vaso corto",
       "zero_proof_alternative_id": "te-ahumado",
@@ -2705,7 +2705,7 @@ export const content: PublicCatalog = {
       "steps": [
         "Enfría una copa pequeña.",
         "Sirve el amontillado sin hielo.",
-        "Acompáñalo de agua y elige la alternativa si lo prefieres."
+        "Sirve de inmediato."
       ],
       "glassware": "Copa de jerez",
       "zero_proof_alternative_id": "te-ambar",
@@ -2919,7 +2919,7 @@ export const content: PublicCatalog = {
       "steps": [
         "Sirve el vino en una copa.",
         "Déjalo reposar un momento.",
-        "Elige mosto si prefieres una alternativa sin alcohol."
+        "Sírvelo a temperatura fresca."
       ],
       "glassware": "Copa de vino",
       "zero_proof_alternative_id": "mosto-tinto",
