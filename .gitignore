@@ -10,3 +10,5 @@ output/
 !.env.example
 playwright-report/
 test-results/
+/library/inbox/
+/library/processed/

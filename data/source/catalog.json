@@ -4,12 +4,17 @@
       "id": "dorothy-parker",
       "slug": "dorothy-parker",
       "canonical_name": "Dorothy Parker",
-      "aliases": ["Parker"],
+      "aliases": [
+        "Parker"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1893,
       "death_year": 1967,
       "bio_es": "Escritora estadounidense vinculada con el cuento, la crítica y la poesía. Su mirada aguda encuentra humor, incomodidad y melancolía en los gestos cotidianos.",
-      "featured_works": ["big-blonde", "dorothy-parker-poems"],
+      "featured_works": [
+        "big-blonde",
+        "dorothy-parker-poems"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -17,12 +22,18 @@
       "id": "charles-bukowski",
       "slug": "charles-bukowski",
       "canonical_name": "Charles Bukowski",
-      "aliases": ["Bukowski", "Henry Charles Bukowski"],
+      "aliases": [
+        "Bukowski",
+        "Henry Charles Bukowski"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1920,
       "death_year": 1994,
       "bio_es": "Poeta y narrador estadounidense de voz directa y áspera. Sus textos recorren habitaciones, trabajos, visitas y personajes al margen de las buenas maneras.",
-      "featured_works": ["i-am-visited-by-an-editor-and-a-poet", "post-office"],
+      "featured_works": [
+        "i-am-visited-by-an-editor-and-a-poet",
+        "post-office"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -30,12 +41,18 @@
       "id": "jack-kerouac",
       "slug": "jack-kerouac",
       "canonical_name": "Jack Kerouac",
-      "aliases": ["Kerouac", "Jean-Louis Kerouac"],
+      "aliases": [
+        "Kerouac",
+        "Jean-Louis Kerouac"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1922,
       "death_year": 1969,
       "bio_es": "Novelista y poeta estadounidense asociado a la generación beat. Sus páginas avanzan al ritmo de viajes, conversaciones, amistades y una búsqueda constante de movimiento.",
-      "featured_works": ["on-the-road", "big-sur"],
+      "featured_works": [
+        "on-the-road",
+        "big-sur"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -43,12 +60,19 @@
       "id": "f-scott-fitzgerald",
       "slug": "f-scott-fitzgerald",
       "canonical_name": "F. Scott Fitzgerald",
-      "aliases": ["Fitzgerald", "Scott Fitzgerald", "Francis Scott Fitzgerald"],
+      "aliases": [
+        "Fitzgerald",
+        "Scott Fitzgerald",
+        "Francis Scott Fitzgerald"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1896,
       "death_year": 1940,
       "bio_es": "Novelista estadounidense cuya obra retrata el brillo y la tensión social de los años veinte. Bajo sus fiestas elegantes suelen asomar deseos, rivalidades y promesas difíciles de cumplir.",
-      "featured_works": ["the-great-gatsby", "tender-is-the-night"],
+      "featured_works": [
+        "the-great-gatsby",
+        "tender-is-the-night"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -56,12 +80,18 @@
       "id": "william-faulkner",
       "slug": "william-faulkner",
       "canonical_name": "William Faulkner",
-      "aliases": ["Faulkner", "William Cuthbert Faulkner"],
+      "aliases": [
+        "Faulkner",
+        "William Cuthbert Faulkner"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1897,
       "death_year": 1962,
       "bio_es": "Novelista estadounidense de narrativa experimental, conocido por el territorio ficticio de Yoknapatawpha. Sus historias cruzan familias, memoria y tiempo con voces que exigen una lectura atenta.",
-      "featured_works": ["the-sound-and-the-fury", "as-i-lay-dying"],
+      "featured_works": [
+        "the-sound-and-the-fury",
+        "as-i-lay-dying"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -69,12 +99,18 @@
       "id": "dashiell-hammett",
       "slug": "dashiell-hammett",
       "canonical_name": "Dashiell Hammett",
-      "aliases": ["Hammett", "Samuel Dashiell Hammett"],
+      "aliases": [
+        "Hammett",
+        "Samuel Dashiell Hammett"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1894,
       "death_year": 1961,
       "bio_es": "Escritor estadounidense de novela policial y creador de Sam Spade. Sus detectives se mueven entre oficinas, engaños y conversaciones donde cada detalle puede cambiar el caso.",
-      "featured_works": ["the-maltese-falcon", "the-thin-man"],
+      "featured_works": [
+        "the-maltese-falcon",
+        "the-thin-man"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -82,12 +118,18 @@
       "id": "raymond-chandler",
       "slug": "raymond-chandler",
       "canonical_name": "Raymond Chandler",
-      "aliases": ["Chandler", "Ray Chandler"],
+      "aliases": [
+        "Chandler",
+        "Ray Chandler"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1888,
       "death_year": 1959,
       "bio_es": "Novelista estadounidense asociado a la ficción policial de Los Ángeles y al detective Philip Marlowe. Sus diálogos afilados recorren una ciudad de lealtades dudosas y despedidas largas.",
-      "featured_works": ["the-long-goodbye", "the-big-sleep"],
+      "featured_works": [
+        "the-long-goodbye",
+        "the-big-sleep"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -95,12 +137,18 @@
       "id": "ernest-hemingway",
       "slug": "ernest-hemingway",
       "canonical_name": "Ernest Hemingway",
-      "aliases": ["Hemingway", "Ernesto Hemingway"],
+      "aliases": [
+        "Hemingway",
+        "Ernesto Hemingway"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1899,
       "death_year": 1961,
       "bio_es": "Escritor estadounidense cuya prosa depurada marcó buena parte de la narrativa del siglo XX. Sus personajes viajan, observan y callan tanto como dicen.",
-      "featured_works": ["the-sun-also-rises", "a-moveable-feast"],
+      "featured_works": [
+        "the-sun-also-rises",
+        "a-moveable-feast"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -108,12 +156,18 @@
       "id": "edgar-allan-poe",
       "slug": "edgar-allan-poe",
       "canonical_name": "Edgar Allan Poe",
-      "aliases": ["Poe", "Edgar Poe"],
+      "aliases": [
+        "Poe",
+        "Edgar Poe"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1809,
       "death_year": 1849,
       "bio_es": "Poeta, narrador y crítico estadounidense, figura decisiva del cuento moderno. Sus relatos convierten habitaciones, secretos y obsesiones en mecanismos de suspense inolvidables.",
-      "featured_works": ["the-cask-of-amontillado", "the-fall-of-the-house-of-usher"],
+      "featured_works": [
+        "the-cask-of-amontillado",
+        "the-fall-of-the-house-of-usher"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -121,12 +175,18 @@
       "id": "eugene-oneill",
       "slug": "eugene-oneill",
       "canonical_name": "Eugene O'Neill",
-      "aliases": ["O'Neill", "Eugene ONeill"],
+      "aliases": [
+        "O'Neill",
+        "Eugene ONeill"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1888,
       "death_year": 1953,
       "bio_es": "Dramaturgo estadounidense y premio Nobel. Sus obras reúnen familias, amistades y viejas promesas en escenas donde el autoengaño tarde o temprano pierde terreno.",
-      "featured_works": ["the-iceman-cometh", "long-days-journey-into-night"],
+      "featured_works": [
+        "the-iceman-cometh",
+        "long-days-journey-into-night"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -134,12 +194,18 @@
       "id": "guillermo-cabrera-infante",
       "slug": "guillermo-cabrera-infante",
       "canonical_name": "Guillermo Cabrera Infante",
-      "aliases": ["Cabrera Infante", "Guillermo Cabrera"],
+      "aliases": [
+        "Cabrera Infante",
+        "Guillermo Cabrera"
+      ],
       "country": "Cuba",
       "birth_year": 1929,
       "death_year": 2005,
       "bio_es": "Narrador y crítico cubano, autor de una prosa marcada por La Habana, el cine y el juego verbal. En sus páginas, el idioma también baila, bromea y cambia de ritmo.",
-      "featured_works": ["tres-tristes-tigres", "la-habana-para-un-infante-difunto"],
+      "featured_works": [
+        "tres-tristes-tigres",
+        "la-habana-para-un-infante-difunto"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -147,12 +213,18 @@
       "id": "hunter-s-thompson",
       "slug": "hunter-s-thompson",
       "canonical_name": "Hunter S. Thompson",
-      "aliases": ["Thompson", "Hunter Thompson"],
+      "aliases": [
+        "Thompson",
+        "Hunter Thompson"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1937,
       "death_year": 2005,
       "bio_es": "Periodista y narrador estadounidense vinculado al gonzo. Su escritura mezcla reportaje, velocidad y una mirada feroz sobre el espectáculo político y cultural.",
-      "featured_works": ["fear-and-loathing-in-las-vegas", "the-rum-diary"],
+      "featured_works": [
+        "fear-and-loathing-in-las-vegas",
+        "the-rum-diary"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -160,12 +232,18 @@
       "id": "john-cheever",
       "slug": "john-cheever",
       "canonical_name": "John Cheever",
-      "aliases": ["Cheever", "John William Cheever"],
+      "aliases": [
+        "Cheever",
+        "John William Cheever"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1912,
       "death_year": 1982,
       "bio_es": "Cuentista y novelista estadounidense. Sus barrios residenciales, piscinas y reuniones familiares suelen comenzar bajo una luz tranquila antes de revelar sus grietas.",
-      "featured_works": ["the-swimmer", "the-sorrows-of-gin"],
+      "featured_works": [
+        "the-swimmer",
+        "the-sorrows-of-gin"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -173,12 +251,18 @@
       "id": "juan-carlos-onetti",
       "slug": "juan-carlos-onetti",
       "canonical_name": "Juan Carlos Onetti",
-      "aliases": ["Onetti", "Juan Onetti"],
+      "aliases": [
+        "Onetti",
+        "Juan Onetti"
+      ],
       "country": "Uruguay",
       "birth_year": 1909,
       "death_year": 1994,
       "bio_es": "Narrador uruguayo y creador de Santa María. Sus personajes atraviesan ciudades grises, proyectos inciertos y derrotas que todavía conservan algo de imaginación.",
-      "featured_works": ["el-astillero", "juntacadaveres"],
+      "featured_works": [
+        "el-astillero",
+        "juntacadaveres"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -186,12 +270,19 @@
       "id": "julio-cortazar",
       "slug": "julio-cortazar",
       "canonical_name": "Julio Cortázar",
-      "aliases": ["Cortázar", "Cortazar", "Julio Florencio Cortázar"],
+      "aliases": [
+        "Cortázar",
+        "Cortazar",
+        "Julio Florencio Cortázar"
+      ],
       "country": "Argentina",
       "birth_year": 1914,
       "death_year": 1984,
       "bio_es": "Narrador argentino cuya obra explora el juego, la música y las formas abiertas. Sus libros invitan a cambiar el orden, escuchar el ritmo y entrar por puertas inesperadas.",
-      "featured_works": ["rayuela", "bestuario"],
+      "featured_works": [
+        "rayuela",
+        "bestuario"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -199,12 +290,18 @@
       "id": "miguel-de-cervantes",
       "slug": "miguel-de-cervantes",
       "canonical_name": "Miguel de Cervantes",
-      "aliases": ["Cervantes", "Miguel Cervantes"],
+      "aliases": [
+        "Cervantes",
+        "Miguel Cervantes"
+      ],
       "country": "España",
       "birth_year": 1547,
       "death_year": 1616,
       "bio_es": "Escritor español y autor de Don Quijote de la Mancha. Sus páginas reúnen caminos, ventas, conversaciones y aventuras que todavía juegan con quien las lee.",
-      "featured_works": ["don-quijote-segunda-parte", "novelas-ejemplares"],
+      "featured_works": [
+        "don-quijote-segunda-parte",
+        "novelas-ejemplares"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -212,12 +309,18 @@
       "id": "pablo-neruda",
       "slug": "pablo-neruda",
       "canonical_name": "Pablo Neruda",
-      "aliases": ["Neruda", "Ricardo Eliécer Neftalí Reyes Basoalto"],
+      "aliases": [
+        "Neruda",
+        "Ricardo Eliécer Neftalí Reyes Basoalto"
+      ],
       "country": "Chile",
       "birth_year": 1904,
       "death_year": 1973,
       "bio_es": "Poeta chileno y premio Nobel. Su obra transforma objetos, paisajes, afectos y alimentos en materia poética capaz de hablarle tanto a una persona como a una multitud.",
-      "featured_works": ["odas-elementales", "confieso-que-he-vivido"],
+      "featured_works": [
+        "odas-elementales",
+        "confieso-que-he-vivido"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -225,12 +328,19 @@
       "id": "ramon-del-valle-inclan",
       "slug": "ramon-del-valle-inclan",
       "canonical_name": "Ramón del Valle-Inclán",
-      "aliases": ["Valle-Inclán", "Valle Inclan", "Ramón María del Valle-Inclán"],
+      "aliases": [
+        "Valle-Inclán",
+        "Valle Inclan",
+        "Ramón María del Valle-Inclán"
+      ],
       "country": "España",
       "birth_year": 1866,
       "death_year": 1936,
       "bio_es": "Dramaturgo y narrador español asociado al esperpento. Sus personajes recorren tabernas, calles y salones donde la realidad se deforma hasta mostrar mejor sus absurdos.",
-      "featured_works": ["luces-de-bohemia", "sonatas"],
+      "featured_works": [
+        "luces-de-bohemia",
+        "sonatas"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -238,12 +348,18 @@
       "id": "raymond-carver",
       "slug": "raymond-carver",
       "canonical_name": "Raymond Carver",
-      "aliases": ["Carver", "Ray Carver"],
+      "aliases": [
+        "Carver",
+        "Ray Carver"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1938,
       "death_year": 1988,
       "bio_es": "Cuentista y poeta estadounidense de prosa contenida. Sus relatos reúnen conversaciones corrientes, silencios y pequeños gestos que cambian por completo el peso de una habitación.",
-      "featured_works": ["what-we-talk-about-when-we-talk-about-love", "cathedral"],
+      "featured_works": [
+        "what-we-talk-about-when-we-talk-about-love",
+        "cathedral"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -251,11 +367,17 @@
       "id": "stephen-king",
       "slug": "stephen-king",
       "canonical_name": "Stephen King",
-      "aliases": ["King", "Stephen Edwin King"],
+      "aliases": [
+        "King",
+        "Stephen Edwin King"
+      ],
       "country": "Estados Unidos",
       "birth_year": 1947,
       "bio_es": "Narrador estadounidense de terror y fantasía. Sus historias encuentran puertas hacia lo inquietante en hoteles, pueblos, familias y objetos que parecían perfectamente comunes.",
-      "featured_works": ["on-writing", "the-shining"],
+      "featured_works": [
+        "on-writing",
+        "the-shining"
+      ],
       "status": "published",
       "reviewed_at": "2026-07-21"
     },
@@ -263,13 +385,163 @@
       "id": "borrador-sintetico",
       "slug": "borrador-sintetico",
       "canonical_name": "Borrador Sintético",
-      "aliases": ["Borrador"],
+      "aliases": [
+        "Borrador"
+      ],
       "country": "País ficticio",
       "birth_year": 1990,
       "bio_es": "Registro ficticio no publicable que comprueba que el pipeline editorial no expone contenido en borrador a la aplicación ni al índice de búsqueda público.",
-      "featured_works": ["obra-borrador-uno", "obra-borrador-dos"],
+      "featured_works": [
+        "obra-borrador-uno",
+        "obra-borrador-dos"
+      ],
       "status": "draft",
       "reviewed_at": "2026-07-21"
+    },
+    {
+      "id": "sylvia-plath",
+      "slug": "sylvia-plath",
+      "canonical_name": "Sylvia Plath",
+      "aliases": [
+        "Plath"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1932,
+      "death_year": 1963,
+      "bio_es": "Poeta y novelista estadounidense asociada con la poesía confesional. Su obra explora identidad, creación, vida doméstica y sufrimiento psíquico.",
+      "featured_works": [
+        "the-bell-jar",
+        "ariel"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "truman-capote",
+      "slug": "truman-capote",
+      "canonical_name": "Truman Capote",
+      "aliases": [
+        "Capote"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1924,
+      "death_year": 1984,
+      "bio_es": "Escritor estadounidense de narrativa, crónica y perfiles. Combinó observación social, precisión estilística y una fuerte presencia en la cultura pública de su época.",
+      "featured_works": [
+        "breakfast-at-tiffanys",
+        "in-cold-blood"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "oscar-wilde",
+      "slug": "oscar-wilde",
+      "canonical_name": "Oscar Wilde",
+      "aliases": [
+        "Wilde"
+      ],
+      "country": "Irlanda",
+      "birth_year": 1854,
+      "death_year": 1900,
+      "bio_es": "Dramaturgo, narrador y ensayista irlandés célebre por su ingenio y su sátira social. Su escritura combina elegancia verbal, paradoja y crítica de las convenciones.",
+      "featured_works": [
+        "the-picture-of-dorian-gray",
+        "the-importance-of-being-earnest"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "maya-angelou",
+      "slug": "maya-angelou",
+      "canonical_name": "Maya Angelou",
+      "aliases": [
+        "Angelou"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1928,
+      "death_year": 2014,
+      "bio_es": "Poeta, memorialista y activista estadounidense. Su obra convierte experiencia personal, racismo, dignidad y resistencia en una voz narrativa de gran alcance público.",
+      "featured_works": [
+        "i-know-why-the-caged-bird-sings",
+        "and-still-i-rise"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "ian-fleming",
+      "slug": "ian-fleming",
+      "canonical_name": "Ian Fleming",
+      "aliases": [
+        "Fleming"
+      ],
+      "country": "Reino Unido",
+      "birth_year": 1908,
+      "death_year": 1964,
+      "bio_es": "Escritor y periodista británico, creador de James Bond. Sus novelas de espionaje mezclan acción, tecnología, viajes y rituales de sofisticación reconocibles.",
+      "featured_works": [
+        "casino-royale",
+        "from-russia-with-love"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "tennessee-williams",
+      "slug": "tennessee-williams",
+      "canonical_name": "Tennessee Williams",
+      "aliases": [
+        "Williams"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1911,
+      "death_year": 1983,
+      "bio_es": "Dramaturgo estadounidense cuya obra observa deseo, fragilidad y conflicto familiar. Sus piezas sitúan a personajes intensos en ambientes sureños cargados de tensión.",
+      "featured_works": [
+        "a-streetcar-named-desire",
+        "cat-on-a-hot-tin-roof"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "charles-dickens",
+      "slug": "charles-dickens",
+      "canonical_name": "Charles Dickens",
+      "aliases": [
+        "Dickens"
+      ],
+      "country": "Reino Unido",
+      "birth_year": 1812,
+      "death_year": 1870,
+      "bio_es": "Novelista inglés central de la era victoriana. Sus historias combinan crítica social, humor, personajes memorables y escenas urbanas de gran vitalidad.",
+      "featured_works": [
+        "the-pickwick-papers",
+        "a-christmas-carol"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "jd-salinger",
+      "slug": "jd-salinger",
+      "canonical_name": "J. D. Salinger",
+      "aliases": [
+        "Salinger",
+        "Jerome David Salinger"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1919,
+      "death_year": 2010,
+      "bio_es": "Escritor estadounidense conocido por narradores jóvenes, lenguaje coloquial y sensibilidad ante la impostura social. Su obra publicada es breve y muy influyente.",
+      "featured_works": [
+        "the-catcher-in-the-rye",
+        "nine-stories"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26"
     }
   ],
   "works": [
@@ -430,7 +702,9 @@
       "display_title_es": "París era una fiesta",
       "publication_year": 1964,
       "language": "en",
-      "identifiers": { "isbn13": "9780684833637" },
+      "identifiers": {
+        "isbn13": "9780684833637"
+      },
       "notes": "Edición Classic Edition de Scribner."
     },
     {
@@ -692,17 +966,189 @@
       "language": "es",
       "identifiers": {},
       "notes": "Fixture sintético."
+    },
+    {
+      "id": "the-bell-jar",
+      "author_id": "sylvia-plath",
+      "original_title": "The Bell Jar",
+      "display_title_es": "La campana de cristal",
+      "publication_year": 1963,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "ariel",
+      "author_id": "sylvia-plath",
+      "original_title": "Ariel",
+      "display_title_es": "Ariel",
+      "publication_year": 1965,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "breakfast-at-tiffanys",
+      "author_id": "truman-capote",
+      "original_title": "Breakfast at Tiffany's",
+      "display_title_es": "Desayuno en Tiffany’s",
+      "publication_year": 1958,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "in-cold-blood",
+      "author_id": "truman-capote",
+      "original_title": "In Cold Blood",
+      "display_title_es": "A sangre fría",
+      "publication_year": 1966,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "the-picture-of-dorian-gray",
+      "author_id": "oscar-wilde",
+      "original_title": "The Picture of Dorian Gray",
+      "display_title_es": "El retrato de Dorian Gray",
+      "publication_year": 1890,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "the-importance-of-being-earnest",
+      "author_id": "oscar-wilde",
+      "original_title": "The Importance of Being Earnest",
+      "display_title_es": "La importancia de llamarse Ernesto",
+      "publication_year": 1895,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "i-know-why-the-caged-bird-sings",
+      "author_id": "maya-angelou",
+      "original_title": "I Know Why the Caged Bird Sings",
+      "display_title_es": "Yo sé por qué canta el pájaro enjaulado",
+      "publication_year": 1969,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "and-still-i-rise",
+      "author_id": "maya-angelou",
+      "original_title": "And Still I Rise",
+      "display_title_es": "Y aun así me levanto",
+      "publication_year": 1978,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "casino-royale",
+      "author_id": "ian-fleming",
+      "original_title": "Casino Royale",
+      "display_title_es": "Casino Royale",
+      "publication_year": 1953,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "from-russia-with-love",
+      "author_id": "ian-fleming",
+      "original_title": "From Russia, with Love",
+      "display_title_es": "Desde Rusia con amor",
+      "publication_year": 1957,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "a-streetcar-named-desire",
+      "author_id": "tennessee-williams",
+      "original_title": "A Streetcar Named Desire",
+      "display_title_es": "Un tranvía llamado Deseo",
+      "publication_year": 1947,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "cat-on-a-hot-tin-roof",
+      "author_id": "tennessee-williams",
+      "original_title": "Cat on a Hot Tin Roof",
+      "display_title_es": "La gata sobre el tejado de zinc",
+      "publication_year": 1955,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "the-pickwick-papers",
+      "author_id": "charles-dickens",
+      "original_title": "The Pickwick Papers",
+      "display_title_es": "Los papeles póstumos del Club Pickwick",
+      "publication_year": 1836,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "a-christmas-carol",
+      "author_id": "charles-dickens",
+      "original_title": "A Christmas Carol",
+      "display_title_es": "Cuento de Navidad",
+      "publication_year": 1843,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "the-catcher-in-the-rye",
+      "author_id": "jd-salinger",
+      "original_title": "The Catcher in the Rye",
+      "display_title_es": "El guardián entre el centeno",
+      "publication_year": 1951,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+    },
+    {
+      "id": "nine-stories",
+      "author_id": "jd-salinger",
+      "original_title": "Nine Stories",
+      "display_title_es": "Nueve cuentos",
+      "publication_year": 1953,
+      "language": "en",
+      "identifiers": {},
+      "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
     }
   ],
   "drinks": [
     {
       "id": "scotch",
       "name_es": "Whisky escocés",
-      "aliases": ["Scotch whiskey"],
+      "aliases": [
+        "Scotch whiskey"
+      ],
       "category": "Destilado",
       "alcoholic": true,
-      "ingredients": [{ "name": "whisky escocés", "amount": 45, "unit": "ml" }],
-      "steps": ["Sirve el whisky en un vaso corto.", "Añade hielo si lo prefieres.", "Sírvelo tal como está o con un cubo grande de hielo."],
+      "ingredients": [
+        {
+          "name": "whisky escocés",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve el whisky en un vaso corto.",
+        "Añade hielo si lo prefieres.",
+        "Sírvelo tal como está o con un cubo grande de hielo."
+      ],
       "glassware": "Vaso corto",
       "zero_proof_alternative_id": "te-ahumado",
       "recipe_note": "Servicio contemporáneo; no receta histórica."
@@ -713,8 +1159,17 @@
       "aliases": [],
       "category": "Sin alcohol",
       "alcoholic": false,
-      "ingredients": [{ "name": "té ahumado", "amount": 180, "unit": "ml" }],
-      "steps": ["Prepara el té.", "Sirve caliente o frío."],
+      "ingredients": [
+        {
+          "name": "té ahumado",
+          "amount": 180,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Prepara el té.",
+        "Sirve caliente o frío."
+      ],
       "glassware": "Taza",
       "zero_proof_alternative_id": "te-ahumado",
       "recipe_note": "Alternativa por perfil tostado."
@@ -722,11 +1177,22 @@
     {
       "id": "cerveza",
       "name_es": "Cerveza",
-      "aliases": ["Beer"],
+      "aliases": [
+        "Beer"
+      ],
       "category": "Cerveza",
       "alcoholic": true,
-      "ingredients": [{ "name": "cerveza lager", "amount": 330, "unit": "ml" }],
-      "steps": ["Enfría la cerveza.", "Sirve en un vaso limpio."],
+      "ingredients": [
+        {
+          "name": "cerveza lager",
+          "amount": 330,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Enfría la cerveza.",
+        "Sirve en un vaso limpio."
+      ],
       "glassware": "Vaso de cerveza",
       "zero_proof_alternative_id": "cerveza-cero",
       "recipe_note": "Servicio contemporáneo."
@@ -737,8 +1203,17 @@
       "aliases": [],
       "category": "Sin alcohol",
       "alcoholic": false,
-      "ingredients": [{ "name": "cerveza sin alcohol", "amount": 330, "unit": "ml" }],
-      "steps": ["Enfría la cerveza.", "Sirve en un vaso limpio."],
+      "ingredients": [
+        {
+          "name": "cerveza sin alcohol",
+          "amount": 330,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Enfría la cerveza.",
+        "Sirve en un vaso limpio."
+      ],
       "glassware": "Vaso de cerveza",
       "zero_proof_alternative_id": "cerveza-cero",
       "recipe_note": "Alternativa por ritual."
@@ -746,15 +1221,33 @@
     {
       "id": "gin-rickey",
       "name_es": "Gin Rickey",
-      "aliases": ["Rickey"],
+      "aliases": [
+        "Rickey"
+      ],
       "category": "Trago largo",
       "alcoholic": true,
       "ingredients": [
-        { "name": "gin", "amount": 45, "unit": "ml" },
-        { "name": "jugo de lima", "amount": 20, "unit": "ml" },
-        { "name": "agua con gas", "amount": 120, "unit": "ml" }
+        {
+          "name": "gin",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 120,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso alto con hielo.", "Añade gin y jugo de lima.", "Completa con agua con gas."],
+      "steps": [
+        "Llena un vaso alto con hielo.",
+        "Añade gin y jugo de lima.",
+        "Completa con agua con gas."
+      ],
       "glassware": "Vaso alto",
       "zero_proof_alternative_id": "rickey-cero",
       "recipe_note": "Receta contemporánea propia; la escena literaria no especifica preparación."
@@ -762,14 +1255,28 @@
     {
       "id": "rickey-cero",
       "name_es": "Rickey sin alcohol",
-      "aliases": ["Lima con soda"],
+      "aliases": [
+        "Lima con soda"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "jugo de lima", "amount": 20, "unit": "ml" },
-        { "name": "agua con gas", "amount": 140, "unit": "ml" }
+        {
+          "name": "jugo de lima",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 140,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso alto con hielo.", "Añade el jugo de lima.", "Completa con agua con gas."],
+      "steps": [
+        "Llena un vaso alto con hielo.",
+        "Añade el jugo de lima.",
+        "Completa con agua con gas."
+      ],
       "glassware": "Vaso alto",
       "zero_proof_alternative_id": "rickey-cero",
       "recipe_note": "Alternativa por frescura y formato."
@@ -777,16 +1284,38 @@
     {
       "id": "hot-toddy",
       "name_es": "Toddy caliente",
-      "aliases": ["Hot toddy"],
+      "aliases": [
+        "Hot toddy"
+      ],
       "category": "Bebida caliente",
       "alcoholic": true,
       "ingredients": [
-        { "name": "whisky", "amount": 45, "unit": "ml" },
-        { "name": "agua caliente", "amount": 120, "unit": "ml" },
-        { "name": "miel", "amount": 10, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 10, "unit": "ml" }
+        {
+          "name": "whisky",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua caliente",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Calienta el vaso con agua y descártala.", "Añade miel, limón y whisky.", "Completa con agua caliente y mezcla."],
+      "steps": [
+        "Calienta el vaso con agua y descártala.",
+        "Añade miel, limón y whisky.",
+        "Completa con agua caliente y mezcla."
+      ],
       "glassware": "Taza resistente al calor",
       "zero_proof_alternative_id": "toddy-cero",
       "recipe_note": "Receta contemporánea propia; no se atribuye a la obra."
@@ -794,15 +1323,33 @@
     {
       "id": "toddy-cero",
       "name_es": "Toddy caliente sin alcohol",
-      "aliases": ["Infusión con miel"],
+      "aliases": [
+        "Infusión con miel"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "infusión negra", "amount": 150, "unit": "ml" },
-        { "name": "miel", "amount": 10, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 10, "unit": "ml" }
+        {
+          "name": "infusión negra",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Prepara una infusión negra.", "Añade miel y limón.", "Sirve caliente."],
+      "steps": [
+        "Prepara una infusión negra.",
+        "Añade miel y limón.",
+        "Sirve caliente."
+      ],
       "glassware": "Taza",
       "zero_proof_alternative_id": "toddy-cero",
       "recipe_note": "Alternativa por temperatura y ritual."
@@ -814,11 +1361,27 @@
       "category": "Cóctel corto",
       "alcoholic": true,
       "ingredients": [
-        { "name": "whisky de centeno", "amount": 50, "unit": "ml" },
-        { "name": "vermut rojo", "amount": 25, "unit": "ml" },
-        { "name": "amargo aromático", "amount": 2, "unit": "golpes" }
+        {
+          "name": "whisky de centeno",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut rojo",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo aromático",
+          "amount": 2,
+          "unit": "golpes"
+        }
       ],
-      "steps": ["Enfría una copa.", "Mezcla los ingredientes con hielo.", "Cuela y sirve."],
+      "steps": [
+        "Enfría una copa.",
+        "Mezcla los ingredientes con hielo.",
+        "Cuela y sirve."
+      ],
       "glassware": "Copa de cóctel",
       "zero_proof_alternative_id": "manhattan-cero",
       "recipe_note": "Propuesta contemporánea; la novela sólo nombra un Manhattan embotellado."
@@ -830,11 +1393,27 @@
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "té negro frío", "amount": 80, "unit": "ml" },
-        { "name": "vermut sin alcohol", "amount": 40, "unit": "ml" },
-        { "name": "amargo sin alcohol", "amount": 2, "unit": "golpes" }
+        {
+          "name": "té negro frío",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut sin alcohol",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo sin alcohol",
+          "amount": 2,
+          "unit": "golpes"
+        }
       ],
-      "steps": ["Mezcla los ingredientes con hielo.", "Cuela en una copa fría.", "Sirve de inmediato."],
+      "steps": [
+        "Mezcla los ingredientes con hielo.",
+        "Cuela en una copa fría.",
+        "Sirve de inmediato."
+      ],
       "glassware": "Copa de cóctel",
       "zero_proof_alternative_id": "manhattan-cero",
       "recipe_note": "Alternativa por perfil amargo y ritual."
@@ -842,14 +1421,28 @@
     {
       "id": "gimlet",
       "name_es": "Gimlet",
-      "aliases": ["Gin gimlet"],
+      "aliases": [
+        "Gin gimlet"
+      ],
       "category": "Cóctel corto",
       "alcoholic": true,
       "ingredients": [
-        { "name": "gin", "amount": 45, "unit": "ml" },
-        { "name": "cordial de lima", "amount": 45, "unit": "ml" }
+        {
+          "name": "gin",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "cordial de lima",
+          "amount": 45,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Enfría una copa pequeña.", "Mezcla el gin y el cordial de lima con hielo.", "Cuela y sirve de inmediato."],
+      "steps": [
+        "Enfría una copa pequeña.",
+        "Mezcla el gin y el cordial de lima con hielo.",
+        "Cuela y sirve de inmediato."
+      ],
       "glassware": "Copa fría",
       "zero_proof_alternative_id": "cordial-de-lima-cero",
       "recipe_note": "Propuesta de servicio basada en la proporción nombrada por un personaje; no se presenta como receta histórica definitiva."
@@ -857,14 +1450,28 @@
     {
       "id": "cordial-de-lima-cero",
       "name_es": "Cordial de lima sin alcohol",
-      "aliases": ["Lima cero"],
+      "aliases": [
+        "Lima cero"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "cordial de lima", "amount": 45, "unit": "ml" },
-        { "name": "agua con gas", "amount": 90, "unit": "ml" }
+        {
+          "name": "cordial de lima",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 90,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso pequeño con hielo.", "Añade el cordial de lima.", "Completa con agua con gas."],
+      "steps": [
+        "Llena un vaso pequeño con hielo.",
+        "Añade el cordial de lima.",
+        "Completa con agua con gas."
+      ],
       "glassware": "Vaso corto",
       "zero_proof_alternative_id": "cordial-de-lima-cero",
       "recipe_note": "Alternativa de acidez y ritual; no pretende replicar un gimlet."
@@ -872,14 +1479,28 @@
     {
       "id": "absenta-con-agua",
       "name_es": "Absenta con agua",
-      "aliases": ["Absinthe"],
+      "aliases": [
+        "Absinthe"
+      ],
       "category": "Aperitivo",
       "alcoholic": true,
       "ingredients": [
-        { "name": "absenta", "amount": 30, "unit": "ml" },
-        { "name": "agua fría", "amount": 90, "unit": "ml" }
+        {
+          "name": "absenta",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "agua fría",
+          "amount": 90,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Sirve la absenta en un vaso pequeño.", "Añade el agua fría lentamente.", "Prueba despacio y ajusta con más agua si lo prefieres."],
+      "steps": [
+        "Sirve la absenta en un vaso pequeño.",
+        "Añade el agua fría lentamente.",
+        "Prueba despacio y ajusta con más agua si lo prefieres."
+      ],
       "glassware": "Vaso pequeño",
       "zero_proof_alternative_id": "infusion-de-anis",
       "recipe_note": "Propuesta contemporánea de servicio; no se presenta como receta histórica exacta."
@@ -887,14 +1508,28 @@
     {
       "id": "infusion-de-anis",
       "name_es": "Infusión de anís y limón",
-      "aliases": ["Infusión anisada"],
+      "aliases": [
+        "Infusión anisada"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "infusión de anís", "amount": 180, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 10, "unit": "ml" }
+        {
+          "name": "infusión de anís",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Prepara la infusión de anís.", "Añade el jugo de limón.", "Sirve tibia o con hielo."],
+      "steps": [
+        "Prepara la infusión de anís.",
+        "Añade el jugo de limón.",
+        "Sirve tibia o con hielo."
+      ],
       "glassware": "Taza o vaso corto",
       "zero_proof_alternative_id": "infusion-de-anis",
       "recipe_note": "Alternativa relacionada por el perfil anisado; no reproduce el alcohol ni su efecto."
@@ -902,15 +1537,33 @@
     {
       "id": "tonica-citricos",
       "name_es": "Tónica de cítricos",
-      "aliases": ["Tónica cítrica"],
+      "aliases": [
+        "Tónica cítrica"
+      ],
       "category": "Trago largo",
       "alcoholic": true,
       "ingredients": [
-        { "name": "gin", "amount": 45, "unit": "ml" },
-        { "name": "agua tónica", "amount": 120, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 10, "unit": "ml" }
+        {
+          "name": "gin",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua tónica",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso con hielo.", "Añade el gin y el jugo de limón.", "Completa suavemente con agua tónica."],
+      "steps": [
+        "Llena un vaso con hielo.",
+        "Añade el gin y el jugo de limón.",
+        "Completa suavemente con agua tónica."
+      ],
       "glassware": "Vaso alto",
       "garnish": "Rodaja de limón",
       "zero_proof_alternative_id": "tonica-citricos-cero",
@@ -919,15 +1572,33 @@
     {
       "id": "tonica-citricos-cero",
       "name_es": "Tónica de cítricos sin alcohol",
-      "aliases": ["Tónica cítrica cero"],
+      "aliases": [
+        "Tónica cítrica cero"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "agua tónica", "amount": 150, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 15, "unit": "ml" },
-        { "name": "cáscara de naranja", "amount": 1, "unit": "unidad" }
+        {
+          "name": "agua tónica",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "cáscara de naranja",
+          "amount": 1,
+          "unit": "unidad"
+        }
       ],
-      "steps": ["Llena un vaso con hielo.", "Añade el jugo de limón.", "Completa con agua tónica y perfuma con naranja."],
+      "steps": [
+        "Llena un vaso con hielo.",
+        "Añade el jugo de limón.",
+        "Completa con agua tónica y perfuma con naranja."
+      ],
       "glassware": "Vaso alto",
       "garnish": "Cáscara de naranja",
       "zero_proof_alternative_id": "tonica-citricos-cero",
@@ -936,11 +1607,23 @@
     {
       "id": "amontillado",
       "name_es": "Amontillado",
-      "aliases": ["Jerez amontillado"],
+      "aliases": [
+        "Jerez amontillado"
+      ],
       "category": "Vino fortificado",
       "alcoholic": true,
-      "ingredients": [{ "name": "amontillado", "amount": 90, "unit": "ml" }],
-      "steps": ["Enfría una copa pequeña.", "Sirve el amontillado sin hielo.", "Sirve de inmediato."],
+      "ingredients": [
+        {
+          "name": "amontillado",
+          "amount": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Enfría una copa pequeña.",
+        "Sirve el amontillado sin hielo.",
+        "Sirve de inmediato."
+      ],
       "glassware": "Copa de jerez",
       "zero_proof_alternative_id": "te-ambar",
       "recipe_note": "Servicio contemporáneo; el relato no aporta una receta."
@@ -948,14 +1631,28 @@
     {
       "id": "te-ambar",
       "name_es": "Té ámbar frío",
-      "aliases": ["Té frío de uva"],
+      "aliases": [
+        "Té frío de uva"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "té negro frío", "amount": 140, "unit": "ml" },
-        { "name": "jugo de uva blanca", "amount": 40, "unit": "ml" }
+        {
+          "name": "té negro frío",
+          "amount": 140,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de uva blanca",
+          "amount": 40,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Enfría el té y el jugo.", "Mezcla en una copa pequeña.", "Sirve sin hielo o con un cubo grande."],
+      "steps": [
+        "Enfría el té y el jugo.",
+        "Mezcla en una copa pequeña.",
+        "Sirve sin hielo o con un cubo grande."
+      ],
       "glassware": "Copa pequeña",
       "zero_proof_alternative_id": "te-ambar",
       "recipe_note": "Alternativa por color y ritual; no pretende reproducir el vino."
@@ -963,11 +1660,23 @@
     {
       "id": "agua-mineral",
       "name_es": "Agua mineral",
-      "aliases": ["Agua con gas"],
+      "aliases": [
+        "Agua con gas"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
-      "ingredients": [{ "name": "agua mineral", "amount": 250, "unit": "ml" }],
-      "steps": ["Enfría el agua mineral.", "Sirve en un vaso alto.", "Bebe a tu ritmo."],
+      "ingredients": [
+        {
+          "name": "agua mineral",
+          "amount": 250,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Enfría el agua mineral.",
+        "Sirve en un vaso alto.",
+        "Bebe a tu ritmo."
+      ],
       "glassware": "Vaso alto",
       "zero_proof_alternative_id": "agua-mineral",
       "recipe_note": "Servicio sencillo; la anécdota documenta agua, no una preparación especial."
@@ -975,16 +1684,38 @@
     {
       "id": "singapore-sling",
       "name_es": "Singapore Sling",
-      "aliases": ["Singapore sling"],
+      "aliases": [
+        "Singapore sling"
+      ],
       "category": "Cóctel largo",
       "alcoholic": true,
       "ingredients": [
-        { "name": "gin", "amount": 45, "unit": "ml" },
-        { "name": "jugo de piña", "amount": 90, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 15, "unit": "ml" },
-        { "name": "granadina", "amount": 10, "unit": "ml" }
+        {
+          "name": "gin",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de piña",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "granadina",
+          "amount": 10,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso alto con hielo.", "Añade los ingredientes y mezcla suavemente.", "Completa con agua con gas si quieres una versión más larga."],
+      "steps": [
+        "Llena un vaso alto con hielo.",
+        "Añade los ingredientes y mezcla suavemente.",
+        "Completa con agua con gas si quieres una versión más larga."
+      ],
       "glassware": "Vaso alto",
       "zero_proof_alternative_id": "sling-tropical-cero",
       "recipe_note": "Versión contemporánea propia; la fuente verifica una mención literaria, no una receta canónica."
@@ -992,16 +1723,38 @@
     {
       "id": "sling-tropical-cero",
       "name_es": "Sling tropical sin alcohol",
-      "aliases": ["Sling cero"],
+      "aliases": [
+        "Sling cero"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "jugo de piña", "amount": 100, "unit": "ml" },
-        { "name": "jugo de limón", "amount": 15, "unit": "ml" },
-        { "name": "granadina", "amount": 10, "unit": "ml" },
-        { "name": "agua con gas", "amount": 80, "unit": "ml" }
+        {
+          "name": "jugo de piña",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "granadina",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 80,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso alto con hielo.", "Añade jugos y granadina.", "Completa con agua con gas."],
+      "steps": [
+        "Llena un vaso alto con hielo.",
+        "Añade jugos y granadina.",
+        "Completa con agua con gas."
+      ],
       "glassware": "Vaso alto",
       "zero_proof_alternative_id": "sling-tropical-cero",
       "recipe_note": "Alternativa por fruta y formato; no pretende ser una réplica."
@@ -1009,14 +1762,29 @@
     {
       "id": "gin-tonic",
       "name_es": "Gin tonic",
-      "aliases": ["Gin and tonic", "Ginebra con tónica"],
+      "aliases": [
+        "Gin and tonic",
+        "Ginebra con tónica"
+      ],
       "category": "Trago largo",
       "alcoholic": true,
       "ingredients": [
-        { "name": "gin", "amount": 45, "unit": "ml" },
-        { "name": "agua tónica", "amount": 150, "unit": "ml" }
+        {
+          "name": "gin",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua tónica",
+          "amount": 150,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Llena un vaso alto con hielo.", "Añade el gin.", "Completa con tónica y mezcla una vez."],
+      "steps": [
+        "Llena un vaso alto con hielo.",
+        "Añade el gin.",
+        "Completa con tónica y mezcla una vez."
+      ],
       "glassware": "Vaso alto",
       "zero_proof_alternative_id": "tonica-citricos-cero",
       "recipe_note": "Servicio contemporáneo; no se atribuye a los autores ni a los personajes."
@@ -1024,14 +1792,28 @@
     {
       "id": "cafe-con-mate",
       "name_es": "Café con mate",
-      "aliases": ["Café y mate"],
+      "aliases": [
+        "Café y mate"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "café filtrado", "amount": 120, "unit": "ml" },
-        { "name": "mate cocido", "amount": 80, "unit": "ml" }
+        {
+          "name": "café filtrado",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "mate cocido",
+          "amount": 80,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Prepara el café y el mate por separado.", "Sírvelos juntos, sin mezclarlos.", "Alterna los sorbos según prefieras."],
+      "steps": [
+        "Prepara el café y el mate por separado.",
+        "Sírvelos juntos, sin mezclarlos.",
+        "Alterna los sorbos según prefieras."
+      ],
       "glassware": "Taza y vaso pequeño",
       "zero_proof_alternative_id": "cafe-con-mate",
       "recipe_note": "Propuesta editorial basada en dos bebidas presentes en la escena, no una receta de Cortázar."
@@ -1039,11 +1821,23 @@
     {
       "id": "vino-tinto",
       "name_es": "Vino tinto",
-      "aliases": ["Vino"],
+      "aliases": [
+        "Vino"
+      ],
       "category": "Vino",
       "alcoholic": true,
-      "ingredients": [{ "name": "vino tinto", "amount": 120, "unit": "ml" }],
-      "steps": ["Sirve el vino en una copa.", "Déjalo reposar un momento.", "Sírvelo a temperatura fresca."],
+      "ingredients": [
+        {
+          "name": "vino tinto",
+          "amount": 120,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve el vino en una copa.",
+        "Déjalo reposar un momento.",
+        "Sírvelo a temperatura fresca."
+      ],
       "glassware": "Copa de vino",
       "zero_proof_alternative_id": "mosto-tinto",
       "recipe_note": "Servicio contemporáneo; no reconstruye una bebida histórica."
@@ -1051,14 +1845,28 @@
     {
       "id": "mosto-tinto",
       "name_es": "Mosto tinto",
-      "aliases": ["Jugo de uva tinta"],
+      "aliases": [
+        "Jugo de uva tinta"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "jugo de uva tinta", "amount": 150, "unit": "ml" },
-        { "name": "agua con gas", "amount": 50, "unit": "ml" }
+        {
+          "name": "jugo de uva tinta",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 50,
+          "unit": "ml"
+        }
       ],
-      "steps": ["Enfría el jugo de uva.", "Sirve con hielo si lo deseas.", "Completa con un poco de agua con gas."],
+      "steps": [
+        "Enfría el jugo de uva.",
+        "Sirve con hielo si lo deseas.",
+        "Completa con un poco de agua con gas."
+      ],
       "glassware": "Copa de vino",
       "zero_proof_alternative_id": "mosto-tinto",
       "recipe_note": "Alternativa por fruta y ritual; no replica el alcohol."
@@ -1066,18 +1874,675 @@
     {
       "id": "infusion-especiada",
       "name_es": "Infusión especiada",
-      "aliases": ["Té especiado"],
+      "aliases": [
+        "Té especiado"
+      ],
       "category": "Sin alcohol",
       "alcoholic": false,
       "ingredients": [
-        { "name": "té negro", "amount": 200, "unit": "ml" },
-        { "name": "canela", "amount": 1, "unit": "pizca" },
-        { "name": "cáscara de naranja", "amount": 1, "unit": "unidad" }
+        {
+          "name": "té negro",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "canela",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "cáscara de naranja",
+          "amount": 1,
+          "unit": "unidad"
+        }
       ],
-      "steps": ["Infusiona el té durante tres minutos.", "Añade canela y naranja.", "Sirve caliente."],
+      "steps": [
+        "Infusiona el té durante tres minutos.",
+        "Añade canela y naranja.",
+        "Sirve caliente."
+      ],
       "glassware": "Taza",
       "zero_proof_alternative_id": "infusion-especiada",
       "recipe_note": "Fixture sintético conservado sólo para el borrador excluido."
+    },
+    {
+      "id": "daiquiri-hemingway",
+      "name_es": "Daiquiri Hemingway",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ron blanco",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de pomelo",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de maraschino",
+          "amount": 7,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa coupé",
+      "garnish": "Piel de pomelo",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "mojito",
+      "name_es": "Mojito",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ron blanco",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla con hielo, añade el agua con gas y remueve."
+      ],
+      "glassware": "Vaso alto",
+      "garnish": "Menta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "martini-seco",
+      "name_es": "Martini seco",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "jack-rose",
+      "name_es": "Jack Rose",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "applejack o brandy de manzana",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "granadina",
+          "amount": 12,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa coupé",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "death-in-the-afternoon",
+      "name_es": "Death in the Afternoon",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "absenta",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "espumante brut",
+          "amount": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Vierte la absenta y completa lentamente con el espumante."
+      ],
+      "glassware": "Copa flauta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "cognac",
+      "name_es": "Cognac",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "cognac",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve a temperatura ambiente o apenas refrescado."
+      ],
+      "glassware": "Copa de degustación",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "mint-julep",
+      "name_es": "Mint Julep",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "bourbon",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Añade menta y hielo picado; incorpora el bourbon y remueve."
+      ],
+      "glassware": "Vaso julep",
+      "garnish": "Menta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "whiskey-sour",
+      "name_es": "Whiskey Sour",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "whiskey",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela sobre hielo fresco."
+      ],
+      "glassware": "Vaso corto",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "margarita-mezcal",
+      "name_es": "Margarita de mezcal",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "mezcal",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 25,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa con borde de sal."
+      ],
+      "glassware": "Copa coupé",
+      "garnish": "Sal y lima",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "wine-spodiodi",
+      "name_es": "Wine Spodiodi",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vino de Oporto",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "whiskey",
+          "amount": 30,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve ambos ingredientes sobre hielo y remueve."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "boilermaker",
+      "name_es": "Boilermaker",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "cerveza",
+          "amount": 330,
+          "unit": "ml"
+        },
+        {
+          "name": "bourbon",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve la cerveza y el bourbon por separado para alternarlos."
+      ],
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "champagne-cocktail",
+      "name_es": "Champagne Cocktail",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "espumante brut",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy",
+          "amount": 30,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve el brandy y completa con el espumante bien frío."
+      ],
+      "glassware": "Copa flauta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "brandy-eggnog",
+      "name_es": "Eggnog con brandy",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "brandy",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "ron añejo",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "leche",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "huevo pasteurizado",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita los ingredientes con hielo y sirve bien frío."
+      ],
+      "glassware": "Taza",
+      "garnish": "Nuez moscada",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "gibson",
+      "name_es": "Gibson",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Cebollitas encurtidas",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "el-coquetelon",
+      "name_es": "El Coquetelón",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "pisco",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "vino espumante",
+          "amount": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla el pisco y el jugo con hielo; completa con espumante."
+      ],
+      "glassware": "Copa de vino",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "vodka-martini",
+      "name_es": "Vodka Martini",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vodka",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "screwdriver",
+      "name_es": "Screwdriver",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve sobre hielo y remueve suavemente."
+      ],
+      "glassware": "Vaso alto",
+      "garnish": "Rodaja de naranja",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "white-angel",
+      "name_es": "White Angel",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa muy fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "jerez",
+      "name_es": "Jerez",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "jerez",
+          "amount": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve ligeramente fresco."
+      ],
+      "glassware": "Copa de jerez",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "vesper-martini",
+      "name_es": "Vesper Martini",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vodka",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "Lillet Blanc",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "ramos-gin-fizz",
+      "name_es": "Ramos Gin Fizz",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "crema",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita todo salvo el agua con hielo; cuela y completa con agua con gas."
+      ],
+      "glassware": "Vaso alto",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "smoking-bishop",
+      "name_es": "Smoking Bishop",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vino tinto",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Oporto",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar especiado",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Calienta suavemente sin hervir y sirve."
+      ],
+      "glassware": "Taza",
+      "garnish": "Naranja",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "scotch-soda",
+      "name_es": "Scotch & Soda",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "whisky escocés",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve sobre hielo y completa con agua con gas."
+      ],
+      "glassware": "Vaso alto",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
     }
   ],
   "recommendations": [
@@ -1090,7 +2555,9 @@
       "headline_es": "Whisky escocés para Hazel Morse",
       "explanation_es": "En Big Blonde, Hazel Morse decide que el whisky escocés es la bebida que mejor tolera. Una elección que acompaña el malestar de la protagonista.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-parker-scotch"],
+      "evidence_ids": [
+        "evidencia-parker-scotch"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1104,7 +2571,9 @@
       "headline_es": "Tres cervezas y una visita",
       "explanation_es": "En el poema I Am Visited by an Editor and a Poet, la voz bebe tres cervezas durante la visita de un editor y un poeta.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-bukowski-cerveza"],
+      "evidence_ids": [
+        "evidencia-bukowski-cerveza"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1118,7 +2587,9 @@
       "headline_es": "Cerveza para conversar",
       "explanation_es": "En On the Road, Sal Paradise y Dean Moriarty salen a tomar cerveza para conversar.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-kerouac-cerveza"],
+      "evidence_ids": [
+        "evidencia-kerouac-cerveza"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1132,7 +2603,9 @@
       "headline_es": "Cuatro gin rickeys antes de la tensión",
       "explanation_es": "En el capítulo 7 de The Great Gatsby, Tom Buchanan vuelve con cuatro gin rickeys para Gatsby, Nick, Daisy y Jordan. La bebida les acompaña en una escena de tensión en la casa Buchanan.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-fitzgerald-gin-rickey"],
+      "evidence_ids": [
+        "evidencia-fitzgerald-gin-rickey"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1146,7 +2619,9 @@
       "headline_es": "Un toddy para Caroline Compson",
       "explanation_es": "En The Sound and the Fury, el tío Maury propone preparar un toddy a Caroline Compson para calmar su inquietud.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-faulkner-toddy"],
+      "evidence_ids": [
+        "evidencia-faulkner-toddy"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1160,7 +2635,9 @@
       "headline_es": "El Manhattan del escritorio de Sam Spade",
       "explanation_es": "En The Maltese Falcon, Sam Spade saca del cajón de su escritorio un Manhattan embotellado y un vaso de papel después de reunirse con Joel Cairo.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-hammett-manhattan"],
+      "evidence_ids": [
+        "evidencia-hammett-manhattan"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1174,7 +2651,9 @@
       "headline_es": "Gimlets en el bar Victor's",
       "explanation_es": "En The Long Goodbye, Philip Marlowe y Terry Lennox beben gimlets en el bar Victor's. Entre copa y copa, Lennox explica su proporción de ginebra y cordial de lima.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-chandler-gimlet"],
+      "evidence_ids": [
+        "evidencia-chandler-gimlet"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1188,7 +2667,9 @@
       "headline_es": "Absenta en la última noche de fiesta",
       "explanation_es": "En The Sun Also Rises, Jake Barnes bebe absenta sin azúcar mientras observa la última noche de la fiesta de Pamplona.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-hemingway-absenta"],
+      "evidence_ids": [
+        "evidencia-hemingway-absenta"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1202,7 +2683,9 @@
       "headline_es": "El amontillado de la trampa",
       "explanation_es": "En The Cask of Amontillado, Montresor atrae a Fortunato a las catacumbas con una supuesta pipa de amontillado. La bebida será partícipe de la trama y de su engaño.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-poe-amontillado"],
+      "evidence_ids": [
+        "evidencia-poe-amontillado"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1216,7 +2699,9 @@
       "headline_es": "La botella intacta de Hickey",
       "explanation_es": "En The Iceman Cometh, Rocky lleva a Hickey una botella de whiskey, un vaso y un chaser. Hickey la deja intacta mientras los demás insisten en su antigua rutina.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-oneill-whiskey"],
+      "evidence_ids": [
+        "evidencia-oneill-whiskey"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1229,7 +2714,9 @@
       "headline_es": "Agua para el discurso del Cervantes",
       "explanation_es": "Durante la entrega del Premio Cervantes de 1998, Miriam Gómez llevó agua para que Guillermo Cabrera Infante pudiera beber a lo largo de su discurso.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-cabrera-infante-agua"],
+      "evidence_ids": [
+        "evidencia-cabrera-infante-agua"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1243,7 +2730,9 @@
       "headline_es": "Singapore Slings en el Polo Lounge",
       "explanation_es": "En Fear and Loathing in Las Vegas, el grupo pasa horas en el Polo Lounge entre Singapore Slings, mezcal y cerveza.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-thompson-singapore-sling"],
+      "evidence_ids": [
+        "evidencia-thompson-singapore-sling"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1257,7 +2746,9 @@
       "headline_es": "Un gin tonic entre piscinas",
       "explanation_es": "En The Swimmer, un barman da a Neddy Merrill un gin tonic mientras continúa su recorrido entre piscinas. La escena se volverá progresivamente más incómoda.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-cheever-gin-tonic"],
+      "evidence_ids": [
+        "evidencia-cheever-gin-tonic"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1270,7 +2761,9 @@
       "headline_es": "Whisky y una novela policial por leer",
       "explanation_es": "En un cuestionario Proust, Onetti responde que su sueño de dicha era whisky y una buena novela policial que todavía no hubiera leído.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-onetti-whisky"],
+      "evidence_ids": [
+        "evidencia-onetti-whisky"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1284,7 +2777,9 @@
       "headline_es": "Café y mate en la madrugada",
       "explanation_es": "En el capítulo 3 de Rayuela, Oliveira y la Maga pasan la noche leyendo y escuchando discos. Por turnos, se levantan a calentar café o cebar mate.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-cortazar-cafe-mate"],
+      "evidence_ids": [
+        "evidencia-cortazar-cafe-mate"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1298,7 +2793,9 @@
       "headline_es": "Sancho reconoce el vino",
       "explanation_es": "En el capítulo XIII de la segunda parte de Don Quijote, Sancho bebe de una bota e identifica el vino como de Ciudad Real. Su talento para reconocer vinos hará el resto.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-cervantes-vino"],
+      "evidence_ids": [
+        "evidencia-cervantes-vino"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1312,7 +2809,9 @@
       "headline_es": "El vino que inspira una oda",
       "explanation_es": "En Oda al vino, el vino tinto aparece como materia poética y combustible para la conversación compartida.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-neruda-vino"],
+      "evidence_ids": [
+        "evidencia-neruda-vino"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1326,7 +2825,9 @@
       "headline_es": "Morapio en la taberna de Pica Lagartos",
       "explanation_es": "En la escena III de Luces de bohemia, Máximo Estrella y Don Latino beben sendos quinces de morapio en la taberna de Pica Lagartos.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-valle-inclan-morapio"],
+      "evidence_ids": [
+        "evidencia-valle-inclan-morapio"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1340,7 +2841,9 @@
       "headline_es": "Gin y tónica para hablar de amor",
       "explanation_es": "Al inicio de What We Talk About When We Talk About Love, el gin y el agua tónica circulan por la mesa mientras cuatro personajes hablan de amor.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-carver-gin-tonic"],
+      "evidence_ids": [
+        "evidencia-carver-gin-tonic"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1354,7 +2857,9 @@
       "headline_es": "Esta ronda va sin alcohol",
       "explanation_es": "En una entrevista del año 2000, Stephen King cuenta que dejó las drogas y el alcohol y que la escritura volvió a sostenerse sin esa búsqueda de efecto. Nos quedamos sin alcohol.",
       "confidence": "high",
-      "evidence_ids": ["evidencia-king-recuperacion"],
+      "evidence_ids": [
+        "evidencia-king-recuperacion"
+      ],
       "editorial_status": "published",
       "reviewed_by": "orquestador editorial",
       "reviewed_at": "2026-07-21"
@@ -1368,10 +2873,516 @@
       "headline_es": "No debe llegar al índice",
       "explanation_es": "Este registro sintético comprueba que una recomendación en borrador no se filtra al contenido público, aunque su estructura tenga referencias completas y formalmente válidas.",
       "confidence": "medium",
-      "evidence_ids": ["evidencia-borrador"],
+      "evidence_ids": [
+        "evidencia-borrador"
+      ],
       "editorial_status": "draft",
       "reviewed_by": "equipo editorial",
       "reviewed_at": "2026-07-21"
+    },
+    {
+      "id": "hemingway-daiquiri",
+      "author_id": "ernest-hemingway",
+      "drink_id": "daiquiri-hemingway",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Daiquiri a la medida de Papa",
+      "explanation_es": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-hemingway-daiquiri-tasting-table",
+        "evidencia-hemingway-daiquiri-financial-times",
+        "evidencia-hemingway-daiquiri-abv-project",
+        "evidencia-hemingway-daiquiri-daily-meal",
+        "evidencia-hemingway-daiquiri-drinks-business"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "hemingway-mojito",
+      "author_id": "ernest-hemingway",
+      "drink_id": "mojito",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "El Mojito de La Bodeguita",
+      "explanation_es": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-hemingway-mojito-aoide",
+        "evidencia-hemingway-mojito-bustle",
+        "evidencia-hemingway-mojito-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "hemingway-martini",
+      "author_id": "ernest-hemingway",
+      "drink_id": "martini-seco",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Martini casi sin vermut",
+      "explanation_es": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-hemingway-martini-financial-times",
+        "evidencia-hemingway-martini-scott-hotel",
+        "evidencia-hemingway-martini-drinks-business"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "hemingway-jack-rose",
+      "author_id": "ernest-hemingway",
+      "work_id": "the-sun-also-rises",
+      "drink_id": "jack-rose",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Jack Rose mientras llega Brett",
+      "explanation_es": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-hemingway-jack-rose-abv-project",
+        "evidencia-hemingway-jack-rose-lifestyle-asia",
+        "evidencia-hemingway-jack-rose-abebooks",
+        "evidencia-hemingway-jack-rose-read-and-co"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "hemingway-death-in-afternoon",
+      "author_id": "ernest-hemingway",
+      "drink_id": "death-in-the-afternoon",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Absenta y burbujas para la tarde",
+      "explanation_es": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-hemingway-death-in-afternoon-drinks-business",
+        "evidencia-hemingway-death-in-afternoon-slosh-spot"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "hemingway-cognac",
+      "author_id": "ernest-hemingway",
+      "drink_id": "cognac",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Una noche de cognac en el Ritz",
+      "explanation_es": "Financial Times recuerda las noches de Hemingway en el Ritz de París, donde bebía Martinis y cognac con su círculo.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-hemingway-cognac-financial-times"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "fitzgerald-mint-julep",
+      "author_id": "f-scott-fitzgerald",
+      "work_id": "the-great-gatsby",
+      "drink_id": "mint-julep",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Mint Julep para bajar la temperatura",
+      "explanation_es": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-fitzgerald-mint-julep-lifestyle-asia",
+        "evidencia-fitzgerald-mint-julep-abebooks",
+        "evidencia-fitzgerald-mint-julep-read-and-co"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "parker-whiskey-sour",
+      "author_id": "dorothy-parker",
+      "drink_id": "whiskey-sour",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "La acidez de un Whiskey Sour",
+      "explanation_es": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-parker-whiskey-sour-tasting-table",
+        "evidencia-parker-whiskey-sour-daily-meal",
+        "evidencia-parker-whiskey-sour-aoide",
+        "evidencia-parker-whiskey-sour-bustle"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "parker-martini",
+      "author_id": "dorothy-parker",
+      "drink_id": "martini-seco",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Dos Martinis, como máximo",
+      "explanation_es": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-parker-martini-abv-project",
+        "evidencia-parker-martini-daily-meal",
+        "evidencia-parker-martini-drinks-business",
+        "evidencia-parker-martini-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "kerouac-margarita",
+      "author_id": "jack-kerouac",
+      "drink_id": "margarita-mezcal",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Una Margarita para salir a la carretera",
+      "explanation_es": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-kerouac-margarita-tasting-table",
+        "evidencia-kerouac-margarita-daily-meal",
+        "evidencia-kerouac-margarita-aoide",
+        "evidencia-kerouac-margarita-scott-hotel",
+        "evidencia-kerouac-margarita-bustle",
+        "evidencia-kerouac-margarita-drinks-business",
+        "evidencia-kerouac-margarita-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "kerouac-wine-spodiodi",
+      "author_id": "jack-kerouac",
+      "work_id": "on-the-road",
+      "drink_id": "wine-spodiodi",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Oporto y whiskey en el camino",
+      "explanation_es": "AbeBooks recoge el Wine Spodiodi de On the Road: Oporto y whiskey en una combinación tan improvisada como el viaje.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-kerouac-wine-spodiodi-abebooks"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "faulkner-mint-julep",
+      "author_id": "william-faulkner",
+      "drink_id": "mint-julep",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Julep sureño para Faulkner",
+      "explanation_es": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-faulkner-mint-julep-daily-meal",
+        "evidencia-faulkner-mint-julep-aoide",
+        "evidencia-faulkner-mint-julep-scott-hotel",
+        "evidencia-faulkner-mint-julep-bustle",
+        "evidencia-faulkner-mint-julep-drinks-business",
+        "evidencia-faulkner-mint-julep-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "bukowski-boilermaker",
+      "author_id": "charles-bukowski",
+      "drink_id": "boilermaker",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Cerveza con un golpe de bourbon",
+      "explanation_es": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-bukowski-boilermaker-daily-meal",
+        "evidencia-bukowski-boilermaker-aoide",
+        "evidencia-bukowski-boilermaker-bustle",
+        "evidencia-bukowski-boilermaker-drinks-business",
+        "evidencia-bukowski-boilermaker-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "chandler-champagne-cocktail",
+      "author_id": "raymond-chandler",
+      "work_id": "the-big-sleep",
+      "drink_id": "champagne-cocktail",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Brandy bajo una capa de champaña",
+      "explanation_es": "AbeBooks rescata la preferencia de General Sternwood en The Big Sleep: champaña helada sobre un tercio de brandy.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-chandler-champagne-cocktail-abebooks"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "chandler-beer-singapore",
+      "author_id": "raymond-chandler",
+      "drink_id": "cerveza",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Una cerveza con destino inesperado",
+      "explanation_es": "Bibliotopia atribuye a Chandler una broma sobre salir a beber una cerveza y despertar en Singapur con barba completa.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-chandler-beer-singapore-libro-bibliotopia"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "poe-brandy-eggnog",
+      "author_id": "edgar-allan-poe",
+      "drink_id": "brandy-eggnog",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "El Eggnog de la familia Poe",
+      "explanation_es": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-poe-brandy-eggnog-daily-meal",
+        "evidencia-poe-brandy-eggnog-aoide",
+        "evidencia-poe-brandy-eggnog-bustle"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "oneill-gibson",
+      "author_id": "eugene-oneill",
+      "drink_id": "gibson",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Gibson para O’Neill",
+      "explanation_es": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-oneill-gibson-aoide",
+        "evidencia-oneill-gibson-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "neruda-coquetelon",
+      "author_id": "pablo-neruda",
+      "drink_id": "el-coquetelon",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "El Coquetelón de Neruda",
+      "explanation_es": "The Daily Meal incorpora El Coquetelón a la constelación de bebidas vinculadas con Pablo Neruda.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-neruda-coquetelon-daily-meal"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "plath-vodka-martini",
+      "author_id": "sylvia-plath",
+      "drink_id": "vodka-martini",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Tres Martinis después del taller",
+      "explanation_es": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-plath-vodka-martini-tasting-table",
+        "evidencia-plath-vodka-martini-aoide"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "capote-screwdriver",
+      "author_id": "truman-capote",
+      "drink_id": "screwdriver",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "El “orange drink” de Capote",
+      "explanation_es": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-capote-screwdriver-tasting-table",
+        "evidencia-capote-screwdriver-abv-project",
+        "evidencia-capote-screwdriver-aoide",
+        "evidencia-capote-screwdriver-scott-hotel",
+        "evidencia-capote-screwdriver-bustle",
+        "evidencia-capote-screwdriver-drinks-business"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "capote-white-angel",
+      "author_id": "truman-capote",
+      "work_id": "breakfast-at-tiffanys",
+      "drink_id": "white-angel",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "El ángel nada inocente de Holly Golightly",
+      "explanation_es": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-capote-white-angel-abv-project",
+        "evidencia-capote-white-angel-lifestyle-asia",
+        "evidencia-capote-white-angel-abebooks"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "wilde-absinthe",
+      "author_id": "oscar-wilde",
+      "drink_id": "absenta-con-agua",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "La leyenda verde de Wilde",
+      "explanation_es": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-wilde-absinthe-tasting-table",
+        "evidencia-wilde-absinthe-aoide",
+        "evidencia-wilde-absinthe-bustle",
+        "evidencia-wilde-absinthe-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "angelou-sherry",
+      "author_id": "maya-angelou",
+      "drink_id": "jerez",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Jerez en la habitación de escritura",
+      "explanation_es": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-angelou-sherry-tasting-table",
+        "evidencia-angelou-sherry-daily-meal",
+        "evidencia-angelou-sherry-bustle"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "fleming-vesper",
+      "author_id": "ian-fleming",
+      "work_id": "casino-royale",
+      "drink_id": "vesper-martini",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Tres de ginebra, una de vodka",
+      "explanation_es": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-fleming-vesper-abv-project",
+        "evidencia-fleming-vesper-scott-hotel",
+        "evidencia-fleming-vesper-lifestyle-asia",
+        "evidencia-fleming-vesper-drinks-business",
+        "evidencia-fleming-vesper-slosh-spot",
+        "evidencia-fleming-vesper-abebooks"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "williams-ramos-fizz",
+      "author_id": "tennessee-williams",
+      "drink_id": "ramos-gin-fizz",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Ramos Gin Fizz de Nueva Orleans",
+      "explanation_es": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-williams-ramos-fizz-aoide",
+        "evidencia-williams-ramos-fizz-drinks-business",
+        "evidencia-williams-ramos-fizz-writers-write"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "williams-hot-toddy",
+      "author_id": "tennessee-williams",
+      "work_id": "cat-on-a-hot-tin-roof",
+      "drink_id": "hot-toddy",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Toddy para Brick Pollitt",
+      "explanation_es": "AbeBooks recoge el Hot Toddy de whiskey, agua caliente y limón que bebe Brick Pollitt en Cat on a Hot Tin Roof.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-williams-hot-toddy-abebooks"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "dickens-whisky-toddy",
+      "author_id": "charles-dickens",
+      "work_id": "the-pickwick-papers",
+      "drink_id": "hot-toddy",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Toddy para el Club Pickwick",
+      "explanation_es": "Read & Co. destaca los vasos de whisky toddy que acompañan la sobremesa festiva en The Pickwick Papers.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-dickens-whisky-toddy-read-and-co"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "dickens-smoking-bishop",
+      "author_id": "charles-dickens",
+      "work_id": "a-christmas-carol",
+      "drink_id": "smoking-bishop",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Un Smoking Bishop con Scrooge",
+      "explanation_es": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-dickens-smoking-bishop-slosh-spot",
+        "evidencia-dickens-smoking-bishop-read-and-co"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
+    },
+    {
+      "id": "salinger-scotch-soda",
+      "author_id": "jd-salinger",
+      "work_id": "the-catcher-in-the-rye",
+      "drink_id": "scotch-soda",
+      "relationship_type": "circulating_anecdote",
+      "headline_es": "Scotch & Soda para parecer adulto",
+      "explanation_es": "Lifestyle Asia observa que Holden Caulfield pide Scotch & Soda como parte de su ensayo obstinado de la adultez.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-salinger-scotch-soda-lifestyle-asia"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "orquestador editorial",
+      "reviewed_at": "2026-07-26"
     }
   ],
   "evidence": [
@@ -1602,6 +3613,887 @@
       "evidence_kind": "bibliographic_reference",
       "supports_claim": true,
       "checked_at": "2026-07-21"
+    },
+    {
+      "id": "evidencia-hemingway-daiquiri-tasting-table",
+      "recommendation_id": "hemingway-daiquiri",
+      "source_id": "articulo-tasting-table",
+      "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-daiquiri-financial-times",
+      "recommendation_id": "hemingway-daiquiri",
+      "source_id": "articulo-financial-times",
+      "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-daiquiri-abv-project",
+      "recommendation_id": "hemingway-daiquiri",
+      "source_id": "articulo-abv-project",
+      "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-daiquiri-daily-meal",
+      "recommendation_id": "hemingway-daiquiri",
+      "source_id": "articulo-daily-meal",
+      "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-daiquiri-drinks-business",
+      "recommendation_id": "hemingway-daiquiri",
+      "source_id": "articulo-drinks-business",
+      "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-mojito-aoide",
+      "recommendation_id": "hemingway-mojito",
+      "source_id": "articulo-aoide",
+      "claim": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-mojito-bustle",
+      "recommendation_id": "hemingway-mojito",
+      "source_id": "articulo-bustle",
+      "claim": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-mojito-writers-write",
+      "recommendation_id": "hemingway-mojito",
+      "source_id": "articulo-writers-write",
+      "claim": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-martini-financial-times",
+      "recommendation_id": "hemingway-martini",
+      "source_id": "articulo-financial-times",
+      "claim": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-martini-scott-hotel",
+      "recommendation_id": "hemingway-martini",
+      "source_id": "articulo-scott-hotel",
+      "claim": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-martini-drinks-business",
+      "recommendation_id": "hemingway-martini",
+      "source_id": "articulo-drinks-business",
+      "claim": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-jack-rose-abv-project",
+      "recommendation_id": "hemingway-jack-rose",
+      "source_id": "articulo-abv-project",
+      "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-jack-rose-lifestyle-asia",
+      "recommendation_id": "hemingway-jack-rose",
+      "source_id": "articulo-lifestyle-asia",
+      "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-jack-rose-abebooks",
+      "recommendation_id": "hemingway-jack-rose",
+      "source_id": "articulo-abebooks",
+      "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-jack-rose-read-and-co",
+      "recommendation_id": "hemingway-jack-rose",
+      "source_id": "articulo-read-and-co",
+      "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-death-in-afternoon-drinks-business",
+      "recommendation_id": "hemingway-death-in-afternoon",
+      "source_id": "articulo-drinks-business",
+      "claim": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-death-in-afternoon-slosh-spot",
+      "recommendation_id": "hemingway-death-in-afternoon",
+      "source_id": "articulo-slosh-spot",
+      "claim": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-hemingway-cognac-financial-times",
+      "recommendation_id": "hemingway-cognac",
+      "source_id": "articulo-financial-times",
+      "claim": "Financial Times recuerda las noches de Hemingway en el Ritz de París, donde bebía Martinis y cognac con su círculo.",
+      "locator": "Sección dedicada a Ernest Hemingway",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fitzgerald-mint-julep-lifestyle-asia",
+      "recommendation_id": "fitzgerald-mint-julep",
+      "source_id": "articulo-lifestyle-asia",
+      "claim": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+      "locator": "Sección dedicada a F. Scott Fitzgerald",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fitzgerald-mint-julep-abebooks",
+      "recommendation_id": "fitzgerald-mint-julep",
+      "source_id": "articulo-abebooks",
+      "claim": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+      "locator": "Sección dedicada a F. Scott Fitzgerald",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fitzgerald-mint-julep-read-and-co",
+      "recommendation_id": "fitzgerald-mint-julep",
+      "source_id": "articulo-read-and-co",
+      "claim": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+      "locator": "Sección dedicada a F. Scott Fitzgerald",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-whiskey-sour-tasting-table",
+      "recommendation_id": "parker-whiskey-sour",
+      "source_id": "articulo-tasting-table",
+      "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-whiskey-sour-daily-meal",
+      "recommendation_id": "parker-whiskey-sour",
+      "source_id": "articulo-daily-meal",
+      "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-whiskey-sour-aoide",
+      "recommendation_id": "parker-whiskey-sour",
+      "source_id": "articulo-aoide",
+      "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-whiskey-sour-bustle",
+      "recommendation_id": "parker-whiskey-sour",
+      "source_id": "articulo-bustle",
+      "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-martini-abv-project",
+      "recommendation_id": "parker-martini",
+      "source_id": "articulo-abv-project",
+      "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-martini-daily-meal",
+      "recommendation_id": "parker-martini",
+      "source_id": "articulo-daily-meal",
+      "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-martini-drinks-business",
+      "recommendation_id": "parker-martini",
+      "source_id": "articulo-drinks-business",
+      "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-parker-martini-writers-write",
+      "recommendation_id": "parker-martini",
+      "source_id": "articulo-writers-write",
+      "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+      "locator": "Sección dedicada a Dorothy Parker",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-tasting-table",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-tasting-table",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-daily-meal",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-daily-meal",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-aoide",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-aoide",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-scott-hotel",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-scott-hotel",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-bustle",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-bustle",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-drinks-business",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-drinks-business",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-margarita-writers-write",
+      "recommendation_id": "kerouac-margarita",
+      "source_id": "articulo-writers-write",
+      "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-kerouac-wine-spodiodi-abebooks",
+      "recommendation_id": "kerouac-wine-spodiodi",
+      "source_id": "articulo-abebooks",
+      "claim": "AbeBooks recoge el Wine Spodiodi de On the Road: Oporto y whiskey en una combinación tan improvisada como el viaje.",
+      "locator": "Sección dedicada a Jack Kerouac",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-faulkner-mint-julep-daily-meal",
+      "recommendation_id": "faulkner-mint-julep",
+      "source_id": "articulo-daily-meal",
+      "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "locator": "Sección dedicada a William Faulkner",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-faulkner-mint-julep-aoide",
+      "recommendation_id": "faulkner-mint-julep",
+      "source_id": "articulo-aoide",
+      "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "locator": "Sección dedicada a William Faulkner",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-faulkner-mint-julep-scott-hotel",
+      "recommendation_id": "faulkner-mint-julep",
+      "source_id": "articulo-scott-hotel",
+      "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "locator": "Sección dedicada a William Faulkner",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-faulkner-mint-julep-bustle",
+      "recommendation_id": "faulkner-mint-julep",
+      "source_id": "articulo-bustle",
+      "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "locator": "Sección dedicada a William Faulkner",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-faulkner-mint-julep-drinks-business",
+      "recommendation_id": "faulkner-mint-julep",
+      "source_id": "articulo-drinks-business",
+      "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "locator": "Sección dedicada a William Faulkner",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-faulkner-mint-julep-writers-write",
+      "recommendation_id": "faulkner-mint-julep",
+      "source_id": "articulo-writers-write",
+      "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+      "locator": "Sección dedicada a William Faulkner",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-bukowski-boilermaker-daily-meal",
+      "recommendation_id": "bukowski-boilermaker",
+      "source_id": "articulo-daily-meal",
+      "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+      "locator": "Sección dedicada a Charles Bukowski",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-bukowski-boilermaker-aoide",
+      "recommendation_id": "bukowski-boilermaker",
+      "source_id": "articulo-aoide",
+      "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+      "locator": "Sección dedicada a Charles Bukowski",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-bukowski-boilermaker-bustle",
+      "recommendation_id": "bukowski-boilermaker",
+      "source_id": "articulo-bustle",
+      "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+      "locator": "Sección dedicada a Charles Bukowski",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-bukowski-boilermaker-drinks-business",
+      "recommendation_id": "bukowski-boilermaker",
+      "source_id": "articulo-drinks-business",
+      "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+      "locator": "Sección dedicada a Charles Bukowski",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-bukowski-boilermaker-writers-write",
+      "recommendation_id": "bukowski-boilermaker",
+      "source_id": "articulo-writers-write",
+      "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+      "locator": "Sección dedicada a Charles Bukowski",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-chandler-champagne-cocktail-abebooks",
+      "recommendation_id": "chandler-champagne-cocktail",
+      "source_id": "articulo-abebooks",
+      "claim": "AbeBooks rescata la preferencia de General Sternwood en The Big Sleep: champaña helada sobre un tercio de brandy.",
+      "locator": "Sección dedicada a Raymond Chandler",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-chandler-beer-singapore-libro-bibliotopia",
+      "recommendation_id": "chandler-beer-singapore",
+      "source_id": "libro-bibliotopia",
+      "claim": "Bibliotopia atribuye a Chandler una broma sobre salir a beber una cerveza y despertar en Singapur con barba completa.",
+      "locator": "Página no indicada por la persona usuaria",
+      "evidence_kind": "direct_quote",
+      "supports_claim": true,
+      "checked_at": "2026-07-26",
+      "support_excerpt": "I'm an occasional drinker, the kind of guy who goes out for a beer and wakes up in Singapore with a full beard."
+    },
+    {
+      "id": "evidencia-poe-brandy-eggnog-daily-meal",
+      "recommendation_id": "poe-brandy-eggnog",
+      "source_id": "articulo-daily-meal",
+      "claim": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+      "locator": "Sección dedicada a Edgar Allan Poe",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-poe-brandy-eggnog-aoide",
+      "recommendation_id": "poe-brandy-eggnog",
+      "source_id": "articulo-aoide",
+      "claim": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+      "locator": "Sección dedicada a Edgar Allan Poe",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-poe-brandy-eggnog-bustle",
+      "recommendation_id": "poe-brandy-eggnog",
+      "source_id": "articulo-bustle",
+      "claim": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+      "locator": "Sección dedicada a Edgar Allan Poe",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-oneill-gibson-aoide",
+      "recommendation_id": "oneill-gibson",
+      "source_id": "articulo-aoide",
+      "claim": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+      "locator": "Sección dedicada a Eugene O'Neill",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-oneill-gibson-writers-write",
+      "recommendation_id": "oneill-gibson",
+      "source_id": "articulo-writers-write",
+      "claim": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+      "locator": "Sección dedicada a Eugene O'Neill",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-neruda-coquetelon-daily-meal",
+      "recommendation_id": "neruda-coquetelon",
+      "source_id": "articulo-daily-meal",
+      "claim": "The Daily Meal incorpora El Coquetelón a la constelación de bebidas vinculadas con Pablo Neruda.",
+      "locator": "Sección dedicada a Pablo Neruda",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-plath-vodka-martini-tasting-table",
+      "recommendation_id": "plath-vodka-martini",
+      "source_id": "articulo-tasting-table",
+      "claim": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+      "locator": "Sección dedicada a Sylvia Plath",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-plath-vodka-martini-aoide",
+      "recommendation_id": "plath-vodka-martini",
+      "source_id": "articulo-aoide",
+      "claim": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+      "locator": "Sección dedicada a Sylvia Plath",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-screwdriver-tasting-table",
+      "recommendation_id": "capote-screwdriver",
+      "source_id": "articulo-tasting-table",
+      "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-screwdriver-abv-project",
+      "recommendation_id": "capote-screwdriver",
+      "source_id": "articulo-abv-project",
+      "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-screwdriver-aoide",
+      "recommendation_id": "capote-screwdriver",
+      "source_id": "articulo-aoide",
+      "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-screwdriver-scott-hotel",
+      "recommendation_id": "capote-screwdriver",
+      "source_id": "articulo-scott-hotel",
+      "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-screwdriver-bustle",
+      "recommendation_id": "capote-screwdriver",
+      "source_id": "articulo-bustle",
+      "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-screwdriver-drinks-business",
+      "recommendation_id": "capote-screwdriver",
+      "source_id": "articulo-drinks-business",
+      "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-white-angel-abv-project",
+      "recommendation_id": "capote-white-angel",
+      "source_id": "articulo-abv-project",
+      "claim": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-white-angel-lifestyle-asia",
+      "recommendation_id": "capote-white-angel",
+      "source_id": "articulo-lifestyle-asia",
+      "claim": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-capote-white-angel-abebooks",
+      "recommendation_id": "capote-white-angel",
+      "source_id": "articulo-abebooks",
+      "claim": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+      "locator": "Sección dedicada a Truman Capote",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-wilde-absinthe-tasting-table",
+      "recommendation_id": "wilde-absinthe",
+      "source_id": "articulo-tasting-table",
+      "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+      "locator": "Sección dedicada a Oscar Wilde",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-wilde-absinthe-aoide",
+      "recommendation_id": "wilde-absinthe",
+      "source_id": "articulo-aoide",
+      "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+      "locator": "Sección dedicada a Oscar Wilde",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-wilde-absinthe-bustle",
+      "recommendation_id": "wilde-absinthe",
+      "source_id": "articulo-bustle",
+      "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+      "locator": "Sección dedicada a Oscar Wilde",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-wilde-absinthe-writers-write",
+      "recommendation_id": "wilde-absinthe",
+      "source_id": "articulo-writers-write",
+      "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+      "locator": "Sección dedicada a Oscar Wilde",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-angelou-sherry-tasting-table",
+      "recommendation_id": "angelou-sherry",
+      "source_id": "articulo-tasting-table",
+      "claim": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+      "locator": "Sección dedicada a Maya Angelou",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-angelou-sherry-daily-meal",
+      "recommendation_id": "angelou-sherry",
+      "source_id": "articulo-daily-meal",
+      "claim": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+      "locator": "Sección dedicada a Maya Angelou",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-angelou-sherry-bustle",
+      "recommendation_id": "angelou-sherry",
+      "source_id": "articulo-bustle",
+      "claim": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+      "locator": "Sección dedicada a Maya Angelou",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fleming-vesper-abv-project",
+      "recommendation_id": "fleming-vesper",
+      "source_id": "articulo-abv-project",
+      "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "locator": "Sección dedicada a Ian Fleming",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fleming-vesper-scott-hotel",
+      "recommendation_id": "fleming-vesper",
+      "source_id": "articulo-scott-hotel",
+      "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "locator": "Sección dedicada a Ian Fleming",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fleming-vesper-lifestyle-asia",
+      "recommendation_id": "fleming-vesper",
+      "source_id": "articulo-lifestyle-asia",
+      "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "locator": "Sección dedicada a Ian Fleming",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fleming-vesper-drinks-business",
+      "recommendation_id": "fleming-vesper",
+      "source_id": "articulo-drinks-business",
+      "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "locator": "Sección dedicada a Ian Fleming",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fleming-vesper-slosh-spot",
+      "recommendation_id": "fleming-vesper",
+      "source_id": "articulo-slosh-spot",
+      "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "locator": "Sección dedicada a Ian Fleming",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-fleming-vesper-abebooks",
+      "recommendation_id": "fleming-vesper",
+      "source_id": "articulo-abebooks",
+      "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+      "locator": "Sección dedicada a Ian Fleming",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-williams-ramos-fizz-aoide",
+      "recommendation_id": "williams-ramos-fizz",
+      "source_id": "articulo-aoide",
+      "claim": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+      "locator": "Sección dedicada a Tennessee Williams",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-williams-ramos-fizz-drinks-business",
+      "recommendation_id": "williams-ramos-fizz",
+      "source_id": "articulo-drinks-business",
+      "claim": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+      "locator": "Sección dedicada a Tennessee Williams",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-williams-ramos-fizz-writers-write",
+      "recommendation_id": "williams-ramos-fizz",
+      "source_id": "articulo-writers-write",
+      "claim": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+      "locator": "Sección dedicada a Tennessee Williams",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-williams-hot-toddy-abebooks",
+      "recommendation_id": "williams-hot-toddy",
+      "source_id": "articulo-abebooks",
+      "claim": "AbeBooks recoge el Hot Toddy de whiskey, agua caliente y limón que bebe Brick Pollitt en Cat on a Hot Tin Roof.",
+      "locator": "Sección dedicada a Tennessee Williams",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-dickens-whisky-toddy-read-and-co",
+      "recommendation_id": "dickens-whisky-toddy",
+      "source_id": "articulo-read-and-co",
+      "claim": "Read & Co. destaca los vasos de whisky toddy que acompañan la sobremesa festiva en The Pickwick Papers.",
+      "locator": "Sección dedicada a Charles Dickens",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-dickens-smoking-bishop-slosh-spot",
+      "recommendation_id": "dickens-smoking-bishop",
+      "source_id": "articulo-slosh-spot",
+      "claim": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+      "locator": "Sección dedicada a Charles Dickens",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-dickens-smoking-bishop-read-and-co",
+      "recommendation_id": "dickens-smoking-bishop",
+      "source_id": "articulo-read-and-co",
+      "claim": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+      "locator": "Sección dedicada a Charles Dickens",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
+    },
+    {
+      "id": "evidencia-salinger-scotch-soda-lifestyle-asia",
+      "recommendation_id": "salinger-scotch-soda",
+      "source_id": "articulo-lifestyle-asia",
+      "claim": "Lifestyle Asia observa que Holden Caulfield pide Scotch & Soda como parte de su ensayo obstinado de la adultez.",
+      "locator": "Sección dedicada a J. D. Salinger",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-07-26"
     }
   ],
   "sources": [
@@ -1815,6 +4707,168 @@
       "author_or_publisher": "Proyecto Trago y Letra",
       "accessed_at": "2026-07-21",
       "language": "es",
+      "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "articulo-tasting-table",
+      "source_type": "web_article",
+      "title": "12 Famous Writers From History And Their Favorite Cocktails",
+      "author_or_publisher": "Tasting Table",
+      "publication_date": "2025-05-10",
+      "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-financial-times",
+      "source_type": "web_article",
+      "title": "Could you stomach a Shirley Temple?",
+      "author_or_publisher": "Financial Times / Alice Lascelles",
+      "publication_date": "2025-02-22",
+      "url": "https://www.ft.com/content/d1f6052c-2d92-4e51-875d-61415c0d7712",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-glass-and-note",
+      "source_type": "web_article",
+      "title": "Top 10 Literary Cocktails: A Spirits Guide for Book Lovers & Bartenders",
+      "author_or_publisher": "Glass & Note",
+      "publication_date": "2026-06-23",
+      "url": "https://glassandnote.com/spirits/top-10-literary-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-abv-project",
+      "source_type": "web_article",
+      "title": "10 Famous Authors Who Loved Their Cocktails",
+      "author_or_publisher": "ABV Project",
+      "publication_date": "2025-11-25",
+      "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-daily-meal",
+      "source_type": "web_article",
+      "title": "16 Famous Authors' Favorite Cocktails",
+      "author_or_publisher": "The Daily Meal",
+      "publication_date": "2025-05-06",
+      "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-aoide",
+      "source_type": "web_article",
+      "title": "Writers And Their Cocktails",
+      "author_or_publisher": "Aoide Magazine",
+      "publication_date": "2022-05-06",
+      "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-scott-hotel",
+      "source_type": "web_article",
+      "title": "6 Great Writers & Their Favourite Cocktails",
+      "author_or_publisher": "The Scott Hotel",
+      "publication_date": "2021-07-16",
+      "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-lifestyle-asia",
+      "source_type": "web_article",
+      "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+      "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+      "publication_date": "2019-05-26",
+      "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-bustle",
+      "source_type": "web_article",
+      "title": "The Drink Of Choice Of 11 Famous Authors",
+      "author_or_publisher": "Bustle / Charlotte Ahlin",
+      "publication_date": "2017-03-09",
+      "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-drinks-business",
+      "source_type": "web_article",
+      "title": "Top 10 writers and their favourite drinks",
+      "author_or_publisher": "The Drinks Business / Lucy Shaw",
+      "publication_date": "2014-05-14",
+      "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-slosh-spot",
+      "source_type": "web_article",
+      "title": "16 Drinks Named For Authors And Their Books",
+      "author_or_publisher": "Slosh Spot",
+      "publication_date": "2014-03-03",
+      "url": "https://www.sloshspot.com/blog/09-21-2008/16-Drinks-Named-for-Authors-and-Their-Books-56",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-writers-write",
+      "source_type": "web_article",
+      "title": "13 Famous Writers And Their Favourite Drinks",
+      "author_or_publisher": "Writers Write",
+      "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-abebooks",
+      "source_type": "web_article",
+      "title": "Cocktails in literature",
+      "author_or_publisher": "AbeBooks",
+      "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-read-and-co",
+      "source_type": "web_article",
+      "title": "Books and Booze: Literary Cocktails in Classic Books",
+      "author_or_publisher": "Read & Co. Books",
+      "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "libro-bibliotopia",
+      "source_type": "book",
+      "title": "Bibliotopia, or, Mr. Gilbar's book of books & catch-all of literary facts & curiosities",
+      "author_or_publisher": "Steven Gilbar",
+      "publication_date": "2005-01-01",
+      "url": "https://archive.org/details/bibliotopiaormrg0000gilb",
+      "accessed_at": "2026-07-26",
+      "language": "en",
       "reliability_tier": "reputable_secondary"
     }
   ]

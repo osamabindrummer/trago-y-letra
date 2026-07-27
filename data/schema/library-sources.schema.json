@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://trago-y-letra.local/schemas/library-sources.schema.json",
+  "title": "Inventario de fuentes bibliográficas locales",
+  "type": "object",
+  "required": ["version", "sources"],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "author",
+        "format",
+        "local_filename",
+        "language",
+        "rights_status",
+        "ingestion_status",
+        "author_ids",
+        "notes"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "author": {
+          "type": "string",
+          "minLength": 1
+        },
+        "format": {
+          "enum": ["epub", "pdf"]
+        },
+        "local_filename": {
+          "type": "string",
+          "pattern": "^[^/\\\\]+\\.(epub|pdf)$"
+        },
+        "isbn": {
+          "type": ["string", "null"]
+        },
+        "edition": {
+          "type": ["string", "null"]
+        },
+        "publication_year": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "maximum": 2100
+        },
+        "language": {
+          "type": "string",
+          "pattern": "^[a-z]{2,3}(-[A-Z]{2})?$"
+        },
+        "rights_status": {
+          "enum": [
+            "public_domain",
+            "licensed",
+            "personal_copy",
+            "permission_required",
+            "unknown"
+          ]
+        },
+        "ingestion_status": {
+          "enum": [
+            "queued",
+            "metadata_checked",
+            "searchable",
+            "extraction_completed",
+            "evidence_under_review",
+            "incorporated",
+            "blocked"
+          ]
+        },
+        "author_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          }
+        },
+        "added_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "processed_at": {
+          "type": ["string", "null"],
+          "format": "date"
+        },
+        "sha256": {
+          "type": ["string", "null"],
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

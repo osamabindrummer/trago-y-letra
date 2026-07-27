@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "npm run validate:content && npm run build:content && vite build",
     "validate:content": "tsx scripts/validate-content.ts",
+    "validate:library": "tsx scripts/validate-library.ts",
     "validate:research": "tsx scripts/validate-research.ts",
     "build:content": "tsx scripts/build-content.ts",
     "test": "vitest run",

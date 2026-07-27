@@ -28,6 +28,7 @@ Abre la URL que Vite indique, normalmente `http://localhost:5173`.
 
 ```bash
 npm run validate:content
+npm run validate:library
 npm run validate:research
 npm run build:content
 npm run lint
@@ -54,22 +55,30 @@ Sitio público: [trago-y-letra.vercel.app](https://trago-y-letra.vercel.app).
 
 ## Flujo editorial
 
-1. Los candidatos sin revisar van a `data/research/candidates/` y deben pasar `npm run validate:research`.
-2. Se comprueba cada URL, localizador, fragmento y tipo de relación contra la fuente.
-3. Sólo el equipo editor promueve evidencias y fichas a `data/source/catalog.json`.
-4. `npm run validate:content` impide referencias rotas, duplicados, confianza baja publicada y fuentes insuficientes. Una alternativa sin alcohol puede registrarse, pero no es obligatoria.
-5. `npm run build:content` excluye autores o recomendaciones que no estén en estado `published`.
+1. Los EPUB/PDF locales se dejan en `library/inbox/`, se inventarían en `data/research/library-sources.json` y deben pasar `npm run validate:library`.
+2. Los candidatos sin revisar van a `data/research/candidates/` y deben pasar `npm run validate:research`.
+3. Se comprueba cada fuente, localizador, fragmento y tipo de relación.
+4. Sólo el equipo editor promueve evidencias y fichas a `data/source/catalog.json`.
+5. `npm run validate:content` impide referencias rotas, duplicados, confianza baja publicada y fuentes insuficientes. Una alternativa sin alcohol puede registrarse, pero no es obligatoria.
+6. `npm run build:content` excluye autores o recomendaciones que no estén en estado `published`.
 
-El único fixture sintético restante está en estado `draft`: prueba que el pipeline excluye contenido no publicable. El catálogo público contiene 20 autores reales; no expone fixtures.
+El procedimiento para depositar, leer y procesar libros está en
+[`docs/SOURCE_INGESTION.md`](docs/SOURCE_INGESTION.md). Los archivos completos
+son privados, están ignorados por Git y nunca se incorporan automáticamente al
+catálogo.
+
+El único fixture sintético restante está en estado `draft`: prueba que el pipeline excluye contenido no publicable. El catálogo público contiene 28 autores reales y 49 recomendaciones; no expone fixtures.
 
 ## Estructura
 
 ```text
 data/source/catalog.json        fuente editorial canónica
+data/research/library-sources.json inventario de libros locales
 data/research/candidates/       salidas sin aprobar de investigación
 data/research/rejected/         descartes y contradicciones
 data/schema/                    contratos JSON
 scripts/                        validación y compilación
+library/                        depósito privado local de EPUB/PDF
 src/content/generated.ts        resultado público generado
 src/                            interfaz React
 public/images/                  imagen optimizada de la portada
@@ -81,6 +90,7 @@ docs/DECISIONS.md               decisiones técnicas y editoriales
 ## Licencias, seguridad y límites
 
 - La V1 no contiene retratos, portadas ni obras completas de terceros. La imagen `public/images/cantina-1955.webp` fue generada específicamente para el proyecto y optimizada para la portada.
+- Los libros locales de `library/inbox/` y `library/processed/` están excluidos de Git. Sólo se versionan sus metadatos y resultados editoriales permitidos.
 - No agregues claves al repositorio. `.env` está ignorado; `OPENAI_API_KEY`, si se usa en investigación local autorizada, nunca llega al cliente.
 - Las recetas se redactan de forma original y las fuentes se conservan con un enlace o una referencia comprobable.
 - La ficha debe distinguir hecho documentado, presencia en la obra, maridaje editorial y abstinencia o recuperación. No se romantiza la dependencia.

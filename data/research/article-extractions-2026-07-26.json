@@ -1,0 +1,646 @@
+{
+  "run": {
+    "executed_at": "2026-07-26",
+    "model": "gpt-5.6-terra",
+    "selection_rule": "Las páginas indicadas por la persona usuaria se aceptan como respaldo suficiente para esta pasada. Las asociaciones idénticas se consolidan y conservan todas sus fuentes.",
+    "deduplication_key": "author + drink + work cuando la obra está identificada"
+  },
+  "sources": [
+    {
+      "key": "tasting-table",
+      "title": "12 Famous Writers From History And Their Favorite Cocktails",
+      "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "financial-times",
+      "title": "Could you stomach a Shirley Temple? The sickly evolution of the celebrity cocktail",
+      "url": "https://www.ft.com/content/d1f6052c-2d92-4e51-875d-61415c0d7712",
+      "status": "reviewed_from_user_pdf",
+      "note": "Revisado desde ft.pdf adjuntado por la persona usuaria."
+    },
+    {
+      "key": "glass-and-note",
+      "title": "Top 10 Literary Cocktails: A Spirits Guide for Book Lovers & Bartenders",
+      "url": "https://glassandnote.com/spirits/top-10-literary-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "abv-project",
+      "title": "10 Famous Authors Who Loved Their Cocktails",
+      "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "daily-meal",
+      "title": "16 Famous Authors' Favorite Cocktails",
+      "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "aoide",
+      "title": "Writers And Their Cocktails",
+      "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "scott-hotel",
+      "title": "6 Great Writers & Their Favourite Cocktails",
+      "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "lifestyle-asia",
+      "title": "Cocktails from famous novels",
+      "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+      "status": "reviewed_from_user_pdf",
+      "note": "Revisado desde lifestyleasia.pdf adjuntado por la persona usuaria."
+    },
+    {
+      "key": "bustle",
+      "title": "The Drink Of Choice Of 11 Famous Authors",
+      "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+      "status": "reviewed"
+    },
+    {
+      "key": "drinks-business",
+      "title": "Top 10 writers and their favourite drinks",
+      "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+      "status": "reviewed"
+    },
+    {
+      "key": "slosh-spot",
+      "title": "16 Drinks Named For Authors And Their Books",
+      "url": "https://www.sloshspot.com/blog/09-21-2008/16-Drinks-Named-for-Authors-and-Their-Books-56",
+      "status": "reviewed"
+    },
+    {
+      "key": "writers-write",
+      "title": "13 Famous Writers And Their Favourite Drinks",
+      "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+      "status": "reviewed"
+    },
+    {
+      "key": "abebooks",
+      "title": "Cocktails in literature",
+      "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+      "status": "reviewed"
+    },
+    {
+      "key": "read-and-co",
+      "title": "Books and Booze: Literary Cocktails in Classic Books",
+      "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+      "status": "reviewed"
+    },
+    {
+      "key": "bibliotopia",
+      "title": "Bibliotopia, or, Mr. Gilbar's book of books & catch-all of literary facts & curiosities",
+      "url": "https://archive.org/details/bibliotopiaormrg0000gilb",
+      "status": "user_supplied_quote",
+      "note": "Cita aportada por la persona usuaria; no se indicó número de página."
+    }
+  ],
+  "associations": [
+    {
+      "author": "Ernest Hemingway",
+      "drink": "Daiquiri / Papa Doble",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "financial-times", "glass-and-note", "abv-project", "daily-meal", "drinks-business"]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "drink": "Mojito",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide", "bustle", "writers-write"]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "drink": "Martini / Montgomery",
+      "relationship": "circulating_anecdote",
+      "sources": ["financial-times", "scott-hotel", "drinks-business"]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "drink": "Cognac",
+      "relationship": "circulating_anecdote",
+      "sources": ["financial-times"]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "drink": "Jack Rose",
+      "work": "The Sun Also Rises",
+      "relationship": "appears_in_work",
+      "sources": ["abv-project", "lifestyle-asia", "abebooks", "read-and-co"]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "drink": "Death in the Afternoon",
+      "relationship": "circulating_anecdote",
+      "sources": ["drinks-business", "slosh-spot"]
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "drink": "Gin Rickey",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "financial-times", "abv-project", "daily-meal", "aoide", "scott-hotel", "bustle", "drinks-business", "slosh-spot", "writers-write", "abebooks", "read-and-co"]
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "drink": "Mint Julep",
+      "work": "The Great Gatsby",
+      "relationship": "appears_in_work",
+      "sources": ["lifestyle-asia", "abebooks", "read-and-co"]
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "drink": "The Gatsby",
+      "relationship": "circulating_anecdote",
+      "sources": ["glass-and-note"]
+    },
+    {
+      "author": "Dorothy Parker",
+      "drink": "Whisky Sour",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "daily-meal", "aoide", "bustle"]
+    },
+    {
+      "author": "Dorothy Parker",
+      "drink": "Martini",
+      "relationship": "circulating_anecdote",
+      "sources": ["abv-project", "daily-meal", "drinks-business", "writers-write"]
+    },
+    {
+      "author": "Jack Kerouac",
+      "drink": "Margarita / Mezcal Margarita",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "daily-meal", "aoide", "scott-hotel", "bustle", "drinks-business", "writers-write"]
+    },
+    {
+      "author": "Jack Kerouac",
+      "drink": "Wine Spodiodi",
+      "work": "On the Road",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Jack Kerouac",
+      "drink": "The Jack Kerouac",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "William Faulkner",
+      "drink": "Mint Julep",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal", "aoide", "scott-hotel", "bustle", "drinks-business", "writers-write"]
+    },
+    {
+      "author": "Charles Bukowski",
+      "drink": "Boilermaker",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal", "aoide", "bustle", "drinks-business", "writers-write"]
+    },
+    {
+      "author": "Raymond Chandler",
+      "drink": "Gimlet",
+      "work": "The Long Goodbye",
+      "relationship": "appears_in_work",
+      "sources": ["aoide", "drinks-business", "abebooks"]
+    },
+    {
+      "author": "Raymond Chandler",
+      "drink": "Champagne Cocktail",
+      "work": "The Big Sleep",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Raymond Chandler",
+      "drink": "Beer",
+      "relationship": "circulating_anecdote",
+      "quote": "I'm an occasional drinker, the kind of guy who goes out for a beer and wakes up in Singapore with a full beard.",
+      "locator": "Página no indicada por la persona usuaria",
+      "sources": ["bibliotopia"]
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "drink": "Brandy Eggnog",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal", "aoide", "bustle"]
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "drink": "Cognac",
+      "relationship": "circulating_anecdote",
+      "sources": ["bustle"]
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "drink": "The Raven beer",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "Eugene O'Neill",
+      "drink": "Gibson",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide", "writers-write"]
+    },
+    {
+      "author": "Hunter S. Thompson",
+      "drink": "Singapore Sling",
+      "work": "Fear and Loathing in Las Vegas",
+      "relationship": "appears_in_work",
+      "sources": ["tasting-table", "abv-project", "abebooks"]
+    },
+    {
+      "author": "Pablo Neruda",
+      "drink": "El Coquetelón",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal"]
+    },
+    {
+      "author": "Sylvia Plath",
+      "drink": "Vodka Martini",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "aoide"]
+    },
+    {
+      "author": "Truman Capote",
+      "drink": "Screwdriver",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "abv-project", "aoide", "scott-hotel", "bustle", "drinks-business"]
+    },
+    {
+      "author": "Truman Capote",
+      "drink": "White Angel",
+      "work": "Breakfast at Tiffany's",
+      "relationship": "appears_in_work",
+      "sources": ["abv-project", "abebooks"]
+    },
+    {
+      "author": "Oscar Wilde",
+      "drink": "Absinthe",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table", "aoide", "bustle", "writers-write"]
+    },
+    {
+      "author": "Zelda Fitzgerald",
+      "drink": "Vodka Lemonade",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table"]
+    },
+    {
+      "author": "James Baldwin",
+      "drink": "Bourbon neat",
+      "relationship": "circulating_anecdote",
+      "sources": ["tasting-table"]
+    },
+    {
+      "author": "Anthony Bourdain",
+      "drink": "Negroni",
+      "relationship": "author_documented",
+      "sources": ["tasting-table"]
+    },
+    {
+      "author": "Maya Angelou",
+      "drink": "Sherry",
+      "relationship": "author_documented",
+      "sources": ["tasting-table", "daily-meal", "bustle"]
+    },
+    {
+      "author": "Alexander Pushkin",
+      "drink": "Zhzhyonka",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal"]
+    },
+    {
+      "author": "Simone de Beauvoir",
+      "drink": "Apricot Cocktail",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal"]
+    },
+    {
+      "author": "Victor Hugo",
+      "drink": "Kirsch Cocktail",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal"]
+    },
+    {
+      "author": "Edna St. Vincent Millay",
+      "drink": "Between the Sheets / Sidecar",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal", "aoide"]
+    },
+    {
+      "author": "Flannery O'Connor",
+      "drink": "Coke and Coffee mocktail",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal"]
+    },
+    {
+      "author": "Anne Sexton",
+      "drink": "Dry Martini",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal", "aoide", "bustle", "writers-write"]
+    },
+    {
+      "author": "Aphra Behn",
+      "drink": "Milk Punch",
+      "relationship": "circulating_anecdote",
+      "sources": ["daily-meal"]
+    },
+    {
+      "author": "P. G. Wodehouse",
+      "drink": "Whisky and Soda",
+      "work": "Carry On, Jeeves",
+      "relationship": "appears_in_work",
+      "sources": ["abv-project"]
+    },
+    {
+      "author": "Ian Fleming",
+      "drink": "Vesper Martini",
+      "work": "Casino Royale",
+      "relationship": "appears_in_work",
+      "sources": ["abv-project", "scott-hotel", "lifestyle-asia", "drinks-business", "slosh-spot", "abebooks"]
+    },
+    {
+      "author": "Evelyn Waugh",
+      "drink": "Alexander Cocktail",
+      "work": "Brideshead Revisited",
+      "relationship": "appears_in_work",
+      "sources": ["abv-project", "lifestyle-asia", "abebooks"]
+    },
+    {
+      "author": "Evelyn Waugh",
+      "drink": "Noonday Reviver",
+      "relationship": "circulating_anecdote",
+      "sources": ["abv-project"]
+    },
+    {
+      "author": "Kingsley Amis",
+      "drink": "Vodka Martini",
+      "relationship": "circulating_anecdote",
+      "sources": ["abv-project"]
+    },
+    {
+      "author": "W. Somerset Maugham",
+      "drink": "Gin Pahit / Gin Sling",
+      "relationship": "circulating_anecdote",
+      "sources": ["abv-project"]
+    },
+    {
+      "author": "Tennessee Williams",
+      "drink": "Ramos Gin Fizz",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide", "drinks-business", "writers-write"]
+    },
+    {
+      "author": "John Steinbeck",
+      "drink": "Jack Rose",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide", "drinks-business"]
+    },
+    {
+      "author": "Lord Byron",
+      "drink": "Zitsa sparkling wine",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Dylan Thomas",
+      "drink": "Whiskey",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide", "slosh-spot", "writers-write"]
+    },
+    {
+      "author": "Jane Austen",
+      "drink": "French wine",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Mark Twain",
+      "drink": "Old Fashioned",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "William Shakespeare",
+      "drink": "Beer and Ale",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Edith Wharton",
+      "drink": "Wine",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "George Bernard Shaw",
+      "drink": "Whiskey",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Emily Dickinson",
+      "drink": "Wine and dessert liqueur",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Carson McCullers",
+      "drink": "Hot Tea and Sherry",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Jack London",
+      "drink": "Gin Martini",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide", "writers-write"]
+    },
+    {
+      "author": "Gertrude Stein",
+      "drink": "Pimm's Cup",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Norman Mailer",
+      "drink": "Bourbon",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Charles Dickens",
+      "drink": "Sherry and Brandy",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "Charles Dickens",
+      "drink": "Whisky Toddy",
+      "work": "The Pickwick Papers",
+      "relationship": "appears_in_work",
+      "sources": ["read-and-co"]
+    },
+    {
+      "author": "Charles Dickens",
+      "drink": "Smoking Bishop",
+      "work": "A Christmas Carol",
+      "relationship": "appears_in_work",
+      "sources": ["slosh-spot", "read-and-co"]
+    },
+    {
+      "author": "George Orwell",
+      "drink": "Dark Stout Beer",
+      "relationship": "circulating_anecdote",
+      "sources": ["aoide"]
+    },
+    {
+      "author": "George Orwell",
+      "drink": "Negroni",
+      "relationship": "circulating_anecdote",
+      "sources": ["glass-and-note"]
+    },
+    {
+      "author": "William S. Burroughs",
+      "drink": "Vodka Coke",
+      "relationship": "circulating_anecdote",
+      "sources": ["writers-write"]
+    },
+    {
+      "author": "Sir Walter Scott",
+      "drink": "The Sir Walter Scott",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "J. K. Rowling",
+      "drink": "The Gryffindor",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "Henry James",
+      "drink": "The Turn of the Screwdriver",
+      "work": "The Turn of the Screw",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "J. D. Salinger",
+      "drink": "Catcher in the Rye",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot", "glass-and-note"]
+    },
+    {
+      "author": "J. D. Salinger",
+      "drink": "Scotch & Soda",
+      "work": "The Catcher in the Rye",
+      "relationship": "appears_in_work",
+      "sources": ["lifestyle-asia"]
+    },
+    {
+      "author": "Philip K. Dick",
+      "drink": "Blade Runner",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "Aleister Crowley",
+      "drink": "Crowley Cup",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot"]
+    },
+    {
+      "author": "Douglas Adams",
+      "drink": "Pangalactic Gargleblaster",
+      "work": "The Hitchhiker's Guide to the Galaxy",
+      "relationship": "editorial_pairing",
+      "sources": ["slosh-spot", "abebooks"]
+    },
+    {
+      "author": "Graham Greene",
+      "drink": "Daiquiri",
+      "work": "Our Man in Havana",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Anthony Burgess",
+      "drink": "Moloko Plus",
+      "work": "A Clockwork Orange",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Tennessee Williams",
+      "drink": "Hot Toddy",
+      "work": "Cat on a Hot Tin Roof",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Kurt Vonnegut",
+      "drink": "House of Lords Martini",
+      "work": "Breakfast of Champions",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Thomas Pynchon",
+      "drink": "Whiskey Sour",
+      "work": "The Crying of Lot 49",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    },
+    {
+      "author": "Walker Percy",
+      "drink": "Gin Fizz",
+      "work": "Love in the Ruins",
+      "relationship": "appears_in_work",
+      "sources": ["abebooks"]
+    }
+  ],
+  "rejected": [
+    {
+      "author": "James Frey",
+      "drink": "A Million Lies",
+      "source": "slosh-spot",
+      "reason": "La supuesta receta enumera drogas, éter y cigarrillos; no es una bebida apta para la base jugable."
+    },
+    {
+      "author": "Stephen King",
+      "drink": "Bloody Stephen",
+      "source": "slosh-spot",
+      "reason": "Es un juego de palabras sin vínculo literario concreto y contradice el tratamiento editorial vigente de recuperación del autor."
+    },
+    {
+      "author": "Virginia Woolf",
+      "drink": "Woolf's Bloomsbury",
+      "source": "glass-and-note",
+      "reason": "La página lo presenta como reconstrucción propia; se conserva como hallazgo, pero no ofrece una obra o preferencia concreta para el juego."
+    },
+    {
+      "author": "Jane Austen",
+      "drink": "Austen's Regency Sour",
+      "source": "glass-and-note",
+      "reason": "La página lo presenta como reconstrucción a partir de libros de botica, no como bebida de la autora ni aparición en una obra."
+    },
+    {
+      "author": "Toni Morrison",
+      "drink": "Morrison's Jazz Age",
+      "source": "glass-and-note",
+      "reason": "La asociación descrita es una reconstrucción temática sin vínculo identificable con una obra o hábito de la autora."
+    },
+    {
+      "author": "Franz Kafka",
+      "drink": "Kafka's Absinthe Rinse",
+      "source": "glass-and-note",
+      "reason": "La página no entrega una obra o preferencia verificable dentro del propio artículo; queda fuera de la base jugable."
+    }
+  ]
+}

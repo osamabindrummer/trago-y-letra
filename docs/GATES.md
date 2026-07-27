@@ -10,3 +10,7 @@
 | 5 | aprobado · 2026-07-21 | `catalog.json` compila 20 autores reales `published`, con dos obras, una recomendación, evidencia, receta y fuentes por ficha. Los fixtures públicos Luna Álvarez y Mateo Ríos fueron sustituidos; sólo persiste el borrador sintético excluido. |
 | 6 | aprobado · 2026-07-22 | `validate:content`, `validate:research`, lint, 8 pruebas unitarias/componentes, 4 E2E y build pasan. El rediseño aprobado fue revisado en escritorio y móvil; se comprobó búsqueda por título, cierre de sugerencias, tres tarjetas responsive y movimiento reducido. |
 | 7 | aprobado · 2026-07-21 | README documenta instalación, desarrollo, validación, E2E, build estático y despliegue Vercel. Producción publicada en `trago-y-letra.vercel.app`; la V1 no tiene backend, servicios externos ni secretos. |
+
+## Ampliaciones posteriores
+
+- **2026-07-26 — pasada editorial de artículos:** 14 páginas indicadas por la persona usuaria, más una cita bibliográfica aportada directamente, quedaron registradas y deduplicadas en `data/research/article-extractions-2026-07-26.json`. El catálogo público pasó a 28 autores y 49 recomendaciones. Las asociaciones procedentes de listas se publicaron como `circulating_anecdote`; la mezcla no bebible “A Million Lies” y otras reconstrucciones sin vínculo concreto se conservaron como descartes.

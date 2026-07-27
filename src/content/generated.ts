@@ -2,7 +2,7 @@
 import type { PublicCatalog } from '../../scripts/content-types'
 
 export const content: PublicCatalog = {
-  "generated_at": "2026-07-23",
+  "generated_at": "2026-07-26",
   "authors": [
     {
       "id": "dorothy-parker",
@@ -103,6 +103,268 @@ export const content: PublicCatalog = {
                 "accessed_at": "2026-07-21",
                 "language": "en",
                 "reliability_tier": "primary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "parker-whiskey-sour",
+          "author_id": "dorothy-parker",
+          "drink_id": "whiskey-sour",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "La acidez de un Whiskey Sour",
+          "explanation_es": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-parker-whiskey-sour-tasting-table",
+            "evidencia-parker-whiskey-sour-daily-meal",
+            "evidencia-parker-whiskey-sour-aoide",
+            "evidencia-parker-whiskey-sour-bustle"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "whiskey-sour",
+            "name_es": "Whiskey Sour",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "whiskey",
+                "amount": 50,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "almíbar",
+                "amount": 15,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita con hielo y cuela sobre hielo fresco."
+            ],
+            "glassware": "Vaso corto",
+            "garnish": "Piel de limón",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-parker-whiskey-sour-tasting-table",
+              "recommendation_id": "parker-whiskey-sour",
+              "source_id": "articulo-tasting-table",
+              "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-parker-whiskey-sour-daily-meal",
+              "recommendation_id": "parker-whiskey-sour",
+              "source_id": "articulo-daily-meal",
+              "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-parker-whiskey-sour-aoide",
+              "recommendation_id": "parker-whiskey-sour",
+              "source_id": "articulo-aoide",
+              "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-parker-whiskey-sour-bustle",
+              "recommendation_id": "parker-whiskey-sour",
+              "source_id": "articulo-bustle",
+              "claim": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "parker-martini",
+          "author_id": "dorothy-parker",
+          "drink_id": "martini-seco",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Dos Martinis, como máximo",
+          "explanation_es": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-parker-martini-abv-project",
+            "evidencia-parker-martini-daily-meal",
+            "evidencia-parker-martini-drinks-business",
+            "evidencia-parker-martini-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "martini-seco",
+            "name_es": "Martini seco",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ginebra",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Remueve con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa de cóctel",
+            "garnish": "Piel de limón",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-parker-martini-abv-project",
+              "recommendation_id": "parker-martini",
+              "source_id": "articulo-abv-project",
+              "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abv-project",
+                "source_type": "web_article",
+                "title": "10 Famous Authors Who Loved Their Cocktails",
+                "author_or_publisher": "ABV Project",
+                "publication_date": "2025-11-25",
+                "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-parker-martini-daily-meal",
+              "recommendation_id": "parker-martini",
+              "source_id": "articulo-daily-meal",
+              "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-parker-martini-drinks-business",
+              "recommendation_id": "parker-martini",
+              "source_id": "articulo-drinks-business",
+              "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-parker-martini-writers-write",
+              "recommendation_id": "parker-martini",
+              "source_id": "articulo-writers-write",
+              "claim": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+              "locator": "Sección dedicada a Dorothy Parker",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
               }
             }
           ]
@@ -211,6 +473,155 @@ export const content: PublicCatalog = {
               }
             }
           ]
+        },
+        {
+          "id": "bukowski-boilermaker",
+          "author_id": "charles-bukowski",
+          "drink_id": "boilermaker",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Cerveza con un golpe de bourbon",
+          "explanation_es": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-bukowski-boilermaker-daily-meal",
+            "evidencia-bukowski-boilermaker-aoide",
+            "evidencia-bukowski-boilermaker-bustle",
+            "evidencia-bukowski-boilermaker-drinks-business",
+            "evidencia-bukowski-boilermaker-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "boilermaker",
+            "name_es": "Boilermaker",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cerveza",
+                "amount": 330,
+                "unit": "ml"
+              },
+              {
+                "name": "bourbon",
+                "amount": 45,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve la cerveza y el bourbon por separado para alternarlos."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-bukowski-boilermaker-daily-meal",
+              "recommendation_id": "bukowski-boilermaker",
+              "source_id": "articulo-daily-meal",
+              "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+              "locator": "Sección dedicada a Charles Bukowski",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-bukowski-boilermaker-aoide",
+              "recommendation_id": "bukowski-boilermaker",
+              "source_id": "articulo-aoide",
+              "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+              "locator": "Sección dedicada a Charles Bukowski",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-bukowski-boilermaker-bustle",
+              "recommendation_id": "bukowski-boilermaker",
+              "source_id": "articulo-bustle",
+              "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+              "locator": "Sección dedicada a Charles Bukowski",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-bukowski-boilermaker-drinks-business",
+              "recommendation_id": "bukowski-boilermaker",
+              "source_id": "articulo-drinks-business",
+              "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+              "locator": "Sección dedicada a Charles Bukowski",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-bukowski-boilermaker-writers-write",
+              "recommendation_id": "bukowski-boilermaker",
+              "source_id": "articulo-writers-write",
+              "claim": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+              "locator": "Sección dedicada a Charles Bukowski",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
         }
       ]
     },
@@ -312,6 +723,267 @@ export const content: PublicCatalog = {
                 "accessed_at": "2026-07-21",
                 "language": "en",
                 "reliability_tier": "primary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kerouac-margarita",
+          "author_id": "jack-kerouac",
+          "drink_id": "margarita-mezcal",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Una Margarita para salir a la carretera",
+          "explanation_es": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-kerouac-margarita-tasting-table",
+            "evidencia-kerouac-margarita-daily-meal",
+            "evidencia-kerouac-margarita-aoide",
+            "evidencia-kerouac-margarita-scott-hotel",
+            "evidencia-kerouac-margarita-bustle",
+            "evidencia-kerouac-margarita-drinks-business",
+            "evidencia-kerouac-margarita-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "margarita-mezcal",
+            "name_es": "Margarita de mezcal",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "mezcal",
+                "amount": 50,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 25,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita con hielo y cuela en una copa con borde de sal."
+            ],
+            "glassware": "Copa coupé",
+            "garnish": "Sal y lima",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-kerouac-margarita-tasting-table",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-tasting-table",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-kerouac-margarita-daily-meal",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-daily-meal",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-kerouac-margarita-aoide",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-aoide",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-kerouac-margarita-scott-hotel",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-scott-hotel",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-scott-hotel",
+                "source_type": "web_article",
+                "title": "6 Great Writers & Their Favourite Cocktails",
+                "author_or_publisher": "The Scott Hotel",
+                "publication_date": "2021-07-16",
+                "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-kerouac-margarita-bustle",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-bustle",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-kerouac-margarita-drinks-business",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-drinks-business",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-kerouac-margarita-writers-write",
+              "recommendation_id": "kerouac-margarita",
+              "source_id": "articulo-writers-write",
+              "claim": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "kerouac-wine-spodiodi",
+          "author_id": "jack-kerouac",
+          "work_id": "on-the-road",
+          "drink_id": "wine-spodiodi",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Oporto y whiskey en el camino",
+          "explanation_es": "AbeBooks recoge el Wine Spodiodi de On the Road: Oporto y whiskey en una combinación tan improvisada como el viaje.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-kerouac-wine-spodiodi-abebooks"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "wine-spodiodi",
+            "name_es": "Wine Spodiodi",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "vino de Oporto",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "whiskey",
+                "amount": 30,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve ambos ingredientes sobre hielo y remueve."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-kerouac-wine-spodiodi-abebooks",
+              "recommendation_id": "kerouac-wine-spodiodi",
+              "source_id": "articulo-abebooks",
+              "claim": "AbeBooks recoge el Wine Spodiodi de On the Road: Oporto y whiskey en una combinación tan improvisada como el viaje.",
+              "locator": "Sección dedicada a Jack Kerouac",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
               }
             }
           ]
@@ -429,6 +1101,112 @@ export const content: PublicCatalog = {
                 "accessed_at": "2026-07-21",
                 "language": "en",
                 "reliability_tier": "primary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fitzgerald-mint-julep",
+          "author_id": "f-scott-fitzgerald",
+          "work_id": "the-great-gatsby",
+          "drink_id": "mint-julep",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Mint Julep para bajar la temperatura",
+          "explanation_es": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-fitzgerald-mint-julep-lifestyle-asia",
+            "evidencia-fitzgerald-mint-julep-abebooks",
+            "evidencia-fitzgerald-mint-julep-read-and-co"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "mint-julep",
+            "name_es": "Mint Julep",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "bourbon",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "almíbar",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Añade menta y hielo picado; incorpora el bourbon y remueve."
+            ],
+            "glassware": "Vaso julep",
+            "garnish": "Menta",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-fitzgerald-mint-julep-lifestyle-asia",
+              "recommendation_id": "fitzgerald-mint-julep",
+              "source_id": "articulo-lifestyle-asia",
+              "claim": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+              "locator": "Sección dedicada a F. Scott Fitzgerald",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-lifestyle-asia",
+                "source_type": "web_article",
+                "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+                "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+                "publication_date": "2019-05-26",
+                "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fitzgerald-mint-julep-abebooks",
+              "recommendation_id": "fitzgerald-mint-julep",
+              "source_id": "articulo-abebooks",
+              "claim": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+              "locator": "Sección dedicada a F. Scott Fitzgerald",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fitzgerald-mint-julep-read-and-co",
+              "recommendation_id": "fitzgerald-mint-julep",
+              "source_id": "articulo-read-and-co",
+              "claim": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+              "locator": "Sección dedicada a F. Scott Fitzgerald",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-read-and-co",
+                "source_type": "web_article",
+                "title": "Books and Booze: Literary Cocktails in Classic Books",
+                "author_or_publisher": "Read & Co. Books",
+                "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
               }
             }
           ]
@@ -550,6 +1328,178 @@ export const content: PublicCatalog = {
                 "accessed_at": "2026-07-21",
                 "language": "en",
                 "reliability_tier": "primary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "faulkner-mint-julep",
+          "author_id": "william-faulkner",
+          "drink_id": "mint-julep",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Julep sureño para Faulkner",
+          "explanation_es": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-faulkner-mint-julep-daily-meal",
+            "evidencia-faulkner-mint-julep-aoide",
+            "evidencia-faulkner-mint-julep-scott-hotel",
+            "evidencia-faulkner-mint-julep-bustle",
+            "evidencia-faulkner-mint-julep-drinks-business",
+            "evidencia-faulkner-mint-julep-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "mint-julep",
+            "name_es": "Mint Julep",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "bourbon",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "almíbar",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Añade menta y hielo picado; incorpora el bourbon y remueve."
+            ],
+            "glassware": "Vaso julep",
+            "garnish": "Menta",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-faulkner-mint-julep-daily-meal",
+              "recommendation_id": "faulkner-mint-julep",
+              "source_id": "articulo-daily-meal",
+              "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+              "locator": "Sección dedicada a William Faulkner",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-faulkner-mint-julep-aoide",
+              "recommendation_id": "faulkner-mint-julep",
+              "source_id": "articulo-aoide",
+              "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+              "locator": "Sección dedicada a William Faulkner",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-faulkner-mint-julep-scott-hotel",
+              "recommendation_id": "faulkner-mint-julep",
+              "source_id": "articulo-scott-hotel",
+              "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+              "locator": "Sección dedicada a William Faulkner",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-scott-hotel",
+                "source_type": "web_article",
+                "title": "6 Great Writers & Their Favourite Cocktails",
+                "author_or_publisher": "The Scott Hotel",
+                "publication_date": "2021-07-16",
+                "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-faulkner-mint-julep-bustle",
+              "recommendation_id": "faulkner-mint-julep",
+              "source_id": "articulo-bustle",
+              "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+              "locator": "Sección dedicada a William Faulkner",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-faulkner-mint-julep-drinks-business",
+              "recommendation_id": "faulkner-mint-julep",
+              "source_id": "articulo-drinks-business",
+              "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+              "locator": "Sección dedicada a William Faulkner",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-faulkner-mint-julep-writers-write",
+              "recommendation_id": "faulkner-mint-julep",
+              "source_id": "articulo-writers-write",
+              "claim": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+              "locator": "Sección dedicada a William Faulkner",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
               }
             }
           ]
@@ -778,6 +1728,130 @@ export const content: PublicCatalog = {
               }
             }
           ]
+        },
+        {
+          "id": "chandler-champagne-cocktail",
+          "author_id": "raymond-chandler",
+          "work_id": "the-big-sleep",
+          "drink_id": "champagne-cocktail",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Brandy bajo una capa de champaña",
+          "explanation_es": "AbeBooks rescata la preferencia de General Sternwood en The Big Sleep: champaña helada sobre un tercio de brandy.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-chandler-champagne-cocktail-abebooks"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "champagne-cocktail",
+            "name_es": "Champagne Cocktail",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "espumante brut",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "brandy",
+                "amount": 30,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve el brandy y completa con el espumante bien frío."
+            ],
+            "glassware": "Copa flauta",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-chandler-champagne-cocktail-abebooks",
+              "recommendation_id": "chandler-champagne-cocktail",
+              "source_id": "articulo-abebooks",
+              "claim": "AbeBooks rescata la preferencia de General Sternwood en The Big Sleep: champaña helada sobre un tercio de brandy.",
+              "locator": "Sección dedicada a Raymond Chandler",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "chandler-beer-singapore",
+          "author_id": "raymond-chandler",
+          "drink_id": "cerveza",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Una cerveza con destino inesperado",
+          "explanation_es": "Bibliotopia atribuye a Chandler una broma sobre salir a beber una cerveza y despertar en Singapur con barba completa.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-chandler-beer-singapore-libro-bibliotopia"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "cerveza",
+            "name_es": "Cerveza",
+            "aliases": [
+              "Beer"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cerveza lager",
+                "amount": 330,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría la cerveza.",
+              "Sirve en un vaso limpio."
+            ],
+            "glassware": "Vaso de cerveza",
+            "zero_proof_alternative_id": "cerveza-cero",
+            "recipe_note": "Servicio contemporáneo."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-chandler-beer-singapore-libro-bibliotopia",
+              "recommendation_id": "chandler-beer-singapore",
+              "source_id": "libro-bibliotopia",
+              "claim": "Bibliotopia atribuye a Chandler una broma sobre salir a beber una cerveza y despertar en Singapur con barba completa.",
+              "locator": "Página no indicada por la persona usuaria",
+              "evidence_kind": "direct_quote",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "support_excerpt": "I'm an occasional drinker, the kind of guy who goes out for a beer and wakes up in Singapore with a full beard.",
+              "source": {
+                "id": "libro-bibliotopia",
+                "source_type": "book",
+                "title": "Bibliotopia, or, Mr. Gilbar's book of books & catch-all of literary facts & curiosities",
+                "author_or_publisher": "Steven Gilbar",
+                "publication_date": "2005-01-01",
+                "url": "https://archive.org/details/bibliotopiaormrg0000gilb",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
         }
       ]
     },
@@ -891,6 +1965,663 @@ export const content: PublicCatalog = {
               }
             }
           ]
+        },
+        {
+          "id": "hemingway-daiquiri",
+          "author_id": "ernest-hemingway",
+          "drink_id": "daiquiri-hemingway",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Daiquiri a la medida de Papa",
+          "explanation_es": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-hemingway-daiquiri-tasting-table",
+            "evidencia-hemingway-daiquiri-financial-times",
+            "evidencia-hemingway-daiquiri-abv-project",
+            "evidencia-hemingway-daiquiri-daily-meal",
+            "evidencia-hemingway-daiquiri-drinks-business"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "daiquiri-hemingway",
+            "name_es": "Daiquiri Hemingway",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ron blanco",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de pomelo",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de maraschino",
+                "amount": 7,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa coupé",
+            "garnish": "Piel de pomelo",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-hemingway-daiquiri-tasting-table",
+              "recommendation_id": "hemingway-daiquiri",
+              "source_id": "articulo-tasting-table",
+              "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-daiquiri-financial-times",
+              "recommendation_id": "hemingway-daiquiri",
+              "source_id": "articulo-financial-times",
+              "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-financial-times",
+                "source_type": "web_article",
+                "title": "Could you stomach a Shirley Temple?",
+                "author_or_publisher": "Financial Times / Alice Lascelles",
+                "publication_date": "2025-02-22",
+                "url": "https://www.ft.com/content/d1f6052c-2d92-4e51-875d-61415c0d7712",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-daiquiri-abv-project",
+              "recommendation_id": "hemingway-daiquiri",
+              "source_id": "articulo-abv-project",
+              "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abv-project",
+                "source_type": "web_article",
+                "title": "10 Famous Authors Who Loved Their Cocktails",
+                "author_or_publisher": "ABV Project",
+                "publication_date": "2025-11-25",
+                "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-daiquiri-daily-meal",
+              "recommendation_id": "hemingway-daiquiri",
+              "source_id": "articulo-daily-meal",
+              "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-daiquiri-drinks-business",
+              "recommendation_id": "hemingway-daiquiri",
+              "source_id": "articulo-drinks-business",
+              "claim": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hemingway-mojito",
+          "author_id": "ernest-hemingway",
+          "drink_id": "mojito",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "El Mojito de La Bodeguita",
+          "explanation_es": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-hemingway-mojito-aoide",
+            "evidencia-hemingway-mojito-bustle",
+            "evidencia-hemingway-mojito-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "mojito",
+            "name_es": "Mojito",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ron blanco",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "almíbar",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Mezcla con hielo, añade el agua con gas y remueve."
+            ],
+            "glassware": "Vaso alto",
+            "garnish": "Menta",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-hemingway-mojito-aoide",
+              "recommendation_id": "hemingway-mojito",
+              "source_id": "articulo-aoide",
+              "claim": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-mojito-bustle",
+              "recommendation_id": "hemingway-mojito",
+              "source_id": "articulo-bustle",
+              "claim": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-mojito-writers-write",
+              "recommendation_id": "hemingway-mojito",
+              "source_id": "articulo-writers-write",
+              "claim": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hemingway-martini",
+          "author_id": "ernest-hemingway",
+          "drink_id": "martini-seco",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Martini casi sin vermut",
+          "explanation_es": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-hemingway-martini-financial-times",
+            "evidencia-hemingway-martini-scott-hotel",
+            "evidencia-hemingway-martini-drinks-business"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "martini-seco",
+            "name_es": "Martini seco",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ginebra",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Remueve con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa de cóctel",
+            "garnish": "Piel de limón",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-hemingway-martini-financial-times",
+              "recommendation_id": "hemingway-martini",
+              "source_id": "articulo-financial-times",
+              "claim": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-financial-times",
+                "source_type": "web_article",
+                "title": "Could you stomach a Shirley Temple?",
+                "author_or_publisher": "Financial Times / Alice Lascelles",
+                "publication_date": "2025-02-22",
+                "url": "https://www.ft.com/content/d1f6052c-2d92-4e51-875d-61415c0d7712",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-martini-scott-hotel",
+              "recommendation_id": "hemingway-martini",
+              "source_id": "articulo-scott-hotel",
+              "claim": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-scott-hotel",
+                "source_type": "web_article",
+                "title": "6 Great Writers & Their Favourite Cocktails",
+                "author_or_publisher": "The Scott Hotel",
+                "publication_date": "2021-07-16",
+                "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-martini-drinks-business",
+              "recommendation_id": "hemingway-martini",
+              "source_id": "articulo-drinks-business",
+              "claim": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hemingway-jack-rose",
+          "author_id": "ernest-hemingway",
+          "work_id": "the-sun-also-rises",
+          "drink_id": "jack-rose",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Jack Rose mientras llega Brett",
+          "explanation_es": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-hemingway-jack-rose-abv-project",
+            "evidencia-hemingway-jack-rose-lifestyle-asia",
+            "evidencia-hemingway-jack-rose-abebooks",
+            "evidencia-hemingway-jack-rose-read-and-co"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "jack-rose",
+            "name_es": "Jack Rose",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "applejack o brandy de manzana",
+                "amount": 50,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "granadina",
+                "amount": 12,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa coupé",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-hemingway-jack-rose-abv-project",
+              "recommendation_id": "hemingway-jack-rose",
+              "source_id": "articulo-abv-project",
+              "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abv-project",
+                "source_type": "web_article",
+                "title": "10 Famous Authors Who Loved Their Cocktails",
+                "author_or_publisher": "ABV Project",
+                "publication_date": "2025-11-25",
+                "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-jack-rose-lifestyle-asia",
+              "recommendation_id": "hemingway-jack-rose",
+              "source_id": "articulo-lifestyle-asia",
+              "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-lifestyle-asia",
+                "source_type": "web_article",
+                "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+                "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+                "publication_date": "2019-05-26",
+                "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-jack-rose-abebooks",
+              "recommendation_id": "hemingway-jack-rose",
+              "source_id": "articulo-abebooks",
+              "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-jack-rose-read-and-co",
+              "recommendation_id": "hemingway-jack-rose",
+              "source_id": "articulo-read-and-co",
+              "claim": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-read-and-co",
+                "source_type": "web_article",
+                "title": "Books and Booze: Literary Cocktails in Classic Books",
+                "author_or_publisher": "Read & Co. Books",
+                "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hemingway-death-in-afternoon",
+          "author_id": "ernest-hemingway",
+          "drink_id": "death-in-the-afternoon",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Absenta y burbujas para la tarde",
+          "explanation_es": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-hemingway-death-in-afternoon-drinks-business",
+            "evidencia-hemingway-death-in-afternoon-slosh-spot"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "death-in-the-afternoon",
+            "name_es": "Death in the Afternoon",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "absenta",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "espumante brut",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Vierte la absenta y completa lentamente con el espumante."
+            ],
+            "glassware": "Copa flauta",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-hemingway-death-in-afternoon-drinks-business",
+              "recommendation_id": "hemingway-death-in-afternoon",
+              "source_id": "articulo-drinks-business",
+              "claim": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-hemingway-death-in-afternoon-slosh-spot",
+              "recommendation_id": "hemingway-death-in-afternoon",
+              "source_id": "articulo-slosh-spot",
+              "claim": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-slosh-spot",
+                "source_type": "web_article",
+                "title": "16 Drinks Named For Authors And Their Books",
+                "author_or_publisher": "Slosh Spot",
+                "publication_date": "2014-03-03",
+                "url": "https://www.sloshspot.com/blog/09-21-2008/16-Drinks-Named-for-Authors-and-Their-Books-56",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hemingway-cognac",
+          "author_id": "ernest-hemingway",
+          "drink_id": "cognac",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Una noche de cognac en el Ritz",
+          "explanation_es": "Financial Times recuerda las noches de Hemingway en el Ritz de París, donde bebía Martinis y cognac con su círculo.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-hemingway-cognac-financial-times"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "cognac",
+            "name_es": "Cognac",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cognac",
+                "amount": 45,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve a temperatura ambiente o apenas refrescado."
+            ],
+            "glassware": "Copa de degustación",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-hemingway-cognac-financial-times",
+              "recommendation_id": "hemingway-cognac",
+              "source_id": "articulo-financial-times",
+              "claim": "Financial Times recuerda las noches de Hemingway en el Ritz de París, donde bebía Martinis y cognac con su círculo.",
+              "locator": "Sección dedicada a Ernest Hemingway",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-financial-times",
+                "source_type": "web_article",
+                "title": "Could you stomach a Shirley Temple?",
+                "author_or_publisher": "Financial Times / Alice Lascelles",
+                "publication_date": "2025-02-22",
+                "url": "https://www.ft.com/content/d1f6052c-2d92-4e51-875d-61415c0d7712",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
         }
       ]
     },
@@ -997,6 +2728,123 @@ export const content: PublicCatalog = {
               }
             }
           ]
+        },
+        {
+          "id": "poe-brandy-eggnog",
+          "author_id": "edgar-allan-poe",
+          "drink_id": "brandy-eggnog",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "El Eggnog de la familia Poe",
+          "explanation_es": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-poe-brandy-eggnog-daily-meal",
+            "evidencia-poe-brandy-eggnog-aoide",
+            "evidencia-poe-brandy-eggnog-bustle"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "brandy-eggnog",
+            "name_es": "Eggnog con brandy",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "brandy",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "ron añejo",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "leche",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "huevo pasteurizado",
+                "amount": 45,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita los ingredientes con hielo y sirve bien frío."
+            ],
+            "glassware": "Taza",
+            "garnish": "Nuez moscada",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-poe-brandy-eggnog-daily-meal",
+              "recommendation_id": "poe-brandy-eggnog",
+              "source_id": "articulo-daily-meal",
+              "claim": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+              "locator": "Sección dedicada a Edgar Allan Poe",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-poe-brandy-eggnog-aoide",
+              "recommendation_id": "poe-brandy-eggnog",
+              "source_id": "articulo-aoide",
+              "claim": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+              "locator": "Sección dedicada a Edgar Allan Poe",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-poe-brandy-eggnog-bustle",
+              "recommendation_id": "poe-brandy-eggnog",
+              "source_id": "articulo-bustle",
+              "claim": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+              "locator": "Sección dedicada a Edgar Allan Poe",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
         }
       ]
     },
@@ -1100,6 +2948,90 @@ export const content: PublicCatalog = {
                 "accessed_at": "2026-07-21",
                 "language": "en",
                 "reliability_tier": "primary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "oneill-gibson",
+          "author_id": "eugene-oneill",
+          "drink_id": "gibson",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Gibson para O’Neill",
+          "explanation_es": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-oneill-gibson-aoide",
+            "evidencia-oneill-gibson-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "gibson",
+            "name_es": "Gibson",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ginebra",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Remueve con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa de cóctel",
+            "garnish": "Cebollitas encurtidas",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-oneill-gibson-aoide",
+              "recommendation_id": "oneill-gibson",
+              "source_id": "articulo-aoide",
+              "claim": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+              "locator": "Sección dedicada a Eugene O'Neill",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-oneill-gibson-writers-write",
+              "recommendation_id": "oneill-gibson",
+              "source_id": "articulo-writers-write",
+              "claim": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+              "locator": "Sección dedicada a Eugene O'Neill",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
               }
             }
           ]
@@ -1871,6 +3803,73 @@ export const content: PublicCatalog = {
               }
             }
           ]
+        },
+        {
+          "id": "neruda-coquetelon",
+          "author_id": "pablo-neruda",
+          "drink_id": "el-coquetelon",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "El Coquetelón de Neruda",
+          "explanation_es": "The Daily Meal incorpora El Coquetelón a la constelación de bebidas vinculadas con Pablo Neruda.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-neruda-coquetelon-daily-meal"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "el-coquetelon",
+            "name_es": "El Coquetelón",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "pisco",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "vino espumante",
+                "amount": 60,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Mezcla el pisco y el jugo con hielo; completa con espumante."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-neruda-coquetelon-daily-meal",
+              "recommendation_id": "neruda-coquetelon",
+              "source_id": "articulo-daily-meal",
+              "claim": "The Daily Meal incorpora El Coquetelón a la constelación de bebidas vinculadas con Pablo Neruda.",
+              "locator": "Sección dedicada a Pablo Neruda",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
         }
       ]
     },
@@ -2204,6 +4203,1555 @@ export const content: PublicCatalog = {
                 "accessed_at": "2026-07-21",
                 "language": "en",
                 "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sylvia-plath",
+      "slug": "sylvia-plath",
+      "canonical_name": "Sylvia Plath",
+      "aliases": [
+        "Plath"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1932,
+      "death_year": 1963,
+      "bio_es": "Poeta y novelista estadounidense asociada con la poesía confesional. Su obra explora identidad, creación, vida doméstica y sufrimiento psíquico.",
+      "featured_works": [
+        "the-bell-jar",
+        "ariel"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "the-bell-jar",
+          "author_id": "sylvia-plath",
+          "original_title": "The Bell Jar",
+          "display_title_es": "La campana de cristal",
+          "publication_year": 1963,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "ariel",
+          "author_id": "sylvia-plath",
+          "original_title": "Ariel",
+          "display_title_es": "Ariel",
+          "publication_year": 1965,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "plath-vodka-martini",
+          "author_id": "sylvia-plath",
+          "drink_id": "vodka-martini",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Tres Martinis después del taller",
+          "explanation_es": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-plath-vodka-martini-tasting-table",
+            "evidencia-plath-vodka-martini-aoide"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "vodka-martini",
+            "name_es": "Vodka Martini",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "vodka",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Remueve con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa de cóctel",
+            "garnish": "Piel de limón",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-plath-vodka-martini-tasting-table",
+              "recommendation_id": "plath-vodka-martini",
+              "source_id": "articulo-tasting-table",
+              "claim": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+              "locator": "Sección dedicada a Sylvia Plath",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-plath-vodka-martini-aoide",
+              "recommendation_id": "plath-vodka-martini",
+              "source_id": "articulo-aoide",
+              "claim": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+              "locator": "Sección dedicada a Sylvia Plath",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truman-capote",
+      "slug": "truman-capote",
+      "canonical_name": "Truman Capote",
+      "aliases": [
+        "Capote"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1924,
+      "death_year": 1984,
+      "bio_es": "Escritor estadounidense de narrativa, crónica y perfiles. Combinó observación social, precisión estilística y una fuerte presencia en la cultura pública de su época.",
+      "featured_works": [
+        "breakfast-at-tiffanys",
+        "in-cold-blood"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "breakfast-at-tiffanys",
+          "author_id": "truman-capote",
+          "original_title": "Breakfast at Tiffany's",
+          "display_title_es": "Desayuno en Tiffany’s",
+          "publication_year": 1958,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "in-cold-blood",
+          "author_id": "truman-capote",
+          "original_title": "In Cold Blood",
+          "display_title_es": "A sangre fría",
+          "publication_year": 1966,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "capote-screwdriver",
+          "author_id": "truman-capote",
+          "drink_id": "screwdriver",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "El “orange drink” de Capote",
+          "explanation_es": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-capote-screwdriver-tasting-table",
+            "evidencia-capote-screwdriver-abv-project",
+            "evidencia-capote-screwdriver-aoide",
+            "evidencia-capote-screwdriver-scott-hotel",
+            "evidencia-capote-screwdriver-bustle",
+            "evidencia-capote-screwdriver-drinks-business"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "screwdriver",
+            "name_es": "Screwdriver",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja",
+                "amount": 100,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve sobre hielo y remueve suavemente."
+            ],
+            "glassware": "Vaso alto",
+            "garnish": "Rodaja de naranja",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-capote-screwdriver-tasting-table",
+              "recommendation_id": "capote-screwdriver",
+              "source_id": "articulo-tasting-table",
+              "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-screwdriver-abv-project",
+              "recommendation_id": "capote-screwdriver",
+              "source_id": "articulo-abv-project",
+              "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abv-project",
+                "source_type": "web_article",
+                "title": "10 Famous Authors Who Loved Their Cocktails",
+                "author_or_publisher": "ABV Project",
+                "publication_date": "2025-11-25",
+                "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-screwdriver-aoide",
+              "recommendation_id": "capote-screwdriver",
+              "source_id": "articulo-aoide",
+              "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-screwdriver-scott-hotel",
+              "recommendation_id": "capote-screwdriver",
+              "source_id": "articulo-scott-hotel",
+              "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-scott-hotel",
+                "source_type": "web_article",
+                "title": "6 Great Writers & Their Favourite Cocktails",
+                "author_or_publisher": "The Scott Hotel",
+                "publication_date": "2021-07-16",
+                "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-screwdriver-bustle",
+              "recommendation_id": "capote-screwdriver",
+              "source_id": "articulo-bustle",
+              "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-screwdriver-drinks-business",
+              "recommendation_id": "capote-screwdriver",
+              "source_id": "articulo-drinks-business",
+              "claim": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "capote-white-angel",
+          "author_id": "truman-capote",
+          "work_id": "breakfast-at-tiffanys",
+          "drink_id": "white-angel",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "El ángel nada inocente de Holly Golightly",
+          "explanation_es": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-capote-white-angel-abv-project",
+            "evidencia-capote-white-angel-lifestyle-asia",
+            "evidencia-capote-white-angel-abebooks"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "white-angel",
+            "name_es": "White Angel",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "ginebra",
+                "amount": 45,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Remueve con hielo y cuela en una copa muy fría."
+            ],
+            "glassware": "Copa de cóctel",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-capote-white-angel-abv-project",
+              "recommendation_id": "capote-white-angel",
+              "source_id": "articulo-abv-project",
+              "claim": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abv-project",
+                "source_type": "web_article",
+                "title": "10 Famous Authors Who Loved Their Cocktails",
+                "author_or_publisher": "ABV Project",
+                "publication_date": "2025-11-25",
+                "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-white-angel-lifestyle-asia",
+              "recommendation_id": "capote-white-angel",
+              "source_id": "articulo-lifestyle-asia",
+              "claim": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-lifestyle-asia",
+                "source_type": "web_article",
+                "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+                "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+                "publication_date": "2019-05-26",
+                "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-capote-white-angel-abebooks",
+              "recommendation_id": "capote-white-angel",
+              "source_id": "articulo-abebooks",
+              "claim": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+              "locator": "Sección dedicada a Truman Capote",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oscar-wilde",
+      "slug": "oscar-wilde",
+      "canonical_name": "Oscar Wilde",
+      "aliases": [
+        "Wilde"
+      ],
+      "country": "Irlanda",
+      "birth_year": 1854,
+      "death_year": 1900,
+      "bio_es": "Dramaturgo, narrador y ensayista irlandés célebre por su ingenio y su sátira social. Su escritura combina elegancia verbal, paradoja y crítica de las convenciones.",
+      "featured_works": [
+        "the-picture-of-dorian-gray",
+        "the-importance-of-being-earnest"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "the-picture-of-dorian-gray",
+          "author_id": "oscar-wilde",
+          "original_title": "The Picture of Dorian Gray",
+          "display_title_es": "El retrato de Dorian Gray",
+          "publication_year": 1890,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "the-importance-of-being-earnest",
+          "author_id": "oscar-wilde",
+          "original_title": "The Importance of Being Earnest",
+          "display_title_es": "La importancia de llamarse Ernesto",
+          "publication_year": 1895,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "wilde-absinthe",
+          "author_id": "oscar-wilde",
+          "drink_id": "absenta-con-agua",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "La leyenda verde de Wilde",
+          "explanation_es": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-wilde-absinthe-tasting-table",
+            "evidencia-wilde-absinthe-aoide",
+            "evidencia-wilde-absinthe-bustle",
+            "evidencia-wilde-absinthe-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "absenta-con-agua",
+            "name_es": "Absenta con agua",
+            "aliases": [
+              "Absinthe"
+            ],
+            "category": "Aperitivo",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "absenta",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "agua fría",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve la absenta en un vaso pequeño.",
+              "Añade el agua fría lentamente.",
+              "Prueba despacio y ajusta con más agua si lo prefieres."
+            ],
+            "glassware": "Vaso pequeño",
+            "zero_proof_alternative_id": "infusion-de-anis",
+            "recipe_note": "Propuesta contemporánea de servicio; no se presenta como receta histórica exacta."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-wilde-absinthe-tasting-table",
+              "recommendation_id": "wilde-absinthe",
+              "source_id": "articulo-tasting-table",
+              "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+              "locator": "Sección dedicada a Oscar Wilde",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-wilde-absinthe-aoide",
+              "recommendation_id": "wilde-absinthe",
+              "source_id": "articulo-aoide",
+              "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+              "locator": "Sección dedicada a Oscar Wilde",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-wilde-absinthe-bustle",
+              "recommendation_id": "wilde-absinthe",
+              "source_id": "articulo-bustle",
+              "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+              "locator": "Sección dedicada a Oscar Wilde",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-wilde-absinthe-writers-write",
+              "recommendation_id": "wilde-absinthe",
+              "source_id": "articulo-writers-write",
+              "claim": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+              "locator": "Sección dedicada a Oscar Wilde",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maya-angelou",
+      "slug": "maya-angelou",
+      "canonical_name": "Maya Angelou",
+      "aliases": [
+        "Angelou"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1928,
+      "death_year": 2014,
+      "bio_es": "Poeta, memorialista y activista estadounidense. Su obra convierte experiencia personal, racismo, dignidad y resistencia en una voz narrativa de gran alcance público.",
+      "featured_works": [
+        "i-know-why-the-caged-bird-sings",
+        "and-still-i-rise"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "i-know-why-the-caged-bird-sings",
+          "author_id": "maya-angelou",
+          "original_title": "I Know Why the Caged Bird Sings",
+          "display_title_es": "Yo sé por qué canta el pájaro enjaulado",
+          "publication_year": 1969,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "and-still-i-rise",
+          "author_id": "maya-angelou",
+          "original_title": "And Still I Rise",
+          "display_title_es": "Y aun así me levanto",
+          "publication_year": 1978,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "angelou-sherry",
+          "author_id": "maya-angelou",
+          "drink_id": "jerez",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Jerez en la habitación de escritura",
+          "explanation_es": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-angelou-sherry-tasting-table",
+            "evidencia-angelou-sherry-daily-meal",
+            "evidencia-angelou-sherry-bustle"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "jerez",
+            "name_es": "Jerez",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "jerez",
+                "amount": 60,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve ligeramente fresco."
+            ],
+            "glassware": "Copa de jerez",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-angelou-sherry-tasting-table",
+              "recommendation_id": "angelou-sherry",
+              "source_id": "articulo-tasting-table",
+              "claim": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+              "locator": "Sección dedicada a Maya Angelou",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-tasting-table",
+                "source_type": "web_article",
+                "title": "12 Famous Writers From History And Their Favorite Cocktails",
+                "author_or_publisher": "Tasting Table",
+                "publication_date": "2025-05-10",
+                "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-angelou-sherry-daily-meal",
+              "recommendation_id": "angelou-sherry",
+              "source_id": "articulo-daily-meal",
+              "claim": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+              "locator": "Sección dedicada a Maya Angelou",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-daily-meal",
+                "source_type": "web_article",
+                "title": "16 Famous Authors' Favorite Cocktails",
+                "author_or_publisher": "The Daily Meal",
+                "publication_date": "2025-05-06",
+                "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-angelou-sherry-bustle",
+              "recommendation_id": "angelou-sherry",
+              "source_id": "articulo-bustle",
+              "claim": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+              "locator": "Sección dedicada a Maya Angelou",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-bustle",
+                "source_type": "web_article",
+                "title": "The Drink Of Choice Of 11 Famous Authors",
+                "author_or_publisher": "Bustle / Charlotte Ahlin",
+                "publication_date": "2017-03-09",
+                "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ian-fleming",
+      "slug": "ian-fleming",
+      "canonical_name": "Ian Fleming",
+      "aliases": [
+        "Fleming"
+      ],
+      "country": "Reino Unido",
+      "birth_year": 1908,
+      "death_year": 1964,
+      "bio_es": "Escritor y periodista británico, creador de James Bond. Sus novelas de espionaje mezclan acción, tecnología, viajes y rituales de sofisticación reconocibles.",
+      "featured_works": [
+        "casino-royale",
+        "from-russia-with-love"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "casino-royale",
+          "author_id": "ian-fleming",
+          "original_title": "Casino Royale",
+          "display_title_es": "Casino Royale",
+          "publication_year": 1953,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "from-russia-with-love",
+          "author_id": "ian-fleming",
+          "original_title": "From Russia, with Love",
+          "display_title_es": "Desde Rusia con amor",
+          "publication_year": 1957,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "fleming-vesper",
+          "author_id": "ian-fleming",
+          "work_id": "casino-royale",
+          "drink_id": "vesper-martini",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Tres de ginebra, una de vodka",
+          "explanation_es": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-fleming-vesper-abv-project",
+            "evidencia-fleming-vesper-scott-hotel",
+            "evidencia-fleming-vesper-lifestyle-asia",
+            "evidencia-fleming-vesper-drinks-business",
+            "evidencia-fleming-vesper-slosh-spot",
+            "evidencia-fleming-vesper-abebooks"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "vesper-martini",
+            "name_es": "Vesper Martini",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ginebra",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vodka",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "Lillet Blanc",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita con hielo y cuela en una copa fría."
+            ],
+            "glassware": "Copa de cóctel",
+            "garnish": "Piel de limón",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-fleming-vesper-abv-project",
+              "recommendation_id": "fleming-vesper",
+              "source_id": "articulo-abv-project",
+              "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+              "locator": "Sección dedicada a Ian Fleming",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abv-project",
+                "source_type": "web_article",
+                "title": "10 Famous Authors Who Loved Their Cocktails",
+                "author_or_publisher": "ABV Project",
+                "publication_date": "2025-11-25",
+                "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fleming-vesper-scott-hotel",
+              "recommendation_id": "fleming-vesper",
+              "source_id": "articulo-scott-hotel",
+              "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+              "locator": "Sección dedicada a Ian Fleming",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-scott-hotel",
+                "source_type": "web_article",
+                "title": "6 Great Writers & Their Favourite Cocktails",
+                "author_or_publisher": "The Scott Hotel",
+                "publication_date": "2021-07-16",
+                "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fleming-vesper-lifestyle-asia",
+              "recommendation_id": "fleming-vesper",
+              "source_id": "articulo-lifestyle-asia",
+              "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+              "locator": "Sección dedicada a Ian Fleming",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-lifestyle-asia",
+                "source_type": "web_article",
+                "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+                "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+                "publication_date": "2019-05-26",
+                "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fleming-vesper-drinks-business",
+              "recommendation_id": "fleming-vesper",
+              "source_id": "articulo-drinks-business",
+              "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+              "locator": "Sección dedicada a Ian Fleming",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fleming-vesper-slosh-spot",
+              "recommendation_id": "fleming-vesper",
+              "source_id": "articulo-slosh-spot",
+              "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+              "locator": "Sección dedicada a Ian Fleming",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-slosh-spot",
+                "source_type": "web_article",
+                "title": "16 Drinks Named For Authors And Their Books",
+                "author_or_publisher": "Slosh Spot",
+                "publication_date": "2014-03-03",
+                "url": "https://www.sloshspot.com/blog/09-21-2008/16-Drinks-Named-for-Authors-and-Their-Books-56",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-fleming-vesper-abebooks",
+              "recommendation_id": "fleming-vesper",
+              "source_id": "articulo-abebooks",
+              "claim": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+              "locator": "Sección dedicada a Ian Fleming",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tennessee-williams",
+      "slug": "tennessee-williams",
+      "canonical_name": "Tennessee Williams",
+      "aliases": [
+        "Williams"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1911,
+      "death_year": 1983,
+      "bio_es": "Dramaturgo estadounidense cuya obra observa deseo, fragilidad y conflicto familiar. Sus piezas sitúan a personajes intensos en ambientes sureños cargados de tensión.",
+      "featured_works": [
+        "a-streetcar-named-desire",
+        "cat-on-a-hot-tin-roof"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "a-streetcar-named-desire",
+          "author_id": "tennessee-williams",
+          "original_title": "A Streetcar Named Desire",
+          "display_title_es": "Un tranvía llamado Deseo",
+          "publication_year": 1947,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "cat-on-a-hot-tin-roof",
+          "author_id": "tennessee-williams",
+          "original_title": "Cat on a Hot Tin Roof",
+          "display_title_es": "La gata sobre el tejado de zinc",
+          "publication_year": 1955,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "williams-ramos-fizz",
+          "author_id": "tennessee-williams",
+          "drink_id": "ramos-gin-fizz",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Ramos Gin Fizz de Nueva Orleans",
+          "explanation_es": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-williams-ramos-fizz-aoide",
+            "evidencia-williams-ramos-fizz-drinks-business",
+            "evidencia-williams-ramos-fizz-writers-write"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "ramos-gin-fizz",
+            "name_es": "Ramos Gin Fizz",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "ginebra",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "crema",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "almíbar",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 45,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Agita todo salvo el agua con hielo; cuela y completa con agua con gas."
+            ],
+            "glassware": "Vaso alto",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-williams-ramos-fizz-aoide",
+              "recommendation_id": "williams-ramos-fizz",
+              "source_id": "articulo-aoide",
+              "claim": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+              "locator": "Sección dedicada a Tennessee Williams",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-aoide",
+                "source_type": "web_article",
+                "title": "Writers And Their Cocktails",
+                "author_or_publisher": "Aoide Magazine",
+                "publication_date": "2022-05-06",
+                "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-williams-ramos-fizz-drinks-business",
+              "recommendation_id": "williams-ramos-fizz",
+              "source_id": "articulo-drinks-business",
+              "claim": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+              "locator": "Sección dedicada a Tennessee Williams",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-drinks-business",
+                "source_type": "web_article",
+                "title": "Top 10 writers and their favourite drinks",
+                "author_or_publisher": "The Drinks Business / Lucy Shaw",
+                "publication_date": "2014-05-14",
+                "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-williams-ramos-fizz-writers-write",
+              "recommendation_id": "williams-ramos-fizz",
+              "source_id": "articulo-writers-write",
+              "claim": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+              "locator": "Sección dedicada a Tennessee Williams",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-writers-write",
+                "source_type": "web_article",
+                "title": "13 Famous Writers And Their Favourite Drinks",
+                "author_or_publisher": "Writers Write",
+                "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "williams-hot-toddy",
+          "author_id": "tennessee-williams",
+          "work_id": "cat-on-a-hot-tin-roof",
+          "drink_id": "hot-toddy",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Toddy para Brick Pollitt",
+          "explanation_es": "AbeBooks recoge el Hot Toddy de whiskey, agua caliente y limón que bebe Brick Pollitt en Cat on a Hot Tin Roof.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-williams-hot-toddy-abebooks"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "hot-toddy",
+            "name_es": "Toddy caliente",
+            "aliases": [
+              "Hot toddy"
+            ],
+            "category": "Bebida caliente",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "whisky",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "agua caliente",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Calienta el vaso con agua y descártala.",
+              "Añade miel, limón y whisky.",
+              "Completa con agua caliente y mezcla."
+            ],
+            "glassware": "Taza resistente al calor",
+            "zero_proof_alternative_id": "toddy-cero",
+            "recipe_note": "Receta contemporánea propia; no se atribuye a la obra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-williams-hot-toddy-abebooks",
+              "recommendation_id": "williams-hot-toddy",
+              "source_id": "articulo-abebooks",
+              "claim": "AbeBooks recoge el Hot Toddy de whiskey, agua caliente y limón que bebe Brick Pollitt en Cat on a Hot Tin Roof.",
+              "locator": "Sección dedicada a Tennessee Williams",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-abebooks",
+                "source_type": "web_article",
+                "title": "Cocktails in literature",
+                "author_or_publisher": "AbeBooks",
+                "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "charles-dickens",
+      "slug": "charles-dickens",
+      "canonical_name": "Charles Dickens",
+      "aliases": [
+        "Dickens"
+      ],
+      "country": "Reino Unido",
+      "birth_year": 1812,
+      "death_year": 1870,
+      "bio_es": "Novelista inglés central de la era victoriana. Sus historias combinan crítica social, humor, personajes memorables y escenas urbanas de gran vitalidad.",
+      "featured_works": [
+        "the-pickwick-papers",
+        "a-christmas-carol"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "the-pickwick-papers",
+          "author_id": "charles-dickens",
+          "original_title": "The Pickwick Papers",
+          "display_title_es": "Los papeles póstumos del Club Pickwick",
+          "publication_year": 1836,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "a-christmas-carol",
+          "author_id": "charles-dickens",
+          "original_title": "A Christmas Carol",
+          "display_title_es": "Cuento de Navidad",
+          "publication_year": 1843,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "dickens-whisky-toddy",
+          "author_id": "charles-dickens",
+          "work_id": "the-pickwick-papers",
+          "drink_id": "hot-toddy",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Toddy para el Club Pickwick",
+          "explanation_es": "Read & Co. destaca los vasos de whisky toddy que acompañan la sobremesa festiva en The Pickwick Papers.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-dickens-whisky-toddy-read-and-co"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "hot-toddy",
+            "name_es": "Toddy caliente",
+            "aliases": [
+              "Hot toddy"
+            ],
+            "category": "Bebida caliente",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "whisky",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "agua caliente",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 10,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Calienta el vaso con agua y descártala.",
+              "Añade miel, limón y whisky.",
+              "Completa con agua caliente y mezcla."
+            ],
+            "glassware": "Taza resistente al calor",
+            "zero_proof_alternative_id": "toddy-cero",
+            "recipe_note": "Receta contemporánea propia; no se atribuye a la obra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-dickens-whisky-toddy-read-and-co",
+              "recommendation_id": "dickens-whisky-toddy",
+              "source_id": "articulo-read-and-co",
+              "claim": "Read & Co. destaca los vasos de whisky toddy que acompañan la sobremesa festiva en The Pickwick Papers.",
+              "locator": "Sección dedicada a Charles Dickens",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-read-and-co",
+                "source_type": "web_article",
+                "title": "Books and Booze: Literary Cocktails in Classic Books",
+                "author_or_publisher": "Read & Co. Books",
+                "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dickens-smoking-bishop",
+          "author_id": "charles-dickens",
+          "work_id": "a-christmas-carol",
+          "drink_id": "smoking-bishop",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Un Smoking Bishop con Scrooge",
+          "explanation_es": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-dickens-smoking-bishop-slosh-spot",
+            "evidencia-dickens-smoking-bishop-read-and-co"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "smoking-bishop",
+            "name_es": "Smoking Bishop",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "vino tinto",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "Oporto",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "almíbar especiado",
+                "amount": 15,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Calienta suavemente sin hervir y sirve."
+            ],
+            "glassware": "Taza",
+            "garnish": "Naranja",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-dickens-smoking-bishop-slosh-spot",
+              "recommendation_id": "dickens-smoking-bishop",
+              "source_id": "articulo-slosh-spot",
+              "claim": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+              "locator": "Sección dedicada a Charles Dickens",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-slosh-spot",
+                "source_type": "web_article",
+                "title": "16 Drinks Named For Authors And Their Books",
+                "author_or_publisher": "Slosh Spot",
+                "publication_date": "2014-03-03",
+                "url": "https://www.sloshspot.com/blog/09-21-2008/16-Drinks-Named-for-Authors-and-Their-Books-56",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            },
+            {
+              "id": "evidencia-dickens-smoking-bishop-read-and-co",
+              "recommendation_id": "dickens-smoking-bishop",
+              "source_id": "articulo-read-and-co",
+              "claim": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+              "locator": "Sección dedicada a Charles Dickens",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-read-and-co",
+                "source_type": "web_article",
+                "title": "Books and Booze: Literary Cocktails in Classic Books",
+                "author_or_publisher": "Read & Co. Books",
+                "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jd-salinger",
+      "slug": "jd-salinger",
+      "canonical_name": "J. D. Salinger",
+      "aliases": [
+        "Salinger",
+        "Jerome David Salinger"
+      ],
+      "country": "Estados Unidos",
+      "birth_year": 1919,
+      "death_year": 2010,
+      "bio_es": "Escritor estadounidense conocido por narradores jóvenes, lenguaje coloquial y sensibilidad ante la impostura social. Su obra publicada es breve y muy influyente.",
+      "featured_works": [
+        "the-catcher-in-the-rye",
+        "nine-stories"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-07-26",
+      "works": [
+        {
+          "id": "the-catcher-in-the-rye",
+          "author_id": "jd-salinger",
+          "original_title": "The Catcher in the Rye",
+          "display_title_es": "El guardián entre el centeno",
+          "publication_year": 1951,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        },
+        {
+          "id": "nine-stories",
+          "author_id": "jd-salinger",
+          "original_title": "Nine Stories",
+          "display_title_es": "Nueve cuentos",
+          "publication_year": 1953,
+          "language": "en",
+          "identifiers": {},
+          "notes": "Obra destacada incorporada durante la pasada editorial de artículos."
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "salinger-scotch-soda",
+          "author_id": "jd-salinger",
+          "work_id": "the-catcher-in-the-rye",
+          "drink_id": "scotch-soda",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Scotch & Soda para parecer adulto",
+          "explanation_es": "Lifestyle Asia observa que Holden Caulfield pide Scotch & Soda como parte de su ensayo obstinado de la adultez.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-salinger-scotch-soda-lifestyle-asia"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "orquestador editorial",
+          "reviewed_at": "2026-07-26",
+          "drink": {
+            "id": "scotch-soda",
+            "name_es": "Scotch & Soda",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "whisky escocés",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve sobre hielo y completa con agua con gas."
+            ],
+            "glassware": "Vaso alto",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-salinger-scotch-soda-lifestyle-asia",
+              "recommendation_id": "salinger-scotch-soda",
+              "source_id": "articulo-lifestyle-asia",
+              "claim": "Lifestyle Asia observa que Holden Caulfield pide Scotch & Soda como parte de su ensayo obstinado de la adultez.",
+              "locator": "Sección dedicada a J. D. Salinger",
+              "evidence_kind": "paraphrase",
+              "supports_claim": true,
+              "checked_at": "2026-07-26",
+              "source": {
+                "id": "articulo-lifestyle-asia",
+                "source_type": "web_article",
+                "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+                "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+                "publication_date": "2019-05-26",
+                "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+                "accessed_at": "2026-07-26",
+                "language": "en",
+                "reliability_tier": "discovery_only"
               }
             }
           ]
@@ -2987,6 +6535,645 @@ export const content: PublicCatalog = {
       "glassware": "Taza",
       "zero_proof_alternative_id": "infusion-especiada",
       "recipe_note": "Fixture sintético conservado sólo para el borrador excluido."
+    },
+    {
+      "id": "daiquiri-hemingway",
+      "name_es": "Daiquiri Hemingway",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ron blanco",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de pomelo",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de maraschino",
+          "amount": 7,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa coupé",
+      "garnish": "Piel de pomelo",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "mojito",
+      "name_es": "Mojito",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ron blanco",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla con hielo, añade el agua con gas y remueve."
+      ],
+      "glassware": "Vaso alto",
+      "garnish": "Menta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "martini-seco",
+      "name_es": "Martini seco",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "jack-rose",
+      "name_es": "Jack Rose",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "applejack o brandy de manzana",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "granadina",
+          "amount": 12,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa coupé",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "death-in-the-afternoon",
+      "name_es": "Death in the Afternoon",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "absenta",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "espumante brut",
+          "amount": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Vierte la absenta y completa lentamente con el espumante."
+      ],
+      "glassware": "Copa flauta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "cognac",
+      "name_es": "Cognac",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "cognac",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve a temperatura ambiente o apenas refrescado."
+      ],
+      "glassware": "Copa de degustación",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "mint-julep",
+      "name_es": "Mint Julep",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "bourbon",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Añade menta y hielo picado; incorpora el bourbon y remueve."
+      ],
+      "glassware": "Vaso julep",
+      "garnish": "Menta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "whiskey-sour",
+      "name_es": "Whiskey Sour",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "whiskey",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela sobre hielo fresco."
+      ],
+      "glassware": "Vaso corto",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "margarita-mezcal",
+      "name_es": "Margarita de mezcal",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "mezcal",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 25,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa con borde de sal."
+      ],
+      "glassware": "Copa coupé",
+      "garnish": "Sal y lima",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "wine-spodiodi",
+      "name_es": "Wine Spodiodi",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vino de Oporto",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "whiskey",
+          "amount": 30,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve ambos ingredientes sobre hielo y remueve."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "boilermaker",
+      "name_es": "Boilermaker",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "cerveza",
+          "amount": 330,
+          "unit": "ml"
+        },
+        {
+          "name": "bourbon",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve la cerveza y el bourbon por separado para alternarlos."
+      ],
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "champagne-cocktail",
+      "name_es": "Champagne Cocktail",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "espumante brut",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy",
+          "amount": 30,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve el brandy y completa con el espumante bien frío."
+      ],
+      "glassware": "Copa flauta",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "brandy-eggnog",
+      "name_es": "Eggnog con brandy",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "brandy",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "ron añejo",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "leche",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "huevo pasteurizado",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita los ingredientes con hielo y sirve bien frío."
+      ],
+      "glassware": "Taza",
+      "garnish": "Nuez moscada",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "gibson",
+      "name_es": "Gibson",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Cebollitas encurtidas",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "el-coquetelon",
+      "name_es": "El Coquetelón",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "pisco",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "vino espumante",
+          "amount": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla el pisco y el jugo con hielo; completa con espumante."
+      ],
+      "glassware": "Copa de vino",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "vodka-martini",
+      "name_es": "Vodka Martini",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vodka",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "screwdriver",
+      "name_es": "Screwdriver",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve sobre hielo y remueve suavemente."
+      ],
+      "glassware": "Vaso alto",
+      "garnish": "Rodaja de naranja",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "white-angel",
+      "name_es": "White Angel",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Remueve con hielo y cuela en una copa muy fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "jerez",
+      "name_es": "Jerez",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "jerez",
+          "amount": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve ligeramente fresco."
+      ],
+      "glassware": "Copa de jerez",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "vesper-martini",
+      "name_es": "Vesper Martini",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vodka",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "Lillet Blanc",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita con hielo y cuela en una copa fría."
+      ],
+      "glassware": "Copa de cóctel",
+      "garnish": "Piel de limón",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "ramos-gin-fizz",
+      "name_es": "Ramos Gin Fizz",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "crema",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 45,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Agita todo salvo el agua con hielo; cuela y completa con agua con gas."
+      ],
+      "glassware": "Vaso alto",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "smoking-bishop",
+      "name_es": "Smoking Bishop",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "vino tinto",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Oporto",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "almíbar especiado",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Calienta suavemente sin hervir y sirve."
+      ],
+      "glassware": "Taza",
+      "garnish": "Naranja",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+    },
+    {
+      "id": "scotch-soda",
+      "name_es": "Scotch & Soda",
+      "aliases": [],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "whisky escocés",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sirve sobre hielo y completa con agua con gas."
+      ],
+      "glassware": "Vaso alto",
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
     }
   ],
   "sources": [
@@ -3190,6 +7377,157 @@ export const content: PublicCatalog = {
       "publication_date": "2000-09-14",
       "url": "https://www.theguardian.com/books/2000/sep/14/stephenking.fiction1",
       "accessed_at": "2026-07-21",
+      "language": "en",
+      "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "articulo-tasting-table",
+      "source_type": "web_article",
+      "title": "12 Famous Writers From History And Their Favorite Cocktails",
+      "author_or_publisher": "Tasting Table",
+      "publication_date": "2025-05-10",
+      "url": "https://www.tastingtable.com/1851490/famous-writers-authors-favorite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-financial-times",
+      "source_type": "web_article",
+      "title": "Could you stomach a Shirley Temple?",
+      "author_or_publisher": "Financial Times / Alice Lascelles",
+      "publication_date": "2025-02-22",
+      "url": "https://www.ft.com/content/d1f6052c-2d92-4e51-875d-61415c0d7712",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-abv-project",
+      "source_type": "web_article",
+      "title": "10 Famous Authors Who Loved Their Cocktails",
+      "author_or_publisher": "ABV Project",
+      "publication_date": "2025-11-25",
+      "url": "https://www.theabvproject.com/post/9-famous-writers-who-loved-their-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-daily-meal",
+      "source_type": "web_article",
+      "title": "16 Famous Authors' Favorite Cocktails",
+      "author_or_publisher": "The Daily Meal",
+      "publication_date": "2025-05-06",
+      "url": "https://www.thedailymeal.com/1849359/famous-authors-favorite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-aoide",
+      "source_type": "web_article",
+      "title": "Writers And Their Cocktails",
+      "author_or_publisher": "Aoide Magazine",
+      "publication_date": "2022-05-06",
+      "url": "https://aoidemagazine.com/2022/05/06/writers-and-their-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-scott-hotel",
+      "source_type": "web_article",
+      "title": "6 Great Writers & Their Favourite Cocktails",
+      "author_or_publisher": "The Scott Hotel",
+      "publication_date": "2021-07-16",
+      "url": "https://www.thescotthotel.be/6-great-writers-their-favourite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-lifestyle-asia",
+      "source_type": "web_article",
+      "title": "5 famous cocktails from 5 famous novels every book lover needs to sip",
+      "author_or_publisher": "Lifestyle Asia / Lisa Gries",
+      "publication_date": "2019-05-26",
+      "url": "https://www.lifestyleasia.com/bk/dining/drinks/cocktails-from-famous-novels",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-bustle",
+      "source_type": "web_article",
+      "title": "The Drink Of Choice Of 11 Famous Authors",
+      "author_or_publisher": "Bustle / Charlotte Ahlin",
+      "publication_date": "2017-03-09",
+      "url": "https://www.bustle.com/p/11-famous-authors-their-alcoholic-drink-of-choice-41854",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-drinks-business",
+      "source_type": "web_article",
+      "title": "Top 10 writers and their favourite drinks",
+      "author_or_publisher": "The Drinks Business / Lucy Shaw",
+      "publication_date": "2014-05-14",
+      "url": "https://www.thedrinksbusiness.com/2014/05/10-writers-and-their-favourite-cocktails",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-slosh-spot",
+      "source_type": "web_article",
+      "title": "16 Drinks Named For Authors And Their Books",
+      "author_or_publisher": "Slosh Spot",
+      "publication_date": "2014-03-03",
+      "url": "https://www.sloshspot.com/blog/09-21-2008/16-Drinks-Named-for-Authors-and-Their-Books-56",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-writers-write",
+      "source_type": "web_article",
+      "title": "13 Famous Writers And Their Favourite Drinks",
+      "author_or_publisher": "Writers Write",
+      "url": "https://www.writerswrite.co.za/famous-writers-their-favourite-drinks",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-abebooks",
+      "source_type": "web_article",
+      "title": "Cocktails in literature",
+      "author_or_publisher": "AbeBooks",
+      "url": "https://www.abebooks.com/books/rarebooks/vintage-cocktail-books/cocktails-in-literature.shtml",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "articulo-read-and-co",
+      "source_type": "web_article",
+      "title": "Books and Booze: Literary Cocktails in Classic Books",
+      "author_or_publisher": "Read & Co. Books",
+      "url": "https://www.readandcobooks.co.uk/blog/literary-cocktails-classic-books",
+      "accessed_at": "2026-07-26",
+      "language": "en",
+      "reliability_tier": "discovery_only"
+    },
+    {
+      "id": "libro-bibliotopia",
+      "source_type": "book",
+      "title": "Bibliotopia, or, Mr. Gilbar's book of books & catch-all of literary facts & curiosities",
+      "author_or_publisher": "Steven Gilbar",
+      "publication_date": "2005-01-01",
+      "url": "https://archive.org/details/bibliotopiaormrg0000gilb",
+      "accessed_at": "2026-07-26",
       "language": "en",
       "reliability_tier": "reputable_secondary"
     }

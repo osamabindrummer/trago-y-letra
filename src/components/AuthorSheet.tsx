@@ -75,7 +75,7 @@ export function AuthorSheet({ author, onClose }: Props) {
             {drink.steps.map((step) => <li key={step}>{step}</li>)}
           </ol>
           <p className="glassware">
-            {drink.glassware}{drink.garnish ? ` · ${drink.garnish}` : ''} · {drink.steps.length} pasos
+            {drink.glassware}{drink.garnish ? ` · ${drink.garnish}` : ''} · {drink.steps.length} {drink.steps.length === 1 ? 'paso' : 'pasos'}
           </p>
         </section>
       </div>
