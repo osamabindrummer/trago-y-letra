@@ -39,10 +39,8 @@ export function App() {
           Trago <i>y</i> Letra
         </button>
         <div>
-          <button type="button" onClick={() => setPage('discoveries')}>Hallazgos</button>
           <button type="button" onClick={() => setPage('method')}>Cómo funciona</button>
           <button type="button" onClick={() => setPage('index')}>Índice</button>
-          <button type="button" onClick={() => setPage('sources')}>Fuentes</button>
         </div>
       </nav>
 
@@ -57,6 +55,10 @@ export function App() {
       ) : (
         <Sources />
       )}
+
+      <footer className="site-credit">
+        <a href="https://bio.link/danielsalasj">Daniel Salas</a>
+      </footer>
     </main>
   )
 }

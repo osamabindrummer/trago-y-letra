@@ -27,10 +27,10 @@ test('el acceso rápido Poe abre la ficha correcta', async ({ page }) => {
   await expect(page.getByRole('heading', { name: 'Charles Bukowski' })).toHaveCount(0)
 })
 
-test('la biblioteca de hallazgos informa una cola vacía tras la promoción completa', async ({ page }) => {
+test('hallazgos y fuentes no aparecen en la navegación pública', async ({ page }) => {
   await page.goto('/')
-  await page.getByRole('button', { name: 'Hallazgos' }).click()
-  await expect(page.getByText('0 hallazgos visibles')).toBeVisible()
+  await expect(page.getByRole('button', { name: 'Hallazgos' })).toHaveCount(0)
+  await expect(page.getByRole('button', { name: 'Fuentes' })).toHaveCount(0)
 })
 
 test('una ficha mínima promovida participa en la búsqueda principal', async ({ page }) => {
@@ -38,7 +38,6 @@ test('una ficha mínima promovida participa en la búsqueda principal', async ({
   await page.getByRole('textbox', { name: '¿A quién lees?' }).fill('Eudora Welty')
   await page.getByRole('option', { name: 'Eudora Welty' }).click()
   await expect(page.getByRole('heading', { name: 'Eudora Welty' })).toBeVisible()
-  await expect(page.getByText('Ficha mínima · perfil en desarrollo')).toBeVisible()
   await expect(page.getByRole('heading', { name: 'Mint Julep' })).toBeVisible()
 })
 
@@ -46,8 +45,11 @@ test('el índice reúne los autores canónicos promovidos', async ({ page }) => 
   await page.goto('/')
   await page.getByRole('button', { name: 'Índice' }).click()
   await expect(page.getByRole('heading', { name: 'Autores, de la A a la Z.' })).toBeVisible()
-  await expect(page.getByText('218 autores · 313 recomendaciones y sugerencias de bebidas.')).toBeVisible()
-  await expect(page.getByRole('list', { name: 'Índice alfabético de autores' }).getByRole('listitem')).toHaveCount(218)
+  await expect(page.getByText('216 autores · 311 recomendaciones y sugerencias de bebidas.')).toBeVisible()
+  await expect(page.getByRole('list', { name: 'Índice alfabético de autores' }).getByRole('listitem')).toHaveCount(216)
+  await expect(page.getByRole('heading', { name: 'Tragos, de la A a la (glup) Z.' })).toBeVisible()
+  await expect(page.getByRole('list', { name: 'Índice alfabético de bebidas' }).getByRole('listitem')).toHaveCount(252)
+  await expect(page.getByRole('link', { name: 'Daniel Salas' })).toHaveAttribute('href', 'https://bio.link/danielsalasj')
 })
 
 test('la búsqueda abre una ficha promovida con confianza baja visible', async ({ page }) => {

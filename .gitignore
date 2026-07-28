@@ -13,3 +13,4 @@ test-results/
 /library/inbox/
 /library/processed/
 /data/research/book-extractions/**/tmp/
+/data/research/author-profile-enrichment/cache/*.json

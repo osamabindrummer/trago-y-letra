@@ -8,6 +8,11 @@ interface AuthorIndexEntry {
   surname: string
 }
 
+interface DrinkIndexEntry {
+  id: string
+  name: string
+}
+
 function normalizeName(value: string): string {
   return value
     .normalize('NFD')
@@ -66,20 +71,45 @@ function buildAuthorIndex(authors: PublicAuthor[], discoveries: PublicDiscovery[
   ))
 }
 
+function buildDrinkIndex(authors: PublicAuthor[]): DrinkIndexEntry[] {
+  const entries = new Map<string, DrinkIndexEntry>()
+
+  for (const author of authors) {
+    for (const recommendation of author.recommendations) {
+      const key = normalizeName(recommendation.drink.name_es)
+      entries.set(key, {
+        id: recommendation.drink.id,
+        name: recommendation.drink.name_es,
+      })
+    }
+  }
+
+  const collator = new Intl.Collator('es', { sensitivity: 'base' })
+  return [...entries.values()].sort((left, right) => collator.compare(left.name, right.name))
+}
+
 export function AuthorIndex({ authors, discoveries }: { authors: PublicAuthor[]; discoveries: PublicDiscovery[] }) {
   const entries = useMemo(() => buildAuthorIndex(authors, discoveries), [authors, discoveries])
+  const drinks = useMemo(() => buildDrinkIndex(authors), [authors])
   const suggestionCount = entries.reduce((total, entry) => total + entry.suggestionCount, 0)
 
   return (
     <section className="text-page index-page" aria-labelledby="index-title">
       <p className="eyebrow">Índice</p>
-      <h1 id="index-title">Autores, de la A a la Z.</h1>
       <p>{entries.length} autores · {suggestionCount} recomendaciones y sugerencias de bebidas.</p>
+      <h1 id="index-title">Autores, de la A a la Z.</h1>
       <ol className="author-index-list" aria-label="Índice alfabético de autores">
         {entries.map((entry) => (
           <li key={entry.id}>
             {entry.name} <span>({entry.suggestionCount})</span>
           </li>
+        ))}
+      </ol>
+
+      <h2>Tragos, de la A a la (glup) Z.</h2>
+      <ol className="author-index-list drink-index-list" aria-label="Índice alfabético de bebidas">
+        {drinks.map((drink) => (
+          <li key={drink.id}>{drink.name}</li>
         ))}
       </ol>
     </section>

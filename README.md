@@ -30,6 +30,8 @@ Abre la URL que Vite indique, normalmente `http://localhost:5173`.
 npm run validate:content
 npm run validate:library
 npm run validate:research
+npx tsx scripts/enrich-author-profiles.ts --ids agatha-christie,aldous-huxley,alexandre-dumas,alice-sebold,anita-diamant
+npx tsx scripts/run-pending-author-profile-enrichment.ts
 npm run build:content
 npm run lint
 npm run test
@@ -87,6 +89,12 @@ tests/                          pruebas unitarias, de componentes y E2E
 docs/GATES.md                   estado comprobable de cada fase
 docs/DECISIONS.md               decisiones técnicas y editoriales
 ```
+
+### Piloto de perfiles de autor
+
+`scripts/enrich-author-profiles.ts` lee `docs/AUTHOR_PROFILES_BACKLOG.md` y exige una lista explícita de IDs. Usa la búsqueda pública de MediaWiki y Wikidata/Wikibase para generar únicamente candidatos bajo `data/research/author-profile-enrichment/`; no modifica el catálogo ni cambia `profile_status`. La caché reanudable queda en `cache/` y sus respuestas no se versionan. El informe de revisión separa faltantes, ambigüedades, contradicciones y obras pendientes de selección.
+
+`scripts/run-pending-author-profile-enrichment.ts` deriva el lote completo desde las casillas pendientes del inventario, excluye las categorías especiales y los IDs que ya tengan candidatos generados en esa carpeta, y conserva el resultado separado en `pending-profiles-candidates.json`.
 
 ## Licencias, seguridad y límites
 

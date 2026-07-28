@@ -8600,11 +8600,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Welty"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "eudora-welty-a-worn-path",
+        "eudora-welty-a-curtain-of-green"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1909,
+      "death_year": 2001,
+      "works": [
+        {
+          "id": "eudora-welty-a-worn-path",
+          "author_id": "eudora-welty",
+          "original_title": "A Worn Path",
+          "display_title_es": "A Worn Path",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "eudora-welty-a-curtain-of-green",
+          "author_id": "eudora-welty",
+          "original_title": "A Curtain of Green",
+          "display_title_es": "A Curtain of Green",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "welty-mint-julep-literary-eats",
@@ -8679,11 +8704,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Hearn"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "lafcadio-hearn-kwaidan",
+        "lafcadio-hearn-glimpses-of-unfamiliar-japan"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Irlanda / British Empire / Japón",
+      "birth_year": 1850,
+      "death_year": 1904,
+      "works": [
+        {
+          "id": "lafcadio-hearn-kwaidan",
+          "author_id": "lafcadio-hearn",
+          "original_title": "Kwaidan",
+          "display_title_es": "Kwaidan",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lafcadio-hearn-glimpses-of-unfamiliar-japan",
+          "author_id": "lafcadio-hearn",
+          "original_title": "Glimpses of Unfamiliar Japan",
+          "display_title_es": "Glimpses of Unfamiliar Japan",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "hearn-mint-julep-literary-eats",
@@ -8758,11 +8808,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "DeVoto"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "bernard-devoto-across-the-wide-missouri",
+        "bernard-devoto-the-course-of-empire"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1897,
+      "death_year": 1955,
+      "works": [
+        {
+          "id": "bernard-devoto-across-the-wide-missouri",
+          "author_id": "bernard-devoto",
+          "original_title": "Across the Wide Missouri",
+          "display_title_es": "Across the Wide Missouri",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "bernard-devoto-the-course-of-empire",
+          "author_id": "bernard-devoto",
+          "original_title": "The Course of Empire",
+          "display_title_es": "The Course of Empire",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "bernard-devoto-martini-a-la-devoto-literary-eats",
@@ -8832,11 +8907,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Child"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "lydia-maria-child-an-appeal-in-favor-of-that-class-of-americans-called-africans",
+        "lydia-maria-child-hobomok-a-tale-of-early-times"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1802,
+      "death_year": 1880,
+      "works": [
+        {
+          "id": "lydia-maria-child-an-appeal-in-favor-of-that-class-of-americans-called-africans",
+          "author_id": "lydia-maria-child",
+          "original_title": "An Appeal in Favor of that Class of Americans Called Africans",
+          "display_title_es": "An Appeal in Favor of that Class of Americans Called Africans",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lydia-maria-child-hobomok-a-tale-of-early-times",
+          "author_id": "lydia-maria-child",
+          "original_title": "Hobomok: A Tale of Early Times",
+          "display_title_es": "Hobomok: A Tale of Early Times",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "lydia-maria-child-vino-de-grosella-literary-eats",
@@ -8902,11 +9002,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Bunce"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "oliver-bell-bunce-bachelor-bluff",
+        "oliver-bell-bunce-the-romance-of-the-revolution"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1828,
+      "death_year": 1890,
+      "works": [
+        {
+          "id": "oliver-bell-bunce-bachelor-bluff",
+          "author_id": "oliver-bell-bunce",
+          "original_title": "Bachelor Bluff",
+          "display_title_es": "Bachelor Bluff",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "oliver-bell-bunce-the-romance-of-the-revolution",
+          "author_id": "oliver-bell-bunce",
+          "original_title": "The Romance of the Revolution",
+          "display_title_es": "The Romance of the Revolution",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "oliver-bell-bunce-vino-de-diente-de-leon-literary-eats",
@@ -8972,11 +9097,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Franklin"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "benjamin-franklin-the-autobiography-of-benjamin-franklin",
+        "benjamin-franklin-poor-richard-s-almanack"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "América británica / Estados Unidos",
+      "birth_year": 1706,
+      "death_year": 1790,
+      "works": [
+        {
+          "id": "benjamin-franklin-the-autobiography-of-benjamin-franklin",
+          "author_id": "benjamin-franklin",
+          "original_title": "The Autobiography of Benjamin Franklin",
+          "display_title_es": "The Autobiography of Benjamin Franklin",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "benjamin-franklin-poor-richard-s-almanack",
+          "author_id": "benjamin-franklin",
+          "original_title": "Poor Richard’s Almanack",
+          "display_title_es": "Poor Richard’s Almanack",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "benjamin-franklin-cerveza-con-esencia-de-abeto-literary-eats",
@@ -9103,11 +9253,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Gardner"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "erle-stanley-gardner-perry-mason",
+        "erle-stanley-gardner-cool-and-lam"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1889,
+      "death_year": 1970,
+      "works": [
+        {
+          "id": "erle-stanley-gardner-perry-mason",
+          "author_id": "erle-stanley-gardner",
+          "original_title": "Perry Mason",
+          "display_title_es": "Perry Mason",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "erle-stanley-gardner-cool-and-lam",
+          "author_id": "erle-stanley-gardner",
+          "original_title": "Cool and Lam",
+          "display_title_es": "Cool and Lam",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "erle-stanley-gardner-case-of-the-caretakers-cat-cocktail-literary-eats",
@@ -9177,11 +9352,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Jefferson"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "thomas-jefferson-notes-on-the-state-of-virginia",
+        "thomas-jefferson-the-declaration-of-independence"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1743,
+      "death_year": 1826,
+      "works": [
+        {
+          "id": "thomas-jefferson-notes-on-the-state-of-virginia",
+          "author_id": "thomas-jefferson",
+          "original_title": "Notes on the State of Virginia",
+          "display_title_es": "Notes on the State of Virginia",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "thomas-jefferson-the-declaration-of-independence",
+          "author_id": "thomas-jefferson",
+          "original_title": "The Declaration of Independence",
+          "display_title_es": "The Declaration of Independence",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "thomas-jefferson-apple-toddy-literary-eats",
@@ -9308,11 +9508,35 @@ export const content: PublicCatalog = {
       "aliases": [
         "Kooser"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "ted-kooser-delights-shadows",
+        "ted-kooser-local-wonders"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1939,
+      "works": [
+        {
+          "id": "ted-kooser-delights-shadows",
+          "author_id": "ted-kooser",
+          "original_title": "Delights & Shadows",
+          "display_title_es": "Delights & Shadows",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ted-kooser-local-wonders",
+          "author_id": "ted-kooser",
+          "original_title": "Local Wonders",
+          "display_title_es": "Local Wonders",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "ted-kooser-vino-de-ruibarbo-literary-eats",
@@ -9385,11 +9609,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Lardner"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "ring-lardner-you-know-me-al",
+        "ring-lardner-haircut"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1885,
+      "death_year": 1933,
+      "works": [
+        {
+          "id": "ring-lardner-you-know-me-al",
+          "author_id": "ring-lardner",
+          "original_title": "You Know Me Al",
+          "display_title_es": "You Know Me Al",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ring-lardner-haircut",
+          "author_id": "ring-lardner",
+          "original_title": "Haircut",
+          "display_title_es": "Haircut",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "ring-lardner-martini-seco-literary-eats",
@@ -9464,11 +9713,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Percy"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "walker-percy-the-moviegoer",
+        "walker-percy-the-thanatos-syndrome"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1916,
+      "death_year": 1990,
+      "works": [
+        {
+          "id": "walker-percy-the-moviegoer",
+          "author_id": "walker-percy",
+          "original_title": "The Moviegoer",
+          "display_title_es": "The Moviegoer",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "walker-percy-the-thanatos-syndrome",
+          "author_id": "walker-percy",
+          "original_title": "The Thanatos Syndrome",
+          "display_title_es": "The Thanatos Syndrome",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "walker-percy-mint-julep-literary-eats",
@@ -9610,11 +9884,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Roberts"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "kenneth-roberts-northwest-passage",
+        "kenneth-roberts-arundel"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1885,
+      "death_year": 1957,
+      "works": [
+        {
+          "id": "kenneth-roberts-northwest-passage",
+          "author_id": "kenneth-roberts",
+          "original_title": "Northwest Passage",
+          "display_title_es": "Northwest Passage",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "kenneth-roberts-arundel",
+          "author_id": "kenneth-roberts",
+          "original_title": "Arundel",
+          "display_title_es": "Arundel",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "kenneth-roberts-hot-buttered-rum-literary-eats",
@@ -9686,11 +9985,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Roosevelt"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "theodore-roosevelt-the-naval-war-of-1812",
+        "theodore-roosevelt-the-rough-riders"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1858,
+      "death_year": 1919,
+      "works": [
+        {
+          "id": "theodore-roosevelt-the-naval-war-of-1812",
+          "author_id": "theodore-roosevelt",
+          "original_title": "The Naval War of 1812",
+          "display_title_es": "The Naval War of 1812",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "theodore-roosevelt-the-rough-riders",
+          "author_id": "theodore-roosevelt",
+          "original_title": "The Rough Riders",
+          "display_title_es": "The Rough Riders",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "theodore-roosevelt-mint-julep-literary-eats",
@@ -9765,11 +10089,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Sigourney"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "lydia-sigourney-letters-to-mothers",
+        "lydia-sigourney-pocahontas-and-other-poems"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1791,
+      "death_year": 1865,
+      "works": [
+        {
+          "id": "lydia-sigourney-letters-to-mothers",
+          "author_id": "lydia-sigourney",
+          "original_title": "Letters to Mothers",
+          "display_title_es": "Letters to Mothers",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lydia-sigourney-pocahontas-and-other-poems",
+          "author_id": "lydia-sigourney",
+          "original_title": "Pocahontas and Other Poems",
+          "display_title_es": "Pocahontas and Other Poems",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "lydia-sigourney-cordiales-caseros-literary-eats",
@@ -9841,11 +10190,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Taylor"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "bayard-taylor-views-a-foot",
+        "bayard-taylor-hannah-thurston"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1825,
+      "death_year": 1878,
+      "works": [
+        {
+          "id": "bayard-taylor-views-a-foot",
+          "author_id": "bayard-taylor",
+          "original_title": "Views A-Foot",
+          "display_title_es": "Views A-Foot",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "bayard-taylor-hannah-thurston",
+          "author_id": "bayard-taylor",
+          "original_title": "Hannah Thurston",
+          "display_title_es": "Hannah Thurston",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "bayard-taylor-gothic-punch-literary-eats",
@@ -9917,11 +10291,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Twain"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "mark-twain-adventures-of-huckleberry-finn",
+        "mark-twain-the-adventures-of-tom-sawyer"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1835,
+      "death_year": 1910,
+      "works": [
+        {
+          "id": "mark-twain-adventures-of-huckleberry-finn",
+          "author_id": "mark-twain",
+          "original_title": "Adventures of Huckleberry Finn",
+          "display_title_es": "Adventures of Huckleberry Finn",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "mark-twain-the-adventures-of-tom-sawyer",
+          "author_id": "mark-twain",
+          "original_title": "The Adventures of Tom Sawyer",
+          "display_title_es": "The Adventures of Tom Sawyer",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "mark-twain-cafe-aleman-literary-eats",
@@ -10517,11 +10916,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Warren"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "robert-penn-warren-understanding-poetry",
+        "robert-penn-warren-night-rider"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1905,
+      "death_year": 1989,
+      "works": [
+        {
+          "id": "robert-penn-warren-understanding-poetry",
+          "author_id": "robert-penn-warren",
+          "original_title": "Understanding Poetry",
+          "display_title_es": "Understanding Poetry",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "robert-penn-warren-night-rider",
+          "author_id": "robert-penn-warren",
+          "original_title": "Night Rider",
+          "display_title_es": "Night Rider",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "robert-penn-warren-ponche-insidioso-literary-eats",
@@ -10593,11 +11017,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Washington"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "george-washington-the-papers-of-george-washington",
+        "george-washington-rules-of-civility-and-decent-behaviour"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Gran Bretaña / Estados Unidos",
+      "birth_year": 1732,
+      "death_year": 1799,
+      "works": [
+        {
+          "id": "george-washington-the-papers-of-george-washington",
+          "author_id": "george-washington",
+          "original_title": "The Papers of George Washington",
+          "display_title_es": "The Papers of George Washington",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "george-washington-rules-of-civility-and-decent-behaviour",
+          "author_id": "george-washington",
+          "original_title": "Rules of Civility and Decent Behaviour",
+          "display_title_es": "Rules of Civility and Decent Behaviour",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "george-washington-small-beer-literary-eats",
@@ -10663,93 +11112,41 @@ export const content: PublicCatalog = {
       ]
     },
     {
-      "id": "daniel-webster",
-      "slug": "daniel-webster",
-      "canonical_name": "Daniel Webster",
-      "aliases": [
-        "Webster"
-      ],
-      "featured_works": [],
-      "profile_status": "minimal",
-      "status": "published",
-      "reviewed_at": "2026-07-28",
-      "works": [],
-      "recommendations": [
-        {
-          "id": "daniel-webster-ponche-de-daniel-webster-literary-eats",
-          "author_id": "daniel-webster",
-          "drink_id": "ponche-de-daniel-webster",
-          "relationship_type": "author_documented",
-          "headline_es": "Daniel Webster y un ponche de atribución póstuma",
-          "explanation_es": "Literary Eats informa que una receta privada de ponche de Webster circuló póstumamente en la prensa. La atribución debe conservar su carácter póstumo y no expresarse como una preferencia confirmada.",
-          "confidence": "medium",
-          "evidence_ids": [
-            "evidencia-daniel-webster-ponche-de-daniel-webster-literary-eats"
-          ],
-          "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
-          "drink": {
-            "id": "ponche-de-daniel-webster",
-            "name_es": "Ponche de Daniel Webster",
-            "aliases": [
-              "Punch"
-            ],
-            "category": "Preparación de la casa",
-            "alcoholic": true,
-            "ingredients": [
-              {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
-              }
-            ],
-            "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
-            ],
-            "glassware": "Vaso apropiado",
-            "recipe_note": "Crear una receta de ponche original de la casa; no tratar la receta póstumamente atribuida como fórmula comprobada.",
-            "recipe_status": "house"
-          },
-          "evidence": [
-            {
-              "id": "evidencia-daniel-webster-ponche-de-daniel-webster-literary-eats",
-              "recommendation_id": "daniel-webster-ponche-de-daniel-webster-literary-eats",
-              "source_id": "fuente-literary-eats",
-              "claim": "Literary Eats informa que una receta privada de ponche atribuida a Daniel Webster circuló póstumamente en la prensa.",
-              "support_excerpt": "Webster’s private recipe for punch circulated in the press",
-              "locator": "PDF p. 206; impresa p. 189; Daniel Webster — Punch",
-              "evidence_kind": "bibliographic_reference",
-              "supports_claim": true,
-              "checked_at": "2026-07-28",
-              "source": {
-                "id": "fuente-literary-eats",
-                "source_type": "book",
-                "title": "Literary Eats",
-                "author_or_publisher": "Gary Scharnhorst / McFarland & Company",
-                "isbn": "978-0-7864-7548-3",
-                "edition": "Edición 2014; paginación PDF e impresa verificada",
-                "accessed_at": "2026-07-28",
-                "language": "en",
-                "reliability_tier": "reputable_secondary"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "bobbie-ann-mason",
       "slug": "bobbie-ann-mason",
       "canonical_name": "Bobbie Ann Mason",
       "aliases": [
         "Mason"
       ],
-      "featured_works": [],
+      "featured_works": [
+        "bobbie-ann-mason-shiloh-and-other-stories",
+        "bobbie-ann-mason-in-country"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1940,
+      "works": [
+        {
+          "id": "bobbie-ann-mason-shiloh-and-other-stories",
+          "author_id": "bobbie-ann-mason",
+          "original_title": "Shiloh and Other Stories",
+          "display_title_es": "Shiloh and Other Stories",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "bobbie-ann-mason-in-country",
+          "author_id": "bobbie-ann-mason",
+          "original_title": "In Country",
+          "display_title_es": "In Country",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "bobbie-ann-mason-natilla-hervida-literary-eats",
@@ -11122,11 +11519,36 @@ export const content: PublicCatalog = {
       "slug": "chretien-de-troyes",
       "canonical_name": "Chrétien de Troyes",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "chretien-de-troyes-erec-and-enide",
+        "chretien-de-troyes-yvain-the-knight-of-the-lion"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Francia",
+      "birth_year": 1135,
+      "death_year": 1181,
+      "works": [
+        {
+          "id": "chretien-de-troyes-erec-and-enide",
+          "author_id": "chretien-de-troyes",
+          "original_title": "Erec and Enide",
+          "display_title_es": "Erec and Enide",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "chretien-de-troyes-yvain-the-knight-of-the-lion",
+          "author_id": "chretien-de-troyes",
+          "original_title": "Yvain, the Knight of the Lion",
+          "display_title_es": "Yvain, the Knight of the Lion",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "chretien-de-troyes-piment-sip-and-sensibility",
@@ -11204,11 +11626,36 @@ export const content: PublicCatalog = {
       "slug": "samuel-pepys",
       "canonical_name": "Samuel Pepys",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-diary-of-samuel-pepys",
+        "samuel-pepys-memoires-relating-to-the-state-of-the-royal-navy"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Inglaterra",
+      "birth_year": 1633,
+      "death_year": 1703,
+      "works": [
+        {
+          "id": "the-diary-of-samuel-pepys",
+          "author_id": "samuel-pepys",
+          "original_title": "The Diary of Samuel Pepys",
+          "display_title_es": "The Diary of Samuel Pepys",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "samuel-pepys-memoires-relating-to-the-state-of-the-royal-navy",
+          "author_id": "samuel-pepys",
+          "original_title": "Memoires Relating to the State of the Royal Navy",
+          "display_title_es": "Memoires Relating to the State of the Royal Navy",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "samuel-pepys-lambs-wool-sip-and-sensibility",
@@ -11284,11 +11731,36 @@ export const content: PublicCatalog = {
       "slug": "washington-irving",
       "canonical_name": "Washington Irving",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "washington-irving-the-legend-of-sleepy-hollow",
+        "washington-irving-rip-van-winkle"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1783,
+      "death_year": 1859,
+      "works": [
+        {
+          "id": "washington-irving-the-legend-of-sleepy-hollow",
+          "author_id": "washington-irving",
+          "original_title": "The Legend of Sleepy Hollow",
+          "display_title_es": "The Legend of Sleepy Hollow",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "washington-irving-rip-van-winkle",
+          "author_id": "washington-irving",
+          "original_title": "Rip Van Winkle",
+          "display_title_es": "Rip Van Winkle",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "washington-irving-stone-fence-sip-and-sensibility",
@@ -11364,11 +11836,36 @@ export const content: PublicCatalog = {
       "slug": "jane-austen",
       "canonical_name": "Jane Austen",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "pride-and-prejudice",
+        "jane-austen-emma"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Irlanda",
+      "birth_year": 1775,
+      "death_year": 1817,
+      "works": [
+        {
+          "id": "pride-and-prejudice",
+          "author_id": "jane-austen",
+          "original_title": "Pride and Prejudice",
+          "display_title_es": "Pride and Prejudice",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jane-austen-emma",
+          "author_id": "jane-austen",
+          "original_title": "Emma",
+          "display_title_es": "Emma",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "jane-austen-negus-sip-and-sensibility",
@@ -11505,13 +12002,38 @@ export const content: PublicCatalog = {
     {
       "id": "sir-walter-scott",
       "slug": "sir-walter-scott",
-      "canonical_name": "Sir Walter Scott",
+      "canonical_name": "Walter Scott",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "sir-walter-scott-waverley",
+        "sir-walter-scott-rob-roy"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Gran Bretaña / Reino Unido",
+      "birth_year": 1771,
+      "death_year": 1832,
+      "works": [
+        {
+          "id": "sir-walter-scott-waverley",
+          "author_id": "sir-walter-scott",
+          "original_title": "Waverley",
+          "display_title_es": "Waverley",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "sir-walter-scott-rob-roy",
+          "author_id": "sir-walter-scott",
+          "original_title": "Rob Roy",
+          "display_title_es": "Rob Roy",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "sir-walter-scott-gin-twist-sip-and-sensibility",
@@ -11587,11 +12109,36 @@ export const content: PublicCatalog = {
       "slug": "p-g-wodehouse",
       "canonical_name": "P. G. Wodehouse",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "p-g-wodehouse-the-code-of-the-woosters",
+        "p-g-wodehouse-right-ho-jeeves"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Estados Unidos",
+      "birth_year": 1881,
+      "death_year": 1975,
+      "works": [
+        {
+          "id": "p-g-wodehouse-the-code-of-the-woosters",
+          "author_id": "p-g-wodehouse",
+          "original_title": "The Code of the Woosters",
+          "display_title_es": "The Code of the Woosters",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "p-g-wodehouse-right-ho-jeeves",
+          "author_id": "p-g-wodehouse",
+          "original_title": "Right Ho, Jeeves",
+          "display_title_es": "Right Ho, Jeeves",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "p-g-wodehouse-whiskey-and-soda-sip-and-sensibility",
@@ -11861,11 +12408,36 @@ export const content: PublicCatalog = {
       "slug": "richard-hughes",
       "canonical_name": "Richard Hughes",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-high-wind-in-jamaica",
+        "richard-hughes-danger"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1900,
+      "death_year": 1976,
+      "works": [
+        {
+          "id": "a-high-wind-in-jamaica",
+          "author_id": "richard-hughes",
+          "original_title": "A High Wind in Jamaica",
+          "display_title_es": "A High Wind in Jamaica",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "richard-hughes-danger",
+          "author_id": "richard-hughes",
+          "original_title": "Danger",
+          "display_title_es": "Danger",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "richard-hughes-hangmans-blood-sip-and-sensibility",
@@ -11943,11 +12515,36 @@ export const content: PublicCatalog = {
       "slug": "agatha-christie",
       "canonical_name": "Agatha Christie",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "agatha-christie-murder-on-the-orient-express",
+        "and-then-there-were-none"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1890,
+      "death_year": 1976,
+      "works": [
+        {
+          "id": "agatha-christie-murder-on-the-orient-express",
+          "author_id": "agatha-christie",
+          "original_title": "Murder on the Orient Express",
+          "display_title_es": "Murder on the Orient Express",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "and-then-there-were-none",
+          "author_id": "agatha-christie",
+          "original_title": "And Then There Were None",
+          "display_title_es": "And Then There Were None",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "agatha-christie-satans-whisker-sip-and-sensibility",
@@ -12149,11 +12746,36 @@ export const content: PublicCatalog = {
       "slug": "james-m-cain",
       "canonical_name": "James M. Cain",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-postman-always-rings-twice",
+        "james-m-cain-double-indemnity"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1892,
+      "death_year": 1977,
+      "works": [
+        {
+          "id": "the-postman-always-rings-twice",
+          "author_id": "james-m-cain",
+          "original_title": "The Postman Always Rings Twice",
+          "display_title_es": "The Postman Always Rings Twice",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "james-m-cain-double-indemnity",
+          "author_id": "james-m-cain",
+          "original_title": "Double Indemnity",
+          "display_title_es": "Double Indemnity",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "james-m-cain-bourbon-and-coke-sip-and-sensibility",
@@ -12231,11 +12853,36 @@ export const content: PublicCatalog = {
       "slug": "norman-collins",
       "canonical_name": "Norman Collins",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "norman-collins-london-belongs-to-me",
+        "norman-collins-bond-street-story"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1907,
+      "death_year": 1982,
+      "works": [
+        {
+          "id": "norman-collins-london-belongs-to-me",
+          "author_id": "norman-collins",
+          "original_title": "London Belongs to Me",
+          "display_title_es": "London Belongs to Me",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "norman-collins-bond-street-story",
+          "author_id": "norman-collins",
+          "original_title": "Bond Street Story",
+          "display_title_es": "Bond Street Story",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "norman-collins-sidecar-sip-and-sensibility",
@@ -12311,11 +12958,36 @@ export const content: PublicCatalog = {
       "slug": "john-betjeman",
       "canonical_name": "John Betjeman",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "john-betjeman-collected-poems",
+        "john-betjeman-summoned-by-bells"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1906,
+      "death_year": 1984,
+      "works": [
+        {
+          "id": "john-betjeman-collected-poems",
+          "author_id": "john-betjeman",
+          "original_title": "Collected Poems",
+          "display_title_es": "Collected Poems",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "john-betjeman-summoned-by-bells",
+          "author_id": "john-betjeman",
+          "original_title": "Summoned by Bells",
+          "display_title_es": "Summoned by Bells",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "john-betjeman-hock-and-seltzer-sip-and-sensibility",
@@ -12393,11 +13065,36 @@ export const content: PublicCatalog = {
       "slug": "evelyn-waugh",
       "canonical_name": "Evelyn Waugh",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "evelyn-waugh-a-handful-of-dust",
+        "brideshead-revisited"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1903,
+      "death_year": 1966,
+      "works": [
+        {
+          "id": "evelyn-waugh-a-handful-of-dust",
+          "author_id": "evelyn-waugh",
+          "original_title": "A Handful of Dust",
+          "display_title_es": "A Handful of Dust",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "brideshead-revisited",
+          "author_id": "evelyn-waugh",
+          "original_title": "Brideshead Revisited",
+          "display_title_es": "Brideshead Revisited",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "evelyn-waugh-alexandra-sip-and-sensibility",
@@ -12473,11 +13170,36 @@ export const content: PublicCatalog = {
       "slug": "john-steinbeck",
       "canonical_name": "John Steinbeck",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "john-steinbeck-of-mice-and-men",
+        "the-grapes-of-wrath"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1902,
+      "death_year": 1968,
+      "works": [
+        {
+          "id": "john-steinbeck-of-mice-and-men",
+          "author_id": "john-steinbeck",
+          "original_title": "Of Mice and Men",
+          "display_title_es": "Of Mice and Men",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-grapes-of-wrath",
+          "author_id": "john-steinbeck",
+          "original_title": "The Grapes of Wrath",
+          "display_title_es": "The Grapes of Wrath",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "john-steinbeck-beer-milkshake-sip-and-sensibility",
@@ -12677,11 +13399,36 @@ export const content: PublicCatalog = {
       "slug": "vladimir-nabokov",
       "canonical_name": "Vladimir Nabokov",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "lolita",
+        "vladimir-nabokov-pale-fire"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Imperio ruso / Estados Unidos",
+      "birth_year": 1899,
+      "death_year": 1977,
+      "works": [
+        {
+          "id": "lolita",
+          "author_id": "vladimir-nabokov",
+          "original_title": "Lolita",
+          "display_title_es": "Lolita",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "vladimir-nabokov-pale-fire",
+          "author_id": "vladimir-nabokov",
+          "original_title": "Pale Fire",
+          "display_title_es": "Pale Fire",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "vladimir-nabokov-pin-sip-and-sensibility",
@@ -12818,11 +13565,36 @@ export const content: PublicCatalog = {
       "slug": "graham-greene",
       "canonical_name": "Graham Greene",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "graham-greene-the-power-and-the-glory",
+        "graham-greene-the-quiet-american"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1904,
+      "death_year": 1991,
+      "works": [
+        {
+          "id": "graham-greene-the-power-and-the-glory",
+          "author_id": "graham-greene",
+          "original_title": "The Power and the Glory",
+          "display_title_es": "The Power and the Glory",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "graham-greene-the-quiet-american",
+          "author_id": "graham-greene",
+          "original_title": "The Quiet American",
+          "display_title_es": "The Quiet American",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "graham-greene-daiquiri-sip-and-sensibility",
@@ -12898,11 +13670,35 @@ export const content: PublicCatalog = {
       "slug": "thomas-pynchon",
       "canonical_name": "Thomas Pynchon",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "thomas-pynchon-gravity-s-rainbow",
+        "the-crying-of-lot-49"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1937,
+      "works": [
+        {
+          "id": "thomas-pynchon-gravity-s-rainbow",
+          "author_id": "thomas-pynchon",
+          "original_title": "Gravity’s Rainbow",
+          "display_title_es": "Gravity’s Rainbow",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-crying-of-lot-49",
+          "author_id": "thomas-pynchon",
+          "original_title": "The Crying of Lot 49",
+          "display_title_es": "The Crying of Lot 49",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "thomas-pynchon-tom-collins-sip-and-sensibility",
@@ -13116,11 +13912,36 @@ export const content: PublicCatalog = {
       "slug": "john-updike",
       "canonical_name": "John Updike",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "rabbit-run",
+        "john-updike-the-witches-of-eastwick"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1932,
+      "death_year": 2009,
+      "works": [
+        {
+          "id": "rabbit-run",
+          "author_id": "john-updike",
+          "original_title": "Rabbit, Run",
+          "display_title_es": "Rabbit, Run",
+          "identifiers": {},
+          "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "john-updike-the-witches-of-eastwick",
+          "author_id": "john-updike",
+          "original_title": "The Witches of Eastwick",
+          "display_title_es": "The Witches of Eastwick",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "john-updike-old-fashioned-sip-and-sensibility",
@@ -13263,11 +14084,36 @@ export const content: PublicCatalog = {
       "slug": "edward-albee",
       "canonical_name": "Edward Albee",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "edward-albee-who-s-afraid-of-virginia-woolf",
+        "edward-albee-the-goat-or-who-is-sylvia"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1928,
+      "death_year": 2016,
+      "works": [
+        {
+          "id": "edward-albee-who-s-afraid-of-virginia-woolf",
+          "author_id": "edward-albee",
+          "original_title": "Who's Afraid of Virginia Woolf?",
+          "display_title_es": "Who's Afraid of Virginia Woolf?",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "edward-albee-the-goat-or-who-is-sylvia",
+          "author_id": "edward-albee",
+          "original_title": "The Goat, or Who Is Sylvia?",
+          "display_title_es": "The Goat, or Who Is Sylvia?",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "edward-albee-brandy-alexander-sip-and-sensibility",
@@ -13343,11 +14189,36 @@ export const content: PublicCatalog = {
       "slug": "kurt-vonnegut",
       "canonical_name": "Kurt Vonnegut",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "kurt-vonnegut-cat-s-cradle",
+        "slaughterhouse-five"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1922,
+      "death_year": 2007,
+      "works": [
+        {
+          "id": "kurt-vonnegut-cat-s-cradle",
+          "author_id": "kurt-vonnegut",
+          "original_title": "Cat's Cradle",
+          "display_title_es": "Cat's Cradle",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "slaughterhouse-five",
+          "author_id": "kurt-vonnegut",
+          "original_title": "Slaughterhouse-Five",
+          "display_title_es": "Slaughterhouse-Five",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "kurt-vonnegut-house-of-lords-martini-sip-and-sensibility",
@@ -13557,11 +14428,36 @@ export const content: PublicCatalog = {
       "slug": "philip-larkin",
       "canonical_name": "Philip Larkin",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "philip-larkin-the-whitsun-weddings",
+        "philip-larkin-high-windows"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1922,
+      "death_year": 1985,
+      "works": [
+        {
+          "id": "philip-larkin-the-whitsun-weddings",
+          "author_id": "philip-larkin",
+          "original_title": "The Whitsun Weddings",
+          "display_title_es": "The Whitsun Weddings",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "philip-larkin-high-windows",
+          "author_id": "philip-larkin",
+          "original_title": "High Windows",
+          "display_title_es": "High Windows",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "philip-larkin-gin-tonic-sip-and-sensibility",
@@ -13641,11 +14537,36 @@ export const content: PublicCatalog = {
       "slug": "norman-mailer",
       "canonical_name": "Norman Mailer",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "norman-mailer-the-naked-and-the-dead",
+        "norman-mailer-the-executioner-s-song"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1923,
+      "death_year": 2007,
+      "works": [
+        {
+          "id": "norman-mailer-the-naked-and-the-dead",
+          "author_id": "norman-mailer",
+          "original_title": "The Naked and the Dead",
+          "display_title_es": "The Naked and the Dead",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "norman-mailer-the-executioner-s-song",
+          "author_id": "norman-mailer",
+          "original_title": "The Executioner’s Song",
+          "display_title_es": "The Executioner’s Song",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "norman-mailer-berlin-station-chief-sip-and-sensibility",
@@ -13721,11 +14642,36 @@ export const content: PublicCatalog = {
       "slug": "william-shakespeare",
       "canonical_name": "William Shakespeare",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "hamlet",
+        "romeo-and-juliet"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Inglaterra",
+      "birth_year": 1564,
+      "death_year": 1616,
+      "works": [
+        {
+          "id": "hamlet",
+          "author_id": "william-shakespeare",
+          "original_title": "Hamlet",
+          "display_title_es": "Hamlet",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "romeo-and-juliet",
+          "author_id": "william-shakespeare",
+          "original_title": "Romeo and Juliet",
+          "display_title_es": "Romeo and Juliet",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "william-shakespeare-caudle-sip-and-sensibility",
@@ -13920,11 +14866,36 @@ export const content: PublicCatalog = {
       "slug": "gustave-flaubert",
       "canonical_name": "Gustave Flaubert",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "madame-bovary",
+        "gustave-flaubert-salammbo"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Francia",
+      "birth_year": 1821,
+      "death_year": 1880,
+      "works": [
+        {
+          "id": "madame-bovary",
+          "author_id": "gustave-flaubert",
+          "original_title": "Madame Bovary",
+          "display_title_es": "Madame Bovary",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "gustave-flaubert-salammbo",
+          "author_id": "gustave-flaubert",
+          "original_title": "Salammbô",
+          "display_title_es": "Salammbô",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "gustave-flaubert-apple-hot-toddy-sip-and-sensibility",
@@ -14056,11 +15027,36 @@ export const content: PublicCatalog = {
       "slug": "william-butler-yeats",
       "canonical_name": "William Butler Yeats",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "william-butler-yeats-the-tower",
+        "william-butler-yeats-the-wild-swans-at-coole"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Irlanda",
+      "birth_year": 1865,
+      "death_year": 1939,
+      "works": [
+        {
+          "id": "william-butler-yeats-the-tower",
+          "author_id": "william-butler-yeats",
+          "original_title": "The Tower",
+          "display_title_es": "The Tower",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "william-butler-yeats-the-wild-swans-at-coole",
+          "author_id": "william-butler-yeats",
+          "original_title": "The Wild Swans at Coole",
+          "display_title_es": "The Wild Swans at Coole",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "william-butler-yeats-clover-club-sip-and-sensibility",
@@ -14135,11 +15131,36 @@ export const content: PublicCatalog = {
       "slug": "jack-london",
       "canonical_name": "Jack London",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-call-of-the-wild",
+        "jack-london-the-people-of-the-abyss"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1876,
+      "death_year": 1916,
+      "works": [
+        {
+          "id": "the-call-of-the-wild",
+          "author_id": "jack-london",
+          "original_title": "The Call of the Wild",
+          "display_title_es": "The Call of the Wild",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jack-london-the-people-of-the-abyss",
+          "author_id": "jack-london",
+          "original_title": "The People of the Abyss",
+          "display_title_es": "The People of the Abyss",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "jack-london-horses-neck-sip-and-sensibility",
@@ -14279,11 +15300,36 @@ export const content: PublicCatalog = {
       "slug": "e-b-white",
       "canonical_name": "E. B. White",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "charlotte-s-web",
+        "e-b-white-stuart-little"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1899,
+      "death_year": 1985,
+      "works": [
+        {
+          "id": "charlotte-s-web",
+          "author_id": "e-b-white",
+          "original_title": "Charlotte’s Web",
+          "display_title_es": "Charlotte’s Web",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "e-b-white-stuart-little",
+          "author_id": "e-b-white",
+          "original_title": "Stuart Little",
+          "display_title_es": "Stuart Little",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "e-b-white-pompier-sip-and-sensibility",
@@ -14415,11 +15461,36 @@ export const content: PublicCatalog = {
       "slug": "zelda-fitzgerald",
       "canonical_name": "Zelda Fitzgerald",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "zelda-fitzgerald-save-me-the-waltz",
+        "zelda-fitzgerald-scandalabra"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1900,
+      "death_year": 1948,
+      "works": [
+        {
+          "id": "zelda-fitzgerald-save-me-the-waltz",
+          "author_id": "zelda-fitzgerald",
+          "original_title": "Save Me the Waltz",
+          "display_title_es": "Save Me the Waltz",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "zelda-fitzgerald-scandalabra",
+          "author_id": "zelda-fitzgerald",
+          "original_title": "Scandalabra",
+          "display_title_es": "Scandalabra",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "zelda-fitzgerald-spiked-lemonade-sip-and-sensibility",
@@ -14496,11 +15567,36 @@ export const content: PublicCatalog = {
       "slug": "william-s-burroughs",
       "canonical_name": "William S. Burroughs",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "william-s-burroughs-naked-lunch",
+        "william-s-burroughs-junkie"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1914,
+      "death_year": 1997,
+      "works": [
+        {
+          "id": "william-s-burroughs-naked-lunch",
+          "author_id": "william-s-burroughs",
+          "original_title": "Naked Lunch",
+          "display_title_es": "Naked Lunch",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "william-s-burroughs-junkie",
+          "author_id": "william-s-burroughs",
+          "original_title": "Junkie",
+          "display_title_es": "Junkie",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "william-s-burroughs-vodka-coke-sip-and-sensibility",
@@ -14577,11 +15673,36 @@ export const content: PublicCatalog = {
       "slug": "carson-mccullers",
       "canonical_name": "Carson McCullers",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "carson-mccullers-the-heart-is-a-lonely-hunter",
+        "carson-mccullers-the-member-of-the-wedding"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1917,
+      "death_year": 1967,
+      "works": [
+        {
+          "id": "carson-mccullers-the-heart-is-a-lonely-hunter",
+          "author_id": "carson-mccullers",
+          "original_title": "The Heart Is a Lonely Hunter",
+          "display_title_es": "The Heart Is a Lonely Hunter",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "carson-mccullers-the-member-of-the-wedding",
+          "author_id": "carson-mccullers",
+          "original_title": "The Member of the Wedding",
+          "display_title_es": "The Member of the Wedding",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "carson-mccullers-sonnie-boy-sip-and-sensibility",
@@ -14656,11 +15777,35 @@ export const content: PublicCatalog = {
       "slug": "salman-rushdie",
       "canonical_name": "Salman Rushdie",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "salman-rushdie-midnight-s-children",
+        "salman-rushdie-the-satanic-verses"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Estados Unidos / India",
+      "birth_year": 1947,
+      "works": [
+        {
+          "id": "salman-rushdie-midnight-s-children",
+          "author_id": "salman-rushdie",
+          "original_title": "Midnight’s Children",
+          "display_title_es": "Midnight’s Children",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "salman-rushdie-the-satanic-verses",
+          "author_id": "salman-rushdie",
+          "original_title": "The Satanic Verses",
+          "display_title_es": "The Satanic Verses",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "salman-rushdie-vodka-tonic-sip-and-sensibility",
@@ -14735,13 +15880,37 @@ export const content: PublicCatalog = {
     {
       "id": "candice-bushnell",
       "slug": "candice-bushnell",
-      "canonical_name": "Candice Bushnell",
+      "canonical_name": "Candace Bushnell",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "candice-bushnell-sex-and-the-city",
+        "candice-bushnell-lipstick-jungle"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1958,
+      "works": [
+        {
+          "id": "candice-bushnell-sex-and-the-city",
+          "author_id": "candice-bushnell",
+          "original_title": "Sex and the City",
+          "display_title_es": "Sex and the City",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "candice-bushnell-lipstick-jungle",
+          "author_id": "candice-bushnell",
+          "original_title": "Lipstick Jungle",
+          "display_title_es": "Lipstick Jungle",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "candice-bushnell-cosmopolitan-sip-and-sensibility",
@@ -14816,11 +15985,34 @@ export const content: PublicCatalog = {
       "slug": "homer",
       "canonical_name": "Homer",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "homer-iliad",
+        "homer-odyssey"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Ionian League",
+      "works": [
+        {
+          "id": "homer-iliad",
+          "author_id": "homer",
+          "original_title": "Iliad",
+          "display_title_es": "Iliad",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "homer-odyssey",
+          "author_id": "homer",
+          "original_title": "Odyssey",
+          "display_title_es": "Odyssey",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-108-editorial",
@@ -14884,13 +16076,38 @@ export const content: PublicCatalog = {
     {
       "id": "miguel-de-cervantes-saavedra",
       "slug": "miguel-de-cervantes-saavedra",
-      "canonical_name": "Miguel de Cervantes Saavedra",
+      "canonical_name": "Miguel de Cervantes",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "miguel-de-cervantes-saavedra-don-quixote",
+        "miguel-de-cervantes-saavedra-exemplary-novels"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Crown of Castile",
+      "birth_year": 1547,
+      "death_year": 1616,
+      "works": [
+        {
+          "id": "miguel-de-cervantes-saavedra-don-quixote",
+          "author_id": "miguel-de-cervantes-saavedra",
+          "original_title": "Don Quixote",
+          "display_title_es": "Don Quixote",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "miguel-de-cervantes-saavedra-exemplary-novels",
+          "author_id": "miguel-de-cervantes-saavedra",
+          "original_title": "Exemplary Novels",
+          "display_title_es": "Exemplary Novels",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-110-editorial",
@@ -14956,11 +16173,36 @@ export const content: PublicCatalog = {
       "slug": "jonathan-swift",
       "canonical_name": "Jonathan Swift",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "jonathan-swift-gulliver-s-travels",
+        "jonathan-swift-a-modest-proposal"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Kingdom of Ireland / Irlanda",
+      "birth_year": 1667,
+      "death_year": 1745,
+      "works": [
+        {
+          "id": "jonathan-swift-gulliver-s-travels",
+          "author_id": "jonathan-swift",
+          "original_title": "Gulliver's Travels",
+          "display_title_es": "Gulliver's Travels",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jonathan-swift-a-modest-proposal",
+          "author_id": "jonathan-swift",
+          "original_title": "A Modest Proposal",
+          "display_title_es": "A Modest Proposal",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-111-editorial",
@@ -15030,11 +16272,36 @@ export const content: PublicCatalog = {
       "slug": "voltaire",
       "canonical_name": "Voltaire",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "candide",
+        "voltaire-zadig-or-destiny"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Francia",
+      "birth_year": 1694,
+      "death_year": 1778,
+      "works": [
+        {
+          "id": "candide",
+          "author_id": "voltaire",
+          "original_title": "Candide",
+          "display_title_es": "Candide",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "voltaire-zadig-or-destiny",
+          "author_id": "voltaire",
+          "original_title": "Zadig or Destiny",
+          "display_title_es": "Zadig or Destiny",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-112-editorial",
@@ -15098,11 +16365,36 @@ export const content: PublicCatalog = {
       "slug": "alexandre-dumas",
       "canonical_name": "Alexandre Dumas",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-count-of-monte-cristo",
+        "alexandre-dumas-the-three-musketeers"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Francia",
+      "birth_year": 1802,
+      "death_year": 1870,
+      "works": [
+        {
+          "id": "the-count-of-monte-cristo",
+          "author_id": "alexandre-dumas",
+          "original_title": "The Count of Monte Cristo",
+          "display_title_es": "The Count of Monte Cristo",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "alexandre-dumas-the-three-musketeers",
+          "author_id": "alexandre-dumas",
+          "original_title": "The Three Musketeers",
+          "display_title_es": "The Three Musketeers",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-113-editorial",
@@ -15166,11 +16458,36 @@ export const content: PublicCatalog = {
       "slug": "emily-bronte",
       "canonical_name": "Emily Brontë",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "wuthering-heights",
+        "emily-bronte-poems-by-currer-ellis-and-acton-bell"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Irlanda",
+      "birth_year": 1818,
+      "death_year": 1848,
+      "works": [
+        {
+          "id": "wuthering-heights",
+          "author_id": "emily-bronte",
+          "original_title": "Wuthering Heights",
+          "display_title_es": "Wuthering Heights",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "emily-bronte-poems-by-currer-ellis-and-acton-bell",
+          "author_id": "emily-bronte",
+          "original_title": "Poems by Currer, Ellis, and Acton Bell",
+          "display_title_es": "Poems by Currer, Ellis, and Acton Bell",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-114-editorial",
@@ -15259,11 +16576,36 @@ export const content: PublicCatalog = {
       "slug": "victor-hugo",
       "canonical_name": "Victor Hugo",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "victor-hugo-les-miserables",
+        "victor-hugo-the-hunchback-of-notre-dame"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Francia",
+      "birth_year": 1802,
+      "death_year": 1885,
+      "works": [
+        {
+          "id": "victor-hugo-les-miserables",
+          "author_id": "victor-hugo",
+          "original_title": "Les Misérables",
+          "display_title_es": "Les Misérables",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "victor-hugo-the-hunchback-of-notre-dame",
+          "author_id": "victor-hugo",
+          "original_title": "The Hunchback of Notre Dame",
+          "display_title_es": "The Hunchback of Notre Dame",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-117-editorial",
@@ -15329,11 +16671,36 @@ export const content: PublicCatalog = {
       "slug": "leo-tolstoy",
       "canonical_name": "Leo Tolstoy",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "war-and-peace",
+        "anna-karenina"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Imperio ruso",
+      "birth_year": 1828,
+      "death_year": 1910,
+      "works": [
+        {
+          "id": "war-and-peace",
+          "author_id": "leo-tolstoy",
+          "original_title": "War and Peace",
+          "display_title_es": "War and Peace",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "anna-karenina",
+          "author_id": "leo-tolstoy",
+          "original_title": "Anna Karenina",
+          "display_title_es": "Anna Karenina",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-118-editorial",
@@ -15454,11 +16821,36 @@ export const content: PublicCatalog = {
       "slug": "joseph-conrad",
       "canonical_name": "Joseph Conrad",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "heart-of-darkness",
+        "joseph-conrad-lord-jim"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Imperio ruso / Reino Unido / Second Polish Republic / Polonia / Ukraine",
+      "birth_year": 1857,
+      "death_year": 1924,
+      "works": [
+        {
+          "id": "heart-of-darkness",
+          "author_id": "joseph-conrad",
+          "original_title": "Heart of Darkness",
+          "display_title_es": "Heart of Darkness",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "joseph-conrad-lord-jim",
+          "author_id": "joseph-conrad",
+          "original_title": "Lord Jim",
+          "display_title_es": "Lord Jim",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-119-editorial",
@@ -15522,11 +16914,36 @@ export const content: PublicCatalog = {
       "slug": "fyodor-dostoyevsky",
       "canonical_name": "Fyodor Dostoyevsky",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "fyodor-dostoyevsky-notes-from-underground",
+        "crime-and-punishment"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Rusia / Imperio ruso",
+      "birth_year": 1821,
+      "death_year": 1881,
+      "works": [
+        {
+          "id": "fyodor-dostoyevsky-notes-from-underground",
+          "author_id": "fyodor-dostoyevsky",
+          "original_title": "Notes from Underground",
+          "display_title_es": "Notes from Underground",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "crime-and-punishment",
+          "author_id": "fyodor-dostoyevsky",
+          "original_title": "Crime and Punishment",
+          "display_title_es": "Crime and Punishment",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-120-editorial",
@@ -15649,11 +17066,36 @@ export const content: PublicCatalog = {
       "slug": "franz-kafka",
       "canonical_name": "Franz Kafka",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-metamorphosis",
+        "franz-kafka-the-trial"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Cisleithania / Checoslovaquia",
+      "birth_year": 1883,
+      "death_year": 1924,
+      "works": [
+        {
+          "id": "the-metamorphosis",
+          "author_id": "franz-kafka",
+          "original_title": "The Metamorphosis",
+          "display_title_es": "The Metamorphosis",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "franz-kafka-the-trial",
+          "author_id": "franz-kafka",
+          "original_title": "The Trial",
+          "display_title_es": "The Trial",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-122-editorial",
@@ -15732,11 +17174,36 @@ export const content: PublicCatalog = {
       "slug": "james-joyce",
       "canonical_name": "James Joyce",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "james-joyce-dubliners",
+        "james-joyce-a-portrait-of-the-artist-as-a-young-man"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Irlanda / Reino Unido / Francia",
+      "birth_year": 1882,
+      "death_year": 1941,
+      "works": [
+        {
+          "id": "james-joyce-dubliners",
+          "author_id": "james-joyce",
+          "original_title": "Dubliners",
+          "display_title_es": "Dubliners",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "james-joyce-a-portrait-of-the-artist-as-a-young-man",
+          "author_id": "james-joyce",
+          "original_title": "A Portrait of the Artist as a Young Man",
+          "display_title_es": "A Portrait of the Artist as a Young Man",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-123-editorial",
@@ -15802,11 +17269,36 @@ export const content: PublicCatalog = {
       "slug": "virginia-woolf",
       "canonical_name": "Virginia Woolf",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "virginia-woolf-to-the-lighthouse",
+        "virginia-woolf-mrs-dalloway"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1882,
+      "death_year": 1941,
+      "works": [
+        {
+          "id": "virginia-woolf-to-the-lighthouse",
+          "author_id": "virginia-woolf",
+          "original_title": "To the Lighthouse",
+          "display_title_es": "To the Lighthouse",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "virginia-woolf-mrs-dalloway",
+          "author_id": "virginia-woolf",
+          "original_title": "Mrs Dalloway",
+          "display_title_es": "Mrs Dalloway",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-124-editorial",
@@ -15872,11 +17364,36 @@ export const content: PublicCatalog = {
       "slug": "herman-melville",
       "canonical_name": "Herman Melville",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "moby-dick",
+        "herman-melville-bartleby-the-scrivener"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1819,
+      "death_year": 1891,
+      "works": [
+        {
+          "id": "moby-dick",
+          "author_id": "herman-melville",
+          "original_title": "Moby-Dick",
+          "display_title_es": "Moby-Dick",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "herman-melville-bartleby-the-scrivener",
+          "author_id": "herman-melville",
+          "original_title": "Bartleby, the Scrivener",
+          "display_title_es": "Bartleby, the Scrivener",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-126-editorial",
@@ -15942,11 +17459,36 @@ export const content: PublicCatalog = {
       "slug": "zora-neale-hurston",
       "canonical_name": "Zora Neale Hurston",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "their-eyes-were-watching-god",
+        "zora-neale-hurston-mules-and-men"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1891,
+      "death_year": 1960,
+      "works": [
+        {
+          "id": "their-eyes-were-watching-god",
+          "author_id": "zora-neale-hurston",
+          "original_title": "Their Eyes Were Watching God",
+          "display_title_es": "Their Eyes Were Watching God",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "zora-neale-hurston-mules-and-men",
+          "author_id": "zora-neale-hurston",
+          "original_title": "Mules and Men",
+          "display_title_es": "Mules and Men",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-131-editorial",
@@ -16018,11 +17560,36 @@ export const content: PublicCatalog = {
       "slug": "margaret-mitchell",
       "canonical_name": "Margaret Mitchell",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "gone-with-the-wind",
+        "margaret-mitchell-lost-laysen"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1900,
+      "death_year": 1949,
+      "works": [
+        {
+          "id": "gone-with-the-wind",
+          "author_id": "margaret-mitchell",
+          "original_title": "Gone with the Wind",
+          "display_title_es": "Gone with the Wind",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "margaret-mitchell-lost-laysen",
+          "author_id": "margaret-mitchell",
+          "original_title": "Lost Laysen",
+          "display_title_es": "Lost Laysen",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-132-editorial",
@@ -16094,11 +17661,36 @@ export const content: PublicCatalog = {
       "slug": "ralph-ellison",
       "canonical_name": "Ralph Ellison",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "invisible-man",
+        "ralph-ellison-juneteenth"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1914,
+      "death_year": 1994,
+      "works": [
+        {
+          "id": "invisible-man",
+          "author_id": "ralph-ellison",
+          "original_title": "Invisible Man",
+          "display_title_es": "Invisible Man",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ralph-ellison-juneteenth",
+          "author_id": "ralph-ellison",
+          "original_title": "Juneteenth",
+          "display_title_es": "Juneteenth",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-135-editorial",
@@ -16173,11 +17765,36 @@ export const content: PublicCatalog = {
       "slug": "ray-bradbury",
       "canonical_name": "Ray Bradbury",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "fahrenheit-451",
+        "ray-bradbury-something-wicked-this-way-comes"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1920,
+      "death_year": 2012,
+      "works": [
+        {
+          "id": "fahrenheit-451",
+          "author_id": "ray-bradbury",
+          "original_title": "Fahrenheit 451",
+          "display_title_es": "Fahrenheit 451",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ray-bradbury-something-wicked-this-way-comes",
+          "author_id": "ray-bradbury",
+          "original_title": "Something Wicked This Way Comes",
+          "display_title_es": "Something Wicked This Way Comes",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-136-editorial",
@@ -16249,11 +17866,36 @@ export const content: PublicCatalog = {
       "slug": "harper-lee",
       "canonical_name": "Harper Lee",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "to-kill-a-mockingbird",
+        "harper-lee-go-set-a-watchman"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1926,
+      "death_year": 2016,
+      "works": [
+        {
+          "id": "to-kill-a-mockingbird",
+          "author_id": "harper-lee",
+          "original_title": "To Kill a Mockingbird",
+          "display_title_es": "To Kill a Mockingbird",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "harper-lee-go-set-a-watchman",
+          "author_id": "harper-lee",
+          "original_title": "Go Set a Watchman",
+          "display_title_es": "Go Set a Watchman",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-138-editorial",
@@ -16319,11 +17961,36 @@ export const content: PublicCatalog = {
       "slug": "joseph-heller",
       "canonical_name": "Joseph Heller",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "catch-22",
+        "joseph-heller-god-knows"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1923,
+      "death_year": 1999,
+      "works": [
+        {
+          "id": "catch-22",
+          "author_id": "joseph-heller",
+          "original_title": "Catch-22",
+          "display_title_es": "Catch-22",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "joseph-heller-god-knows",
+          "author_id": "joseph-heller",
+          "original_title": "God Knows",
+          "display_title_es": "God Knows",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-139-editorial",
@@ -16403,11 +18070,36 @@ export const content: PublicCatalog = {
       "slug": "toni-morrison",
       "canonical_name": "Toni Morrison",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "beloved",
+        "toni-morrison-song-of-solomon"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1931,
+      "death_year": 2019,
+      "works": [
+        {
+          "id": "beloved",
+          "author_id": "toni-morrison",
+          "original_title": "Beloved",
+          "display_title_es": "Beloved",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "toni-morrison-song-of-solomon",
+          "author_id": "toni-morrison",
+          "original_title": "Song of Solomon",
+          "display_title_es": "Song of Solomon",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-142-editorial",
@@ -16479,11 +18171,36 @@ export const content: PublicCatalog = {
       "slug": "john-kennedy-toole",
       "canonical_name": "John Kennedy Toole",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-confederacy-of-dunces",
+        "john-kennedy-toole-the-neon-bible"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1937,
+      "death_year": 1969,
+      "works": [
+        {
+          "id": "a-confederacy-of-dunces",
+          "author_id": "john-kennedy-toole",
+          "original_title": "A Confederacy of Dunces",
+          "display_title_es": "A Confederacy of Dunces",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "john-kennedy-toole-the-neon-bible",
+          "author_id": "john-kennedy-toole",
+          "original_title": "The Neon Bible",
+          "display_title_es": "The Neon Bible",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-143-editorial",
@@ -16547,13 +18264,38 @@ export const content: PublicCatalog = {
     {
       "id": "sir-arthur-conan-doyle",
       "slug": "sir-arthur-conan-doyle",
-      "canonical_name": "Sir Arthur Conan Doyle",
+      "canonical_name": "Arthur Conan Doyle",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "sir-arthur-conan-doyle-canon-of-sherlock-holmes",
+        "sir-arthur-conan-doyle-the-lost-world"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1859,
+      "death_year": 1930,
+      "works": [
+        {
+          "id": "sir-arthur-conan-doyle-canon-of-sherlock-holmes",
+          "author_id": "sir-arthur-conan-doyle",
+          "original_title": "canon of Sherlock Holmes",
+          "display_title_es": "canon of Sherlock Holmes",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "sir-arthur-conan-doyle-the-lost-world",
+          "author_id": "sir-arthur-conan-doyle",
+          "original_title": "The Lost World",
+          "display_title_es": "The Lost World",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-145-editorial",
@@ -16619,11 +18361,36 @@ export const content: PublicCatalog = {
       "slug": "patricia-highsmith",
       "canonical_name": "Patricia Highsmith",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "patricia-highsmith-strangers-on-a-train",
+        "patricia-highsmith-the-price-of-salt"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1921,
+      "death_year": 1995,
+      "works": [
+        {
+          "id": "patricia-highsmith-strangers-on-a-train",
+          "author_id": "patricia-highsmith",
+          "original_title": "Strangers on a Train",
+          "display_title_es": "Strangers on a Train",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "patricia-highsmith-the-price-of-salt",
+          "author_id": "patricia-highsmith",
+          "original_title": "The Price of Salt",
+          "display_title_es": "The Price of Salt",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-149-editorial",
@@ -16687,13 +18454,38 @@ export const content: PublicCatalog = {
     {
       "id": "john-le-carre",
       "slug": "john-le-carre",
-      "canonical_name": "John Le Carre",
+      "canonical_name": "John le Carré",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-spy-who-came-in-from-the-cold",
+        "john-le-carre-tinker-tailor-soldier-spy"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Irlanda",
+      "birth_year": 1931,
+      "death_year": 2020,
+      "works": [
+        {
+          "id": "the-spy-who-came-in-from-the-cold",
+          "author_id": "john-le-carre",
+          "original_title": "The Spy Who Came in from the Cold",
+          "display_title_es": "The Spy Who Came in from the Cold",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "john-le-carre-tinker-tailor-soldier-spy",
+          "author_id": "john-le-carre",
+          "original_title": "Tinker Tailor Soldier Spy",
+          "display_title_es": "Tinker Tailor Soldier Spy",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-150-editorial",
@@ -16765,11 +18557,35 @@ export const content: PublicCatalog = {
       "slug": "ken-follett",
       "canonical_name": "Ken Follett",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "ken-follett-the-pillars-of-the-earth",
+        "ken-follett-eye-of-the-needle"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Wales / Francia",
+      "birth_year": 1949,
+      "works": [
+        {
+          "id": "ken-follett-the-pillars-of-the-earth",
+          "author_id": "ken-follett",
+          "original_title": "The Pillars of the Earth",
+          "display_title_es": "The Pillars of the Earth",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ken-follett-eye-of-the-needle",
+          "author_id": "ken-follett",
+          "original_title": "Eye of the Needle",
+          "display_title_es": "Eye of the Needle",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-153-editorial",
@@ -16845,11 +18661,35 @@ export const content: PublicCatalog = {
       "slug": "thomas-harris",
       "canonical_name": "Thomas Harris",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "red-dragon",
+        "thomas-harris-the-silence-of-the-lambs"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1940,
+      "works": [
+        {
+          "id": "red-dragon",
+          "author_id": "thomas-harris",
+          "original_title": "Red Dragon",
+          "display_title_es": "Red Dragon",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "thomas-harris-the-silence-of-the-lambs",
+          "author_id": "thomas-harris",
+          "original_title": "The Silence of the Lambs",
+          "display_title_es": "The Silence of the Lambs",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-154-editorial",
@@ -16923,11 +18763,35 @@ export const content: PublicCatalog = {
       "slug": "james-patterson",
       "canonical_name": "James Patterson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "along-came-a-spider",
+        "james-patterson-kiss-the-girls"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1947,
+      "works": [
+        {
+          "id": "along-came-a-spider",
+          "author_id": "james-patterson",
+          "original_title": "Along Came a Spider",
+          "display_title_es": "Along Came a Spider",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "james-patterson-kiss-the-girls",
+          "author_id": "james-patterson",
+          "original_title": "Kiss the Girls",
+          "display_title_es": "Kiss the Girls",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-155-editorial",
@@ -16997,11 +18861,35 @@ export const content: PublicCatalog = {
       "slug": "lee-child",
       "canonical_name": "Lee Child",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "killing-floor",
+        "lee-child-die-trying"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1954,
+      "works": [
+        {
+          "id": "killing-floor",
+          "author_id": "lee-child",
+          "original_title": "Killing Floor",
+          "display_title_es": "Killing Floor",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lee-child-die-trying",
+          "author_id": "lee-child",
+          "original_title": "Die Trying",
+          "display_title_es": "Die Trying",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-156-editorial",
@@ -17071,11 +18959,35 @@ export const content: PublicCatalog = {
       "slug": "harlan-coben",
       "canonical_name": "Harlan Coben",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "tell-no-one",
+        "harlan-coben-the-stranger"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1962,
+      "works": [
+        {
+          "id": "tell-no-one",
+          "author_id": "harlan-coben",
+          "original_title": "Tell No One",
+          "display_title_es": "Tell No One",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "harlan-coben-the-stranger",
+          "author_id": "harlan-coben",
+          "original_title": "The Stranger",
+          "display_title_es": "The Stranger",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-157-editorial",
@@ -17139,11 +19051,35 @@ export const content: PublicCatalog = {
       "slug": "alice-sebold",
       "canonical_name": "Alice Sebold",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-lovely-bones",
+        "alice-sebold-the-almost-moon"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1963,
+      "works": [
+        {
+          "id": "the-lovely-bones",
+          "author_id": "alice-sebold",
+          "original_title": "The Lovely Bones",
+          "display_title_es": "The Lovely Bones",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "alice-sebold-the-almost-moon",
+          "author_id": "alice-sebold",
+          "original_title": "The Almost Moon",
+          "display_title_es": "The Almost Moon",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-158-editorial",
@@ -17215,11 +19151,35 @@ export const content: PublicCatalog = {
       "slug": "dan-brown",
       "canonical_name": "Dan Brown",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-da-vinci-code",
+        "dan-brown-angels-demons"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1964,
+      "works": [
+        {
+          "id": "the-da-vinci-code",
+          "author_id": "dan-brown",
+          "original_title": "The Da Vinci Code",
+          "display_title_es": "The Da Vinci Code",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "dan-brown-angels-demons",
+          "author_id": "dan-brown",
+          "original_title": "Angels & Demons",
+          "display_title_es": "Angels & Demons",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-159-editorial",
@@ -17285,11 +19245,36 @@ export const content: PublicCatalog = {
       "slug": "stieg-larsson",
       "canonical_name": "Stieg Larsson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-girl-with-the-dragon-tattoo",
+        "stieg-larsson-the-girl-who-played-with-fire"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Suecia",
+      "birth_year": 1954,
+      "death_year": 2004,
+      "works": [
+        {
+          "id": "the-girl-with-the-dragon-tattoo",
+          "author_id": "stieg-larsson",
+          "original_title": "The Girl with the Dragon Tattoo",
+          "display_title_es": "The Girl with the Dragon Tattoo",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "stieg-larsson-the-girl-who-played-with-fire",
+          "author_id": "stieg-larsson",
+          "original_title": "The Girl Who Played with Fire",
+          "display_title_es": "The Girl Who Played with Fire",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-160-editorial",
@@ -17355,11 +19340,35 @@ export const content: PublicCatalog = {
       "slug": "gillian-flynn",
       "canonical_name": "Gillian Flynn",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "gillian-flynn-dark-places",
+        "gone-girl"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1971,
+      "works": [
+        {
+          "id": "gillian-flynn-dark-places",
+          "author_id": "gillian-flynn",
+          "original_title": "Dark Places",
+          "display_title_es": "Dark Places",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "gone-girl",
+          "author_id": "gillian-flynn",
+          "original_title": "Gone Girl",
+          "display_title_es": "Gone Girl",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-161-editorial",
@@ -17429,11 +19438,36 @@ export const content: PublicCatalog = {
       "slug": "mary-shelley",
       "canonical_name": "Mary Shelley",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "mary-shelley-the-last-man",
+        "mary-shelley-frankenstein-or-the-modern-prometheus"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Gran Bretaña / Reino Unido",
+      "birth_year": 1797,
+      "death_year": 1851,
+      "works": [
+        {
+          "id": "mary-shelley-the-last-man",
+          "author_id": "mary-shelley",
+          "original_title": "The Last Man",
+          "display_title_es": "The Last Man",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "mary-shelley-frankenstein-or-the-modern-prometheus",
+          "author_id": "mary-shelley",
+          "original_title": "Frankenstein; or, The Modern Prometheus",
+          "display_title_es": "Frankenstein; or, The Modern Prometheus",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-162-editorial",
@@ -17503,11 +19537,36 @@ export const content: PublicCatalog = {
       "slug": "robert-louis-stevenson",
       "canonical_name": "Robert Louis Stevenson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "robert-louis-stevenson-treasure-island",
+        "robert-louis-stevenson-kidnapped"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1850,
+      "death_year": 1894,
+      "works": [
+        {
+          "id": "robert-louis-stevenson-treasure-island",
+          "author_id": "robert-louis-stevenson",
+          "original_title": "Treasure Island",
+          "display_title_es": "Treasure Island",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "robert-louis-stevenson-kidnapped",
+          "author_id": "robert-louis-stevenson",
+          "original_title": "Kidnapped",
+          "display_title_es": "Kidnapped",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-163-editorial",
@@ -17577,11 +19636,36 @@ export const content: PublicCatalog = {
       "slug": "h-g-wells",
       "canonical_name": "H. G. Wells",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "h-g-wells-the-outline-of-history",
+        "the-time-machine"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1866,
+      "death_year": 1946,
+      "works": [
+        {
+          "id": "h-g-wells-the-outline-of-history",
+          "author_id": "h-g-wells",
+          "original_title": "The Outline of History",
+          "display_title_es": "The Outline of History",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-time-machine",
+          "author_id": "h-g-wells",
+          "original_title": "The Time Machine",
+          "display_title_es": "The Time Machine",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-164-editorial",
@@ -17645,11 +19729,36 @@ export const content: PublicCatalog = {
       "slug": "aldous-huxley",
       "canonical_name": "Aldous Huxley",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "brave-new-world",
+        "aldous-huxley-island"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1894,
+      "death_year": 1963,
+      "works": [
+        {
+          "id": "brave-new-world",
+          "author_id": "aldous-huxley",
+          "original_title": "Brave New World",
+          "display_title_es": "Brave New World",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "aldous-huxley-island",
+          "author_id": "aldous-huxley",
+          "original_title": "Island",
+          "display_title_es": "Island",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-165-editorial",
@@ -17719,11 +19828,36 @@ export const content: PublicCatalog = {
       "slug": "george-orwell",
       "canonical_name": "George Orwell",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "george-orwell-nineteen-eighty-four",
+        "george-orwell-animal-farm"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Francia",
+      "birth_year": 1903,
+      "death_year": 1950,
+      "works": [
+        {
+          "id": "george-orwell-nineteen-eighty-four",
+          "author_id": "george-orwell",
+          "original_title": "Nineteen Eighty-Four",
+          "display_title_es": "Nineteen Eighty-Four",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "george-orwell-animal-farm",
+          "author_id": "george-orwell",
+          "original_title": "Animal Farm",
+          "display_title_es": "Animal Farm",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-166-editorial",
@@ -17793,11 +19927,36 @@ export const content: PublicCatalog = {
       "slug": "isaac-asimov",
       "canonical_name": "Isaac Asimov",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "isaac-asimov-foundation-series",
+        "isaac-asimov-robot-series"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Russian Socialist Federative Soviet Republic / Estados Unidos",
+      "birth_year": 1920,
+      "death_year": 1992,
+      "works": [
+        {
+          "id": "isaac-asimov-foundation-series",
+          "author_id": "isaac-asimov",
+          "original_title": "Foundation series",
+          "display_title_es": "Foundation series",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "isaac-asimov-robot-series",
+          "author_id": "isaac-asimov",
+          "original_title": "Robot series",
+          "display_title_es": "Robot series",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-167-editorial",
@@ -17863,11 +20022,36 @@ export const content: PublicCatalog = {
       "slug": "arthur-c-clarke",
       "canonical_name": "Arthur C. Clarke",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "arthur-c-clarke-2001-a-space-odyssey",
+        "arthur-c-clarke-rendezvous-with-rama"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1917,
+      "death_year": 2008,
+      "works": [
+        {
+          "id": "arthur-c-clarke-2001-a-space-odyssey",
+          "author_id": "arthur-c-clarke",
+          "original_title": "2001: A Space Odyssey",
+          "display_title_es": "2001: A Space Odyssey",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "arthur-c-clarke-rendezvous-with-rama",
+          "author_id": "arthur-c-clarke",
+          "original_title": "Rendezvous with Rama",
+          "display_title_es": "Rendezvous with Rama",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-168-editorial",
@@ -17931,13 +20115,38 @@ export const content: PublicCatalog = {
     {
       "id": "robert-heinlein",
       "slug": "robert-heinlein",
-      "canonical_name": "Robert Heinlein",
+      "canonical_name": "Robert A. Heinlein",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "robert-heinlein-farnham-s-freehold",
+        "robert-heinlein-starship-troopers"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1907,
+      "death_year": 1988,
+      "works": [
+        {
+          "id": "robert-heinlein-farnham-s-freehold",
+          "author_id": "robert-heinlein",
+          "original_title": "Farnham's Freehold",
+          "display_title_es": "Farnham's Freehold",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "robert-heinlein-starship-troopers",
+          "author_id": "robert-heinlein",
+          "original_title": "Starship Troopers",
+          "display_title_es": "Starship Troopers",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-169-editorial",
@@ -18009,11 +20218,36 @@ export const content: PublicCatalog = {
       "slug": "anthony-burgess",
       "canonical_name": "Anthony Burgess",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-clockwork-orange",
+        "anthony-burgess-earthly-powers"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1917,
+      "death_year": 1993,
+      "works": [
+        {
+          "id": "a-clockwork-orange",
+          "author_id": "anthony-burgess",
+          "original_title": "A Clockwork Orange",
+          "display_title_es": "A Clockwork Orange",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "anthony-burgess-earthly-powers",
+          "author_id": "anthony-burgess",
+          "original_title": "Earthly Powers",
+          "display_title_es": "Earthly Powers",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-170-editorial",
@@ -18083,11 +20317,36 @@ export const content: PublicCatalog = {
       "slug": "frank-herbert",
       "canonical_name": "Frank Herbert",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "dune",
+        "frank-herbert-dune-messiah"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1920,
+      "death_year": 1986,
+      "works": [
+        {
+          "id": "dune",
+          "author_id": "frank-herbert",
+          "original_title": "Dune",
+          "display_title_es": "Dune",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "frank-herbert-dune-messiah",
+          "author_id": "frank-herbert",
+          "original_title": "Dune Messiah",
+          "display_title_es": "Dune Messiah",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-171-editorial",
@@ -18151,11 +20410,36 @@ export const content: PublicCatalog = {
       "slug": "ursula-k-le-guin",
       "canonical_name": "Ursula K. Le Guin",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "ursula-k-le-guin-earthsea-series",
+        "the-left-hand-of-darkness"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1929,
+      "death_year": 2018,
+      "works": [
+        {
+          "id": "ursula-k-le-guin-earthsea-series",
+          "author_id": "ursula-k-le-guin",
+          "original_title": "Earthsea series",
+          "display_title_es": "Earthsea series",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-left-hand-of-darkness",
+          "author_id": "ursula-k-le-guin",
+          "original_title": "The Left Hand of Darkness",
+          "display_title_es": "The Left Hand of Darkness",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-172-editorial",
@@ -18221,11 +20505,36 @@ export const content: PublicCatalog = {
       "slug": "philip-k-dick",
       "canonical_name": "Philip K. Dick",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "philip-k-dick-ubik",
+        "philip-k-dick-do-androids-dream-of-electric-sheep"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1928,
+      "death_year": 1982,
+      "works": [
+        {
+          "id": "philip-k-dick-ubik",
+          "author_id": "philip-k-dick",
+          "original_title": "Ubik",
+          "display_title_es": "Ubik",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "philip-k-dick-do-androids-dream-of-electric-sheep",
+          "author_id": "philip-k-dick",
+          "original_title": "Do Androids Dream of Electric Sheep?",
+          "display_title_es": "Do Androids Dream of Electric Sheep?",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-173-editorial",
@@ -18295,13 +20604,38 @@ export const content: PublicCatalog = {
     {
       "id": "douglas-adams",
       "slug": "douglas-adams",
-      "canonical_name": "Douglas Adams",
+      "canonical_name": "دوغلاس آدمز",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "douglas-adams-the-hitchhiker-s-guide-to-the-galaxy",
+        "douglas-adams-dirk-gently-series"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1952,
+      "death_year": 2001,
+      "works": [
+        {
+          "id": "douglas-adams-the-hitchhiker-s-guide-to-the-galaxy",
+          "author_id": "douglas-adams",
+          "original_title": "The Hitchhiker's Guide to the Galaxy",
+          "display_title_es": "The Hitchhiker's Guide to the Galaxy",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "douglas-adams-dirk-gently-series",
+          "author_id": "douglas-adams",
+          "original_title": "Dirk Gently series",
+          "display_title_es": "Dirk Gently series",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-174-editorial",
@@ -18373,11 +20707,35 @@ export const content: PublicCatalog = {
       "slug": "william-gibson",
       "canonical_name": "William Gibson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "neuromancer",
+        "william-gibson-pattern-recognition"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos / Canadá",
+      "birth_year": 1948,
+      "works": [
+        {
+          "id": "neuromancer",
+          "author_id": "william-gibson",
+          "original_title": "Neuromancer",
+          "display_title_es": "Neuromancer",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "william-gibson-pattern-recognition",
+          "author_id": "william-gibson",
+          "original_title": "Pattern Recognition",
+          "display_title_es": "Pattern Recognition",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-175-editorial",
@@ -18452,11 +20810,35 @@ export const content: PublicCatalog = {
       "slug": "orson-scott-card",
       "canonical_name": "Orson Scott Card",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "enders-game",
+        "orson-scott-card-speaker-for-the-dead"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1951,
+      "works": [
+        {
+          "id": "enders-game",
+          "author_id": "orson-scott-card",
+          "original_title": "Ender’s Game",
+          "display_title_es": "Ender’s Game",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "orson-scott-card-speaker-for-the-dead",
+          "author_id": "orson-scott-card",
+          "original_title": "Speaker for the Dead",
+          "display_title_es": "Speaker for the Dead",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-176-editorial",
@@ -18528,11 +20910,36 @@ export const content: PublicCatalog = {
       "slug": "p-d-james",
       "canonical_name": "P. D. James",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "p-d-james-cover-her-face",
+        "p-d-james-the-children-of-men"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1920,
+      "death_year": 2014,
+      "works": [
+        {
+          "id": "p-d-james-cover-her-face",
+          "author_id": "p-d-james",
+          "original_title": "Cover Her Face",
+          "display_title_es": "Cover Her Face",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "p-d-james-the-children-of-men",
+          "author_id": "p-d-james",
+          "original_title": "The Children of Men",
+          "display_title_es": "The Children of Men",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-177-editorial",
@@ -18598,11 +21005,35 @@ export const content: PublicCatalog = {
       "slug": "neal-stephenson",
       "canonical_name": "Neal Stephenson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "snow-crash",
+        "neal-stephenson-cryptonomicon"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1959,
+      "works": [
+        {
+          "id": "snow-crash",
+          "author_id": "neal-stephenson",
+          "original_title": "Snow Crash",
+          "display_title_es": "Snow Crash",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "neal-stephenson-cryptonomicon",
+          "author_id": "neal-stephenson",
+          "original_title": "Cryptonomicon",
+          "display_title_es": "Cryptonomicon",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-178-editorial",
@@ -18696,11 +21127,35 @@ export const content: PublicCatalog = {
       "slug": "ernest-cline",
       "canonical_name": "Ernest Cline",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "ready-player-one",
+        "ernest-cline-armada"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1972,
+      "works": [
+        {
+          "id": "ready-player-one",
+          "author_id": "ernest-cline",
+          "original_title": "Ready Player One",
+          "display_title_es": "Ready Player One",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ernest-cline-armada",
+          "author_id": "ernest-cline",
+          "original_title": "Armada",
+          "display_title_es": "Armada",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-179-editorial",
@@ -18772,11 +21227,36 @@ export const content: PublicCatalog = {
       "slug": "bram-stoker",
       "canonical_name": "Bram Stoker",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "dracula",
+        "bram-stoker-the-jewel-of-seven-stars"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Irlanda / Irlanda",
+      "birth_year": 1847,
+      "death_year": 1912,
+      "works": [
+        {
+          "id": "dracula",
+          "author_id": "bram-stoker",
+          "original_title": "Dracula",
+          "display_title_es": "Dracula",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "bram-stoker-the-jewel-of-seven-stars",
+          "author_id": "bram-stoker",
+          "original_title": "The Jewel of Seven Stars",
+          "display_title_es": "The Jewel of Seven Stars",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-180-editorial",
@@ -18863,11 +21343,36 @@ export const content: PublicCatalog = {
       "slug": "j-r-r-tolkien",
       "canonical_name": "J. R. R. Tolkien",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "j-r-r-tolkien-the-hobbit",
+        "j-r-r-tolkien-the-lord-of-the-rings"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1892,
+      "death_year": 1973,
+      "works": [
+        {
+          "id": "j-r-r-tolkien-the-hobbit",
+          "author_id": "j-r-r-tolkien",
+          "original_title": "The Hobbit",
+          "display_title_es": "The Hobbit",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "j-r-r-tolkien-the-lord-of-the-rings",
+          "author_id": "j-r-r-tolkien",
+          "original_title": "The Lord of the Rings",
+          "display_title_es": "The Lord of the Rings",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-181-editorial",
@@ -18933,11 +21438,36 @@ export const content: PublicCatalog = {
       "slug": "t-h-white",
       "canonical_name": "T. H. White",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-once-and-future-king",
+        "t-h-white-the-sword-in-the-stone"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1906,
+      "death_year": 1964,
+      "works": [
+        {
+          "id": "the-once-and-future-king",
+          "author_id": "t-h-white",
+          "original_title": "The Once and Future King",
+          "display_title_es": "The Once and Future King",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "t-h-white-the-sword-in-the-stone",
+          "author_id": "t-h-white",
+          "original_title": "The Sword in the Stone",
+          "display_title_es": "The Sword in the Stone",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-182-editorial",
@@ -19001,13 +21531,38 @@ export const content: PublicCatalog = {
     {
       "id": "anne-mccaffrey",
       "slug": "anne-mccaffrey",
-      "canonical_name": "Anne Mccaffrey",
+      "canonical_name": "Anne McCaffrey",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "dragonflight",
+        "anne-mccaffrey-the-white-dragon"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos / Irlanda",
+      "birth_year": 1926,
+      "death_year": 2011,
+      "works": [
+        {
+          "id": "dragonflight",
+          "author_id": "anne-mccaffrey",
+          "original_title": "Dragonflight",
+          "display_title_es": "Dragonflight",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "anne-mccaffrey-the-white-dragon",
+          "author_id": "anne-mccaffrey",
+          "original_title": "The White Dragon",
+          "display_title_es": "The White Dragon",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-183-editorial",
@@ -19079,11 +21634,36 @@ export const content: PublicCatalog = {
       "slug": "anne-rice",
       "canonical_name": "Anne Rice",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "interview-with-the-vampire",
+        "anne-rice-the-vampire-lestat"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1941,
+      "death_year": 2021,
+      "works": [
+        {
+          "id": "interview-with-the-vampire",
+          "author_id": "anne-rice",
+          "original_title": "Interview with the Vampire",
+          "display_title_es": "Interview with the Vampire",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "anne-rice-the-vampire-lestat",
+          "author_id": "anne-rice",
+          "original_title": "The Vampire Lestat",
+          "display_title_es": "The Vampire Lestat",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-184-editorial",
@@ -19159,11 +21739,35 @@ export const content: PublicCatalog = {
       "slug": "terry-brooks",
       "canonical_name": "Terry Brooks",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-sword-of-shannara",
+        "terry-brooks-the-elfstones-of-shannara"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1944,
+      "works": [
+        {
+          "id": "the-sword-of-shannara",
+          "author_id": "terry-brooks",
+          "original_title": "The Sword of Shannara",
+          "display_title_es": "The Sword of Shannara",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "terry-brooks-the-elfstones-of-shannara",
+          "author_id": "terry-brooks",
+          "original_title": "The Elfstones of Shannara",
+          "display_title_es": "The Elfstones of Shannara",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-185-editorial",
@@ -19229,11 +21833,36 @@ export const content: PublicCatalog = {
       "slug": "marion-zimmer-bradley",
       "canonical_name": "Marion Zimmer Bradley",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-mists-of-avalon",
+        "marion-zimmer-bradley-the-door-through-space"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1930,
+      "death_year": 1999,
+      "works": [
+        {
+          "id": "the-mists-of-avalon",
+          "author_id": "marion-zimmer-bradley",
+          "original_title": "The Mists of Avalon",
+          "display_title_es": "The Mists of Avalon",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "marion-zimmer-bradley-the-door-through-space",
+          "author_id": "marion-zimmer-bradley",
+          "original_title": "The Door Through Space",
+          "display_title_es": "The Door Through Space",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-186-editorial",
@@ -19299,11 +21928,36 @@ export const content: PublicCatalog = {
       "slug": "terry-pratchett",
       "canonical_name": "Terry Pratchett",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "terry-pratchett-guards-guards",
+        "terry-pratchett-small-gods"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1948,
+      "death_year": 2015,
+      "works": [
+        {
+          "id": "terry-pratchett-guards-guards",
+          "author_id": "terry-pratchett",
+          "original_title": "Guards! Guards!",
+          "display_title_es": "Guards! Guards!",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "terry-pratchett-small-gods",
+          "author_id": "terry-pratchett",
+          "original_title": "Small Gods",
+          "display_title_es": "Small Gods",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-187-editorial",
@@ -19369,11 +22023,36 @@ export const content: PublicCatalog = {
       "slug": "robert-jordan",
       "canonical_name": "Robert Jordan",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-eye-of-the-world",
+        "robert-jordan-the-great-hunt"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1948,
+      "death_year": 2007,
+      "works": [
+        {
+          "id": "the-eye-of-the-world",
+          "author_id": "robert-jordan",
+          "original_title": "The Eye of the World",
+          "display_title_es": "The Eye of the World",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "robert-jordan-the-great-hunt",
+          "author_id": "robert-jordan",
+          "original_title": "The Great Hunt",
+          "display_title_es": "The Great Hunt",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-188-editorial",
@@ -19439,11 +22118,35 @@ export const content: PublicCatalog = {
       "slug": "robin-hobb",
       "canonical_name": "Robin Hobb",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "robin-hobb-assassin-s-apprentice",
+        "robin-hobb-royal-assassin"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1952,
+      "works": [
+        {
+          "id": "robin-hobb-assassin-s-apprentice",
+          "author_id": "robin-hobb",
+          "original_title": "Assassin's Apprentice",
+          "display_title_es": "Assassin's Apprentice",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "robin-hobb-royal-assassin",
+          "author_id": "robin-hobb",
+          "original_title": "Royal Assassin",
+          "display_title_es": "Royal Assassin",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-189-editorial",
@@ -19509,11 +22212,35 @@ export const content: PublicCatalog = {
       "slug": "george-r-r-martin",
       "canonical_name": "George R. R. Martin",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-game-of-thrones",
+        "george-r-r-martin-a-clash-of-kings"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1948,
+      "works": [
+        {
+          "id": "a-game-of-thrones",
+          "author_id": "george-r-r-martin",
+          "original_title": "A Game of Thrones",
+          "display_title_es": "A Game of Thrones",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "george-r-r-martin-a-clash-of-kings",
+          "author_id": "george-r-r-martin",
+          "original_title": "A Clash of Kings",
+          "display_title_es": "A Clash of Kings",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-190-editorial",
@@ -19579,11 +22306,35 @@ export const content: PublicCatalog = {
       "slug": "jim-butcher",
       "canonical_name": "Jim Butcher",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "jim-butcher-the-dresden-files",
+        "jim-butcher-the-codex-alera"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1971,
+      "works": [
+        {
+          "id": "jim-butcher-the-dresden-files",
+          "author_id": "jim-butcher",
+          "original_title": "The Dresden Files",
+          "display_title_es": "The Dresden Files",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jim-butcher-the-codex-alera",
+          "author_id": "jim-butcher",
+          "original_title": "The Codex Alera",
+          "display_title_es": "The Codex Alera",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-191-editorial",
@@ -19655,11 +22406,35 @@ export const content: PublicCatalog = {
       "slug": "neil-gaiman",
       "canonical_name": "Neil Gaiman",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "neil-gaiman-the-sandman",
+        "american-gods"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1960,
+      "works": [
+        {
+          "id": "neil-gaiman-the-sandman",
+          "author_id": "neil-gaiman",
+          "original_title": "The Sandman",
+          "display_title_es": "The Sandman",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "american-gods",
+          "author_id": "neil-gaiman",
+          "original_title": "American Gods",
+          "display_title_es": "American Gods",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-192-editorial",
@@ -19731,11 +22506,35 @@ export const content: PublicCatalog = {
       "slug": "susanna-clarke",
       "canonical_name": "Susanna Clarke",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "susanna-clarke-jonathan-strange-mr-norrell",
+        "susanna-clarke-piranesi"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1959,
+      "works": [
+        {
+          "id": "susanna-clarke-jonathan-strange-mr-norrell",
+          "author_id": "susanna-clarke",
+          "original_title": "Jonathan Strange & Mr Norrell",
+          "display_title_es": "Jonathan Strange & Mr Norrell",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "susanna-clarke-piranesi",
+          "author_id": "susanna-clarke",
+          "original_title": "Piranesi",
+          "display_title_es": "Piranesi",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-193-editorial",
@@ -19807,11 +22606,35 @@ export const content: PublicCatalog = {
       "slug": "patrick-rothfuss",
       "canonical_name": "Patrick Rothfuss",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-name-of-the-wind",
+        "patrick-rothfuss-the-wise-man-s-fear"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1973,
+      "works": [
+        {
+          "id": "the-name-of-the-wind",
+          "author_id": "patrick-rothfuss",
+          "original_title": "The Name of the Wind",
+          "display_title_es": "The Name of the Wind",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "patrick-rothfuss-the-wise-man-s-fear",
+          "author_id": "patrick-rothfuss",
+          "original_title": "The Wise Man's Fear",
+          "display_title_es": "The Wise Man's Fear",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-194-editorial",
@@ -19877,11 +22700,35 @@ export const content: PublicCatalog = {
       "slug": "brandon-sanderson",
       "canonical_name": "Brandon Sanderson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "brandon-sanderson-mistborn-the-final-empire",
+        "the-way-of-kings"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1975,
+      "works": [
+        {
+          "id": "brandon-sanderson-mistborn-the-final-empire",
+          "author_id": "brandon-sanderson",
+          "original_title": "Mistborn: The Final Empire",
+          "display_title_es": "Mistborn: The Final Empire",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-way-of-kings",
+          "author_id": "brandon-sanderson",
+          "original_title": "The Way of Kings",
+          "display_title_es": "The Way of Kings",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-195-editorial",
@@ -19947,11 +22794,35 @@ export const content: PublicCatalog = {
       "slug": "deborah-harkness",
       "canonical_name": "Deborah Harkness",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-discovery-of-witches",
+        "deborah-harkness-shadow-of-night"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1965,
+      "works": [
+        {
+          "id": "a-discovery-of-witches",
+          "author_id": "deborah-harkness",
+          "original_title": "A Discovery of Witches",
+          "display_title_es": "A Discovery of Witches",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "deborah-harkness-shadow-of-night",
+          "author_id": "deborah-harkness",
+          "original_title": "Shadow of Night",
+          "display_title_es": "Shadow of Night",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-196-editorial",
@@ -20017,11 +22888,35 @@ export const content: PublicCatalog = {
       "slug": "erin-morgenstern",
       "canonical_name": "Erin Morgenstern",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-night-circus",
+        "erin-morgenstern-the-starless-sea"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1978,
+      "works": [
+        {
+          "id": "the-night-circus",
+          "author_id": "erin-morgenstern",
+          "original_title": "The Night Circus",
+          "display_title_es": "The Night Circus",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "erin-morgenstern-the-starless-sea",
+          "author_id": "erin-morgenstern",
+          "original_title": "The Starless Sea",
+          "display_title_es": "The Starless Sea",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-197-editorial",
@@ -20095,11 +22990,36 @@ export const content: PublicCatalog = {
       "slug": "charlotte-bronte",
       "canonical_name": "Charlotte Brontë",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "jane-eyre",
+        "charlotte-bronte-villette"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Irlanda",
+      "birth_year": 1816,
+      "death_year": 1855,
+      "works": [
+        {
+          "id": "jane-eyre",
+          "author_id": "charlotte-bronte",
+          "original_title": "Jane Eyre",
+          "display_title_es": "Jane Eyre",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "charlotte-bronte-villette",
+          "author_id": "charlotte-bronte",
+          "original_title": "Villette",
+          "display_title_es": "Villette",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-200-editorial",
@@ -20165,11 +23085,36 @@ export const content: PublicCatalog = {
       "slug": "d-h-lawrence",
       "canonical_name": "D. H. Lawrence",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "d-h-lawrence-sons-and-lovers",
+        "d-h-lawrence-the-rainbow"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1885,
+      "death_year": 1930,
+      "works": [
+        {
+          "id": "d-h-lawrence-sons-and-lovers",
+          "author_id": "d-h-lawrence",
+          "original_title": "Sons and Lovers",
+          "display_title_es": "Sons and Lovers",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "d-h-lawrence-the-rainbow",
+          "author_id": "d-h-lawrence",
+          "original_title": "The Rainbow",
+          "display_title_es": "The Rainbow",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-202-editorial",
@@ -20233,13 +23178,38 @@ export const content: PublicCatalog = {
     {
       "id": "daphne-du-maurier",
       "slug": "daphne-du-maurier",
-      "canonical_name": "Daphne De Maurier",
+      "canonical_name": "Daphne du Maurier",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "rebecca",
+        "daphne-du-maurier-jamaica-inn"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1907,
+      "death_year": 1989,
+      "works": [
+        {
+          "id": "rebecca",
+          "author_id": "daphne-du-maurier",
+          "original_title": "Rebecca",
+          "display_title_es": "Rebecca",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "daphne-du-maurier-jamaica-inn",
+          "author_id": "daphne-du-maurier",
+          "original_title": "Jamaica Inn",
+          "display_title_es": "Jamaica Inn",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-203-editorial",
@@ -20311,11 +23281,36 @@ export const content: PublicCatalog = {
       "slug": "boris-pasternak",
       "canonical_name": "Boris Pasternak",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "doctor-zhivago",
+        "boris-pasternak-my-sister-life"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Imperio ruso / Unión Soviética",
+      "birth_year": 1890,
+      "death_year": 1960,
+      "works": [
+        {
+          "id": "doctor-zhivago",
+          "author_id": "boris-pasternak",
+          "original_title": "Doctor Zhivago",
+          "display_title_es": "Doctor Zhivago",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "boris-pasternak-my-sister-life",
+          "author_id": "boris-pasternak",
+          "original_title": "My Sister, Life",
+          "display_title_es": "My Sister, Life",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-204-editorial",
@@ -20387,11 +23382,36 @@ export const content: PublicCatalog = {
       "slug": "william-goldman",
       "canonical_name": "William Goldman",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-princess-bride",
+        "william-goldman-marathon-man"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1931,
+      "death_year": 2018,
+      "works": [
+        {
+          "id": "the-princess-bride",
+          "author_id": "william-goldman",
+          "original_title": "The Princess Bride",
+          "display_title_es": "The Princess Bride",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "william-goldman-marathon-man",
+          "author_id": "william-goldman",
+          "original_title": "Marathon Man",
+          "display_title_es": "Marathon Man",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-205-editorial",
@@ -20455,13 +23475,37 @@ export const content: PublicCatalog = {
     {
       "id": "diana-galbaldon",
       "slug": "diana-galbaldon",
-      "canonical_name": "Diana Galbaldon",
+      "canonical_name": "Diana Gabaldon",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "outlander",
+        "diana-galbaldon-dragonfly-in-amber"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1952,
+      "works": [
+        {
+          "id": "outlander",
+          "author_id": "diana-galbaldon",
+          "original_title": "Outlander",
+          "display_title_es": "Outlander",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "diana-galbaldon-dragonfly-in-amber",
+          "author_id": "diana-galbaldon",
+          "original_title": "Dragonfly in Amber",
+          "display_title_es": "Dragonfly in Amber",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-206-editorial",
@@ -20527,11 +23571,35 @@ export const content: PublicCatalog = {
       "slug": "helen-fielding",
       "canonical_name": "Helen Fielding",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "bridget-joness-diary",
+        "helen-fielding-bridget-jones-the-edge-of-reason"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1958,
+      "works": [
+        {
+          "id": "bridget-joness-diary",
+          "author_id": "helen-fielding",
+          "original_title": "Bridget Jones’s Diary",
+          "display_title_es": "Bridget Jones’s Diary",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "helen-fielding-bridget-jones-the-edge-of-reason",
+          "author_id": "helen-fielding",
+          "original_title": "Bridget Jones: The Edge of Reason",
+          "display_title_es": "Bridget Jones: The Edge of Reason",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-207-editorial",
@@ -20603,11 +23671,35 @@ export const content: PublicCatalog = {
       "slug": "nicholas-sparks",
       "canonical_name": "Nicholas Sparks",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-notebook",
+        "nicholas-sparks-a-walk-to-remember"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1965,
+      "works": [
+        {
+          "id": "the-notebook",
+          "author_id": "nicholas-sparks",
+          "original_title": "The Notebook",
+          "display_title_es": "The Notebook",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "nicholas-sparks-a-walk-to-remember",
+          "author_id": "nicholas-sparks",
+          "original_title": "A Walk to Remember",
+          "display_title_es": "A Walk to Remember",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-208-editorial",
@@ -20673,11 +23765,35 @@ export const content: PublicCatalog = {
       "slug": "nora-roberts",
       "canonical_name": "Nora Roberts",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "nora-roberts-naked-in-death",
+        "nora-roberts-the-bride-quartet"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1950,
+      "works": [
+        {
+          "id": "nora-roberts-naked-in-death",
+          "author_id": "nora-roberts",
+          "original_title": "Naked in Death",
+          "display_title_es": "Naked in Death",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "nora-roberts-the-bride-quartet",
+          "author_id": "nora-roberts",
+          "original_title": "The Bride Quartet",
+          "display_title_es": "The Bride Quartet",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-209-editorial",
@@ -20749,11 +23865,35 @@ export const content: PublicCatalog = {
       "slug": "audrey-niffenegger",
       "canonical_name": "Audrey Niffenegger",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "audrey-niffenegger-the-time-traveler-s-wife",
+        "audrey-niffenegger-her-fearful-symmetry"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1963,
+      "works": [
+        {
+          "id": "audrey-niffenegger-the-time-traveler-s-wife",
+          "author_id": "audrey-niffenegger",
+          "original_title": "The Time Traveler's Wife",
+          "display_title_es": "The Time Traveler's Wife",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "audrey-niffenegger-her-fearful-symmetry",
+          "author_id": "audrey-niffenegger",
+          "original_title": "Her Fearful Symmetry",
+          "display_title_es": "Her Fearful Symmetry",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-210-editorial",
@@ -20823,13 +23963,37 @@ export const content: PublicCatalog = {
     {
       "id": "stephanie-meyer",
       "slug": "stephanie-meyer",
-      "canonical_name": "Stephanie Meyer",
+      "canonical_name": "Stephenie Meyer",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "twilight",
+        "stephanie-meyer-the-host"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1973,
+      "works": [
+        {
+          "id": "twilight",
+          "author_id": "stephanie-meyer",
+          "original_title": "Twilight",
+          "display_title_es": "Twilight",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "stephanie-meyer-the-host",
+          "author_id": "stephanie-meyer",
+          "original_title": "The Host",
+          "display_title_es": "The Host",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-211-editorial",
@@ -20893,13 +24057,37 @@ export const content: PublicCatalog = {
     {
       "id": "gayle-foreman",
       "slug": "gayle-foreman",
-      "canonical_name": "Gayle Foreman",
+      "canonical_name": "Gayle Forman",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "if-i-stay",
+        "gayle-foreman-where-she-went"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1970,
+      "works": [
+        {
+          "id": "if-i-stay",
+          "author_id": "gayle-foreman",
+          "original_title": "If I Stay",
+          "display_title_es": "If I Stay",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "gayle-foreman-where-she-went",
+          "author_id": "gayle-foreman",
+          "original_title": "Where She Went",
+          "display_title_es": "Where She Went",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-212-editorial",
@@ -20965,11 +24153,35 @@ export const content: PublicCatalog = {
       "slug": "sara-gruen",
       "canonical_name": "Sara Gruen",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "water-for-elephants",
+        "sara-gruen-at-the-water-s-edge"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos / Canadá",
+      "birth_year": 1969,
+      "works": [
+        {
+          "id": "water-for-elephants",
+          "author_id": "sara-gruen",
+          "original_title": "Water for Elephants",
+          "display_title_es": "Water for Elephants",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "sara-gruen-at-the-water-s-edge",
+          "author_id": "sara-gruen",
+          "original_title": "At the Water’s Edge",
+          "display_title_es": "At the Water’s Edge",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-213-editorial",
@@ -21041,11 +24253,35 @@ export const content: PublicCatalog = {
       "slug": "e-l-james",
       "canonical_name": "E. L. James",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "fifty-shades-of-grey",
+        "e-l-james-fifty-shades-darker"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1963,
+      "works": [
+        {
+          "id": "fifty-shades-of-grey",
+          "author_id": "e-l-james",
+          "original_title": "Fifty Shades of Grey",
+          "display_title_es": "Fifty Shades of Grey",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "e-l-james-fifty-shades-darker",
+          "author_id": "e-l-james",
+          "original_title": "Fifty Shades Darker",
+          "display_title_es": "Fifty Shades Darker",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-214-editorial",
@@ -21109,11 +24345,35 @@ export const content: PublicCatalog = {
       "slug": "john-green",
       "canonical_name": "John Green",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "john-green-looking-for-alaska",
+        "john-green-an-abundance-of-katherines"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1977,
+      "works": [
+        {
+          "id": "john-green-looking-for-alaska",
+          "author_id": "john-green",
+          "original_title": "Looking for Alaska",
+          "display_title_es": "Looking for Alaska",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "john-green-an-abundance-of-katherines",
+          "author_id": "john-green",
+          "original_title": "An Abundance of Katherines",
+          "display_title_es": "An Abundance of Katherines",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-215-editorial",
@@ -21177,13 +24437,38 @@ export const content: PublicCatalog = {
     {
       "id": "gabriel-garcia-marquez",
       "slug": "gabriel-garcia-marquez",
-      "canonical_name": "Gabriel Garcia Marquez",
+      "canonical_name": "Gabriel García Márquez",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "one-hundred-years-of-solitude",
+        "gabriel-garcia-marquez-love-in-the-time-of-cholera"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Colombia",
+      "birth_year": 1927,
+      "death_year": 2014,
+      "works": [
+        {
+          "id": "one-hundred-years-of-solitude",
+          "author_id": "gabriel-garcia-marquez",
+          "original_title": "One Hundred Years of Solitude",
+          "display_title_es": "One Hundred Years of Solitude",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "gabriel-garcia-marquez-love-in-the-time-of-cholera",
+          "author_id": "gabriel-garcia-marquez",
+          "original_title": "Love in the Time of Cholera",
+          "display_title_es": "Love in the Time of Cholera",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-216-editorial",
@@ -21247,11 +24532,36 @@ export const content: PublicCatalog = {
       "slug": "umberto-eco",
       "canonical_name": "Umberto Eco",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-name-of-the-rose",
+        "umberto-eco-foucault-s-pendulum"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Italia",
+      "birth_year": 1932,
+      "death_year": 2016,
+      "works": [
+        {
+          "id": "the-name-of-the-rose",
+          "author_id": "umberto-eco",
+          "original_title": "The Name of the Rose",
+          "display_title_es": "The Name of the Rose",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "umberto-eco-foucault-s-pendulum",
+          "author_id": "umberto-eco",
+          "original_title": "Foucault’s Pendulum",
+          "display_title_es": "Foucault’s Pendulum",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-217-editorial",
@@ -21315,13 +24625,38 @@ export const content: PublicCatalog = {
     {
       "id": "cormac-mccarthy",
       "slug": "cormac-mccarthy",
-      "canonical_name": "Cormac Mccarthy",
+      "canonical_name": "Cormac McCarthy",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "cormac-mccarthy-suttree",
+        "blood-meridian"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1933,
+      "death_year": 2023,
+      "works": [
+        {
+          "id": "cormac-mccarthy-suttree",
+          "author_id": "cormac-mccarthy",
+          "original_title": "Suttree",
+          "display_title_es": "Suttree",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "blood-meridian",
+          "author_id": "cormac-mccarthy",
+          "original_title": "Blood Meridian",
+          "display_title_es": "Blood Meridian",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-218-editorial",
@@ -21385,11 +24720,35 @@ export const content: PublicCatalog = {
       "slug": "john-irving",
       "canonical_name": "John Irving",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "john-irving-the-world-according-to-garp",
+        "the-cider-house-rules"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1942,
+      "works": [
+        {
+          "id": "john-irving-the-world-according-to-garp",
+          "author_id": "john-irving",
+          "original_title": "The World According to Garp",
+          "display_title_es": "The World According to Garp",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-cider-house-rules",
+          "author_id": "john-irving",
+          "original_title": "The Cider House Rules",
+          "display_title_es": "The Cider House Rules",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-219-editorial",
@@ -21455,11 +24814,35 @@ export const content: PublicCatalog = {
       "slug": "margaret-atwood",
       "canonical_name": "Margaret Atwood",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "margaret-atwood-the-handmaid-s-tale",
+        "margaret-atwood-cat-s-eye"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Canadá",
+      "birth_year": 1939,
+      "works": [
+        {
+          "id": "margaret-atwood-the-handmaid-s-tale",
+          "author_id": "margaret-atwood",
+          "original_title": "The Handmaid's Tale",
+          "display_title_es": "The Handmaid's Tale",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "margaret-atwood-cat-s-eye",
+          "author_id": "margaret-atwood",
+          "original_title": "Cat's Eye",
+          "display_title_es": "Cat's Eye",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-220-editorial",
@@ -21529,11 +24912,35 @@ export const content: PublicCatalog = {
       "slug": "jonathan-franzen",
       "canonical_name": "Jonathan Franzen",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "jonathan-franzen-the-corrections",
+        "jonathan-franzen-freedom"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1959,
+      "works": [
+        {
+          "id": "jonathan-franzen-the-corrections",
+          "author_id": "jonathan-franzen",
+          "original_title": "The Corrections",
+          "display_title_es": "The Corrections",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jonathan-franzen-freedom",
+          "author_id": "jonathan-franzen",
+          "original_title": "Freedom",
+          "display_title_es": "Freedom",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-221-editorial",
@@ -21599,11 +25006,35 @@ export const content: PublicCatalog = {
       "slug": "donna-tartt",
       "canonical_name": "Donna Tartt",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-secret-history",
+        "donna-tartt-the-little-friend"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1963,
+      "works": [
+        {
+          "id": "the-secret-history",
+          "author_id": "donna-tartt",
+          "original_title": "The Secret History",
+          "display_title_es": "The Secret History",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "donna-tartt-the-little-friend",
+          "author_id": "donna-tartt",
+          "original_title": "The Little Friend",
+          "display_title_es": "The Little Friend",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-222-editorial",
@@ -21669,11 +25100,36 @@ export const content: PublicCatalog = {
       "slug": "david-foster-wallace",
       "canonical_name": "David Foster Wallace",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "infinite-jest",
+        "david-foster-wallace-the-pale-king"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1962,
+      "death_year": 2008,
+      "works": [
+        {
+          "id": "infinite-jest",
+          "author_id": "david-foster-wallace",
+          "original_title": "Infinite Jest",
+          "display_title_es": "Infinite Jest",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "david-foster-wallace-the-pale-king",
+          "author_id": "david-foster-wallace",
+          "original_title": "The Pale King",
+          "display_title_es": "The Pale King",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-223-editorial",
@@ -21739,11 +25195,35 @@ export const content: PublicCatalog = {
       "slug": "chuck-palahniuk",
       "canonical_name": "Chuck Palahniuk",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "fight-club",
+        "chuck-palahniuk-choke"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1962,
+      "works": [
+        {
+          "id": "fight-club",
+          "author_id": "chuck-palahniuk",
+          "original_title": "Fight Club",
+          "display_title_es": "Fight Club",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "chuck-palahniuk-choke",
+          "author_id": "chuck-palahniuk",
+          "original_title": "Choke",
+          "display_title_es": "Choke",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-224-editorial",
@@ -21809,11 +25289,35 @@ export const content: PublicCatalog = {
       "slug": "anita-diamant",
       "canonical_name": "Anita Diamant",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-red-tent",
+        "anita-diamant-the-last-days-of-dogtown"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1951,
+      "works": [
+        {
+          "id": "the-red-tent",
+          "author_id": "anita-diamant",
+          "original_title": "The Red Tent",
+          "display_title_es": "The Red Tent",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "anita-diamant-the-last-days-of-dogtown",
+          "author_id": "anita-diamant",
+          "original_title": "The Last Days of Dogtown",
+          "display_title_es": "The Last Days of Dogtown",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-225-editorial",
@@ -21877,13 +25381,37 @@ export const content: PublicCatalog = {
     {
       "id": "don-delillo",
       "slug": "don-delillo",
-      "canonical_name": "Don Delillo",
+      "canonical_name": "Don DeLillo",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "don-delillo-white-noise",
+        "don-delillo-libra"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1936,
+      "works": [
+        {
+          "id": "don-delillo-white-noise",
+          "author_id": "don-delillo",
+          "original_title": "White Noise",
+          "display_title_es": "White Noise",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "don-delillo-libra",
+          "author_id": "don-delillo",
+          "original_title": "Libra",
+          "display_title_es": "Libra",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-226-editorial",
@@ -21953,11 +25481,35 @@ export const content: PublicCatalog = {
       "slug": "barbara-kingsolver",
       "canonical_name": "Barbara Kingsolver",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-poisonwood-bible",
+        "barbara-kingsolver-animal-vegetable-miracle"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1955,
+      "works": [
+        {
+          "id": "the-poisonwood-bible",
+          "author_id": "barbara-kingsolver",
+          "original_title": "The Poisonwood Bible",
+          "display_title_es": "The Poisonwood Bible",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "barbara-kingsolver-animal-vegetable-miracle",
+          "author_id": "barbara-kingsolver",
+          "original_title": "Animal, Vegetable, Miracle",
+          "display_title_es": "Animal, Vegetable, Miracle",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-227-editorial",
@@ -22023,11 +25575,35 @@ export const content: PublicCatalog = {
       "slug": "yann-martel",
       "canonical_name": "Yann Martel",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "life-of-pi",
+        "yann-martel-the-high-mountains-of-portugal"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Canadá",
+      "birth_year": 1963,
+      "works": [
+        {
+          "id": "life-of-pi",
+          "author_id": "yann-martel",
+          "original_title": "Life of Pi",
+          "display_title_es": "Life of Pi",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "yann-martel-the-high-mountains-of-portugal",
+          "author_id": "yann-martel",
+          "original_title": "The High Mountains of Portugal",
+          "display_title_es": "The High Mountains of Portugal",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-228-editorial",
@@ -22097,11 +25673,35 @@ export const content: PublicCatalog = {
       "slug": "khaled-hosseini",
       "canonical_name": "Khaled Hosseini",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-kite-runner",
+        "khaled-hosseini-a-thousand-splendid-suns"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1965,
+      "works": [
+        {
+          "id": "the-kite-runner",
+          "author_id": "khaled-hosseini",
+          "original_title": "The Kite Runner",
+          "display_title_es": "The Kite Runner",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "khaled-hosseini-a-thousand-splendid-suns",
+          "author_id": "khaled-hosseini",
+          "original_title": "A Thousand Splendid Suns",
+          "display_title_es": "A Thousand Splendid Suns",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-229-editorial",
@@ -22173,11 +25773,35 @@ export const content: PublicCatalog = {
       "slug": "jhumpa-lahiri",
       "canonical_name": "Jhumpa Lahiri",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "jhumpa-lahiri-interpreter-of-maladies",
+        "the-namesake"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos / India / Reino Unido",
+      "birth_year": 1967,
+      "works": [
+        {
+          "id": "jhumpa-lahiri-interpreter-of-maladies",
+          "author_id": "jhumpa-lahiri",
+          "original_title": "Interpreter of Maladies",
+          "display_title_es": "Interpreter of Maladies",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-namesake",
+          "author_id": "jhumpa-lahiri",
+          "original_title": "The Namesake",
+          "display_title_es": "The Namesake",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-230-editorial",
@@ -22247,11 +25871,35 @@ export const content: PublicCatalog = {
       "slug": "lisa-see",
       "canonical_name": "Lisa See",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "snow-flower-and-the-secret-fan",
+        "lisa-see-shanghai-girls"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1955,
+      "works": [
+        {
+          "id": "snow-flower-and-the-secret-fan",
+          "author_id": "lisa-see",
+          "original_title": "Snow Flower and the Secret Fan",
+          "display_title_es": "Snow Flower and the Secret Fan",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lisa-see-shanghai-girls",
+          "author_id": "lisa-see",
+          "original_title": "Shanghai Girls",
+          "display_title_es": "Shanghai Girls",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-231-editorial",
@@ -22323,11 +25971,35 @@ export const content: PublicCatalog = {
       "slug": "junot-diaz",
       "canonical_name": "Junot Díaz",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-brief-wondrous-life-of-oscar-wao",
+        "junot-diaz-drown"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos / República Dominicana",
+      "birth_year": 1968,
+      "works": [
+        {
+          "id": "the-brief-wondrous-life-of-oscar-wao",
+          "author_id": "junot-diaz",
+          "original_title": "The Brief Wondrous Life of Oscar Wao",
+          "display_title_es": "The Brief Wondrous Life of Oscar Wao",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "junot-diaz-drown",
+          "author_id": "junot-diaz",
+          "original_title": "Drown",
+          "display_title_es": "Drown",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-232-editorial",
@@ -22399,11 +26071,35 @@ export const content: PublicCatalog = {
       "slug": "haruki-murakami",
       "canonical_name": "Haruki Murakami",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "haruki-murakami-a-wild-sheep-chase",
+        "haruki-murakami-norwegian-wood"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Japón",
+      "birth_year": 1949,
+      "works": [
+        {
+          "id": "haruki-murakami-a-wild-sheep-chase",
+          "author_id": "haruki-murakami",
+          "original_title": "A Wild Sheep Chase",
+          "display_title_es": "A Wild Sheep Chase",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "haruki-murakami-norwegian-wood",
+          "author_id": "haruki-murakami",
+          "original_title": "Norwegian Wood",
+          "display_title_es": "Norwegian Wood",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-233-editorial",
@@ -22477,11 +26173,36 @@ export const content: PublicCatalog = {
       "slug": "esther-forbes",
       "canonical_name": "Esther Forbes",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "johnny-tremain",
+        "esther-forbes-paul-revere-and-the-world-he-lived-in"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1891,
+      "death_year": 1967,
+      "works": [
+        {
+          "id": "johnny-tremain",
+          "author_id": "esther-forbes",
+          "original_title": "Johnny Tremain",
+          "display_title_es": "Johnny Tremain",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "esther-forbes-paul-revere-and-the-world-he-lived-in",
+          "author_id": "esther-forbes",
+          "original_title": "Paul Revere and the World He Lived In",
+          "display_title_es": "Paul Revere and the World He Lived In",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-235-editorial",
@@ -22547,11 +26268,36 @@ export const content: PublicCatalog = {
       "slug": "betty-smith",
       "canonical_name": "Betty Smith",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-tree-grows-in-brooklyn",
+        "betty-smith-tomorrow-will-be-better"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1896,
+      "death_year": 1972,
+      "works": [
+        {
+          "id": "a-tree-grows-in-brooklyn",
+          "author_id": "betty-smith",
+          "original_title": "A Tree Grows in Brooklyn",
+          "display_title_es": "A Tree Grows in Brooklyn",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "betty-smith-tomorrow-will-be-better",
+          "author_id": "betty-smith",
+          "original_title": "Tomorrow Will Be Better",
+          "display_title_es": "Tomorrow Will Be Better",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-236-editorial",
@@ -22617,11 +26363,36 @@ export const content: PublicCatalog = {
       "slug": "william-golding",
       "canonical_name": "William Golding",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "lord-of-the-flies",
+        "william-golding-to-the-ends-of-the-earth"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1911,
+      "death_year": 1993,
+      "works": [
+        {
+          "id": "lord-of-the-flies",
+          "author_id": "william-golding",
+          "original_title": "Lord of the Flies",
+          "display_title_es": "Lord of the Flies",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "william-golding-to-the-ends-of-the-earth",
+          "author_id": "william-golding",
+          "original_title": "To the Ends of the Earth",
+          "display_title_es": "To the Ends of the Earth",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-237-editorial",
@@ -22685,13 +26456,38 @@ export const content: PublicCatalog = {
     {
       "id": "madeline-l-engle",
       "slug": "madeline-l-engle",
-      "canonical_name": "Madeline L’Engle",
+      "canonical_name": "Madeleine L’Engle",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-wrinkle-in-time",
+        "madeline-l-engle-a-wind-in-the-door"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1918,
+      "death_year": 2007,
+      "works": [
+        {
+          "id": "a-wrinkle-in-time",
+          "author_id": "madeline-l-engle",
+          "original_title": "A Wrinkle in Time",
+          "display_title_es": "A Wrinkle in Time",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "madeline-l-engle-a-wind-in-the-door",
+          "author_id": "madeline-l-engle",
+          "original_title": "A Wind in the Door",
+          "display_title_es": "A Wind in the Door",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-238-editorial",
@@ -22763,11 +26559,36 @@ export const content: PublicCatalog = {
       "slug": "beatrice-sparks",
       "canonical_name": "Beatrice Sparks",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "go-ask-alice",
+        "beatrice-sparks-jay-s-journal"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1917,
+      "death_year": 2012,
+      "works": [
+        {
+          "id": "go-ask-alice",
+          "author_id": "beatrice-sparks",
+          "original_title": "Go Ask Alice",
+          "display_title_es": "Go Ask Alice",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "beatrice-sparks-jay-s-journal",
+          "author_id": "beatrice-sparks",
+          "original_title": "Jay’s Journal",
+          "display_title_es": "Jay’s Journal",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-239-editorial",
@@ -22837,13 +26658,37 @@ export const content: PublicCatalog = {
     {
       "id": "robin-mckinley",
       "slug": "robin-mckinley",
-      "canonical_name": "Robin Mckinley",
+      "canonical_name": "Robin McKinley",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "robin-mckinley-the-hero-and-the-crown",
+        "robin-mckinley-beauty"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1952,
+      "works": [
+        {
+          "id": "robin-mckinley-the-hero-and-the-crown",
+          "author_id": "robin-mckinley",
+          "original_title": "The Hero and the Crown",
+          "display_title_es": "The Hero and the Crown",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "robin-mckinley-beauty",
+          "author_id": "robin-mckinley",
+          "original_title": "Beauty",
+          "display_title_es": "Beauty",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-240-editorial",
@@ -22915,11 +26760,36 @@ export const content: PublicCatalog = {
       "slug": "brian-jacques",
       "canonical_name": "Brian Jacques",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "redwall",
+        "brian-jacques-mossflower"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1939,
+      "death_year": 2011,
+      "works": [
+        {
+          "id": "redwall",
+          "author_id": "brian-jacques",
+          "original_title": "Redwall",
+          "display_title_es": "Redwall",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "brian-jacques-mossflower",
+          "author_id": "brian-jacques",
+          "original_title": "Mossflower",
+          "display_title_es": "Mossflower",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-241-editorial",
@@ -22991,11 +26861,35 @@ export const content: PublicCatalog = {
       "slug": "lois-lowry",
       "canonical_name": "Lois Lowry",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-giver",
+        "lois-lowry-number-the-stars"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1937,
+      "works": [
+        {
+          "id": "the-giver",
+          "author_id": "lois-lowry",
+          "original_title": "The Giver",
+          "display_title_es": "The Giver",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lois-lowry-number-the-stars",
+          "author_id": "lois-lowry",
+          "original_title": "Number the Stars",
+          "display_title_es": "Number the Stars",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-242-editorial",
@@ -23067,11 +26961,36 @@ export const content: PublicCatalog = {
       "slug": "octavia-e-butler",
       "canonical_name": "Octavia E. Butler",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "octavia-e-butler-kindred",
+        "octavia-e-butler-lilith-s-brood"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1947,
+      "death_year": 2006,
+      "works": [
+        {
+          "id": "octavia-e-butler-kindred",
+          "author_id": "octavia-e-butler",
+          "original_title": "Kindred",
+          "display_title_es": "Kindred",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "octavia-e-butler-lilith-s-brood",
+          "author_id": "octavia-e-butler",
+          "original_title": "Lilith's Brood",
+          "display_title_es": "Lilith's Brood",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-243-editorial",
@@ -23143,11 +27062,35 @@ export const content: PublicCatalog = {
       "slug": "garth-nix",
       "canonical_name": "Garth Nix",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "sabriel",
+        "garth-nix-the-keys-to-the-kingdom"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Australia",
+      "birth_year": 1963,
+      "works": [
+        {
+          "id": "sabriel",
+          "author_id": "garth-nix",
+          "original_title": "Sabriel",
+          "display_title_es": "Sabriel",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "garth-nix-the-keys-to-the-kingdom",
+          "author_id": "garth-nix",
+          "original_title": "The Keys to the Kingdom",
+          "display_title_es": "The Keys to the Kingdom",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-244-editorial",
@@ -23211,13 +27154,37 @@ export const content: PublicCatalog = {
     {
       "id": "j-k-rowling",
       "slug": "j-k-rowling",
-      "canonical_name": "J. K. Rowling",
+      "canonical_name": "Joanne K. Rowling",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "j-k-rowling-obra-revisada",
+        "j-k-rowling-harry-potter-and-the-philosopher-s-stone"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1965,
+      "works": [
+        {
+          "id": "j-k-rowling-obra-revisada",
+          "author_id": "j-k-rowling",
+          "original_title": "ሃሪ ፖተር",
+          "display_title_es": "ሃሪ ፖተር",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "j-k-rowling-harry-potter-and-the-philosopher-s-stone",
+          "author_id": "j-k-rowling",
+          "original_title": "Harry Potter and the Philosopher's Stone",
+          "display_title_es": "Harry Potter and the Philosopher's Stone",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-245-editorial",
@@ -23283,11 +27250,35 @@ export const content: PublicCatalog = {
       "slug": "louis-sachar",
       "canonical_name": "Louis Sachar",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "holes",
+        "louis-sachar-sideways-stories-from-wayside-school"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1954,
+      "works": [
+        {
+          "id": "holes",
+          "author_id": "louis-sachar",
+          "original_title": "Holes",
+          "display_title_es": "Holes",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "louis-sachar-sideways-stories-from-wayside-school",
+          "author_id": "louis-sachar",
+          "original_title": "Sideways Stories from Wayside School",
+          "display_title_es": "Sideways Stories from Wayside School",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-246-editorial",
@@ -23359,11 +27350,35 @@ export const content: PublicCatalog = {
       "slug": "stephen-chbosky",
       "canonical_name": "Stephen Chbosky",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-perks-of-being-a-wallflower",
+        "stephen-chbosky-imaginary-friend"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1970,
+      "works": [
+        {
+          "id": "the-perks-of-being-a-wallflower",
+          "author_id": "stephen-chbosky",
+          "original_title": "The Perks of Being a Wallflower",
+          "display_title_es": "The Perks of Being a Wallflower",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "stephen-chbosky-imaginary-friend",
+          "author_id": "stephen-chbosky",
+          "original_title": "Imaginary Friend",
+          "display_title_es": "Imaginary Friend",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-247-editorial",
@@ -23435,11 +27450,35 @@ export const content: PublicCatalog = {
       "slug": "laurie-halse-anderson",
       "canonical_name": "Laurie Halse Anderson",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "speak",
+        "laurie-halse-anderson-catalyst"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1961,
+      "works": [
+        {
+          "id": "speak",
+          "author_id": "laurie-halse-anderson",
+          "original_title": "Speak",
+          "display_title_es": "Speak",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "laurie-halse-anderson-catalyst",
+          "author_id": "laurie-halse-anderson",
+          "original_title": "Catalyst",
+          "display_title_es": "Catalyst",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-248-editorial",
@@ -23511,11 +27550,35 @@ export const content: PublicCatalog = {
       "slug": "ann-brashares",
       "canonical_name": "Ann Brashares",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-sisterhood-of-the-traveling-pants",
+        "ann-brashares-my-name-is-memory"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1967,
+      "works": [
+        {
+          "id": "the-sisterhood-of-the-traveling-pants",
+          "author_id": "ann-brashares",
+          "original_title": "The Sisterhood of the Traveling Pants",
+          "display_title_es": "The Sisterhood of the Traveling Pants",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ann-brashares-my-name-is-memory",
+          "author_id": "ann-brashares",
+          "original_title": "My Name Is Memory",
+          "display_title_es": "My Name Is Memory",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-249-editorial",
@@ -23587,11 +27650,35 @@ export const content: PublicCatalog = {
       "slug": "sarah-dessen",
       "canonical_name": "Sarah Dessen",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-truth-about-forever",
+        "sarah-dessen-just-listen"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1970,
+      "works": [
+        {
+          "id": "the-truth-about-forever",
+          "author_id": "sarah-dessen",
+          "original_title": "The Truth About Forever",
+          "display_title_es": "The Truth About Forever",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "sarah-dessen-just-listen",
+          "author_id": "sarah-dessen",
+          "original_title": "Just Listen",
+          "display_title_es": "Just Listen",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-250-editorial",
@@ -23663,11 +27750,35 @@ export const content: PublicCatalog = {
       "slug": "suzanne-collins",
       "canonical_name": "Suzanne Collins",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-hunger-games",
+        "suzanne-collins-gregor-the-overlander"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1962,
+      "works": [
+        {
+          "id": "the-hunger-games",
+          "author_id": "suzanne-collins",
+          "original_title": "The Hunger Games",
+          "display_title_es": "The Hunger Games",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "suzanne-collins-gregor-the-overlander",
+          "author_id": "suzanne-collins",
+          "original_title": "Gregor the Overlander",
+          "display_title_es": "Gregor the Overlander",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-251-editorial",
@@ -23739,11 +27850,36 @@ export const content: PublicCatalog = {
       "slug": "clement-clarke-moore",
       "canonical_name": "Clement Clarke Moore",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "a-visit-from-st-nicholas",
+        "clement-clarke-moore-a-compendious-lexicon-of-the-hebrew-language"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1779,
+      "death_year": 1863,
+      "works": [
+        {
+          "id": "a-visit-from-st-nicholas",
+          "author_id": "clement-clarke-moore",
+          "original_title": "A Visit from St. Nicholas",
+          "display_title_es": "A Visit from St. Nicholas",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "clement-clarke-moore-a-compendious-lexicon-of-the-hebrew-language",
+          "author_id": "clement-clarke-moore",
+          "original_title": "A Compendious Lexicon of the Hebrew Language",
+          "display_title_es": "A Compendious Lexicon of the Hebrew Language",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-252-editorial",
@@ -23815,11 +27951,36 @@ export const content: PublicCatalog = {
       "slug": "lewis-carroll",
       "canonical_name": "Lewis Carroll",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "lewis-carroll-alice-s-adventures-in-wonderland",
+        "lewis-carroll-through-the-looking-glass"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Irlanda",
+      "birth_year": 1832,
+      "death_year": 1898,
+      "works": [
+        {
+          "id": "lewis-carroll-alice-s-adventures-in-wonderland",
+          "author_id": "lewis-carroll",
+          "original_title": "Alice's Adventures in Wonderland",
+          "display_title_es": "Alice's Adventures in Wonderland",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lewis-carroll-through-the-looking-glass",
+          "author_id": "lewis-carroll",
+          "original_title": "Through the Looking-Glass",
+          "display_title_es": "Through the Looking-Glass",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-253-editorial",
@@ -23891,11 +28052,36 @@ export const content: PublicCatalog = {
       "slug": "frances-hodgson-burnett",
       "canonical_name": "Frances Hodgson Burnett",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "frances-hodgson-burnett-little-lord-fauntleroy",
+        "frances-hodgson-burnett-a-little-princess"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido / Estados Unidos",
+      "birth_year": 1849,
+      "death_year": 1924,
+      "works": [
+        {
+          "id": "frances-hodgson-burnett-little-lord-fauntleroy",
+          "author_id": "frances-hodgson-burnett",
+          "original_title": "Little Lord Fauntleroy",
+          "display_title_es": "Little Lord Fauntleroy",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "frances-hodgson-burnett-a-little-princess",
+          "author_id": "frances-hodgson-burnett",
+          "original_title": "A Little Princess",
+          "display_title_es": "A Little Princess",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-254-editorial",
@@ -23967,11 +28153,36 @@ export const content: PublicCatalog = {
       "slug": "munro-leaf",
       "canonical_name": "Munro Leaf",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-story-of-ferdinand",
+        "munro-leaf-wee-gillis"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1905,
+      "death_year": 1976,
+      "works": [
+        {
+          "id": "the-story-of-ferdinand",
+          "author_id": "munro-leaf",
+          "original_title": "The Story of Ferdinand",
+          "display_title_es": "The Story of Ferdinand",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "munro-leaf-wee-gillis",
+          "author_id": "munro-leaf",
+          "original_title": "Wee Gillis",
+          "display_title_es": "Wee Gillis",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-255-editorial",
@@ -24041,13 +28252,38 @@ export const content: PublicCatalog = {
     {
       "id": "antoine-de-saint-exupery",
       "slug": "antoine-de-saint-exupery",
-      "canonical_name": "Antoine De Saint-Exupéry",
+      "canonical_name": "Antoine de Saint-Exupéry",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "antoine-de-saint-exupery-night-flight",
+        "the-little-prince"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Francia",
+      "birth_year": 1900,
+      "death_year": 1944,
+      "works": [
+        {
+          "id": "antoine-de-saint-exupery-night-flight",
+          "author_id": "antoine-de-saint-exupery",
+          "original_title": "Night Flight",
+          "display_title_es": "Night Flight",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-little-prince",
+          "author_id": "antoine-de-saint-exupery",
+          "original_title": "The Little Prince",
+          "display_title_es": "The Little Prince",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-256-editorial",
@@ -24109,91 +28345,40 @@ export const content: PublicCatalog = {
       ]
     },
     {
-      "id": "margaret-wise-brown-and-clement-hurd",
-      "slug": "margaret-wise-brown-and-clement-hurd",
-      "canonical_name": "Margaret Wise Brown And Clement Hurd",
-      "aliases": [],
-      "featured_works": [],
-      "profile_status": "minimal",
-      "status": "published",
-      "reviewed_at": "2026-07-28",
-      "works": [],
-      "recommendations": [
-        {
-          "id": "literary-libations-257-editorial",
-          "author_id": "margaret-wise-brown-and-clement-hurd",
-          "work_id": "goodnight-moon",
-          "drink_id": "cacao-caliente-con-malvaviscos",
-          "relationship_type": "editorial_pairing",
-          "headline_es": "Cacao caliente con malvaviscos para Goodnight Moon",
-          "explanation_es": "Literary Libations propone cacao caliente con malvaviscos como maridaje editorial para acompañar Goodnight Moon.",
-          "confidence": "low",
-          "evidence_ids": [
-            "evidencia-literary-libations-257"
-          ],
-          "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
-          "drink": {
-            "id": "cacao-caliente-con-malvaviscos",
-            "name_es": "Cacao caliente con malvaviscos",
-            "aliases": [
-              "Hot Cocoa With Marshmallows"
-            ],
-            "category": "Bebida de la casa",
-            "alcoholic": false,
-            "ingredients": [
-              {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
-              }
-            ],
-            "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
-            ],
-            "glassware": "Vaso de preparación",
-            "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
-          },
-          "evidence": [
-            {
-              "id": "evidencia-literary-libations-257",
-              "recommendation_id": "literary-libations-257-editorial",
-              "source_id": "fuente-literary-libations",
-              "claim": "Makansi recomienda Hot Cocoa With Marshmallows para acompañar Goodnight Moon.",
-              "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — Goodnight Moon, page_184",
-              "support_excerpt": "A hot fire on a cold night. Two little kittens and a pair of mittens. And a quiet old lady whispering “hush.” If you’re not",
-              "evidence_kind": "bibliographic_reference",
-              "supports_claim": true,
-              "checked_at": "2026-07-28",
-              "source": {
-                "id": "fuente-literary-libations",
-                "source_type": "book",
-                "title": "Literary Libations",
-                "author_or_publisher": "Amira Makansi / Skyhorse Publishing",
-                "publication_date": "2018-04-14",
-                "isbn": "9781510736610",
-                "edition": "EPUB 2.0",
-                "accessed_at": "2026-07-28",
-                "language": "en",
-                "reliability_tier": "reputable_secondary"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c-s-lewis",
       "slug": "c-s-lewis",
       "canonical_name": "C. S. Lewis",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "c-s-lewis-the-chronicles-of-narnia",
+        "c-s-lewis-mere-christianity"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1898,
+      "death_year": 1963,
+      "works": [
+        {
+          "id": "c-s-lewis-the-chronicles-of-narnia",
+          "author_id": "c-s-lewis",
+          "original_title": "The Chronicles of Narnia",
+          "display_title_es": "The Chronicles of Narnia",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "c-s-lewis-mere-christianity",
+          "author_id": "c-s-lewis",
+          "original_title": "Mere Christianity",
+          "display_title_es": "Mere Christianity",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-258-editorial",
@@ -24263,13 +28448,38 @@ export const content: PublicCatalog = {
     {
       "id": "norman-juster",
       "slug": "norman-juster",
-      "canonical_name": "Norman Juster",
+      "canonical_name": "Norton Juster",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-phantom-tollbooth",
+        "norman-juster-the-dot-and-the-line"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1929,
+      "death_year": 2021,
+      "works": [
+        {
+          "id": "the-phantom-tollbooth",
+          "author_id": "norman-juster",
+          "original_title": "The Phantom Tollbooth",
+          "display_title_es": "The Phantom Tollbooth",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "norman-juster-the-dot-and-the-line",
+          "author_id": "norman-juster",
+          "original_title": "The Dot and the Line",
+          "display_title_es": "The Dot and the Line",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-260-editorial",
@@ -24335,11 +28545,36 @@ export const content: PublicCatalog = {
       "slug": "maurice-sendak",
       "canonical_name": "Maurice Sendak",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "where-the-wild-things-are",
+        "maurice-sendak-in-the-night-kitchen"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1928,
+      "death_year": 2012,
+      "works": [
+        {
+          "id": "where-the-wild-things-are",
+          "author_id": "maurice-sendak",
+          "original_title": "Where the Wild Things Are",
+          "display_title_es": "Where the Wild Things Are",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "maurice-sendak-in-the-night-kitchen",
+          "author_id": "maurice-sendak",
+          "original_title": "In the Night Kitchen",
+          "display_title_es": "In the Night Kitchen",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-261-editorial",
@@ -24411,11 +28646,36 @@ export const content: PublicCatalog = {
       "slug": "roald-dahl",
       "canonical_name": "Roald Dahl",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "charlie-and-the-chocolate-factory",
+        "roald-dahl-james-and-the-giant-peach"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Noruega / Reino Unido",
+      "birth_year": 1916,
+      "death_year": 1990,
+      "works": [
+        {
+          "id": "charlie-and-the-chocolate-factory",
+          "author_id": "roald-dahl",
+          "original_title": "Charlie and the Chocolate Factory",
+          "display_title_es": "Charlie and the Chocolate Factory",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "roald-dahl-james-and-the-giant-peach",
+          "author_id": "roald-dahl",
+          "original_title": "James and the Giant Peach",
+          "display_title_es": "James and the Giant Peach",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-262-editorial",
@@ -24487,11 +28747,36 @@ export const content: PublicCatalog = {
       "slug": "shel-silverstein",
       "canonical_name": "Shel Silverstein",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "shel-silverstein-where-the-sidewalk-ends",
+        "the-giving-tree"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1930,
+      "death_year": 1999,
+      "works": [
+        {
+          "id": "shel-silverstein-where-the-sidewalk-ends",
+          "author_id": "shel-silverstein",
+          "original_title": "Where the Sidewalk Ends",
+          "display_title_es": "Where the Sidewalk Ends",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "the-giving-tree",
+          "author_id": "shel-silverstein",
+          "original_title": "The Giving Tree",
+          "display_title_es": "The Giving Tree",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-263-editorial",
@@ -24557,11 +28842,36 @@ export const content: PublicCatalog = {
       "slug": "eric-carle",
       "canonical_name": "Eric Carle",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-very-hungry-caterpillar",
+        "eric-carle-the-grouchy-ladybug"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos / Alemania",
+      "birth_year": 1929,
+      "death_year": 2021,
+      "works": [
+        {
+          "id": "the-very-hungry-caterpillar",
+          "author_id": "eric-carle",
+          "original_title": "The Very Hungry Caterpillar",
+          "display_title_es": "The Very Hungry Caterpillar",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "eric-carle-the-grouchy-ladybug",
+          "author_id": "eric-carle",
+          "original_title": "The Grouchy Ladybug",
+          "display_title_es": "The Grouchy Ladybug",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-264-editorial",
@@ -24627,11 +28937,36 @@ export const content: PublicCatalog = {
       "slug": "dr-seuss",
       "canonical_name": "Dr. Seuss",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "dr-seuss-the-cat-in-the-hat",
+        "dr-seuss-green-eggs-and-ham"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1904,
+      "death_year": 1991,
+      "works": [
+        {
+          "id": "dr-seuss-the-cat-in-the-hat",
+          "author_id": "dr-seuss",
+          "original_title": "The Cat in the Hat",
+          "display_title_es": "The Cat in the Hat",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "dr-seuss-green-eggs-and-ham",
+          "author_id": "dr-seuss",
+          "original_title": "Green Eggs and Ham",
+          "display_title_es": "Green Eggs and Ham",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-265-editorial",
@@ -24701,13 +29036,37 @@ export const content: PublicCatalog = {
     {
       "id": "laura-joffe-numeroff",
       "slug": "laura-joffe-numeroff",
-      "canonical_name": "Laura Joffe Numeroff",
+      "canonical_name": "Laura Numeroff",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "if-you-give-a-mouse-a-cookie",
+        "laura-joffe-numeroff-if-you-give-a-moose-a-muffin"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1953,
+      "works": [
+        {
+          "id": "if-you-give-a-mouse-a-cookie",
+          "author_id": "laura-joffe-numeroff",
+          "original_title": "If You Give a Mouse a Cookie",
+          "display_title_es": "If You Give a Mouse a Cookie",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "laura-joffe-numeroff-if-you-give-a-moose-a-muffin",
+          "author_id": "laura-joffe-numeroff",
+          "original_title": "If You Give a Moose a Muffin",
+          "display_title_es": "If You Give a Moose a Muffin",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-266-editorial",
@@ -24773,11 +29132,35 @@ export const content: PublicCatalog = {
       "slug": "philip-pullman",
       "canonical_name": "Philip Pullman",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "philip-pullman-his-dark-materials",
+        "philip-pullman-the-good-man-jesus-and-the-scoundrel-christ"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Reino Unido",
+      "birth_year": 1946,
+      "works": [
+        {
+          "id": "philip-pullman-his-dark-materials",
+          "author_id": "philip-pullman",
+          "original_title": "His Dark Materials",
+          "display_title_es": "His Dark Materials",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "philip-pullman-the-good-man-jesus-and-the-scoundrel-christ",
+          "author_id": "philip-pullman",
+          "original_title": "The Good Man Jesus and the Scoundrel Christ",
+          "display_title_es": "The Good Man Jesus and the Scoundrel Christ",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-267-editorial",
@@ -24849,11 +29232,35 @@ export const content: PublicCatalog = {
       "slug": "lemony-snicket",
       "canonical_name": "Lemony Snicket",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "lemony-snicket-a-series-of-unfortunate-events",
+        "lemony-snicket-all-the-wrong-questions"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Estados Unidos",
+      "birth_year": 1970,
+      "works": [
+        {
+          "id": "lemony-snicket-a-series-of-unfortunate-events",
+          "author_id": "lemony-snicket",
+          "original_title": "A Series of Unfortunate Events",
+          "display_title_es": "A Series of Unfortunate Events",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "lemony-snicket-all-the-wrong-questions",
+          "author_id": "lemony-snicket",
+          "original_title": "All the Wrong Questions",
+          "display_title_es": "All the Wrong Questions",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-268-editorial",
@@ -24925,11 +29332,35 @@ export const content: PublicCatalog = {
       "slug": "markus-zusak",
       "canonical_name": "Markus Zusak",
       "aliases": [],
-      "featured_works": [],
+      "featured_works": [
+        "the-book-thief",
+        "markus-zusak-the-underdog"
+      ],
       "profile_status": "minimal",
       "status": "published",
       "reviewed_at": "2026-07-28",
-      "works": [],
+      "country": "Australia",
+      "birth_year": 1975,
+      "works": [
+        {
+          "id": "the-book-thief",
+          "author_id": "markus-zusak",
+          "original_title": "The Book Thief",
+          "display_title_es": "The Book Thief",
+          "identifiers": {},
+          "notes": "Obra mínima identificada por Literary Libations.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "markus-zusak-the-underdog",
+          "author_id": "markus-zusak",
+          "original_title": "The Underdog",
+          "display_title_es": "The Underdog",
+          "identifiers": {},
+          "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
+          "metadata_status": "minimal"
+        }
+      ],
       "recommendations": [
         {
           "id": "literary-libations-269-editorial",

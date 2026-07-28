@@ -23,16 +23,13 @@ describe('flujo principal', () => {
     expect(app.queryByRole('heading', { name: 'Charles Bukowski' })).not.toBeInTheDocument()
   })
 
-  it('permite explorar y filtrar los hallazgos provisionales', () => {
+  it('oculta los accesos a hallazgos y fuentes sin retirar las otras páginas', () => {
     const { container } = render(<App />)
     const app = within(container)
-    fireEvent.click(app.getByRole('button', { name: 'Hallazgos' }))
-    expect(app.getByText(`${content.discoveries.length} hallazgos visibles`)).toBeInTheDocument()
-    if (content.discoveries.length) {
-      fireEvent.change(app.getByRole('searchbox', { name: 'Buscar por autor, obra o bebida' }), { target: { value: 'Homer' } })
-      expect(app.getByText(/hallazgos visibles/)).not.toHaveTextContent(`${content.discoveries.length} hallazgos visibles`)
-      expect(app.getAllByText('Homer').length).toBeGreaterThan(0)
-    }
+    expect(app.queryByRole('button', { name: 'Hallazgos' })).not.toBeInTheDocument()
+    expect(app.queryByRole('button', { name: 'Fuentes' })).not.toBeInTheDocument()
+    expect(app.getByRole('button', { name: 'Cómo funciona' })).toBeInTheDocument()
+    expect(app.getByRole('button', { name: 'Índice' })).toBeInTheDocument()
   })
 
   it('abre una ficha mínima promovida desde los libros', () => {
@@ -41,7 +38,6 @@ describe('flujo principal', () => {
     fireEvent.change(app.getByRole('textbox', { name: '¿A quién lees?' }), { target: { value: 'Eudora Welty' } })
     fireEvent.click(app.getByRole('option', { name: /Eudora Welty/i }))
     expect(app.getByRole('heading', { name: 'Eudora Welty' })).toBeInTheDocument()
-    expect(app.getByText('Ficha mínima · perfil en desarrollo')).toBeInTheDocument()
     expect(app.getByRole('heading', { name: 'Mint Julep' })).toBeInTheDocument()
     expect(app.getByText('Confianza media')).toBeInTheDocument()
   })
@@ -72,14 +68,30 @@ describe('flujo principal', () => {
     const app = within(container)
     fireEvent.click(app.getByRole('button', { name: 'Índice' }))
     expect(app.getByRole('heading', { name: 'Autores, de la A a la Z.' })).toBeInTheDocument()
-    expect(app.getByText('218 autores · 313 recomendaciones y sugerencias de bebidas.')).toBeInTheDocument()
+    expect(app.getByText('216 autores · 311 recomendaciones y sugerencias de bebidas.')).toBeInTheDocument()
     const list = within(app.getByRole('list', { name: 'Índice alfabético de autores' }))
     const items = list.getAllByRole('listitem')
-    expect(items).toHaveLength(218)
+    expect(items).toHaveLength(216)
     expect(list.getByText(/Ernest Hemingway/)).toHaveTextContent('(15)')
     const labels = items.map((item) => item.textContent ?? '')
     expect(labels.findIndex((label) => label.includes('Douglas Adams')))
       .toBeLessThan(labels.findIndex((label) => label.includes('Agatha Christie')))
+    expect(app.getByRole('heading', { name: 'Tragos, de la A a la (glup) Z.' })).toBeInTheDocument()
+    const drinks = within(app.getByRole('list', { name: 'Índice alfabético de bebidas' }))
+    expect(drinks.getAllByRole('listitem')).toHaveLength(252)
+    expect(drinks.getByText('Whisky escocés')).toBeInTheDocument()
+  })
+
+  it('muestra el crédito enlazado al final de todas las páginas visibles', () => {
+    const { container } = render(<App />)
+    const app = within(container)
+    const credit = () => app.getByRole('link', { name: 'Daniel Salas' })
+
+    expect(credit()).toHaveAttribute('href', 'https://bio.link/danielsalasj')
+    fireEvent.click(app.getByRole('button', { name: 'Cómo funciona' }))
+    expect(credit()).toBeInTheDocument()
+    fireEvent.click(app.getByRole('button', { name: 'Índice' }))
+    expect(credit()).toBeInTheDocument()
   })
 })
 
