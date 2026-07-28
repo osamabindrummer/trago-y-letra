@@ -1,0 +1,1299 @@
+{
+  "book_id": "literary-eats",
+  "status": "consolidated_extraction_candidates",
+  "candidate_count": 27,
+  "candidates": [
+    {
+      "candidate_id": "le-001",
+      "book_id": "literary-eats",
+      "author_name": "Raymond Chandler",
+      "author_id_candidate": "raymond-chandler",
+      "work_title": "The Long Goodbye",
+      "character_name": null,
+      "drink_name": "Gimlet",
+      "drink_name_original": "Gimlet",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "appears_in_work",
+      "claim_candidate": "El narrador de The Long Goodbye define un gimlet como partes iguales de ginebra y Rose’s Lime Juice.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 50,
+      "source_page_printed": 33,
+      "source_section": "Raymond Chandler — Gimlet",
+      "support_excerpt": "A real gimlet is half gin and half Rose’s Lime Juice",
+      "recipe_name": "Gimlet",
+      "structured_ingredients": [
+        {
+          "name": "ginebra",
+          "quantity": "1 parte"
+        },
+        {
+          "name": "Rose’s Lime Juice",
+          "quantity": "1 parte"
+        }
+      ],
+      "preparation_summary_es": "Mezclar cantidades iguales de ginebra y Rose’s Lime Juice.",
+      "cited_original_source": "Chandler, Later Novels and Other Writings (1995), 432.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-002",
+      "book_id": "literary-eats",
+      "author_name": "Bernard DeVoto",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Martini à la DeVoto",
+      "drink_name_original": "Martini à la DeVoto",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Avis DeVoto recomendó servir dos martinis secos à la DeVoto mientras se cocinan langostas.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 57,
+      "source_page_printed": 40,
+      "source_section": "Bernard DeVoto — Martinis à la DeVoto",
+      "support_excerpt": "two dry Martinis à la DeVoto should be served",
+      "recipe_name": "Martini à la DeVoto",
+      "structured_ingredients": [
+        {
+          "name": "ginebra",
+          "quantity": "3.7 partes"
+        },
+        {
+          "name": "vermut",
+          "quantity": "1 parte"
+        },
+        {
+          "name": "aceite de cáscara de limón",
+          "quantity": "unas gotas"
+        }
+      ],
+      "preparation_summary_es": "Combinar ginebra y vermut cerca de 3,7:1 y perfumar la superficie con aceite de limón.",
+      "cited_original_source": "As Always, Julia: The Letters of Julia Child and Avis DeVoto (2010), 14; The Hour (1951), 67–69.",
+      "verification_notes": "La receta aparece atribuida a DeVoto; verificar autoría del pasaje de The Hour.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-003",
+      "book_id": "literary-eats",
+      "author_name": "Lydia Maria Child",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Vino de grosella",
+      "drink_name_original": "Vino de grosella",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Child publicó una fórmula de vino de grosella fermentado en The Frugal Housewife.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 51,
+      "source_page_printed": 34,
+      "source_section": "Lydia Maria Child — Currant Wine",
+      "support_excerpt": "Put in a keg or barrel. Do not close the bung tight",
+      "recipe_name": "Vino de grosella",
+      "structured_ingredients": [
+        {
+          "name": "jugo de grosella",
+          "quantity": "2 cuartos"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "3½ libras"
+        },
+        {
+          "name": "agua",
+          "quantity": "2 cuartos"
+        },
+        {
+          "name": "jugo de frambuesa",
+          "quantity": "opcional, mitad del jugo"
+        }
+      ],
+      "preparation_summary_es": "Fermentar jugo de grosella, azúcar y agua con el barril sin cerrar herméticamente; después sellar y añejar.",
+      "cited_original_source": "Child, The Frugal Housewife (1830), 87.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-004",
+      "book_id": "literary-eats",
+      "author_name": "Oliver Bell Bunce",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Vino de diente de león",
+      "drink_name_original": "Vino de diente de león",
+      "relationship_type_candidate": "compiler_claim",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "El libro presenta una receta de bebida casera de diente de león bajo la entrada de Bunce.",
+      "claim_strength": "low",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 42,
+      "source_page_printed": 25,
+      "source_section": "Oliver Bell Bunce — Dandelion Wine",
+      "support_excerpt": "This homemade beverage is a New England drink.",
+      "recipe_name": "Vino de diente de león",
+      "structured_ingredients": [
+        {
+          "name": "flores de diente de león",
+          "quantity": "4 cuartos"
+        },
+        {
+          "name": "agua",
+          "quantity": "4 cuartos"
+        },
+        {
+          "name": "naranjas",
+          "quantity": "4"
+        },
+        {
+          "name": "limones",
+          "quantity": "4"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "4 libras"
+        },
+        {
+          "name": "levadura",
+          "quantity": "1 tostada impregnada"
+        }
+      ],
+      "preparation_summary_es": "Macerar flores y cítricos, calentar sin hervir, colar, endulzar, fermentar y embotellar.",
+      "cited_original_source": "Atlanta Constitution, 1 de julio de 1900, A3.",
+      "verification_notes": "Verificar la relación entre Bunce y la receta; el pasaje identifica a su viuda como autora de recetas.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-005",
+      "book_id": "literary-eats",
+      "author_name": "William Faulkner",
+      "author_id_candidate": "william-faulkner",
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Hot Toddy",
+      "drink_name_original": "Hot Toddy",
+      "relationship_type_candidate": "author_documented",
+      "relationship_detail": "prepared",
+      "claim_candidate": "La sobrina de Faulkner recordó que él preparaba Hot Toddies con bourbon para familiares enfermos.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 73,
+      "source_page_printed": 56,
+      "source_section": "William Faulkner — Hot Toddy",
+      "support_excerpt": "Pappy had an instant cure—his ever-popular Hot Toddy.",
+      "recipe_name": "Hot Toddy",
+      "structured_ingredients": [
+        {
+          "name": "bourbon Heaven Hill",
+          "quantity": "medio vaso"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "1 cucharada"
+        },
+        {
+          "name": "limón",
+          "quantity": "½"
+        },
+        {
+          "name": "agua hirviendo",
+          "quantity": "para completar"
+        }
+      ],
+      "preparation_summary_es": "Disolver azúcar con limón y bourbon; completar con agua hirviendo.",
+      "cited_original_source": "The Great American Writers’ Cookbook, ed. Dean Faulkner Wells (1981), 17–18.",
+      "verification_notes": "Memoria familiar; verificar la cita y evitar afirmar uso habitual fuera del contexto medicinal.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-006",
+      "book_id": "literary-eats",
+      "author_name": "Benjamin Franklin",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Cerveza con esencia de abeto",
+      "drink_name_original": "Cerveza con esencia de abeto",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Franklin conservó una receta para cerveza de abeto traducida al francés entre sus papeles.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 80,
+      "source_page_printed": 63,
+      "source_section": "Benjamin Franklin — Beer with Essence of Spruce",
+      "support_excerpt": "after which the Beer will be good to drink",
+      "recipe_name": "Cerveza con esencia de abeto",
+      "structured_ingredients": [
+        {
+          "name": "esencia de abeto",
+          "quantity": "1 pote"
+        },
+        {
+          "name": "melaza o azúcar",
+          "quantity": "13 libras"
+        },
+        {
+          "name": "agua caliente",
+          "quantity": "20 pintas"
+        },
+        {
+          "name": "agua",
+          "quantity": "para llenar un barril de 80 botellas"
+        },
+        {
+          "name": "levadura",
+          "quantity": "1 pinta"
+        }
+      ],
+      "preparation_summary_es": "Disolver esencia y melaza, completar con agua, añadir levadura, fermentar, embotellar y guardar fresco.",
+      "cited_original_source": "Franklin, On the Art of Eating, ed. Frank Chinard (1958), 57.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-007",
+      "book_id": "literary-eats",
+      "author_name": "Benjamin Franklin",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Orange Shrub",
+      "drink_name_original": "Orange Shrub",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Franklin conservó una fórmula de shrub de naranja con ron.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 81,
+      "source_page_printed": 64,
+      "source_section": "Benjamin Franklin — Orange Shrub",
+      "support_excerpt": "To a Gallon of Rum two Quarts of Orange Juice",
+      "recipe_name": "Orange Shrub",
+      "structured_ingredients": [
+        {
+          "name": "ron",
+          "quantity": "1 galón"
+        },
+        {
+          "name": "jugo de naranja",
+          "quantity": "2 cuartos"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "2 libras"
+        },
+        {
+          "name": "cáscara de naranja",
+          "quantity": "opcional"
+        }
+      ],
+      "preparation_summary_es": "Disolver el azúcar en jugo, mezclar con ron y dejar reposar en barril antes de embotellar.",
+      "cited_original_source": "Franklin, On the Art of Eating, ed. Frank Chinard (1958), 59.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-008",
+      "book_id": "literary-eats",
+      "author_name": "Erle Stanley Gardner",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Case of the Caretaker’s Cat Cocktail",
+      "drink_name_original": "Case of the Caretaker’s Cat Cocktail",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Gardner contribuyó una receta de cóctel a un libro de bebidas posterior a la Prohibición.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 83,
+      "source_page_printed": 66,
+      "source_section": "Erle Stanley Gardner — Case of the Caretaker’s Cat Cocktail",
+      "support_excerpt": "a cocktail recipe he contributed to a drink book",
+      "recipe_name": "Case of the Caretaker’s Cat Cocktail",
+      "structured_ingredients": [
+        {
+          "name": "vermut italiano",
+          "quantity": "1 jigger"
+        },
+        {
+          "name": "ginebra",
+          "quantity": "1 jigger"
+        },
+        {
+          "name": "ron",
+          "quantity": "1 pony"
+        },
+        {
+          "name": "granadina",
+          "quantity": "½ pony"
+        },
+        {
+          "name": "jugo de lima",
+          "quantity": "4 golpes"
+        }
+      ],
+      "preparation_summary_es": "Agitar los ingredientes y servir.",
+      "cited_original_source": "Sterling North et al., So Red the Nose, or Breath in the Afternoon (1935), n.p.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-009",
+      "book_id": "literary-eats",
+      "author_name": "Ernest Hemingway",
+      "author_id_candidate": "ernest-hemingway",
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Bloody Mary",
+      "drink_name_original": "Bloody Mary",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Hemingway dejó una receta de Bloody Mary en su correspondencia seleccionada.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 112,
+      "source_page_printed": 95,
+      "source_section": "Ernest Hemingway — Bloody Mary",
+      "support_excerpt": "To make a pitcher of Bloody Marys",
+      "recipe_name": "Bloody Mary",
+      "structured_ingredients": [
+        {
+          "name": "vodka ruso",
+          "quantity": "1 pinta"
+        },
+        {
+          "name": "jugo de tomate frío",
+          "quantity": "1 pinta"
+        },
+        {
+          "name": "salsa Worcestershire",
+          "quantity": "1 cucharada"
+        },
+        {
+          "name": "jugo de lima",
+          "quantity": "1 jigger"
+        },
+        {
+          "name": "sal de apio, cayena y pimienta",
+          "quantity": "al gusto"
+        }
+      ],
+      "preparation_summary_es": "Mezclar sobre un bloque de hielo vodka, jugo de tomate, condimentos y lima; ajustar intensidad.",
+      "cited_original_source": "Ernest Hemingway: Selected Letters, 1917–1961 (1981), 618–19.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-010",
+      "book_id": "literary-eats",
+      "author_name": "Ernest Hemingway",
+      "author_id_candidate": "ernest-hemingway",
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Papa Doble",
+      "drink_name_original": "Papa Doble",
+      "relationship_type_candidate": "author_documented",
+      "relationship_detail": "stated_preference",
+      "claim_candidate": "Hotchner recordó los componentes del daiquirí favorito de Hemingway.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 113,
+      "source_page_printed": 96,
+      "source_section": "Ernest Hemingway — Daiquiri",
+      "support_excerpt": "components in his favorite daiquiri",
+      "recipe_name": "Papa Doble",
+      "structured_ingredients": [
+        {
+          "name": "ron Bacardi White Label",
+          "quantity": "2½ jiggers"
+        },
+        {
+          "name": "jugo de lima",
+          "quantity": "2 limas"
+        },
+        {
+          "name": "jugo de pomelo",
+          "quantity": "½ pomelo"
+        },
+        {
+          "name": "maraschino",
+          "quantity": "6 gotas"
+        },
+        {
+          "name": "hielo picado",
+          "quantity": "cantidad necesaria"
+        }
+      ],
+      "preparation_summary_es": "Batir en mezcladora con hielo picado y servir espumoso en copas grandes.",
+      "cited_original_source": "A. E. Hotchner, Papa Hemingway: A Personal Memoir (1966), 5.",
+      "verification_notes": "Testimonio de memoria; verificar el pasaje de Hotchner y no extender la preferencia más allá de su formulación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-011",
+      "book_id": "literary-eats",
+      "author_name": "Thomas Jefferson",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Apple Toddy",
+      "drink_name_original": "Apple Toddy",
+      "relationship_type_candidate": "compiler_claim",
+      "relationship_detail": "compiler_claim",
+      "claim_candidate": "Scharnhorst incluye Apple Toddy dentro de la entrada dedicada a Jefferson.",
+      "claim_strength": "low",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 117,
+      "source_page_printed": 100,
+      "source_section": "Thomas Jefferson — Apple Toddy",
+      "support_excerpt": "Apple Toddy",
+      "recipe_name": "Apple Toddy",
+      "structured_ingredients": [
+        {
+          "name": "manzanas pippin",
+          "quantity": "18"
+        },
+        {
+          "name": "agua hirviendo",
+          "quantity": "1 galón"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "2 cuartos"
+        },
+        {
+          "name": "brandy",
+          "quantity": "1 cuarto"
+        },
+        {
+          "name": "ron",
+          "quantity": "1 cuarto"
+        },
+        {
+          "name": "jerez",
+          "quantity": "1 cuarto"
+        },
+        {
+          "name": "Madeira",
+          "quantity": "1 pinta"
+        },
+        {
+          "name": "arrack",
+          "quantity": "½ pinta"
+        },
+        {
+          "name": "brandy de durazno",
+          "quantity": "½ pinta"
+        },
+        {
+          "name": "curaçao",
+          "quantity": "½ pinta"
+        },
+        {
+          "name": "nuez moscada",
+          "quantity": "1 rallada"
+        }
+      ],
+      "preparation_summary_es": "Infusionar manzanas asadas en agua, colar y mezclar con azúcares, destilados y vino; servir en vasos de ponche.",
+      "cited_original_source": "Laura S. Fitchett, Beverages and Sauces of Colonial Virginia (1906), 23.",
+      "verification_notes": "La página no establece en el extracto visible que Jefferson preparara o bebiera esta fórmula; verificar la fuente y la conexión.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-012",
+      "book_id": "literary-eats",
+      "author_name": "Thomas Jefferson",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Cerveza de caqui",
+      "drink_name_original": "Cerveza de caqui",
+      "relationship_type_candidate": "compiler_claim",
+      "relationship_detail": "compiler_claim",
+      "claim_candidate": "Scharnhorst incluye una receta de cerveza de caqui en la entrada de Jefferson.",
+      "claim_strength": "low",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 117,
+      "source_page_printed": 100,
+      "source_section": "Thomas Jefferson — Persimmon Beer",
+      "support_excerpt": "Gather the persimmons perfectly ripe",
+      "recipe_name": "Cerveza de caqui",
+      "structured_ingredients": [
+        {
+          "name": "caquis maduros",
+          "quantity": "8 bushels en panes con salvado"
+        },
+        {
+          "name": "agua fría",
+          "quantity": "40 galones"
+        },
+        {
+          "name": "lúpulo",
+          "quantity": "sin cantidad"
+        }
+      ],
+      "preparation_summary_es": "Secar panes de caqui y salvado, remojar, extraer el líquido, hervir y lupular como cerveza.",
+      "cited_original_source": "American Farmer, 16 de abril de 1819, 22.",
+      "verification_notes": "La fuente citada no se presenta como documento de Jefferson; confirmar nexo antes de cualquier uso.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-013",
+      "book_id": "literary-eats",
+      "author_name": "Ted Kooser",
+      "author_id_candidate": null,
+      "work_title": "How to Make Rhubarb Wine",
+      "character_name": null,
+      "drink_name": "Vino de ruibarbo",
+      "drink_name_original": "Vino de ruibarbo",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "El poema de Kooser describe una elaboración de vino de ruibarbo.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 121,
+      "source_page_printed": 104,
+      "source_section": "Ted Kooser — How to Make Rhubarb Wine",
+      "support_excerpt": "Ferment ten days, under the cloth",
+      "recipe_name": "Vino de ruibarbo",
+      "structured_ingredients": [
+        {
+          "name": "ruibarbo",
+          "quantity": "10 libras"
+        },
+        {
+          "name": "agua hirviendo",
+          "quantity": "8 cuartos"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "5 libras"
+        },
+        {
+          "name": "levadura Red Star",
+          "quantity": "1 sobre"
+        }
+      ],
+      "preparation_summary_es": "Macerar ruibarbo en agua, colar, añadir azúcar y levadura, fermentar, trasegar y embotellar.",
+      "cited_original_source": "Kooser, Sure Signs: New and Selected Poems (1980).",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-014",
+      "book_id": "literary-eats",
+      "author_name": "Ring Lardner",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Dry Martini",
+      "drink_name_original": "Dry Martini",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "appears_in_work",
+      "claim_candidate": "Lardner publicó una receta satírica de Dry Martini en su columna.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 122,
+      "source_page_printed": 105,
+      "source_section": "Ring Lardner — Dry Martini",
+      "support_excerpt": "they will be distilled into a dry Martini",
+      "recipe_name": "Dry Martini",
+      "structured_ingredients": [
+        {
+          "name": "aceitunas verdes",
+          "quantity": "2"
+        },
+        {
+          "name": "pasas",
+          "quantity": "1"
+        }
+      ],
+      "preparation_summary_es": "La receta es satírica: dejar aceitunas en un pozo y recuperarlas; añadir una pasa.",
+      "cited_original_source": "Chicago Tribune, 17 de abril de 1919, 20.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-015",
+      "book_id": "literary-eats",
+      "author_name": "Walker Percy",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Cud’n Walker’s Uncle Will’s Favorite Mint Julep Receipt",
+      "drink_name_original": "Cud’n Walker’s Uncle Will’s Favorite Mint Julep Receipt",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Percy publicó una receta de Mint Julep atribuida a su tío Will.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 154,
+      "source_page_printed": 137,
+      "source_section": "Walker Percy — Cud’n Walker’s Uncle Will’s Favorite Mint Julep Receipt",
+      "support_excerpt": "You need excellent Bourbon whiskey",
+      "recipe_name": "Cud’n Walker’s Uncle Will’s Favorite Mint Julep Receipt",
+      "structured_ingredients": [
+        {
+          "name": "bourbon",
+          "quantity": "para llenar el vaso"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "½ pulgada en el vaso"
+        },
+        {
+          "name": "agua",
+          "quantity": "para humedecer"
+        },
+        {
+          "name": "menta fresca",
+          "quantity": "2 ramitas"
+        },
+        {
+          "name": "nuez moscada",
+          "quantity": "para rallar"
+        },
+        {
+          "name": "hielo triturado",
+          "quantity": "cantidad necesaria"
+        }
+      ],
+      "preparation_summary_es": "Humedecer azúcar, compactar hielo y menta en vaso, llenar con bourbon y rallar nuez moscada.",
+      "cited_original_source": "Percy, Signposts in a Strange Land (1991), 107.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-016",
+      "book_id": "literary-eats",
+      "author_name": "Kenneth Roberts",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Hot Buttered Rum",
+      "drink_name_original": "Hot Buttered Rum",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Roberts describe una preparación de Hot Buttered Rum en Trending into Maine.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 159,
+      "source_page_printed": 142,
+      "source_section": "Kenneth Roberts — Hot Buttered Rum",
+      "support_excerpt": "Pour one fair-sized drink (or jigger) of rum",
+      "recipe_name": "Hot Buttered Rum",
+      "structured_ingredients": [
+        {
+          "name": "ron",
+          "quantity": "1 jigger"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "1 terrón"
+        },
+        {
+          "name": "mantequilla",
+          "quantity": "1 porción pequeña"
+        },
+        {
+          "name": "canela",
+          "quantity": "½ cucharadita"
+        },
+        {
+          "name": "agua hirviendo",
+          "quantity": "para completar"
+        }
+      ],
+      "preparation_summary_es": "Mezclar ron, azúcar, mantequilla y canela; completar con agua hirviendo.",
+      "cited_original_source": "Roberts, Trending into Maine (1938), 162.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-017",
+      "book_id": "literary-eats",
+      "author_name": "Theodore Roosevelt",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Mint Julep — Kentucky Style",
+      "drink_name_original": "Mint Julep — Kentucky Style",
+      "relationship_type_candidate": "author_documented",
+      "relationship_detail": "consumed_once",
+      "claim_candidate": "Roosevelt declaró haber probado parte de un Mint Julep en octubre de 1910.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 160,
+      "source_page_printed": 143,
+      "source_section": "Theodore Roosevelt — Mint Julep—Kentucky Style",
+      "support_excerpt": "He had sipped part of one",
+      "recipe_name": "Mint Julep — Kentucky Style",
+      "structured_ingredients": [
+        {
+          "name": "azúcar",
+          "quantity": "1 terrón"
+        },
+        {
+          "name": "agua",
+          "quantity": "½ pony"
+        },
+        {
+          "name": "hielo fino",
+          "quantity": "para llenar taza"
+        },
+        {
+          "name": "bourbon",
+          "quantity": "2 jiggers"
+        },
+        {
+          "name": "menta",
+          "quantity": "1 ramillete"
+        }
+      ],
+      "preparation_summary_es": "Disolver azúcar en agua, llenar taza de plata con hielo, añadir bourbon y menta sin machacarla.",
+      "cited_original_source": "Bullock, The Ideal Bartender (1917), 43; contexto judicial citado por Scharnhorst.",
+      "verification_notes": "La evidencia sostiene una ocasión parcial, no una preferencia ni consumo habitual.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-018",
+      "book_id": "literary-eats",
+      "author_name": "Lydia Sigourney",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Cordials",
+      "drink_name_original": "Cordials",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Sigourney incluyó en Lucy Howard’s Journal una receta familiar de cordial.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 167,
+      "source_page_printed": 150,
+      "source_section": "Lydia Sigourney — Cordials",
+      "support_excerpt": "a variety of domestic cordials were compounded",
+      "recipe_name": "Cordials",
+      "structured_ingredients": [
+        {
+          "name": "raíz de jengibre",
+          "quantity": "1½ onzas"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "4 libras"
+        },
+        {
+          "name": "limones",
+          "quantity": "2"
+        },
+        {
+          "name": "agua",
+          "quantity": "6 cuartos"
+        },
+        {
+          "name": "levadura",
+          "quantity": "2 cucharadas"
+        },
+        {
+          "name": "espíritu blanco",
+          "quantity": "cantidad suficiente"
+        }
+      ],
+      "preparation_summary_es": "Macerar jengibre con azúcar y limón, añadir agua y levadura, fermentar, estabilizar con espíritu, filtrar y embotellar.",
+      "cited_original_source": "Sigourney, Lucy Howard’s Journal (1858), 75.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-019",
+      "book_id": "literary-eats",
+      "author_name": "Bayard Taylor",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Gothic Punch",
+      "drink_name_original": "Gothic Punch",
+      "relationship_type_candidate": "compiler_claim",
+      "relationship_detail": "compiler_claim",
+      "claim_candidate": "Scharnhorst ubica Gothic Punch dentro de la entrada dedicada a Taylor.",
+      "claim_strength": "low",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 176,
+      "source_page_printed": 159,
+      "source_section": "Bayard Taylor — Gothic Punch",
+      "support_excerpt": "Gothic Punch",
+      "recipe_name": "Gothic Punch",
+      "structured_ingredients": [
+        {
+          "name": "vino Catawba",
+          "quantity": "4 botellas"
+        },
+        {
+          "name": "clarete",
+          "quantity": "1 botella"
+        },
+        {
+          "name": "naranjas",
+          "quantity": "3"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "10 cucharadas"
+        },
+        {
+          "name": "champaña",
+          "quantity": "1 botella"
+        }
+      ],
+      "preparation_summary_es": "Enfriar vino, fruta y azúcar; añadir champaña al final.",
+      "cited_original_source": "The Bar-Tender’s Guide (1862), 34.",
+      "verification_notes": "Confirmar el vínculo entre Taylor y la receta: la fuente identificada es una guía de bar, no una obra suya en el pasaje.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-020",
+      "book_id": "literary-eats",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": "A Tramp Abroad",
+      "character_name": null,
+      "drink_name": "German Coffee",
+      "drink_name_original": "German Coffee",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "appears_in_work",
+      "claim_candidate": "Twain publicó una receta satírica de café alemán en A Tramp Abroad.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 184,
+      "source_page_printed": 167,
+      "source_section": "Mark Twain — German Coffee",
+      "support_excerpt": "Mix the beverage in a cold cup",
+      "recipe_name": "German Coffee",
+      "structured_ingredients": [
+        {
+          "name": "agua",
+          "quantity": "un barril, satírico"
+        },
+        {
+          "name": "achicoria",
+          "quantity": "1 baya"
+        },
+        {
+          "name": "café",
+          "quantity": "1 baya"
+        },
+        {
+          "name": "leche",
+          "quantity": "cantidad satírica"
+        }
+      ],
+      "preparation_summary_es": "Preparación satírica: hervir agua con una cantidad mínima de achicoria y café; diluir con leche.",
+      "cited_original_source": "Twain, A Tramp Abroad (1880), 576.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-021",
+      "book_id": "literary-eats",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Whiskey and Bitters",
+      "drink_name_original": "Whiskey and Bitters",
+      "relationship_type_candidate": "author_documented",
+      "relationship_detail": "habitual_consumption",
+      "claim_candidate": "Twain escribió a su esposa que tomaba un cóctel de whisky, limón, azúcar y bitters antes de comidas y al acostarse durante su estancia en Londres.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 185,
+      "source_page_printed": 168,
+      "source_section": "Mark Twain — Whiskey and Bitters",
+      "support_excerpt": "before breakfast, before dinner, & just before going to bed",
+      "recipe_name": "Whiskey and Bitters",
+      "structured_ingredients": [
+        {
+          "name": "whisky escocés",
+          "quantity": "sin cantidad"
+        },
+        {
+          "name": "limón",
+          "quantity": "1"
+        },
+        {
+          "name": "azúcar triturada",
+          "quantity": "sin cantidad"
+        },
+        {
+          "name": "Angostura bitters",
+          "quantity": "1 botella"
+        }
+      ],
+      "preparation_summary_es": "Mezclar whisky, limón, azúcar triturada y bitters; la carta no fija proporciones.",
+      "cited_original_source": "Carta de Mark Twain a Olivia, enero de 1874; citada en Literary Eats, 168.",
+      "verification_notes": "La afirmación se limita a la estancia londinense descrita en la carta.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-022",
+      "book_id": "literary-eats",
+      "author_name": "Robert Penn Warren",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Insidious Punch",
+      "drink_name_original": "Insidious Punch",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Warren compartió una receta de ponche con un amigo, según sus cartas seleccionadas.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 199,
+      "source_page_printed": 182,
+      "source_section": "Robert Penn Warren — Insidious Punch",
+      "support_excerpt": "he shared a drink recipe with a friend",
+      "recipe_name": "Insidious Punch",
+      "structured_ingredients": [
+        {
+          "name": "Sauterne",
+          "quantity": "1 cuarto"
+        },
+        {
+          "name": "ginebra",
+          "quantity": "1 cuarto"
+        },
+        {
+          "name": "ron",
+          "quantity": "1 pinta"
+        },
+        {
+          "name": "jerez",
+          "quantity": "½ pinta"
+        },
+        {
+          "name": "jugo de pomelo",
+          "quantity": "1 pinta"
+        },
+        {
+          "name": "jugo de piña",
+          "quantity": "al gusto"
+        },
+        {
+          "name": "hielo",
+          "quantity": "1 bloque grande"
+        }
+      ],
+      "preparation_summary_es": "Combinar vinos, destilados, jugos y un bloque de hielo; ajustar dulzor con jugo de piña.",
+      "cited_original_source": "Selected Letters of Robert Penn Warren (2006), III, 22–23.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-023",
+      "book_id": "literary-eats",
+      "author_name": "George Washington",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Small Beer",
+      "drink_name_original": "Small Beer",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Washington anotó una receta de small beer en su cuaderno privado en 1757.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 202,
+      "source_page_printed": 185,
+      "source_section": "George Washington — Small Beer",
+      "support_excerpt": "scribbled a “small beer” recipe in his private notebook",
+      "recipe_name": "Small Beer",
+      "structured_ingredients": [
+        {
+          "name": "salvado",
+          "quantity": "un tamiz grande"
+        },
+        {
+          "name": "lúpulo",
+          "quantity": "al gusto"
+        },
+        {
+          "name": "melaza",
+          "quantity": "3 galones"
+        },
+        {
+          "name": "levadura",
+          "quantity": "1 cuarto"
+        },
+        {
+          "name": "agua",
+          "quantity": "30 galones"
+        }
+      ],
+      "preparation_summary_es": "Hervir salvado y lúpulo, colar sobre melaza, enfriar, fermentar con levadura y embotellar.",
+      "cited_original_source": "“Washington’s Note Book: Selections from a Newly Discovered Manuscript,” Bulletin of the New York Public Library 24 (1920), 435.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-024",
+      "book_id": "literary-eats",
+      "author_name": "Daniel Webster",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Punch",
+      "drink_name_original": "Punch",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "La receta privada de ponche de Webster circuló póstumamente en la prensa.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 206,
+      "source_page_printed": 189,
+      "source_section": "Daniel Webster — Punch",
+      "support_excerpt": "Webster’s private recipe for punch circulated in the press",
+      "recipe_name": "Punch",
+      "structured_ingredients": [
+        {
+          "name": "brandy francés",
+          "quantity": "1 botella"
+        },
+        {
+          "name": "jerez",
+          "quantity": "1 botella"
+        },
+        {
+          "name": "ron jamaicano",
+          "quantity": "1 botella"
+        },
+        {
+          "name": "clarete",
+          "quantity": "2 botellas"
+        },
+        {
+          "name": "champaña",
+          "quantity": "2 botellas"
+        },
+        {
+          "name": "limones",
+          "quantity": "12"
+        },
+        {
+          "name": "té fuerte",
+          "quantity": "1 pinta"
+        },
+        {
+          "name": "azúcar, frutillas, piña y hielo",
+          "quantity": "al gusto"
+        }
+      ],
+      "preparation_summary_es": "Mezclar los destilados, vinos, té, fruta, azúcar y hielo; no añadir agua.",
+      "cited_original_source": "Harrisburg Patriot, 19 de julio de 1873, 1.",
+      "verification_notes": "La circulación póstuma exige comprobar procedencia y autenticidad de la atribución.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-025",
+      "book_id": "literary-eats",
+      "author_name": "Eudora Welty",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Mint Julep",
+      "drink_name_original": "Mint Julep",
+      "relationship_type_candidate": "compiler_claim",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "El libro reproduce un Mint Julep preservado en la Manuscript Division de la Library of Congress dentro de la entrada de Welty.",
+      "claim_strength": "low",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 208,
+      "source_page_printed": 191,
+      "source_section": "Eudora Welty — Mint Julep",
+      "support_excerpt": "Have silver goblet thoroughly chilled.",
+      "recipe_name": "Mint Julep",
+      "structured_ingredients": [
+        {
+          "name": "azúcar",
+          "quantity": "½ terrón"
+        },
+        {
+          "name": "agua",
+          "quantity": "1 cucharada"
+        },
+        {
+          "name": "hoja de menta",
+          "quantity": "1"
+        },
+        {
+          "name": "hielo triturado",
+          "quantity": "para llenar copa"
+        },
+        {
+          "name": "whisky bourbon",
+          "quantity": "para llenar copa"
+        },
+        {
+          "name": "ramita de menta",
+          "quantity": "1"
+        }
+      ],
+      "preparation_summary_es": "Disolver azúcar y menta, colar, llenar copa fría con hielo y bourbon, adornar con menta.",
+      "cited_original_source": "Manuscript Division, Library of Congress.",
+      "verification_notes": "Verificar que el manuscrito corresponde a Welty y la procedencia exacta dentro de la colección.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-026",
+      "book_id": "literary-eats",
+      "author_name": "Lafcadio Hearn",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Mint Julep",
+      "drink_name_original": "Mint Julep",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "La Cuisine Creole de Hearn incluye una fórmula de Mint Julep.",
+      "claim_strength": "high",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 110,
+      "source_page_printed": 93,
+      "source_section": "Lafcadio Hearn — Mint Juleps",
+      "support_excerpt": "Made of Whiskey, Brandy, Gin, Etc., Etc.",
+      "recipe_name": "Mint Julep",
+      "structured_ingredients": [
+        {
+          "name": "azúcar en polvo",
+          "quantity": "½ cucharada"
+        },
+        {
+          "name": "agua",
+          "quantity": "1 copa de vino"
+        },
+        {
+          "name": "whisky, brandy o ginebra",
+          "quantity": "1 copa de vino"
+        },
+        {
+          "name": "menta",
+          "quantity": "6 ramitas"
+        },
+        {
+          "name": "hielo y fruta",
+          "quantity": "cantidad necesaria"
+        }
+      ],
+      "preparation_summary_es": "Mezclar azúcar, agua y un destilado; usar abundante hielo, menta y fruta de estación.",
+      "cited_original_source": "Hearn, La Cuisine Creole, 249.",
+      "verification_notes": "Comprobar la fuente citada y que su contexto sostiene exactamente esta clasificación.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "le-027",
+      "book_id": "literary-eats",
+      "author_name": "Bobbie Ann Mason",
+      "author_id_candidate": null,
+      "work_title": null,
+      "character_name": null,
+      "drink_name": "Boiled Custard",
+      "drink_name_original": "Boiled Custard",
+      "relationship_type_candidate": "attributed_recipe",
+      "relationship_detail": "attributed_recipe",
+      "claim_candidate": "Mason describe el Boiled Custard de su abuela como un líquido espeso similar al eggnog.",
+      "claim_strength": "medium",
+      "why_it_matters": "El libro atribuye la relación a una fuente identificada; requiere verificación editorial independiente.",
+      "source_page_pdf": 145,
+      "source_page_printed": 128,
+      "source_section": "Bobbie Ann Mason — Boiled Custard",
+      "support_excerpt": "It is a thick liquid, similar to eggnog",
+      "recipe_name": "Boiled Custard",
+      "structured_ingredients": [
+        {
+          "name": "leche",
+          "quantity": "4 tazas"
+        },
+        {
+          "name": "huevos",
+          "quantity": "2 o 3"
+        },
+        {
+          "name": "azúcar",
+          "quantity": "⅓ taza"
+        },
+        {
+          "name": "vainilla",
+          "quantity": "2 cucharaditas"
+        },
+        {
+          "name": "sal y nuez moscada",
+          "quantity": "al gusto"
+        }
+      ],
+      "preparation_summary_es": "Cocer leche, azúcar y huevos a baño maría hasta que cubra la cuchara; enfriar y aromatizar.",
+      "cited_original_source": "The New Great American Writers’ Cookbook, 233.",
+      "verification_notes": "Es una bebida/crema líquida fronteriza; mantener separada de bebidas alcohólicas en la revisión.",
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    }
+  ]
+}

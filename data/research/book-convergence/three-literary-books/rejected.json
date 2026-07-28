@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-28",
+  "counts": {
+    "duplicate_source_candidates_merged": 0,
+    "source_rejections_preserved": 6
+  },
+  "duplicates": [],
+  "insufficient_evidence": [
+    {
+      "rejection_id": "source-literary-eats-06",
+      "source_book_id": "literary-eats",
+      "classification": "rejected_insufficient_evidence",
+      "locator": "PDF p. 117",
+      "section": "Thomas Jefferson",
+      "reason": "Apple Toddy y Persimmon Beer se conservan como candidates con nexo pendiente, no como hechos biográficos."
+    }
+  ],
+  "out_of_scope": [
+    {
+      "rejection_id": "source-literary-eats-01",
+      "source_book_id": "literary-eats",
+      "classification": "rejected_out_of_scope",
+      "locator": "PDF p. 25",
+      "section": "Rudolfo Anaya — Sardinas de Lata",
+      "reason": "Tequila, cerveza y vinos aparecen como acompañamiento de una comida; el alcance excluye comidas vinculadas con escritores."
+    },
+    {
+      "rejection_id": "source-literary-eats-02",
+      "source_book_id": "literary-eats",
+      "classification": "rejected_out_of_scope",
+      "locator": "PDF p. 31",
+      "section": "Anonymous — Oyster Cocktail",
+      "reason": "Preparación de ostras, no bebida."
+    },
+    {
+      "rejection_id": "source-literary-eats-03",
+      "source_book_id": "literary-eats",
+      "classification": "rejected_out_of_scope",
+      "locator": "PDF p. 143",
+      "section": "John D. MacDonald — Meyer’s Superior Cocktail Dip",
+      "reason": "Dip condimentado; no cóctel bebible."
+    },
+    {
+      "rejection_id": "source-literary-eats-04",
+      "source_book_id": "literary-eats",
+      "classification": "rejected_out_of_scope",
+      "locator": "PDF p. 167",
+      "section": "Leslie Marmon Silko — Bacardi Golden Rum Cake",
+      "reason": "Pastel; el ron es ingrediente culinario, no una preparación líquida."
+    },
+    {
+      "rejection_id": "source-literary-eats-05",
+      "source_book_id": "literary-eats",
+      "classification": "rejected_out_of_scope",
+      "locator": "PDF p. 181",
+      "section": "Young America Sherbet",
+      "reason": "Postre helado asociado a un menú, no relación documentada de bebida con el escritor de la entrada."
+    }
+  ]
+}

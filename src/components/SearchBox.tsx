@@ -1,10 +1,10 @@
 import { useId, useState, type ChangeEvent, type FormEvent } from 'react'
-import type { PublicAuthor } from '../../scripts/content-types'
-import { searchAuthors } from '../lib/search'
+import type { SearchTarget } from '../lib/public-search'
+import { searchTargets, targetName } from '../lib/public-search'
 
 interface Props {
-  authors: PublicAuthor[]
-  onSelect: (author: PublicAuthor) => void
+  targets: SearchTarget[]
+  onSelect: (target: SearchTarget) => void
   onRandom: () => void
 }
 
@@ -14,23 +14,23 @@ const examples = [
   { label: 'Rayuela', authorId: 'julio-cortazar' },
 ]
 
-export function SearchBox({ authors, onSelect, onRandom }: Props) {
+export function SearchBox({ targets, onSelect, onRandom }: Props) {
   const inputId = useId()
   const [query, setQuery] = useState('')
   const [activeIndex, setActiveIndex] = useState(-1)
   const [showResults, setShowResults] = useState(false)
-  const matches = searchAuthors(authors, query).slice(0, 6)
+  const matches = searchTargets(targets, query).slice(0, 6)
 
-  const choose = (author: PublicAuthor) => {
-    setQuery(author.canonical_name)
+  const choose = (target: SearchTarget) => {
+    setQuery(targetName(target))
     setActiveIndex(-1)
     setShowResults(false)
-    onSelect(author)
+    onSelect(target)
   }
 
   const chooseExample = (authorId: string) => {
-    const author = authors.find((candidate) => candidate.id === authorId)
-    if (author) choose(author)
+    const target = targets.find((candidate) => candidate.kind === 'author' && candidate.author.id === authorId)
+    if (target) choose(target)
   }
 
   const onChange = (event: ChangeEvent<HTMLInputElement>) => {
@@ -100,8 +100,8 @@ export function SearchBox({ authors, onSelect, onRandom }: Props) {
                   className={index === activeIndex ? 'active' : ''}
                   onClick={() => choose(author)}
                 >
-                  <span>{author.canonical_name}</span>
-                  <small>{author.country}</small>
+                  <span>{targetName(author)}</span>
+                  <small>{author.kind === 'author' ? author.author.country ?? 'Ficha mínima' : 'Ficha provisional'}</small>
                 </button>
               </li>
             )) : (

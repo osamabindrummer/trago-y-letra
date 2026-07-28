@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Literary Libations extraction contract",
+  "type": "object",
+  "required": [
+    "book_id",
+    "candidates"
+  ],
+  "properties": {
+    "book_id": {
+      "const": "literary-libations"
+    },
+    "candidates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "candidate_id",
+          "book_id",
+          "author_name",
+          "author_id_candidate",
+          "work_title",
+          "work_title_original",
+          "drink_name",
+          "drink_name_original",
+          "relationship_type_candidate",
+          "pairing_basis",
+          "claim_candidate",
+          "pairing_rationale",
+          "factual_claims_requiring_verification",
+          "source_document",
+          "source_section",
+          "source_anchor",
+          "support_excerpt",
+          "recipe_name",
+          "structured_ingredients",
+          "preparation_summary_es",
+          "cited_source",
+          "verification_notes",
+          "contradicting_evidence",
+          "confidence_candidate",
+          "status"
+        ],
+        "properties": {
+          "relationship_type_candidate": {
+            "enum": [
+              "editorial_pairing",
+              "appears_in_work",
+              "author_documented",
+              "abstinence_or_recovery"
+            ]
+          },
+          "pairing_basis": {
+            "enum": [
+              "explicit_in_work",
+              "historical_context",
+              "geographic_context",
+              "author_biographical",
+              "thematic_pairing",
+              "atmospheric_pairing",
+              "ingredient_symbolism",
+              "title_wordplay",
+              "creative_pairing",
+              "unclear"
+            ]
+          },
+          "confidence_candidate": {
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ]
+          },
+          "status": {
+            "const": "extraction_candidate"
+          },
+          "support_excerpt": {
+            "type": "string",
+            "maxLength": 300
+          },
+          "structured_ingredients": {
+            "type": "array"
+          }
+        }
+      }
+    }
+  }
+}

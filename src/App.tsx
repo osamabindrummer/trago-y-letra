@@ -1,14 +1,18 @@
-import { useState } from 'react'
-import type { PublicAuthor } from '../scripts/content-types'
+import { useMemo, useState } from 'react'
+import { AuthorIndex } from './components/AuthorIndex'
 import { AuthorSheet } from './components/AuthorSheet'
+import { DiscoveryLibrary } from './components/DiscoveryLibrary'
+import { ProvisionalAuthorSheet } from './components/ProvisionalAuthorSheet'
 import { SearchBox } from './components/SearchBox'
 import { content } from './content/generated'
+import { buildSearchTargets, type SearchTarget } from './lib/public-search'
 
-type Page = 'home' | 'method' | 'sources'
+type Page = 'home' | 'discoveries' | 'method' | 'index' | 'sources'
 
 export function App() {
-  const [selected, setSelected] = useState<PublicAuthor | null>(null)
+  const [selected, setSelected] = useState<SearchTarget | null>(null)
   const [page, setPage] = useState<Page>('home')
+  const targets = useMemo(() => buildSearchTargets(content.authors, content.discoveries), [])
 
   const showHome = () => {
     setSelected(null)
@@ -16,8 +20,8 @@ export function App() {
     window.scrollTo?.({ top: 0, behavior: 'smooth' })
   }
 
-  const showAuthor = (author: PublicAuthor) => {
-    setSelected(author)
+  const showAuthor = (target: SearchTarget) => {
+    setSelected(target)
     setPage('home')
     window.setTimeout(() => {
       document.querySelector('#result')?.scrollIntoView?.({ behavior: 'smooth', block: 'start' })
@@ -25,7 +29,7 @@ export function App() {
   }
 
   const randomAuthor = () => {
-    showAuthor(content.authors[Math.floor(Math.random() * content.authors.length)])
+    showAuthor(targets[Math.floor(Math.random() * targets.length)])
   }
 
   return (
@@ -35,15 +39,21 @@ export function App() {
           Trago <i>y</i> Letra
         </button>
         <div>
+          <button type="button" onClick={() => setPage('discoveries')}>Hallazgos</button>
           <button type="button" onClick={() => setPage('method')}>Cómo funciona</button>
+          <button type="button" onClick={() => setPage('index')}>Índice</button>
           <button type="button" onClick={() => setPage('sources')}>Fuentes</button>
         </div>
       </nav>
 
       {page === 'home' ? (
-        <Home selected={selected} onSelect={showAuthor} onRandom={randomAuthor} onClear={() => setSelected(null)} />
+        <Home selected={selected} targets={targets} onSelect={showAuthor} onRandom={randomAuthor} onClear={() => setSelected(null)} />
+      ) : page === 'discoveries' ? (
+        <DiscoveryLibrary discoveries={content.discoveries} />
       ) : page === 'method' ? (
         <Method />
+      ) : page === 'index' ? (
+        <AuthorIndex authors={content.authors} discoveries={content.discoveries} />
       ) : (
         <Sources />
       )}
@@ -53,12 +63,14 @@ export function App() {
 
 function Home({
   selected,
+  targets,
   onSelect,
   onRandom,
   onClear,
 }: {
-  selected: PublicAuthor | null
-  onSelect: (author: PublicAuthor) => void
+  selected: SearchTarget | null
+  targets: SearchTarget[]
+  onSelect: (target: SearchTarget) => void
   onRandom: () => void
   onClear: () => void
 }) {
@@ -68,12 +80,13 @@ function Home({
         <div className="hero-inner">
           <p className="hero-kicker">Un autor. Un libro. Un trago.</p>
           <h1 id="hero-title">¿A quién lees?</h1>
-          <SearchBox authors={content.authors} onSelect={onSelect} onRandom={onRandom} />
+          <SearchBox targets={targets} onSelect={onSelect} onRandom={onRandom} />
         </div>
         <p className="hero-side">Busca. Mezcla. Lee.</p>
       </section>
 
-      {selected && <AuthorSheet key={selected.id} author={selected} onClose={onClear} />}
+      {selected?.kind === 'author' && <AuthorSheet key={selected.author.id} author={selected.author} onClose={onClear} />}
+      {selected?.kind === 'provisional' && <ProvisionalAuthorSheet key={selected.author.id} author={selected.author} drinks={content.drinks} onClose={onClear} />}
 
       <footer className="site-footer">
         <span>Trago y Letra</span>
@@ -90,6 +103,8 @@ function Method() {
       <h1>Claridad antes que leyenda.</h1>
       <p>Busca un autor, una autora o un libro. La ficha distingue si el vínculo viene de una obra, una fuente biográfica o una decisión editorial.</p>
       <dl>
+        <dt>Hallazgo provisional</dt>
+        <dd>Una asociación extraída de la biblioteca que entra al juego aunque todavía le falte ficha, receta o una confianza mayor. La interfaz muestra esas limitaciones.</dd>
         <dt>Bebida documentada</dt>
         <dd>Una fuente respalda consumo, preparación o preferencia; la redacción no va más lejos que la evidencia.</dd>
         <dt>Aparece en la obra</dt>

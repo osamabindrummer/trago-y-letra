@@ -1,0 +1,834 @@
+{
+  "batch_id": "literary-libations-05",
+  "model": "gpt-5.6-luna",
+  "status": "normalization_completed",
+  "assigned_discovery_ids": [
+    "hallazgo-three-books-192",
+    "hallazgo-three-books-193",
+    "hallazgo-three-books-194",
+    "hallazgo-three-books-195",
+    "hallazgo-three-books-196",
+    "hallazgo-three-books-197",
+    "hallazgo-three-books-198",
+    "hallazgo-three-books-199",
+    "hallazgo-three-books-200",
+    "hallazgo-three-books-201",
+    "hallazgo-three-books-202",
+    "hallazgo-three-books-203",
+    "hallazgo-three-books-204",
+    "hallazgo-three-books-205",
+    "hallazgo-three-books-206",
+    "hallazgo-three-books-207",
+    "hallazgo-three-books-208",
+    "hallazgo-three-books-209",
+    "hallazgo-three-books-210"
+  ],
+  "items": [
+    {
+      "discovery_id": "hallazgo-three-books-192",
+      "source_candidate_ids": [
+        "literary-libations-005-13"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "neil-gaiman",
+        "canonical_name": "Neil Gaiman"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "american-gods",
+        "title": "American Gods"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "jack-daniels-and-coffee",
+        "name_es": "Jack Daniel’s y café",
+        "aliases": [
+          "Jack Daniel’S And Coffee"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Jack Daniel’s y café para American Gods",
+        "explanation_es": "Literary Libations propone jack daniel’s y café como maridaje editorial para acompañar American Gods."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Jack Daniel’S And Coffee para acompañar American Gods.",
+        "locator": "OEBPS/Text/009_Chapter005.html, LIZARD’S LEG AND OWLET’S WING — MAGIC POTIONS FOR SWORDS AND SPELLS — American Gods, page_100",
+        "support_excerpt": "The perfect thing to drink with Neil Gaiman’s inventive tale of modern mythology would really be a bottle of soma, the distilled plant essence of"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-193",
+      "source_candidate_ids": [
+        "literary-libations-005-14"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "susanna-clarke",
+        "canonical_name": "Susanna Clarke"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "jonathan-strange-and-mr-norrell",
+        "title": "Jonathan Strange and Mr. Norell"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "magical-martini",
+        "name_es": "Martini mágico",
+        "aliases": [
+          "Magical Martini"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Martini mágico para Jonathan Strange and Mr. Norell",
+        "explanation_es": "Literary Libations propone martini mágico como maridaje editorial para acompañar Jonathan Strange and Mr. Norell."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Magical Martini para acompañar Jonathan Strange and Mr. Norell.",
+        "locator": "OEBPS/Text/009_Chapter005.html, LIZARD’S LEG AND OWLET’S WING — MAGIC POTIONS FOR SWORDS AND SPELLS — Jonathan Strange and Mr. Norell",
+        "support_excerpt": "Here is a book that calls for a truly magical drink. Between feats of spellcasting not dreamed of in the wizarding world of Harry Potter—raising"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-194",
+      "source_candidate_ids": [
+        "literary-libations-005-15"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "patrick-rothfuss",
+        "canonical_name": "Patrick Rothfuss"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-name-of-the-wind",
+        "title": "The Name of the Wind"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "barleywine",
+        "name_es": "Barleywine",
+        "aliases": [
+          "Barleywine"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Barleywine para The Name of the Wind",
+        "explanation_es": "Literary Libations propone barleywine como maridaje editorial para acompañar The Name of the Wind."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Barleywine para acompañar The Name of the Wind.",
+        "locator": "OEBPS/Text/009_Chapter005.html, LIZARD’S LEG AND OWLET’S WING — MAGIC POTIONS FOR SWORDS AND SPELLS — The Name of the Wind, page_102",
+        "support_excerpt": "The name is deceptive: barleywine is actually beer. Intense, aromatic, brooding beer. Just the sort of thing to get you through the long night you’re"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-195",
+      "source_candidate_ids": [
+        "literary-libations-005-16"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "brandon-sanderson",
+        "canonical_name": "Brandon Sanderson"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-way-of-kings",
+        "title": "The Way of Kings"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "german-riesling",
+        "name_es": "Riesling alemán",
+        "aliases": [
+          "German Riesling"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Riesling alemán para The Way of Kings",
+        "explanation_es": "Literary Libations propone riesling alemán como maridaje editorial para acompañar The Way of Kings."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda German Riesling para acompañar The Way of Kings.",
+        "locator": "OEBPS/Text/009_Chapter005.html, LIZARD’S LEG AND OWLET’S WING — MAGIC POTIONS FOR SWORDS AND SPELLS — The Way of Kings, page_103",
+        "support_excerpt": "A kingly wine for a kingly book—though many of the characters herein are far from nobility. Sanderson’s invented world of Cosmere is shockingly creative and"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-196",
+      "source_candidate_ids": [
+        "literary-libations-005-17"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "deborah-harkness",
+        "canonical_name": "Deborah Harkness"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "a-discovery-of-witches",
+        "title": "A Discovery of Witches"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "champagne-blanc-de-noirs",
+        "name_es": "Champaña Blanc de Noirs",
+        "aliases": [
+          "Champagne, Blanc De Noirs"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Champaña Blanc de Noirs para A Discovery of Witches",
+        "explanation_es": "Literary Libations propone champaña blanc de noirs como maridaje editorial para acompañar A Discovery of Witches."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Champagne, Blanc De Noirs para acompañar A Discovery of Witches.",
+        "locator": "OEBPS/Text/009_Chapter005.html, LIZARD’S LEG AND OWLET’S WING — MAGIC POTIONS FOR SWORDS AND SPELLS — A Discovery of Witches, page_104",
+        "support_excerpt": "The art of crafting cocktails has been referred to as a sort of alchemy, in which disparate ingredients are combined to make something that tastes"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-197",
+      "source_candidate_ids": [
+        "literary-libations-005-18"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "erin-morgenstern",
+        "canonical_name": "Erin Morgenstern"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-night-circus",
+        "title": "The Night Circus"
+      },
+      "drink": {
+        "action": "reuse",
+        "canonical_id": "champagne-cocktail",
+        "name_es": "Cóctel de champaña",
+        "aliases": [
+          "Champagne Cocktail",
+          "Champagne Cock-Tail"
+        ],
+        "recipe_plan": "Reutilizar la receta canónica existente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Cóctel de champaña para The Night Circus",
+        "explanation_es": "Literary Libations propone cóctel de champaña como maridaje editorial para acompañar The Night Circus."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Champagne Cocktail para acompañar The Night Circus.",
+        "locator": "OEBPS/Text/009_Chapter005.html, LIZARD’S LEG AND OWLET’S WING — MAGIC POTIONS FOR SWORDS AND SPELLS — The Night Circus, page_105",
+        "support_excerpt": "For this book we need something that sparkles and glitters at every turn, shining as brilliantly as the Cirque du Rêves. A champagne cocktail, made"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-198",
+      "source_candidate_ids": [
+        "literary-libations-006-01"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "william-shakespeare",
+        "canonical_name": "William Shakespeare"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "romeo-and-juliet",
+        "title": "Romeo and Juliet"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "recioto-della-valpolicella",
+        "name_es": "Recioto della Valpolicella",
+        "aliases": [
+          "Recioto Della Valpolicella"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Recioto della Valpolicella para Romeo and Juliet",
+        "explanation_es": "Literary Libations propone recioto della valpolicella como maridaje editorial para acompañar Romeo and Juliet."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Recioto Della Valpolicella para acompañar Romeo and Juliet.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Romeo and Juliet, page_108",
+        "support_excerpt": "“A glooming peace this morning with it brings,” which is why we’re drinking Recioto, a lovely but serious red wine made from dried grapes, rather"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-199",
+      "source_candidate_ids": [
+        "literary-libations-006-02"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "jane-austen",
+        "canonical_name": "Jane Austen"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "pride-and-prejudice",
+        "title": "Pride and Prejudice"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "rum-punch",
+        "name_es": "Ponche de ron",
+        "aliases": [
+          "Rum Punch"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Ponche de ron para Pride and Prejudice",
+        "explanation_es": "Literary Libations propone ponche de ron como maridaje editorial para acompañar Pride and Prejudice."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Rum Punch para acompañar Pride and Prejudice.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Pride and Prejudice, page_110",
+        "support_excerpt": "You’re probably frowning right now as you remember the dark days of college drinking, when frat-party punch more closely resembled canned fruit cocktail than it"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-200",
+      "source_candidate_ids": [
+        "literary-libations-006-03"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "charlotte-bronte",
+        "canonical_name": "Charlotte Brontë"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "jane-eyre",
+        "title": "Jane Eyre"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "tawny-port",
+        "name_es": "Oporto tawny",
+        "aliases": [
+          "Tawny Port"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Oporto tawny para Jane Eyre",
+        "explanation_es": "Literary Libations propone oporto tawny como maridaje editorial para acompañar Jane Eyre."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Tawny Port para acompañar Jane Eyre.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Jane Eyre, page_112",
+        "support_excerpt": "Swoon-worthy indeed! The reclusive, brooding Rochester has inspired generations of devoted romance fans, but even more so has the fierce, headstrong titular character garnered love"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-201",
+      "source_candidate_ids": [
+        "literary-libations-006-04"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "leo-tolstoy",
+        "canonical_name": "Leo Tolstoy"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "anna-karenina",
+        "title": "Anna Karenina"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "sauternes",
+        "name_es": "Sauternes",
+        "aliases": [
+          "Sauternes"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Sauternes para Anna Karenina",
+        "explanation_es": "Literary Libations propone sauternes como maridaje editorial para acompañar Anna Karenina."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Sauternes para acompañar Anna Karenina.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Anna Karenina, page_113",
+        "support_excerpt": "How do the Russians manage to write such tragic stories in such exuberant prose? Every time I read Tolstoy and Dostoyevsky, this question dominates my"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-202",
+      "source_candidate_ids": [
+        "literary-libations-006-05"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "d-h-lawrence",
+        "canonical_name": "D. H. Lawrence"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "lady-chatterleys-lover",
+        "title": "Lady Chatterley’s Lover"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "oregon-chardonnay",
+        "name_es": "Chardonnay de Oregón",
+        "aliases": [
+          "Oregon Chardonnay"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Chardonnay de Oregón para Lady Chatterley’s Lover",
+        "explanation_es": "Literary Libations propone chardonnay de oregón como maridaje editorial para acompañar Lady Chatterley’s Lover."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Oregon Chardonnay para acompañar Lady Chatterley’s Lover.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Lady Chatterley’s Lover, page_114",
+        "support_excerpt": "Disconnected though they may be in historical time and place, one sip of these creamy, sensual white wines will put you in the mind of"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-203",
+      "source_candidate_ids": [
+        "literary-libations-006-06"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "daphne-du-maurier",
+        "canonical_name": "Daphne De Maurier"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "rebecca",
+        "title": "Rebecca"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "the-jasmine",
+        "name_es": "The Jasmine",
+        "aliases": [
+          "The Jasmine"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "The Jasmine para Rebecca",
+        "explanation_es": "Literary Libations propone the jasmine como maridaje editorial para acompañar Rebecca."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda The Jasmine para acompañar Rebecca.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Rebecca, page_115",
+        "support_excerpt": "Alcohol is rarely mentioned in this subtle romantic thriller, but that was no obstacle to finding the perfect pairing. It presented itself early on in"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-204",
+      "source_candidate_ids": [
+        "literary-libations-006-07"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "boris-pasternak",
+        "canonical_name": "Boris Pasternak"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "doctor-zhivago",
+        "title": "Doctor Zhivago"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "white-russian",
+        "name_es": "Ruso blanco",
+        "aliases": [
+          "White Russian"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Ruso blanco para Doctor Zhivago",
+        "explanation_es": "Literary Libations propone ruso blanco como maridaje editorial para acompañar Doctor Zhivago."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda White Russian para acompañar Doctor Zhivago.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Doctor Zhivago, page_116",
+        "support_excerpt": "According to Urban Dictionary, this book’s namesake cocktail is a vodka-Dr Pepper concoction, and I hope you won’t mix yourself anything of the sort. This"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-205",
+      "source_candidate_ids": [
+        "literary-libations-006-08"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "william-goldman",
+        "canonical_name": "William Goldman"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-princess-bride",
+        "title": "The Princess Bride"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "chianti-classico",
+        "name_es": "Chianti Classico",
+        "aliases": [
+          "Chianti Classico"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Chianti Classico para The Princess Bride",
+        "explanation_es": "Literary Libations propone chianti classico como maridaje editorial para acompañar The Princess Bride."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Chianti Classico para acompañar The Princess Bride.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — The Princess Bride, page_117",
+        "support_excerpt": "After you’ve defeated the vengeful Spaniard in a fencing match and overcome rhyme master Fezzik in hand-to-hand combat, you can finally sit down and share"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-206",
+      "source_candidate_ids": [
+        "literary-libations-006-09"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "diana-galbaldon",
+        "canonical_name": "Diana Galbaldon"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "outlander",
+        "title": "Outlander"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "scotch-the-older-the-better",
+        "name_es": "Scotch añejo",
+        "aliases": [
+          "Scotch, The Older The Better"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Scotch añejo para Outlander",
+        "explanation_es": "Literary Libations propone scotch añejo como maridaje editorial para acompañar Outlander."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Scotch, The Older The Better para acompañar Outlander.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Outlander, page_118",
+        "support_excerpt": "This pairing is plain as day. This first book in Diana Galbaldon’s time-traveling Outlander series takes place entirely in Scotland, the vast majority of it"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-207",
+      "source_candidate_ids": [
+        "literary-libations-006-10"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "helen-fielding",
+        "canonical_name": "Helen Fielding"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "bridget-joness-diary",
+        "title": "Bridget Jones’s Diary"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "chocolatini",
+        "name_es": "Chocolatini",
+        "aliases": [
+          "Chocolatini"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Chocolatini para Bridget Jones’s Diary",
+        "explanation_es": "Literary Libations propone chocolatini como maridaje editorial para acompañar Bridget Jones’s Diary."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Chocolatini para acompañar Bridget Jones’s Diary.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Bridget Jones’s Diary, page_119",
+        "support_excerpt": "Celebrate yourself Bridget Jones style with a chocolatini near at hand when you curl up with this endearing novel of girl power, self-confidence (or lack"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-208",
+      "source_candidate_ids": [
+        "literary-libations-006-11"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "nicholas-sparks",
+        "canonical_name": "Nicholas Sparks"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-notebook",
+        "title": "The Notebook"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "provencal-rose",
+        "name_es": "Rosado provenzal",
+        "aliases": [
+          "Provençal Rosé"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Rosado provenzal para The Notebook",
+        "explanation_es": "Literary Libations propone rosado provenzal como maridaje editorial para acompañar The Notebook."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Provençal Rosé para acompañar The Notebook.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — The Notebook, page_120",
+        "support_excerpt": "The book that rocketed Nicholas Sparks to international celebrity and eventually became the movie that gifted Ryan Gosling to the world, The Notebook is revered"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-209",
+      "source_candidate_ids": [
+        "literary-libations-006-12"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "nora-roberts",
+        "canonical_name": "Nora Roberts"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "carolina-moon",
+        "title": "Carolina Moon"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "peach-tea-cocktail",
+        "name_es": "Cóctel de té con durazno",
+        "aliases": [
+          "Peach Tea Cocktail"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Cóctel de té con durazno para Carolina Moon",
+        "explanation_es": "Literary Libations propone cóctel de té con durazno como maridaje editorial para acompañar Carolina Moon."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Peach Tea Cocktail para acompañar Carolina Moon.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — Carolina Moon, page_121",
+        "support_excerpt": "What says Southern more than peaches and sweet tea? How about a big old plantation home surrounded by fields of organic cotton? Or a wealthy"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-210",
+      "source_candidate_ids": [
+        "literary-libations-006-13"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "audrey-niffenegger",
+        "canonical_name": "Audrey Niffenegger"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-time-travelers-wife",
+        "title": "The Time Traveler’s Wife"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "the-chicago",
+        "name_es": "The Chicago",
+        "aliases": [
+          "The Chicago"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "The Chicago para The Time Traveler’s Wife",
+        "explanation_es": "Literary Libations propone the chicago como maridaje editorial para acompañar The Time Traveler’s Wife."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda The Chicago para acompañar The Time Traveler’s Wife.",
+        "locator": "OEBPS/Text/010_Chapter006.html, SWOON-WORTHY — DRINKS FOR LOVERS OF LOVE — The Time Traveler’s Wife, page_122",
+        "support_excerpt": "Did you know the Second City, the backdrop for Henry and Claire Abshire’s sweet and sensitive romance, has a namesake cocktail? The Chicago cocktail is"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    }
+  ],
+  "counts": {
+    "assigned": 19,
+    "normalization_ready": 19,
+    "duplicates": 0,
+    "anonymous_identities": 0
+  },
+  "errors": []
+}

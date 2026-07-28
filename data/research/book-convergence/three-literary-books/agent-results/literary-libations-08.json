@@ -1,0 +1,876 @@
+{
+  "batch_id": "literary-libations-08",
+  "model": "gpt-5.6-luna",
+  "status": "normalization_completed",
+  "assigned_discovery_ids": [
+    "hallazgo-three-books-250",
+    "hallazgo-three-books-251",
+    "hallazgo-three-books-252",
+    "hallazgo-three-books-253",
+    "hallazgo-three-books-254",
+    "hallazgo-three-books-255",
+    "hallazgo-three-books-256",
+    "hallazgo-three-books-257",
+    "hallazgo-three-books-258",
+    "hallazgo-three-books-259",
+    "hallazgo-three-books-260",
+    "hallazgo-three-books-261",
+    "hallazgo-three-books-262",
+    "hallazgo-three-books-263",
+    "hallazgo-three-books-264",
+    "hallazgo-three-books-265",
+    "hallazgo-three-books-266",
+    "hallazgo-three-books-267",
+    "hallazgo-three-books-268",
+    "hallazgo-three-books-269"
+  ],
+  "items": [
+    {
+      "discovery_id": "hallazgo-three-books-250",
+      "source_candidate_ids": [
+        "literary-libations-008-17"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "sarah-dessen",
+        "canonical_name": "Sarah Dessen"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-truth-about-forever",
+        "title": "The Truth About Forever"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "moca-helado",
+        "name_es": "Moca helado",
+        "aliases": [
+          "Iced Mocha"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Moca helado para The Truth About Forever",
+        "explanation_es": "Literary Libations propone moca helado como maridaje editorial para acompañar The Truth About Forever."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Iced Mocha para acompañar The Truth About Forever.",
+        "locator": "OEBPS/Text/012_Chapter008.html, CAN I SEE YOUR I.D.? — JUNIOR PAIRINGS FOR YOUNG ADULT BOOKS — The Truth About Forever, page_173",
+        "support_excerpt": "This is a book about trying. Trying to be the perfect daughter. Trying to heal from the sudden death of a parent. Trying to get"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-251",
+      "source_candidate_ids": [
+        "literary-libations-008-18"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "suzanne-collins",
+        "canonical_name": "Suzanne Collins"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-hunger-games",
+        "title": "The Hunger Games"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "daiquiri-de-arandanos",
+        "name_es": "Daiquiri de arándanos",
+        "aliases": [
+          "Blueberry Daiquiri"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Daiquiri de arándanos para The Hunger Games",
+        "explanation_es": "Literary Libations propone daiquiri de arándanos como maridaje editorial para acompañar The Hunger Games."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Blueberry Daiquiri para acompañar The Hunger Games.",
+        "locator": "OEBPS/Text/012_Chapter008.html, CAN I SEE YOUR I.D.? — JUNIOR PAIRINGS FOR YOUNG ADULT BOOKS — The Hunger Games, page_174",
+        "support_excerpt": "Love her or hate her, Katniss is an astonishing character. Two of the most dramatic moments in this book center around her willingness to sacrifice"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-252",
+      "source_candidate_ids": [
+        "literary-libations-009-01"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "clement-clarke-moore",
+        "canonical_name": "Clement Clarke Moore"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "a-visit-from-st-nicholas",
+        "title": "A Visit from St. Nicholas"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "ponche-de-huevo",
+        "name_es": "Ponche de huevo",
+        "aliases": [
+          "Eggnog"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Ponche de huevo para A Visit from St. Nicholas",
+        "explanation_es": "Literary Libations propone ponche de huevo como maridaje editorial para acompañar A Visit from St. Nicholas."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Eggnog para acompañar A Visit from St. Nicholas.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — A Visit from St. Nicholas, page_178",
+        "support_excerpt": "“’Twas the night before Christmas when all through the house, not a creature was stirring, not even a mouse.” This poem, better known as “The"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-253",
+      "source_candidate_ids": [
+        "literary-libations-009-02"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "lewis-carroll",
+        "canonical_name": "Lewis Carroll"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "alice-s-adventures-in-wonderland",
+        "title": "Alice’s Adventures in Wonderland"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "te-helado",
+        "name_es": "Té helado",
+        "aliases": [
+          "Iced Tea"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Té helado para Alice’s Adventures in Wonderland",
+        "explanation_es": "Literary Libations propone té helado como maridaje editorial para acompañar Alice’s Adventures in Wonderland."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Iced Tea para acompañar Alice’s Adventures in Wonderland.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — Alice’s Adventures in Wonderland, page_180",
+        "support_excerpt": "Would it be right to read this book with anything other than tea? The most famous scene centers around the absurd tea party of the"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-254",
+      "source_candidate_ids": [
+        "literary-libations-009-03"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "frances-hodgson-burnett",
+        "canonical_name": "Frances Hodgson Burnett"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-secret-garden",
+        "title": "The Secret Garden"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "te-de-hibisco",
+        "name_es": "Té de hibisco",
+        "aliases": [
+          "Hibiscus Tea"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Té de hibisco para The Secret Garden",
+        "explanation_es": "Literary Libations propone té de hibisco como maridaje editorial para acompañar The Secret Garden."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Hibiscus Tea para acompañar The Secret Garden.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Secret Garden, page_181",
+        "support_excerpt": "The intrepid heroine of The Secret Garden, “Mistress Mary, quite contrary,” demonstrates in this enchanting story of redemption that no one is beyond hope when"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-255",
+      "source_candidate_ids": [
+        "literary-libations-009-04"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "munro-leaf",
+        "canonical_name": "Munro Leaf"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-story-of-ferdinand",
+        "title": "The Story of Ferdinand"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "te-de-jazmin-y-gewurztraminer-alsaciano",
+        "name_es": "Té de jazmín y gewürztraminer alsaciano",
+        "aliases": [
+          "Kids’ Pairing: Jasmine Tea Grown-Up Pairing: Alsatian Gewürztraminer"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Té de jazmín y gewürztraminer alsaciano para The Story of Ferdinand",
+        "explanation_es": "Literary Libations propone té de jazmín y gewürztraminer alsaciano como maridaje editorial para acompañar The Story of Ferdinand."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Kids’ Pairing: Jasmine Tea Grown-Up Pairing: Alsatian Gewürztraminer para acompañar The Story of Ferdinand.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Story of Ferdinand, page_182",
+        "support_excerpt": "To join Ferdinand under his cork tree, peacefully smelling the flowers, we want a fragrant, floral drink that takes you to sweet shade on a"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-256",
+      "source_candidate_ids": [
+        "literary-libations-009-05"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "antoine-de-saint-exupery",
+        "canonical_name": "Antoine De Saint-Exupéry"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-little-prince",
+        "title": "The Little Prince"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "agua-con-gas",
+        "name_es": "Agua con gas",
+        "aliases": [
+          "Sparkling Water"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Agua con gas para The Little Prince",
+        "explanation_es": "Literary Libations propone agua con gas como maridaje editorial para acompañar The Little Prince."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Sparkling Water para acompañar The Little Prince.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Little Prince, page_183",
+        "support_excerpt": "Water is of paramount importance to this tender story. Set primarily in the Sahara where the author’s plane has crashed, Saint-Exupéry relates his bittersweet experiences"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-257",
+      "source_candidate_ids": [
+        "literary-libations-009-06"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "margaret-wise-brown-and-clement-hurd",
+        "canonical_name": "Margaret Wise Brown And Clement Hurd"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "goodnight-moon",
+        "title": "Goodnight Moon"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "cacao-caliente-con-malvaviscos",
+        "name_es": "Cacao caliente con malvaviscos",
+        "aliases": [
+          "Hot Cocoa With Marshmallows"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Cacao caliente con malvaviscos para Goodnight Moon",
+        "explanation_es": "Literary Libations propone cacao caliente con malvaviscos como maridaje editorial para acompañar Goodnight Moon."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Hot Cocoa With Marshmallows para acompañar Goodnight Moon.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — Goodnight Moon, page_184",
+        "support_excerpt": "A hot fire on a cold night. Two little kittens and a pair of mittens. And a quiet old lady whispering “hush.” If you’re not"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-258",
+      "source_candidate_ids": [
+        "literary-libations-009-07"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "c-s-lewis",
+        "canonical_name": "C. S. Lewis"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-lion-the-witch-and-the-wardrobe",
+        "title": "The Lion, the Witch and the Wardrobe"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "te-negro-ingles-con-crema-y-azucar",
+        "name_es": "Té negro inglés con crema y azúcar",
+        "aliases": [
+          "English Black Tea, With Cream And Sugar"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Té negro inglés con crema y azúcar para The Lion, the Witch and the Wardrobe",
+        "explanation_es": "Literary Libations propone té negro inglés con crema y azúcar como maridaje editorial para acompañar The Lion, the Witch and the Wardrobe."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda English Black Tea, With Cream And Sugar para acompañar The Lion, the Witch and the Wardrobe.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Lion, the Witch and the Wardrobe, page_185",
+        "support_excerpt": "If you cannot get your hands on “cordial made of the juice of one of the fire-flowers that grow in the mountains of the sun,”"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-259",
+      "source_candidate_ids": [
+        "literary-libations-009-08"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "e-b-white",
+        "canonical_name": "E. B. White"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "charlotte-s-web",
+        "title": "Charlotte’s Web"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "leche-vegetal",
+        "name_es": "Leche vegetal",
+        "aliases": [
+          "Vegan Milk"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Leche vegetal para Charlotte’s Web",
+        "explanation_es": "Literary Libations propone leche vegetal como maridaje editorial para acompañar Charlotte’s Web."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Vegan Milk para acompañar Charlotte’s Web.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — Charlotte’s Web, page_186",
+        "support_excerpt": "If there was ever a book that could be said to be the standard-bearer for the vegan and vegetarian movement, this is it. Teach your"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-260",
+      "source_candidate_ids": [
+        "literary-libations-009-09"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "norman-juster",
+        "canonical_name": "Norman Juster"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-phantom-tollbooth",
+        "title": "The Phantom Tollbooth"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "sopa-de-letras",
+        "name_es": "Sopa de letras",
+        "aliases": [
+          "Alphabet Soup"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Sopa de letras para The Phantom Tollbooth",
+        "explanation_es": "Literary Libations propone sopa de letras como maridaje editorial para acompañar The Phantom Tollbooth."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Alphabet Soup para acompañar The Phantom Tollbooth.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Phantom Tollbooth, page_187",
+        "support_excerpt": "With this book-and-drink pairing, you can play with your words and your food. (Hey, if you can drink it without a spoon, it’s a drink.)"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-261",
+      "source_candidate_ids": [
+        "literary-libations-009-10"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "maurice-sendak",
+        "canonical_name": "Maurice Sendak"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "where-the-wild-things-are",
+        "title": "Where the Wild Things Are"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "coca-cola-y-whiskey-con-cola",
+        "name_es": "Coca-Cola y whiskey con cola",
+        "aliases": [
+          "Kids’ Pairing: Coca-Cola Grown-Up Pairing: Whiskey And Coke"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Coca-Cola y whiskey con cola para Where the Wild Things Are",
+        "explanation_es": "Literary Libations propone coca-cola y whiskey con cola como maridaje editorial para acompañar Where the Wild Things Are."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Kids’ Pairing: Coca-Cola Grown-Up Pairing: Whiskey And Coke para acompañar Where the Wild Things Are.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — Where the Wild Things Are, page_188",
+        "support_excerpt": "Want to see a magic trick? Your children will spontaneously transform into wild things when you give them each a bottle of Coca-Cola at dinnertime."
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-262",
+      "source_candidate_ids": [
+        "literary-libations-009-11"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "roald-dahl",
+        "canonical_name": "Roald Dahl"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "charlie-and-the-chocolate-factory",
+        "title": "Charlie and the Chocolate Factory"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "batido-de-chocolate",
+        "name_es": "Batido de chocolate",
+        "aliases": [
+          "Chocolate Milkshake"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Batido de chocolate para Charlie and the Chocolate Factory",
+        "explanation_es": "Literary Libations propone batido de chocolate como maridaje editorial para acompañar Charlie and the Chocolate Factory."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Chocolate Milkshake para acompañar Charlie and the Chocolate Factory.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — Charlie and the Chocolate Factory, page_189",
+        "support_excerpt": "Did you expect anything else? What better to drink while touring Willy Wonka’s famously secretive chocolate factory with his Oompa Loompas than something deliciously chocolatey"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-263",
+      "source_candidate_ids": [
+        "literary-libations-009-12"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "shel-silverstein",
+        "canonical_name": "Shel Silverstein"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-giving-tree",
+        "title": "The Giving Tree"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "sidra-de-manzana",
+        "name_es": "Sidra de manzana",
+        "aliases": [
+          "Apple Cider"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Sidra de manzana para The Giving Tree",
+        "explanation_es": "Literary Libations propone sidra de manzana como maridaje editorial para acompañar The Giving Tree."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Apple Cider para acompañar The Giving Tree.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Giving Tree, page_190",
+        "support_excerpt": "Whether you love it or loathe it, the best way to appreciate this book is with a drink that celebrates the tree itself. As kids,"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-264",
+      "source_candidate_ids": [
+        "literary-libations-009-13"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "eric-carle",
+        "canonical_name": "Eric Carle"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-very-hungry-caterpillar",
+        "title": "The Very Hungry Caterpillar"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "cordial-de-frutas",
+        "name_es": "Cordial de frutas",
+        "aliases": [
+          "Fruit Cordial"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Cordial de frutas para The Very Hungry Caterpillar",
+        "explanation_es": "Literary Libations propone cordial de frutas como maridaje editorial para acompañar The Very Hungry Caterpillar."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Fruit Cordial para acompañar The Very Hungry Caterpillar.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Very Hungry Caterpillar, page_191",
+        "support_excerpt": "Take your kids on a sip-able journey as they follow the hungry caterpillar stocking up on calories before his transformation into a butterfly. A fruit"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-265",
+      "source_candidate_ids": [
+        "literary-libations-009-14"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "dr-seuss",
+        "canonical_name": "Dr. Seuss"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-lorax",
+        "title": "The Lorax"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "te-rooibos",
+        "name_es": "Té rooibos",
+        "aliases": [
+          "Rooibos Tea"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Té rooibos para The Lorax",
+        "explanation_es": "Literary Libations propone té rooibos como maridaje editorial para acompañar The Lorax."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Rooibos Tea para acompañar The Lorax.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Lorax, page_192",
+        "support_excerpt": "The rooibos plant, grown exclusively in the Western Cape of South Africa, produces an earthy tea reminiscent of wood and autumn leaves and is warm"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-266",
+      "source_candidate_ids": [
+        "literary-libations-009-15"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "laura-joffe-numeroff",
+        "canonical_name": "Laura Joffe Numeroff"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "if-you-give-a-mouse-a-cookie",
+        "title": "If You Give a Mouse a Cookie"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "leche-o-leche-vegetal",
+        "name_es": "Leche o leche vegetal",
+        "aliases": [
+          "Milk (Or Plant-Based Milk)"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Leche o leche vegetal para If You Give a Mouse a Cookie",
+        "explanation_es": "Literary Libations propone leche o leche vegetal como maridaje editorial para acompañar If You Give a Mouse a Cookie."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Milk (Or Plant-Based Milk) para acompañar If You Give a Mouse a Cookie.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — If You Give a Mouse a Cookie, page_193",
+        "support_excerpt": "If you give a kid a bedtime story, he’s going to ask for something to drink. This pairing is obvious by the time you turn"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-267",
+      "source_candidate_ids": [
+        "literary-libations-009-16"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "philip-pullman",
+        "canonical_name": "Philip Pullman"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-golden-compass",
+        "title": "The Golden Compass"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "ginger-beer-y-julep-de-jengibre-con-bourbon",
+        "name_es": "Ginger beer y julep de jengibre con bourbon",
+        "aliases": [
+          "Kid’S Pairing: Ginger Beer Grown-Up Pairing: Ginger-Bourbon Julep"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Ginger beer y julep de jengibre con bourbon para The Golden Compass",
+        "explanation_es": "Literary Libations propone ginger beer y julep de jengibre con bourbon como maridaje editorial para acompañar The Golden Compass."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Kid’S Pairing: Ginger Beer Grown-Up Pairing: Ginger-Bourbon Julep para acompañar The Golden Compass.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Golden Compass, page_194",
+        "support_excerpt": "The Golden Compass was my favorite book growing up. Lyra Silvertongue (née Belacqua) was the fierce ruffian I needed to guide me into adolescence as"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-268",
+      "source_candidate_ids": [
+        "literary-libations-009-17"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "lemony-snicket",
+        "canonical_name": "Lemony Snicket"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-bad-beginning",
+        "title": "The Bad Beginning"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "limonada-y-limonada-con-vodka",
+        "name_es": "Limonada y limonada con vodka",
+        "aliases": [
+          "Kid’S Pairing: Lemonade Grown-Up Pairing: Lemonade And Vodka"
+        ],
+        "recipe_plan": "Receta original de la casa; no copiar instrucciones de la fuente."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Limonada y limonada con vodka para The Bad Beginning",
+        "explanation_es": "Literary Libations propone limonada y limonada con vodka como maridaje editorial para acompañar The Bad Beginning."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Kid’S Pairing: Lemonade Grown-Up Pairing: Lemonade And Vodka para acompañar The Bad Beginning.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Bad Beginning, page_195",
+        "support_excerpt": "The phrase “when life gives you lemons, make lemonade,”—an expression that here means “when bad things happen in life, you have to make the best"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-269",
+      "source_candidate_ids": [
+        "literary-libations-009-18"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "markus-zusak",
+        "canonical_name": "Markus Zusak"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-book-thief",
+        "title": "The Book Thief"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "fanta-naranja",
+        "name_es": "Fanta naranja",
+        "aliases": [
+          "Orange Fanta"
+        ],
+        "recipe_plan": "Servicio directo; no inventar receta."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Fanta naranja para The Book Thief",
+        "explanation_es": "Literary Libations propone fanta naranja como maridaje editorial para acompañar The Book Thief."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Makansi recomienda Orange Fanta para acompañar The Book Thief.",
+        "locator": "OEBPS/Text/013_Chapter009.html, THE VERY THIRSTY CATERPILLAR — KID DRINKS FOR KID LIT — The Book Thief, page_196",
+        "support_excerpt": "Fanta, the orange soda beloved the world over, didn’t remotely resemble its current form until the 1950s. Invented during the World War II era in"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Autor y obra mínimos; maridaje editorial."
+      ]
+    }
+  ],
+  "counts": {
+    "assigned": 20,
+    "normalization_ready": 20,
+    "duplicates": 0,
+    "anonymous_identities": 0
+  },
+  "errors": []
+}

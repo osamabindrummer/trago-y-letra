@@ -1,0 +1,21 @@
+{
+  "book_id": "literary-eats",
+  "title": "Literary Eats",
+  "author": "Gary Scharnhorst",
+  "local_file": "library/inbox/literary-eats.pdf",
+  "format": "PDF",
+  "total_pages": 229,
+  "processed_on": "2026-07-28",
+  "extraction_method": "pypdf, texto nativo por página y revisión contextual manual; muestra visual de inicio, centro y final mediante renderizado.",
+  "text_or_ocr_quality": "Texto nativo extraíble; páginas 1, 3, 6, 7, 221 y 225 sin texto o con blancos intencionales.",
+  "pagination_offset": "Preliminares en PDF 1–17; el cuerpo impreso comienza en PDF 18 con página 1 (PDF = impresa + 17). Índices y notas tienen numeración propia.",
+  "editorial_scope": "Sólo bebidas, cócteles, vinos, cervezas, destilados, preparaciones líquidas y recetas de bebida vinculadas con escritores.",
+  "restrictions": [
+    "Sin búsquedas web",
+    "Sin publicación ni cambios de catálogo",
+    "Comidas excluidas",
+    "Sólo extracción candidata"
+  ],
+  "overall_status": "extraction_completed",
+  "contract_version": "1.0"
+}

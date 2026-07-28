@@ -1,0 +1,1224 @@
+{
+  "book_id": "sip-and-sensibility",
+  "batch_id": "batch-002",
+  "documentos_internos_cubiertos": [
+    "OEBPS/chapter15.xhtml",
+    "OEBPS/chapter16.xhtml",
+    "OEBPS/chapter17.xhtml",
+    "OEBPS/chapter18.xhtml",
+    "OEBPS/chapter19.xhtml",
+    "OEBPS/chapter20.xhtml",
+    "OEBPS/chapter21.xhtml",
+    "OEBPS/chapter22.xhtml",
+    "OEBPS/chapter23.xhtml",
+    "OEBPS/chapter24.xhtml",
+    "OEBPS/part03.xhtml",
+    "OEBPS/chapter25.xhtml",
+    "OEBPS/chapter26.xhtml",
+    "OEBPS/chapter27.xhtml",
+    "OEBPS/chapter28.xhtml",
+    "OEBPS/chapter29.xhtml",
+    "OEBPS/chapter30.xhtml",
+    "OEBPS/chapter31.xhtml",
+    "OEBPS/chapter32.xhtml",
+    "OEBPS/chapter33.xhtml",
+    "OEBPS/chapter34.xhtml"
+  ],
+  "titulos_y_anclas": [
+    {
+      "title": "Pineapple Rum",
+      "anchor": null
+    },
+    {
+      "title": "Rum Toddy",
+      "anchor": null
+    },
+    {
+      "title": "Smoking Bishop",
+      "anchor": null
+    },
+    {
+      "title": "Rum & Lemon Punch",
+      "anchor": null
+    },
+    {
+      "title": "Champagne Cock-Tail",
+      "anchor": null
+    },
+    {
+      "title": "Sherry Cobbler",
+      "anchor": null
+    },
+    {
+      "title": "Brandy Smash",
+      "anchor": null
+    },
+    {
+      "title": "Eye-Opener",
+      "anchor": null
+    },
+    {
+      "title": "Earthquake",
+      "anchor": null
+    },
+    {
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null
+    },
+    {
+      "title": "The Twentieth & Twenty-First Centuries",
+      "anchor": null
+    },
+    {
+      "title": "Whiskey & Soda",
+      "anchor": null
+    },
+    {
+      "title": "Brandy & Soda",
+      "anchor": null
+    },
+    {
+      "title": "Green Swizzle",
+      "anchor": null
+    },
+    {
+      "title": "Mint Julep",
+      "anchor": null
+    },
+    {
+      "title": "Gin Rickey",
+      "anchor": null
+    },
+    {
+      "title": "Bronx Cocktail",
+      "anchor": null
+    },
+    {
+      "title": "Jack Rose",
+      "anchor": null
+    },
+    {
+      "title": "Hangman’s Blood",
+      "anchor": null
+    },
+    {
+      "title": "Satan’s Whisker",
+      "anchor": null
+    },
+    {
+      "title": "Manhattan",
+      "anchor": null
+    }
+  ],
+  "status": "completed",
+  "candidatos": [
+    {
+      "candidate_id": "sip-and-sensibility-15-pineapple-rum",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Charles Dickens",
+      "author_id_candidate": null,
+      "work_title": "The Pickwick Papers",
+      "work_title_original": "The Pickwick Papers",
+      "character_name": "Mr. Stiggins",
+      "drink_name": "Pineapple Rum",
+      "drink_name_original": "Pineapple Rum",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_drinks",
+      "textual_presence": "explicit",
+      "claim_candidate": "Pineapple Rum aparece o es mencionado en The Pickwick Papers.",
+      "scene_context": "escena de posada observada por Sam Weller",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter15.xhtml",
+      "source_section": "Pineapple Rum",
+      "source_anchor": null,
+      "support_excerpt": "Garnish with the pineapple slice and enjoy.",
+      "recipe_name": "Pineapple Rum",
+      "structured_ingredients": [
+        {
+          "source_text": "1 part rum",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part rum"
+        },
+        {
+          "source_text": "1 part pineapple juice",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part pineapple juice"
+        },
+        {
+          "source_text": "10 fresh mint leaves",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "10 fresh mint leaves"
+        },
+        {
+          "source_text": "1 pineapple slice, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 pineapple slice, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-16-rum-toddy",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Charles Dickens",
+      "author_id_candidate": null,
+      "work_title": "Martin Chuzzlewit",
+      "work_title_original": "Martin Chuzzlewit",
+      "character_name": "Major Pawkins",
+      "drink_name": "Rum Toddy",
+      "drink_name_original": "Rum Toddy",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_drinks",
+      "textual_presence": "explicit",
+      "claim_candidate": "Rum Toddy aparece o es mencionado en Martin Chuzzlewit.",
+      "scene_context": "ocio en el bar mientras su esposa sostiene el trabajo doméstico",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter16.xhtml",
+      "source_section": "Rum Toddy",
+      "source_anchor": null,
+      "support_excerpt": "Garnish with the slice of lemon and enjoy.",
+      "recipe_name": "Rum Toddy",
+      "structured_ingredients": [
+        {
+          "source_text": "1 oz. rum",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 oz. rum"
+        },
+        {
+          "source_text": "1 tablespoon honey",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 tablespoon honey"
+        },
+        {
+          "source_text": "2 teaspoons fresh lemon juice",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 teaspoons fresh lemon juice"
+        },
+        {
+          "source_text": "½ cup boiling water",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ cup boiling water"
+        },
+        {
+          "source_text": "1 lemon slice, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 lemon slice, for garnish"
+        },
+        {
+          "source_text": "1 cinnamon stick, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 cinnamon stick, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-17-smoking-bishop",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Charles Dickens",
+      "author_id_candidate": null,
+      "work_title": "A Christmas Carol",
+      "work_title_original": "A Christmas Carol",
+      "character_name": "Ebenezer Scrooge y Bob Cratchit",
+      "drink_name": "Smoking Bishop",
+      "drink_name_original": "Smoking Bishop",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_orders",
+      "textual_presence": "explicit",
+      "claim_candidate": "Smoking Bishop aparece o es mencionado en A Christmas Carol.",
+      "scene_context": "oferta de una conversación navideña tras la transformación de Scrooge",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter17.xhtml",
+      "source_section": "Smoking Bishop",
+      "source_anchor": null,
+      "support_excerpt": "A merrier Christmas, Bob, my good fellow, than I have given you, for many a year! I’ll raise your salary, and endeavour to assist your",
+      "recipe_name": "Smoking Bishop",
+      "structured_ingredients": [
+        {
+          "source_text": "1 (750 ml) bottle of red wine",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 (750 ml) bottle of red wine"
+        },
+        {
+          "source_text": "1 tablespoon orange zest",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 tablespoon orange zest"
+        },
+        {
+          "source_text": "1 tablespoon lemon zest",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 tablespoon lemon zest"
+        },
+        {
+          "source_text": "3 whole cloves",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "3 whole cloves"
+        },
+        {
+          "source_text": "1 star anise pod",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 star anise pod"
+        },
+        {
+          "source_text": "2 cardamom pods",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 cardamom pods"
+        },
+        {
+          "source_text": "½ cup honey",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ cup honey"
+        },
+        {
+          "source_text": "½ cup ruby port",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ cup ruby port"
+        },
+        {
+          "source_text": "Cinnamon sticks, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "Cinnamon sticks, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-18-rum-lemon-punch",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Charles Dickens",
+      "author_id_candidate": null,
+      "work_title": "David Copperfield",
+      "work_title_original": "David Copperfield",
+      "character_name": "Mr. Micawber",
+      "drink_name": "Rum & Lemon Punch",
+      "drink_name_original": "Rum & Lemon Punch",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_prepares",
+      "textual_presence": "explicit",
+      "claim_candidate": "Rum & Lemon Punch aparece o es mencionado en David Copperfield.",
+      "scene_context": "David lo distrae de sus apuros económicos preparando ponche",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter18.xhtml",
+      "source_section": "Rum & Lemon Punch",
+      "source_anchor": null,
+      "support_excerpt": "I informed Mr. Micawber that I relied upon him for a bowl of punch, and led him to the lemons. His recent despondency, not to",
+      "recipe_name": "Rum & Lemon Punch",
+      "structured_ingredients": [
+        {
+          "source_text": "½ oz. fresh lemon juice",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ oz. fresh lemon juice"
+        },
+        {
+          "source_text": "1 lemon twist",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 lemon twist"
+        },
+        {
+          "source_text": "2 oz. rum",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 oz. rum"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-19-champagne-cock-tail",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": "The Innocents Abroad",
+      "work_title_original": "The Innocents Abroad",
+      "character_name": "el General y viajeros",
+      "drink_name": "Champagne Cock-Tail",
+      "drink_name_original": "Champagne Cock-Tail",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_orders",
+      "textual_presence": "explicit",
+      "claim_candidate": "Champagne Cock-Tail aparece o es mencionado en The Innocents Abroad.",
+      "scene_context": "intento frustrado de pedir bebidas americanas en París",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter19.xhtml",
+      "source_section": "Champagne Cock-Tail",
+      "source_anchor": null,
+      "support_excerpt": "[A stare from the Frenchman.]",
+      "recipe_name": "Champagne Cock-Tail",
+      "structured_ingredients": [
+        {
+          "source_text": "1 sugar cube",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 sugar cube"
+        },
+        {
+          "source_text": "Juice of 1 lemon wedge",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "Juice of 1 lemon wedge"
+        },
+        {
+          "source_text": "1 part Angostura Bitters",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part Angostura Bitters"
+        },
+        {
+          "source_text": "2 parts Champagne",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 parts Champagne"
+        },
+        {
+          "source_text": "1 lemon twist, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 lemon twist, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-20-sherry-cobbler",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": "The Innocents Abroad",
+      "work_title_original": "The Innocents Abroad",
+      "character_name": "el General y viajeros",
+      "drink_name": "Sherry Cobbler",
+      "drink_name_original": "Sherry Cobbler",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_orders",
+      "textual_presence": "explicit",
+      "claim_candidate": "Sherry Cobbler aparece o es mencionado en The Innocents Abroad.",
+      "scene_context": "segundo pedido rechazado por el camarero",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter20.xhtml",
+      "source_section": "Sherry Cobbler",
+      "source_anchor": null,
+      "support_excerpt": "Well, then, give us a sherry cobbler.",
+      "recipe_name": "Sherry Cobbler",
+      "structured_ingredients": [
+        {
+          "source_text": "1 tablespoon caster (superfine) sugar",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 tablespoon caster (superfine) sugar"
+        },
+        {
+          "source_text": "2 orange slices",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 orange slices"
+        },
+        {
+          "source_text": "3½ oz. Amontillado or Oloroso sherry",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "3½ oz. Amontillado or Oloroso sherry"
+        },
+        {
+          "source_text": "1 sprig of fresh mint, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 sprig of fresh mint, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-21-brandy-smash",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": "The Innocents Abroad",
+      "work_title_original": "The Innocents Abroad",
+      "character_name": "el General y viajeros",
+      "drink_name": "Brandy Smash",
+      "drink_name_original": "Brandy Smash",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_orders",
+      "textual_presence": "explicit",
+      "claim_candidate": "Brandy Smash aparece o es mencionado en The Innocents Abroad.",
+      "scene_context": "pedido que el camarero no comprende",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter21.xhtml",
+      "source_section": "Brandy Smash",
+      "source_anchor": null,
+      "support_excerpt": "Give us a brandy smash!",
+      "recipe_name": "Brandy Smash",
+      "structured_ingredients": [
+        {
+          "source_text": "5 fresh mint leaves",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "5 fresh mint leaves"
+        },
+        {
+          "source_text": "2 oz. brandy",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 oz. brandy"
+        },
+        {
+          "source_text": "½ teaspoon simple syrup",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ teaspoon simple syrup"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-22-eye-opener",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": "The Innocents Abroad",
+      "work_title_original": "The Innocents Abroad",
+      "character_name": "el General y viajeros",
+      "drink_name": "Eye-Opener",
+      "drink_name_original": "Eye-Opener",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "narrator_mentions",
+      "textual_presence": "explicit",
+      "claim_candidate": "Eye-Opener aparece o es mencionado en The Innocents Abroad.",
+      "scene_context": "lista de bebidas que el bar no puede servir",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter22.xhtml",
+      "source_section": "Eye-Opener",
+      "source_anchor": null,
+      "support_excerpt": "The Frenchman began to back away, suspicious of the ominous vigor of the last order—began to back away, shrugging his shoulders and spreading his hands",
+      "recipe_name": "Eye-Opener",
+      "structured_ingredients": [
+        {
+          "source_text": "1 teaspoon caster (superfine) sugar",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 teaspoon caster (superfine) sugar"
+        },
+        {
+          "source_text": "1½ oz. rum",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1½ oz. rum"
+        },
+        {
+          "source_text": "2 dashes of curaçao",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 dashes of curaçao"
+        },
+        {
+          "source_text": "2 dashes of apricot brandy",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 dashes of apricot brandy"
+        },
+        {
+          "source_text": "1 egg yolk (optional)",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 egg yolk (optional)"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-23-earthquake",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Mark Twain",
+      "author_id_candidate": null,
+      "work_title": "The Innocents Abroad",
+      "work_title_original": "The Innocents Abroad",
+      "character_name": "el General y viajeros",
+      "drink_name": "Earthquake",
+      "drink_name_original": "Earthquake",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "narrator_mentions",
+      "textual_presence": "explicit",
+      "claim_candidate": "Earthquake aparece o es mencionado en The Innocents Abroad.",
+      "scene_context": "lista de bebidas que el bar no puede servir",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter23.xhtml",
+      "source_section": "Earthquake",
+      "source_anchor": null,
+      "support_excerpt": "Having spent time in San Francisco a few years prior to his grand European adventure, you might imagine that earthquakes were something Twain would have",
+      "recipe_name": "Earthquake",
+      "structured_ingredients": [
+        {
+          "source_text": "1 oz. cognac",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 oz. cognac"
+        },
+        {
+          "source_text": "1 oz. absinthe",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 oz. absinthe"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-25-whiskey-soda",
+      "book_id": "sip-and-sensibility",
+      "author_name": "P. G. Wodehouse",
+      "author_id_candidate": null,
+      "work_title": "The Aunt and the Sluggard",
+      "work_title_original": "The Aunt and the Sluggard",
+      "character_name": "Bertie Wooster",
+      "drink_name": "Whiskey & Soda",
+      "drink_name_original": "Whiskey & Soda",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_drinks",
+      "textual_presence": "explicit",
+      "claim_candidate": "Whiskey & Soda aparece o es mencionado en The Aunt and the Sluggard.",
+      "scene_context": "consuelo tras perder temporalmente a Jeeves",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter25.xhtml",
+      "source_section": "Whiskey & Soda",
+      "source_anchor": null,
+      "support_excerpt": "The Aunt and the Sluggard",
+      "recipe_name": "Whiskey & Soda",
+      "structured_ingredients": [
+        {
+          "source_text": "2 parts whiskey",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 parts whiskey"
+        },
+        {
+          "source_text": "1 part club soda",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part club soda"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-26-brandy-soda",
+      "book_id": "sip-and-sensibility",
+      "author_name": "P. G. Wodehouse",
+      "author_id_candidate": null,
+      "work_title": "The Inimitable Jeeves",
+      "work_title_original": "The Inimitable Jeeves",
+      "character_name": "Bertie Wooster y Jeeves",
+      "drink_name": "Brandy & Soda",
+      "drink_name_original": "Brandy & Soda",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_orders",
+      "textual_presence": "explicit",
+      "claim_candidate": "Brandy & Soda aparece o es mencionado en The Inimitable Jeeves.",
+      "scene_context": "Bertie solicita una mezcla fuerte para aliviarse",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter26.xhtml",
+      "source_section": "Brandy & Soda",
+      "source_anchor": null,
+      "support_excerpt": "Stiffish, Jeeves. Not too much soda, but splash the brandy about a bit.",
+      "recipe_name": "Brandy & Soda",
+      "structured_ingredients": [
+        {
+          "source_text": "2 parts brandy",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 parts brandy"
+        },
+        {
+          "source_text": "1 part club soda",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part club soda"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-27-green-swizzle",
+      "book_id": "sip-and-sensibility",
+      "author_name": "P. G. Wodehouse",
+      "author_id_candidate": null,
+      "work_title": "The Rummy Affair of Old Biffy",
+      "work_title_original": "The Rummy Affair of Old Biffy",
+      "character_name": "Bertie Wooster y Biffy",
+      "drink_name": "Green Swizzle",
+      "drink_name_original": "Green Swizzle",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_drinks",
+      "textual_presence": "explicit",
+      "claim_candidate": "Green Swizzle aparece o es mencionado en The Rummy Affair of Old Biffy.",
+      "scene_context": "escape de una exposición hacia el bar",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter27.xhtml",
+      "source_section": "Green Swizzle",
+      "source_anchor": null,
+      "support_excerpt": "The Rummy Affair of Old Biffy",
+      "recipe_name": "Green Swizzle",
+      "structured_ingredients": [
+        {
+          "source_text": "1 part white rum",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part white rum"
+        },
+        {
+          "source_text": "1 part absinthe",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part absinthe"
+        },
+        {
+          "source_text": "Dash of crème de menthe",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "Dash of crème de menthe"
+        },
+        {
+          "source_text": "1 sprig of fresh mint, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 sprig of fresh mint, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-28-mint-julep",
+      "book_id": "sip-and-sensibility",
+      "author_name": "F. Scott Fitzgerald",
+      "author_id_candidate": null,
+      "work_title": "The Great Gatsby",
+      "work_title_original": "The Great Gatsby",
+      "character_name": "Daisy Buchanan y el grupo",
+      "drink_name": "Mint Julep",
+      "drink_name_original": "Mint Julep",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "narrator_mentions",
+      "textual_presence": "explicit",
+      "claim_candidate": "Mint Julep aparece o es mencionado en The Great Gatsby.",
+      "scene_context": "idea de Daisy durante una jornada de calor",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter28.xhtml",
+      "source_section": "Mint Julep",
+      "source_anchor": null,
+      "support_excerpt": "The notion originated with Daisy’s suggestion that we hire five bathrooms and take cold baths, and then assumed more tangible form as “a place to",
+      "recipe_name": "Mint Julep",
+      "structured_ingredients": [
+        {
+          "source_text": "10 fresh mint leaves",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "10 fresh mint leaves"
+        },
+        {
+          "source_text": "1 teaspoon caster (superfine) sugar",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 teaspoon caster (superfine) sugar"
+        },
+        {
+          "source_text": "Splash of water",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "Splash of water"
+        },
+        {
+          "source_text": "2 oz. bourbon",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 oz. bourbon"
+        },
+        {
+          "source_text": "1 sprig of fresh mint, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 sprig of fresh mint, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-29-gin-rickey",
+      "book_id": "sip-and-sensibility",
+      "author_name": "F. Scott Fitzgerald",
+      "author_id_candidate": null,
+      "work_title": "The Great Gatsby",
+      "work_title_original": "The Great Gatsby",
+      "character_name": "Tom Buchanan, Gatsby y el grupo",
+      "drink_name": "Gin Rickey",
+      "drink_name_original": "Gin Rickey",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_drinks",
+      "textual_presence": "explicit",
+      "claim_candidate": "Gin Rickey aparece o es mencionado en The Great Gatsby.",
+      "scene_context": "Tom trae cuatro bebidas ante el calor",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter29.xhtml",
+      "source_section": "Gin Rickey",
+      "source_anchor": null,
+      "support_excerpt": "“They certainly look cool,” he said, with visible tension.",
+      "recipe_name": "Gin Rickey",
+      "structured_ingredients": [
+        {
+          "source_text": "2 parts gin",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 parts gin"
+        },
+        {
+          "source_text": "1 part fresh lime juice",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part fresh lime juice"
+        },
+        {
+          "source_text": "4 parts club soda",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "4 parts club soda"
+        },
+        {
+          "source_text": "1 lime wedge, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 lime wedge, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-30-bronx-cocktail",
+      "book_id": "sip-and-sensibility",
+      "author_name": "F. Scott Fitzgerald",
+      "author_id_candidate": null,
+      "work_title": "The Great Gatsby",
+      "work_title_original": "The Great Gatsby",
+      "character_name": null,
+      "drink_name": "Bronx Cocktail",
+      "drink_name_original": "Bronx Cocktail",
+      "relationship_type_candidate": "editorial_pairing",
+      "relationship_detail": "thematic_pairing",
+      "textual_presence": "absent_editorial_pairing",
+      "claim_candidate": "Bronx Cocktail es una asociación editorial de este capítulo; no se afirma que aparezca en The Great Gatsby.",
+      "scene_context": "cítricos de la mansión; el compilador imagina un vínculo con el cóctel",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter30.xhtml",
+      "source_section": "Bronx Cocktail",
+      "source_anchor": null,
+      "support_excerpt": "Double-strain into the chilled glass and enjoy.",
+      "recipe_name": "Bronx Cocktail",
+      "structured_ingredients": [
+        {
+          "source_text": "1½ oz. London dry gin",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1½ oz. London dry gin"
+        },
+        {
+          "source_text": "½ oz. sweet vermouth",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ oz. sweet vermouth"
+        },
+        {
+          "source_text": "½ oz. dry vermouth",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ oz. dry vermouth"
+        },
+        {
+          "source_text": "1 oz. fresh orange juice",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 oz. fresh orange juice"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "El propio capítulo declara o revela que la bebida no está especificada en la obra; conservar sólo como maridaje editorial."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "low",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-31-jack-rose",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Ernest Hemingway",
+      "author_id_candidate": null,
+      "work_title": "The Sun Also Rises",
+      "work_title_original": "The Sun Also Rises",
+      "character_name": "Jake Barnes",
+      "drink_name": "Jack Rose",
+      "drink_name_original": "Jack Rose",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_drinks",
+      "textual_presence": "explicit",
+      "claim_candidate": "Jack Rose aparece o es mencionado en The Sun Also Rises.",
+      "scene_context": "espera fallida de Brett Ashley en el Hotel Crillon",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter31.xhtml",
+      "source_section": "Jack Rose",
+      "source_anchor": null,
+      "support_excerpt": "At five o’clock I was in the Hotel Crillon waiting for Brett. She was not there, so I sat down and wrote some letters. They",
+      "recipe_name": "Jack Rose",
+      "structured_ingredients": [
+        {
+          "source_text": "1 oz. applejack",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 oz. applejack"
+        },
+        {
+          "source_text": "½ oz. grenadine",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "½ oz. grenadine"
+        },
+        {
+          "source_text": "Seltzer, to top",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "Seltzer, to top"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-32-hangman-s-blood",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Richard Hughes",
+      "author_id_candidate": null,
+      "work_title": "A High Wind in Jamaica",
+      "work_title_original": "A High Wind in Jamaica",
+      "character_name": "Captain Jonsen",
+      "drink_name": "Hangman’s Blood",
+      "drink_name_original": "Hangman’s Blood",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_prepares",
+      "textual_presence": "explicit",
+      "claim_candidate": "Hangman’s Blood aparece o es mencionado en A High Wind in Jamaica.",
+      "scene_context": "mezcla para agasajar a cubanos en un muelle de La Habana",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter32.xhtml",
+      "source_section": "Hangman’s Blood",
+      "source_anchor": null,
+      "support_excerpt": "Captain Jonsen … went on board, and mixed several gallons of that potion known in alcoholic circles as Hangman’s Blood (which is compounded of rum,",
+      "recipe_name": "Hangman’s Blood",
+      "structured_ingredients": [
+        {
+          "source_text": "1 part rum",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part rum"
+        },
+        {
+          "source_text": "1 part gin",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part gin"
+        },
+        {
+          "source_text": "1 part brandy",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part brandy"
+        },
+        {
+          "source_text": "1 part porter",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part porter"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-33-satan-s-whisker",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Agatha Christie",
+      "author_id_candidate": null,
+      "work_title": "Black Coffee",
+      "work_title_original": "Black Coffee",
+      "character_name": "Barbara y Lucia",
+      "drink_name": "Satan’s Whisker",
+      "drink_name_original": "Satan’s Whisker",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_prepares",
+      "textual_presence": "explicit",
+      "claim_candidate": "Satan’s Whisker aparece o es mencionado en Black Coffee.",
+      "scene_context": "Barbara propone una bebida para reanimar a Lucia",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter33.xhtml",
+      "source_section": "Satan’s Whisker",
+      "source_anchor": null,
+      "support_excerpt": "It’s merely equal parts of brandy and crème de menthe, but you mustn’t forget a shake of red pepper. That’s most important. It’s absolutely super,",
+      "recipe_name": "Satan’s Whisker",
+      "structured_ingredients": [
+        {
+          "source_text": "1 part brandy",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part brandy"
+        },
+        {
+          "source_text": "1 part crème de menthe",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 part crème de menthe"
+        },
+        {
+          "source_text": "Dash of cayenne pepper",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "Dash of cayenne pepper"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    },
+    {
+      "candidate_id": "sip-and-sensibility-34-manhattan",
+      "book_id": "sip-and-sensibility",
+      "author_name": "Dashiell Hammett",
+      "author_id_candidate": null,
+      "work_title": "The Glass Key",
+      "work_title_original": "The Glass Key",
+      "character_name": "Ned Beaumont",
+      "drink_name": "Manhattan",
+      "drink_name_original": "Manhattan",
+      "relationship_type_candidate": "appears_in_work",
+      "relationship_detail": "character_orders",
+      "textual_presence": "explicit",
+      "claim_candidate": "Manhattan aparece o es mencionado en The Glass Key.",
+      "scene_context": "pedido al bartender en una investigación criminal",
+      "narrative_function": "La bebida sitúa, caracteriza o articula la escena indicada; no se infiere hábito del autor.",
+      "federle_interpretation": "Rayborn relaciona la escena con la receta presentada; la receta no se trata como transcripción literal salvo donde el extracto la detalla.",
+      "source_document": "OEBPS/chapter34.xhtml",
+      "source_section": "Manhattan",
+      "source_anchor": null,
+      "support_excerpt": "Lo, Jimmy. Been behaving. Manhattan.",
+      "recipe_name": "Manhattan",
+      "structured_ingredients": [
+        {
+          "source_text": "2 oz. rye whiskey",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 oz. rye whiskey"
+        },
+        {
+          "source_text": "⅔ oz. sweet vermouth",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "⅔ oz. sweet vermouth"
+        },
+        {
+          "source_text": "2 drops of aromatic bitters",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "2 drops of aromatic bitters"
+        },
+        {
+          "source_text": "1 maraschino cherry, for garnish",
+          "quantity_normalized": null,
+          "unit_normalized": null,
+          "ingredient": "1 maraschino cherry, for garnish"
+        }
+      ],
+      "preparation_summary_es": "La receta del capítulo combina los ingredientes enumerados y aplica el método indicado; es una redacción estructurada de extracción, no una receta aprobada.",
+      "differences_from_literary_drink": "La fórmula del capítulo puede ser una adaptación moderna; revisar contra la fuente primaria cuando se pretenda afirmar equivalencia.",
+      "primary_text_verification_required": true,
+      "verification_notes": [
+        "La receta es una adaptación/reconstrucción de Tim Rayborn; comparar con la obra primaria antes de cualquier promoción."
+      ],
+      "contradicting_evidence": [],
+      "confidence_candidate": "medium",
+      "status": "extraction_candidate"
+    }
+  ],
+  "descartes": [],
+  "errores": [],
+  "notas": [
+    "Documentos del spine revisados en su orden de lectura."
+  ],
+  "fecha_de_cierre": "2026-07-28"
+}

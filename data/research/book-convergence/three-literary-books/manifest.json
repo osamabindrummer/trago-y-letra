@@ -1,0 +1,76 @@
+{
+  "convergence_id": "three-literary-books",
+  "generated_at": "2026-07-28",
+  "status": "completed",
+  "contract_versions": {
+    "project_prd": "1.2",
+    "research_protocol": "1.1",
+    "source_ingestion": "current",
+    "extraction_contracts": {
+      "literary-eats": "1.0",
+      "sip-and-sensibility": "1.0",
+      "literary-libations": "1.0"
+    }
+  },
+  "participating_sources": [
+    {
+      "book_id": "literary-eats",
+      "title": "Literary Eats",
+      "author": "Gary Scharnhorst"
+    },
+    {
+      "book_id": "sip-and-sensibility",
+      "title": "Sip and Sensibility",
+      "author": "Tim Rayborn"
+    },
+    {
+      "book_id": "literary-libations",
+      "title": "Literary Libations",
+      "author": "Amira Makansi"
+    }
+  ],
+  "initial_counts": {
+    "candidates_by_book": {
+      "literary-eats": 27,
+      "sip-and-sensibility": 80,
+      "literary-libations": 162
+    },
+    "total_candidates": 269,
+    "source_rejections": 6,
+    "catalog": {
+      "authors": 29,
+      "works": 58,
+      "drinks": 49,
+      "recommendations": 50,
+      "evidence": 109,
+      "sources": 36
+    }
+  },
+  "final_counts": {
+    "consolidated_candidates": 269,
+    "duplicate_candidates_merged": 0,
+    "promotion_ready_groups": 0,
+    "needs_review_groups": 0,
+    "blocked_ambiguous_identity_groups": 0,
+    "rejected_records": 6,
+    "catalog": {
+      "authors": 219,
+      "works": 251,
+      "drinks": 267,
+      "recommendations": 314,
+      "evidence": 378,
+      "sources": 39,
+      "discoveries": 0
+    },
+    "catalog_added": {
+      "authors": 137,
+      "works": 150,
+      "drinks": 140,
+      "recommendations": 156,
+      "evidence": 156,
+      "sources": 0,
+      "discoveries": -156
+    },
+    "published_provisional_groups": 0
+  }
+}

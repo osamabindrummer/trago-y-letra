@@ -1,0 +1,2031 @@
+{
+  "version": 4,
+  "generated_at": "2026-07-28",
+  "editorial_instruction": "Los tres libros son fuentes secundarias reputadas. Se permiten confianza baja visible, entidades mínimas, recetas de la casa y bebidas de servicio directo.",
+  "counts": {
+    "pending_groups": 0,
+    "promoted_groups": 269
+  },
+  "items": [],
+  "safety_checks": {
+    "deletes_existing_records": false,
+    "overwrites_better_evidence": false,
+    "publishes_low_confidence": true,
+    "low_confidence_visible_in_ui": true,
+    "creates_minimal_authors": true,
+    "creates_serving_only_drinks": true
+  },
+  "batches": [
+    {
+      "batch_id": "promotion-001-literary-eats",
+      "source_candidate_ids": [
+        "le-001",
+        "le-005",
+        "le-010"
+      ]
+    },
+    {
+      "batch_id": "promotion-002-sip-and-sensibility",
+      "source_candidate_ids": [
+        "sip-and-sensibility-17-smoking-bishop",
+        "sip-and-sensibility-28-mint-julep",
+        "sip-and-sensibility-29-gin-rickey",
+        "sip-and-sensibility-31-jack-rose",
+        "sip-and-sensibility-40-champagne-cocktail",
+        "sip-and-sensibility-46-scotch-soda",
+        "sip-and-sensibility-47-vesper-martini",
+        "sip-and-sensibility-48-gimlet",
+        "sip-and-sensibility-51-wine-spodiodi",
+        "sip-and-sensibility-53-white-angel",
+        "sip-and-sensibility-61-singapore-sling"
+      ]
+    },
+    {
+      "batch_id": "promotion-003-literary-libations",
+      "source_candidate_ids": [
+        "literary-libations-002-09",
+        "literary-libations-003-04",
+        "literary-libations-003-05",
+        "literary-libations-003-09"
+      ]
+    },
+    {
+      "batch_id": "promotion-005-first-viable-batch",
+      "source_candidate_ids": [
+        "le-009",
+        "le-025",
+        "le-026",
+        "sip-and-sensibility-15-pineapple-rum",
+        "sip-and-sensibility-34-manhattan",
+        "sip-and-sensibility-45-very-dry-martini",
+        "sip-and-sensibility-54-gibson",
+        "literary-libations-001-14",
+        "literary-libations-002-12"
+      ]
+    },
+    {
+      "batch_id": "promotion-007-sip-and-sensibility-normalized",
+      "source_candidate_ids": [
+        "sip-and-sensibility-05-wine-infused-with-mint-thyme-sage",
+        "sip-and-sensibility-06-conditum-paradoxum-surprise-wine",
+        "sip-and-sensibility-07-rose-petal-wine",
+        "sip-and-sensibility-08-piment-spiced-white-wine",
+        "sip-and-sensibility-09-hippocras-mulled-red-wine",
+        "sip-and-sensibility-10-lamb-s-wool",
+        "sip-and-sensibility-12-stone-fence",
+        "sip-and-sensibility-13-negus",
+        "sip-and-sensibility-14-gin-twist",
+        "sip-and-sensibility-16-rum-toddy",
+        "sip-and-sensibility-18-rum-lemon-punch",
+        "sip-and-sensibility-19-champagne-cock-tail",
+        "sip-and-sensibility-20-sherry-cobbler",
+        "sip-and-sensibility-21-brandy-smash",
+        "sip-and-sensibility-22-eye-opener",
+        "sip-and-sensibility-23-earthquake",
+        "sip-and-sensibility-25-whiskey-soda",
+        "sip-and-sensibility-26-brandy-soda",
+        "sip-and-sensibility-27-green-swizzle",
+        "sip-and-sensibility-30-bronx-cocktail",
+        "sip-and-sensibility-32-hangman-s-blood",
+        "sip-and-sensibility-33-satan-s-whisker",
+        "sip-and-sensibility-35-bourbon-coke",
+        "sip-and-sensibility-36-knickerbocker-martini",
+        "sip-and-sensibility-37-pink-gin",
+        "sip-and-sensibility-38-sidecar",
+        "sip-and-sensibility-39-hock-seltzer",
+        "sip-and-sensibility-41-may-queen",
+        "sip-and-sensibility-42-absinthe-shaken",
+        "sip-and-sensibility-43-alexandra",
+        "sip-and-sensibility-44-beer-milkshake",
+        "sip-and-sensibility-49-webster-f-street-lay-away-plan",
+        "sip-and-sensibility-50-pin",
+        "sip-and-sensibility-52-daiquiri",
+        "sip-and-sensibility-55-tom-collins",
+        "sip-and-sensibility-56-old-fashioned",
+        "sip-and-sensibility-57-brandy-alexander",
+        "sip-and-sensibility-58-whiskey-sour",
+        "sip-and-sensibility-59-frozen-daiquiri",
+        "sip-and-sensibility-60-gin-coconut-water",
+        "sip-and-sensibility-62-gin-fizz",
+        "sip-and-sensibility-63-house-of-lords-martini",
+        "sip-and-sensibility-64-gin-tonic",
+        "sip-and-sensibility-65-stinger",
+        "sip-and-sensibility-66-sweet-rob-roy",
+        "sip-and-sensibility-67-berlin-station-chief",
+        "sip-and-sensibility-68-tequila-sunrise",
+        "sip-and-sensibility-70-caudle",
+        "sip-and-sensibility-71-brandy-eggnog",
+        "sip-and-sensibility-72-apple-hot-toddy",
+        "sip-and-sensibility-73-whiskey-cock-tail",
+        "sip-and-sensibility-74-clover-club",
+        "sip-and-sensibility-75-horse-s-neck",
+        "sip-and-sensibility-76-hot-toddy",
+        "sip-and-sensibility-77-pompier",
+        "sip-and-sensibility-78-death-in-the-afternoon",
+        "sip-and-sensibility-79-spiked-lemonade",
+        "sip-and-sensibility-80-ramos-gin-fizz",
+        "sip-and-sensibility-81-vodka-coke",
+        "sip-and-sensibility-82-sonnie-boy",
+        "sip-and-sensibility-83-boilermaker",
+        "sip-and-sensibility-84-margarita",
+        "sip-and-sensibility-85-screwdriver",
+        "sip-and-sensibility-86-vodka-tonic",
+        "sip-and-sensibility-87-cosmopolitan"
+      ]
+    }
+  ],
+  "provisional_publication": {
+    "count": 242,
+    "catalog_collection": "discoveries",
+    "visible_in_application": true,
+    "confidence_low_allowed_with_flag": true,
+    "does_not_require_complete_author_work_or_recipe": true
+  },
+  "count": 0,
+  "completed_items": [
+    {
+      "source_candidate_ids": [
+        "le-001"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-002"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-003"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-004"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-005"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-006"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-007"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-008"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-009"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-010"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-011"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-012"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-013"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-014"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-015"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-016"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-017"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-018"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-019"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-020"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-021"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-022"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-023"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-024"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-025"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-026"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "le-027"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-05-wine-infused-with-mint-thyme-sage"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-06-conditum-paradoxum-surprise-wine"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-07-rose-petal-wine"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-08-piment-spiced-white-wine"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-09-hippocras-mulled-red-wine"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-10-lamb-s-wool"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-12-stone-fence"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-13-negus"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-14-gin-twist"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-15-pineapple-rum"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-16-rum-toddy"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-17-smoking-bishop"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-18-rum-lemon-punch"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-19-champagne-cock-tail"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-20-sherry-cobbler"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-21-brandy-smash"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-22-eye-opener"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-23-earthquake"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-25-whiskey-soda"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-26-brandy-soda"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-27-green-swizzle"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-28-mint-julep"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-29-gin-rickey"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-30-bronx-cocktail"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-31-jack-rose"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-32-hangman-s-blood"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-33-satan-s-whisker"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-34-manhattan"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-35-bourbon-coke"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-36-knickerbocker-martini"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-37-pink-gin"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-38-sidecar"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-39-hock-seltzer"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-40-champagne-cocktail"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-41-may-queen"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-42-absinthe-shaken"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-43-alexandra"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-44-beer-milkshake"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-45-very-dry-martini"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-46-scotch-soda"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-47-vesper-martini"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-48-gimlet"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-49-webster-f-street-lay-away-plan"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-50-pin"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-51-wine-spodiodi"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-52-daiquiri"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-53-white-angel"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-54-gibson"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-55-tom-collins"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-56-old-fashioned"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-57-brandy-alexander"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-58-whiskey-sour"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-59-frozen-daiquiri"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-60-gin-coconut-water"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-61-singapore-sling"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-62-gin-fizz"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-63-house-of-lords-martini"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-64-gin-tonic"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-65-stinger"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-66-sweet-rob-roy"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-67-berlin-station-chief"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-68-tequila-sunrise"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-70-caudle"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-71-brandy-eggnog"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-72-apple-hot-toddy"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-73-whiskey-cock-tail"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-74-clover-club"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-75-horse-s-neck"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-76-hot-toddy"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-77-pompier"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-78-death-in-the-afternoon"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-79-spiked-lemonade"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-80-ramos-gin-fizz"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-81-vodka-coke"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-82-sonnie-boy"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-83-boilermaker"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-84-margarita"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-85-screwdriver"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-86-vodka-tonic"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "sip-and-sensibility-87-cosmopolitan"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-001-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-002-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-003-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-004-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-005-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-006-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-007-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-008-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-01"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-02"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-03"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-04"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-05"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-06"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-07"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-08"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-09"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-10"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-11"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-12"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-13"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-14"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-15"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-16"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-17"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    },
+    {
+      "source_candidate_ids": [
+        "literary-libations-009-18"
+      ],
+      "status": "promoted_canonical",
+      "resolution": "Reconstruido desde el candidato consolidado durante el cierre integral."
+    }
+  ],
+  "status": "completed"
+}

@@ -1,0 +1,61 @@
+{
+  "total_documents": 17,
+  "editorial_documents": 13,
+  "chapters_or_entries": {
+    "chapters": 9,
+    "entries": 162
+  },
+  "planned_sections": [
+    "OEBPS/Text/000_Cover.html",
+    "OEBPS/Text/001_Booktitle.html",
+    "OEBPS/Text/002_Copyright.html",
+    "OEBPS/Text/003_Contents.html",
+    "OEBPS/Text/004_Introduction.html",
+    "OEBPS/Text/005_Chapter001.html",
+    "OEBPS/Text/006_Chapter002.html",
+    "OEBPS/Text/007_Chapter003.html",
+    "OEBPS/Text/008_Chapter004.html",
+    "OEBPS/Text/009_Chapter005.html",
+    "OEBPS/Text/010_Chapter006.html",
+    "OEBPS/Text/011_Chapter007.html",
+    "OEBPS/Text/012_Chapter008.html",
+    "OEBPS/Text/013_Chapter009.html",
+    "OEBPS/Text/014_Acknowledgments.html",
+    "OEBPS/Text/015_Charts.html",
+    "OEBPS/Text/016_Index.html"
+  ],
+  "completed_sections": [
+    "OEBPS/Text/000_Cover.html",
+    "OEBPS/Text/001_Booktitle.html",
+    "OEBPS/Text/002_Copyright.html",
+    "OEBPS/Text/003_Contents.html",
+    "OEBPS/Text/004_Introduction.html",
+    "OEBPS/Text/005_Chapter001.html",
+    "OEBPS/Text/006_Chapter002.html",
+    "OEBPS/Text/007_Chapter003.html",
+    "OEBPS/Text/008_Chapter004.html",
+    "OEBPS/Text/009_Chapter005.html",
+    "OEBPS/Text/010_Chapter006.html",
+    "OEBPS/Text/011_Chapter007.html",
+    "OEBPS/Text/012_Chapter008.html",
+    "OEBPS/Text/013_Chapter009.html",
+    "OEBPS/Text/014_Acknowledgments.html",
+    "OEBPS/Text/015_Charts.html",
+    "OEBPS/Text/016_Index.html"
+  ],
+  "pending": [],
+  "errors": [],
+  "sections_without_findings": [
+    "OEBPS/Text/000_Cover.html",
+    "OEBPS/Text/001_Booktitle.html",
+    "OEBPS/Text/002_Copyright.html",
+    "OEBPS/Text/003_Contents.html",
+    "OEBPS/Text/004_Introduction.html",
+    "OEBPS/Text/014_Acknowledgments.html",
+    "OEBPS/Text/015_Charts.html",
+    "OEBPS/Text/016_Index.html"
+  ],
+  "percentage": 100,
+  "gaps": [],
+  "duplicates": []
+}

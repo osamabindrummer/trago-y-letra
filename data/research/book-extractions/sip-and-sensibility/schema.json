@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Contrato de extracción Sip and Sensibility",
+  "description": "Documenta los artefactos de esta extracción; los candidatos conservan hipótesis, no contenido publicable.",
+  "required_artifacts": [
+    "manifest.json",
+    "coverage.json",
+    "batches/*.json",
+    "candidates.json",
+    "rejected.json",
+    "CHECKPOINT.md",
+    "REVIEW.md"
+  ],
+  "candidate_required_fields": [
+    "candidate_id",
+    "book_id",
+    "author_name",
+    "work_title",
+    "character_name",
+    "drink_name",
+    "relationship_type_candidate",
+    "relationship_detail",
+    "textual_presence",
+    "claim_candidate",
+    "source_document",
+    "source_section",
+    "support_excerpt",
+    "structured_ingredients",
+    "primary_text_verification_required",
+    "status"
+  ],
+  "enums": {
+    "relationship_type_candidate": [
+      "appears_in_work",
+      "editorial_pairing",
+      "author_documented",
+      "abstinence_or_recovery"
+    ],
+    "textual_presence": [
+      "explicit",
+      "inferred_by_editor",
+      "absent_editorial_pairing",
+      "unclear"
+    ],
+    "status": [
+      "extraction_candidate"
+    ]
+  },
+  "rules": [
+    "support_excerpt tiene un máximo de 25 palabras",
+    "author_documented desde la sección final queda como compiler_claim y exige verificación",
+    "editorial_pairing no se fusiona con appears_in_work"
+  ]
+}

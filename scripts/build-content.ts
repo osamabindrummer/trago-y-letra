@@ -26,8 +26,19 @@ const publicCatalog: PublicCatalog = {
     }))
   })).filter((author) => author.recommendations.length > 0),
   drinks: catalog.drinks,
-  sources: catalog.sources.filter((source) => catalog.evidence.some((item) => item.source_id === source.id && catalog.recommendations.some((recommendation) => recommendation.id === item.recommendation_id && recommendation.editorial_status === 'published')))
+  sources: catalog.sources.filter((source) => (
+    catalog.evidence.some((item) => item.source_id === source.id && catalog.recommendations.some((recommendation) => recommendation.id === item.recommendation_id && recommendation.editorial_status === 'published'))
+    || catalog.discoveries.some((discovery) => discovery.editorial_status === 'published_provisional' && discovery.source_refs.some((reference) => reference.source_id === source.id))
+  )),
+  discoveries: catalog.discoveries.filter((discovery) => discovery.editorial_status === 'published_provisional').map((discovery) => ({
+    ...discovery,
+    source_refs: discovery.source_refs.map((reference) => ({
+      source_id: reference.source_id,
+      locator: reference.locator,
+      source: sources.get(reference.source_id)!
+    }))
+  }))
 }
 await mkdir(resolve(root, 'src/content'), { recursive: true })
 await writeFile(resolve(root, 'src/content/generated.ts'), `/* Archivo generado por scripts/build-content.ts. No editar a mano. */\nimport type { PublicCatalog } from '../../scripts/content-types'\n\nexport const content: PublicCatalog = ${JSON.stringify(publicCatalog, null, 2)}\n`, 'utf8')
-console.log(`Contenido público generado: ${publicCatalog.authors.length} autores, ${publicCatalog.sources.length} fuentes.`)
+console.log(`Contenido público generado: ${publicCatalog.authors.length} autores, ${publicCatalog.discoveries.length} hallazgos provisionales y ${publicCatalog.sources.length} fuentes.`)

@@ -19,6 +19,10 @@ export function AuthorSheet({ author, onClose }: Props) {
 
   const recommendation = author.recommendations[choice]
   const { drink } = recommendation
+  const years = author.birth_year
+    ? `${author.birth_year}${author.death_year ? `–${author.death_year}` : ''}`
+    : null
+  const authorMeta = [author.country, years].filter(Boolean).join(' · ')
 
   return (
     <article id="result" className="author-sheet" aria-labelledby="author-name">
@@ -33,11 +37,15 @@ export function AuthorSheet({ author, onClose }: Props) {
           <div className="card-icon" aria-hidden="true">Aa</div>
           <p className="card-label">El autor</p>
           <h2 id="author-name">{author.canonical_name}</h2>
-          <p className="card-meta">{author.country} · {author.birth_year}{author.death_year ? `–${author.death_year}` : ''}</p>
-          <div className="book-list">
-            <span>Para seguir leyendo</span>
-            {author.works.map((work) => <strong key={work.id}>{work.display_title_es}</strong>)}
-          </div>
+          <p className="card-meta">{authorMeta || 'Ficha mínima · perfil en desarrollo'}</p>
+          {author.works.length > 0 ? (
+            <div className="book-list">
+              <span>Para seguir leyendo</span>
+              {author.works.map((work) => <strong key={work.id}>{work.display_title_es}</strong>)}
+            </div>
+          ) : (
+            <p className="minimal-profile-note">Obras por completar</p>
+          )}
         </section>
 
         <section className="result-card pairing-card" aria-labelledby="drink-name">
@@ -45,7 +53,12 @@ export function AuthorSheet({ author, onClose }: Props) {
           <div className="card-icon" aria-hidden="true">✦</div>
           <p className="card-label">La recomendación</p>
           <h2 id="drink-name">{drink.name_es}</h2>
-          <p className={`relationship ${recommendation.relationship_type}`}>{labels[recommendation.relationship_type]}</p>
+          <div className="recommendation-tags">
+            <p className={`relationship ${recommendation.relationship_type}`}>{labels[recommendation.relationship_type]}</p>
+            <span className={`confidence-badge confidence-${recommendation.confidence}`}>
+              Confianza {recommendation.confidence === 'high' ? 'alta' : recommendation.confidence === 'medium' ? 'media' : 'baja'}
+            </span>
+          </div>
           <p className="card-copy">{recommendation.explanation_es}</p>
           <div className="source-links">
             {recommendation.evidence.map((item) => item.source.url ? (

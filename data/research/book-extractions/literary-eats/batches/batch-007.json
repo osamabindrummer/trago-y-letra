@@ -1,0 +1,73 @@
+{
+  "book_id": "literary-eats",
+  "batch_id": "batch-007",
+  "source_page_pdf_start": 139,
+  "source_page_pdf_end": 161,
+  "printed_pages_corresponding": "122–144",
+  "status": "completed",
+  "pages_reviewed": [
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161
+  ],
+  "candidates": [
+    "le-015",
+    "le-016",
+    "le-017",
+    "le-027"
+  ],
+  "discards": [
+    {
+      "kind": "food_or_nonqualifying_mentions",
+      "pages": [
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
+      ],
+      "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+    }
+  ],
+  "reading_errors": [],
+  "notes": "Texto nativo extraíble revisado en contexto; las páginas preliminares e índices también fueron marcados.",
+  "closed_at": "2026-07-28"
+}

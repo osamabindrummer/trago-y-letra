@@ -1,6 +1,6 @@
 # Trago y Letra
 
-Webapp estática en español para descubrir una bebida vinculada con un autor o una obra. La búsqueda reconoce autores, alias y títulos de libros. La interfaz no consulta modelos ni servicios externos: consume un catálogo editorial compilado y versionado.
+Webapp estática en español para descubrir una bebida vinculada con un autor o una obra. La búsqueda reconoce autores, alias, títulos y bebidas. Los 269 grupos de *Literary Eats*, *Sip and Sensibility* y *Literary Libations* ya están incorporados como fichas canónicas, con confianza y tipo de relación visibles. **Hallazgos** informa cuando no queda cola provisional e **Índice** reúne alfabéticamente todos los autores públicos y el número de recomendaciones asociadas. La interfaz no consulta modelos ni servicios externos: consume un catálogo editorial compilado y versionado.
 
 ## Requisitos
 
@@ -59,15 +59,15 @@ Sitio público: [trago-y-letra.vercel.app](https://trago-y-letra.vercel.app).
 2. Los candidatos sin revisar van a `data/research/candidates/` y deben pasar `npm run validate:research`.
 3. Se comprueba cada fuente, localizador, fragmento y tipo de relación.
 4. Sólo el equipo editor promueve evidencias y fichas a `data/source/catalog.json`.
-5. `npm run validate:content` impide referencias rotas, duplicados, confianza baja publicada y fuentes insuficientes. Una alternativa sin alcohol puede registrarse, pero no es obligatoria.
-6. `npm run build:content` excluye autores o recomendaciones que no estén en estado `published`.
+5. `npm run validate:content` impide referencias rotas y duplicados. La confianza baja es publicable cuando permanece declarada en los datos y visible en la interfaz.
+6. `npm run build:content` excluye autores o recomendaciones que no estén en estado `published` y publica la colección `discoveries` únicamente con estado `published_provisional`.
 
 El procedimiento para depositar, leer y procesar libros está en
 [`docs/SOURCE_INGESTION.md`](docs/SOURCE_INGESTION.md). Los archivos completos
 son privados, están ignorados por Git y nunca se incorporan automáticamente al
 catálogo.
 
-El único fixture sintético restante está en estado `draft`: prueba que el pipeline excluye contenido no publicable. El catálogo público contiene 28 autores reales y 49 recomendaciones; no expone fixtures.
+El único fixture sintético restante está en estado `draft`: prueba que el pipeline excluye contenido no publicable. El catálogo almacena 219 autores, 314 recomendaciones y 378 evidencias, de las cuales 218 autores y 313 recomendaciones están publicadas en el artefacto público; no quedan hallazgos provisionales. Los perfiles mínimos se declaran explícitamente en la interfaz.
 
 ## Estructura
 
@@ -76,6 +76,7 @@ data/source/catalog.json        fuente editorial canónica
 data/research/library-sources.json inventario de libros locales
 data/research/candidates/       salidas sin aprobar de investigación
 data/research/rejected/         descartes y contradicciones
+data/research/book-convergence/ convergencias y planes de promoción
 data/schema/                    contratos JSON
 scripts/                        validación y compilación
 library/                        depósito privado local de EPUB/PDF
@@ -94,4 +95,8 @@ docs/DECISIONS.md               decisiones técnicas y editoriales
 - No agregues claves al repositorio. `.env` está ignorado; `OPENAI_API_KEY`, si se usa en investigación local autorizada, nunca llega al cliente.
 - Las recetas se redactan de forma original y las fuentes se conservan con un enlace o una referencia comprobable.
 - La ficha debe distinguir hecho documentado, presencia en la obra, maridaje editorial y abstinencia o recuperación. No se romantiza la dependencia.
+- Un hallazgo provisional puede omitir IDs de autor, obra o bebida, pero siempre conserva nombres, procedencia, localizador, confianza y flags visibles de lo pendiente.
+- Las recetas sencillas pueden redactarse como recetas de la casa; nunca se presentan como reconstrucciones históricas sin respaldo.
+- Una bebida de servicio directo puede omitir ingredientes mediante `recipe_status: serving_only`.
+- Los perfiles y obras mínimos permiten publicar una relación localizada sin inventar datos biográficos o bibliográficos ausentes.
 - El estado actual de cobertura editorial está en `docs/GATES.md`; los candidatos de investigación se conservan separados de las fichas ya promovidas.

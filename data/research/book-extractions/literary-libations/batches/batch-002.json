@@ -1,0 +1,36 @@
+{
+  "book_id": "literary-libations",
+  "batch_id": "batch-002",
+  "documents": [
+    "OEBPS/Text/006_Chapter002.html"
+  ],
+  "sections_covered": [
+    "NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN",
+    "THE CLASSICS, AMERICAN EDITION"
+  ],
+  "status": "completed",
+  "candidates": [
+    "literary-libations-002-01",
+    "literary-libations-002-02",
+    "literary-libations-002-03",
+    "literary-libations-002-04",
+    "literary-libations-002-05",
+    "literary-libations-002-06",
+    "literary-libations-002-07",
+    "literary-libations-002-08",
+    "literary-libations-002-09",
+    "literary-libations-002-10",
+    "literary-libations-002-11",
+    "literary-libations-002-12",
+    "literary-libations-002-13",
+    "literary-libations-002-14",
+    "literary-libations-002-15",
+    "literary-libations-002-16",
+    "literary-libations-002-17",
+    "literary-libations-002-18"
+  ],
+  "rejections": [],
+  "errors": [],
+  "notes": "Las 18 entradas del capítulo fueron revisadas directamente en el XHTML del EPUB; las recetas se estructuraron cuando el capítulo las incluía.",
+  "date": "2026-07-28"
+}

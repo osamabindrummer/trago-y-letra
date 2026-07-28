@@ -1,0 +1,3115 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-28",
+  "entries": [
+    {
+      "names_by_book": {
+        "literary-eats": "Raymond Chandler",
+        "sip-and-sensibility": "Raymond Chandler",
+        "literary-libations": "Raymond Chandler"
+      },
+      "canonical_id": "raymond-chandler",
+      "canonical_name": "Raymond Chandler",
+      "aliases_found": [
+        "Raymond Chandler"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Bernard DeVoto"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Bernard DeVoto"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Lydia Maria Child"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lydia Maria Child"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Oliver Bell Bunce"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Oliver Bell Bunce"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "William Faulkner",
+        "sip-and-sensibility": "William Faulkner",
+        "literary-libations": "William Faulkner"
+      },
+      "canonical_id": "william-faulkner",
+      "canonical_name": "William Faulkner",
+      "aliases_found": [
+        "William Faulkner"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Benjamin Franklin"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Benjamin Franklin"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Erle Stanley Gardner"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Erle Stanley Gardner"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Ernest Hemingway",
+        "sip-and-sensibility": "Ernest Hemingway",
+        "literary-libations": "Ernest Hemingway"
+      },
+      "canonical_id": "ernest-hemingway",
+      "canonical_name": "Ernest Hemingway",
+      "aliases_found": [
+        "Ernest Hemingway"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Thomas Jefferson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Thomas Jefferson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Ted Kooser"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ted Kooser"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Ring Lardner"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ring Lardner"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Walker Percy",
+        "sip-and-sensibility": "Walker Percy"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Walker Percy"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Kenneth Roberts"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Kenneth Roberts"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Theodore Roosevelt"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Theodore Roosevelt"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Lydia Sigourney"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lydia Sigourney"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Bayard Taylor"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Bayard Taylor"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Mark Twain",
+        "sip-and-sensibility": "Mark Twain",
+        "literary-libations": "Mark Twain"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Mark Twain"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Robert Penn Warren"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Robert Penn Warren"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "George Washington"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "George Washington"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Daniel Webster"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Daniel Webster"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Eudora Welty"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Eudora Welty"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Lafcadio Hearn"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lafcadio Hearn"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-eats": "Bobbie Ann Mason"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Bobbie Ann Mason"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Autor no identificado"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Autor no identificado"
+      ],
+      "decision": "ambiguous_author",
+      "reason": "La extracción no identifica una persona inequívoca.",
+      "ambiguities": [
+        "La extracción no identifica una persona inequívoca."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Anónimo"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Anónimo"
+      ],
+      "decision": "ambiguous_author",
+      "reason": "La extracción no identifica una persona inequívoca.",
+      "ambiguities": [
+        "La extracción no identifica una persona inequívoca."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Chrétien de Troyes"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Chrétien de Troyes"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Samuel Pepys"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Samuel Pepys"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Washington Irving"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Washington Irving"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Jane Austen",
+        "literary-libations": "Jane Austen"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Jane Austen"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Sir Walter Scott"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Sir Walter Scott"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Charles Dickens",
+        "literary-libations": "Charles Dickens"
+      },
+      "canonical_id": "charles-dickens",
+      "canonical_name": "Charles Dickens",
+      "aliases_found": [
+        "Charles Dickens"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "P. G. Wodehouse"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "P. G. Wodehouse"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "F. Scott Fitzgerald",
+        "literary-libations": "F. Scott Fitzgerald"
+      },
+      "canonical_id": "f-scott-fitzgerald",
+      "canonical_name": "F. Scott Fitzgerald",
+      "aliases_found": [
+        "F. Scott Fitzgerald"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Richard Hughes"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Richard Hughes"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Agatha Christie",
+        "literary-libations": "Agatha Christie"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Agatha Christie"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Dashiell Hammett"
+      },
+      "canonical_id": "dashiell-hammett",
+      "canonical_name": "Dashiell Hammett",
+      "aliases_found": [
+        "Dashiell Hammett"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "James M. Cain"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "James M. Cain"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Norman Collins"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Norman Collins"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "John Betjeman"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Betjeman"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Evelyn Waugh"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Evelyn Waugh"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "John Steinbeck",
+        "literary-libations": "John Steinbeck"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Steinbeck"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "J. D. Salinger",
+        "literary-libations": "J. D. Salinger"
+      },
+      "canonical_id": "jd-salinger",
+      "canonical_name": "J. D. Salinger",
+      "aliases_found": [
+        "J. D. Salinger"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Ian Fleming",
+        "literary-libations": "Ian Fleming"
+      },
+      "canonical_id": "ian-fleming",
+      "canonical_name": "Ian Fleming",
+      "aliases_found": [
+        "Ian Fleming"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Vladimir Nabokov"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Vladimir Nabokov"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Jack Kerouac",
+        "literary-libations": "Jack Kerouac"
+      },
+      "canonical_id": "jack-kerouac",
+      "canonical_name": "Jack Kerouac",
+      "aliases_found": [
+        "Jack Kerouac"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Graham Greene"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Graham Greene"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Truman Capote",
+        "literary-libations": "Truman Capote"
+      },
+      "canonical_id": "truman-capote",
+      "canonical_name": "Truman Capote",
+      "aliases_found": [
+        "Truman Capote"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Thomas Pynchon"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Thomas Pynchon"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "John Updike"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Updike"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Edward Albee"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Edward Albee"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Hunter S. Thompson"
+      },
+      "canonical_id": "hunter-s-thompson",
+      "canonical_name": "Hunter S. Thompson",
+      "aliases_found": [
+        "Hunter S. Thompson"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Kurt Vonnegut",
+        "literary-libations": "Kurt Vonnegut"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Kurt Vonnegut"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Philip Larkin"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Philip Larkin"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Norman Mailer"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Norman Mailer"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "William Shakespeare",
+        "literary-libations": "William Shakespeare"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "William Shakespeare"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Edgar Allan Poe"
+      },
+      "canonical_id": "edgar-allan-poe",
+      "canonical_name": "Edgar Allan Poe",
+      "aliases_found": [
+        "Edgar Allan Poe"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Gustave Flaubert",
+        "literary-libations": "Gustave Flaubert"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Gustave Flaubert"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "William Butler Yeats"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "William Butler Yeats"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Jack London",
+        "literary-libations": "Jack London"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Jack London"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "E. B. White",
+        "literary-libations": "E. B. White"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "E. B. White"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Zelda Fitzgerald"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Zelda Fitzgerald"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Tennessee Williams"
+      },
+      "canonical_id": "tennessee-williams",
+      "canonical_name": "Tennessee Williams",
+      "aliases_found": [
+        "Tennessee Williams"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "William S. Burroughs"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "William S. Burroughs"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Carson McCullers"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Carson McCullers"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Charles Bukowski"
+      },
+      "canonical_id": "charles-bukowski",
+      "canonical_name": "Charles Bukowski",
+      "aliases_found": [
+        "Charles Bukowski"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Salman Rushdie"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Salman Rushdie"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "sip-and-sensibility": "Candice Bushnell"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Candice Bushnell"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Homer"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Homer"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Miguel De Cervantes Saavedra"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Miguel De Cervantes Saavedra"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Jonathan Swift"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Jonathan Swift"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Voltaire"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Voltaire"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Alexandre Dumas"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Alexandre Dumas"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Emily Brontë"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Emily Brontë"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Victor Hugo"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Victor Hugo"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Leo Tolstoy"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Leo Tolstoy"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Joseph Conrad"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Joseph Conrad"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Fyodor Dostoyevsky"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Fyodor Dostoyevsky"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Oscar Wilde"
+      },
+      "canonical_id": "oscar-wilde",
+      "canonical_name": "Oscar Wilde",
+      "aliases_found": [
+        "Oscar Wilde"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Franz Kafka"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Franz Kafka"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "James Joyce"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "James Joyce"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Virginia Woolf"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Virginia Woolf"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Vladmir Nabokov"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Vladmir Nabokov"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Herman Melville"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Herman Melville"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Zora Neale Hurston"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Zora Neale Hurston"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Margaret Mitchell"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Margaret Mitchell"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Ralph Ellison"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ralph Ellison"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Ray Bradbury"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ray Bradbury"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Harper Lee"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Harper Lee"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Joseph Heller"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Joseph Heller"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Sylvia Plath"
+      },
+      "canonical_id": "sylvia-plath",
+      "canonical_name": "Sylvia Plath",
+      "aliases_found": [
+        "Sylvia Plath"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Toni Morrison"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Toni Morrison"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "John Kennedy Toole"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Kennedy Toole"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Sir Arthur Conan Doyle"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Sir Arthur Conan Doyle"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Patricia Highsmith"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Patricia Highsmith"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "John Le Carre"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Le Carre"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Stephen King"
+      },
+      "canonical_id": "stephen-king",
+      "canonical_name": "Stephen King",
+      "aliases_found": [
+        "Stephen King"
+      ],
+      "decision": "canonical_name_match",
+      "reason": "Identidad resuelta dentro del catálogo por nombre canónico o alias.",
+      "ambiguities": []
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Ken Follett"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ken Follett"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Thomas Harris"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Thomas Harris"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "James Patterson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "James Patterson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Lee Child"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lee Child"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Harlan Coben"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Harlan Coben"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Alice Sebold"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Alice Sebold"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Dan Brown"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Dan Brown"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Stieg Larsson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Stieg Larsson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Gillian Flynn"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Gillian Flynn"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Mary Shelley"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Mary Shelley"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Robert Louis Stevenson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Robert Louis Stevenson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "H. G. Wells"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "H. G. Wells"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Aldous Huxley"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Aldous Huxley"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "George Orwell"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "George Orwell"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Isaac Asimov"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Isaac Asimov"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Arthur C. Clarke"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Arthur C. Clarke"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Robert Heinlein"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Robert Heinlein"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Anthony Burgess"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Anthony Burgess"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Frank Herbert"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Frank Herbert"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Ursula K. Le Guin"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ursula K. Le Guin"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Philip K. Dick"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Philip K. Dick"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Douglas Adams"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Douglas Adams"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "William Gibson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "William Gibson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Orson Scott Card"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Orson Scott Card"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "P. D. James"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "P. D. James"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Neal Stephenson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Neal Stephenson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Ernest Cline"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ernest Cline"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Bram Stoker"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Bram Stoker"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "J. R. R. Tolkien"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "J. R. R. Tolkien"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "T. H. White"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "T. H. White"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Anne Mccaffrey"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Anne Mccaffrey"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Anne Rice"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Anne Rice"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Terry Brooks"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Terry Brooks"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Marion Zimmer Bradley"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Marion Zimmer Bradley"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Terry Pratchett"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Terry Pratchett"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Robert Jordan"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Robert Jordan"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Robin Hobb"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Robin Hobb"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "George R. R. Martin"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "George R. R. Martin"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Jim Butcher"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Jim Butcher"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Neil Gaiman"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Neil Gaiman"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Susanna Clarke"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Susanna Clarke"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Patrick Rothfuss"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Patrick Rothfuss"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Brandon Sanderson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Brandon Sanderson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Deborah Harkness"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Deborah Harkness"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Erin Morgenstern"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Erin Morgenstern"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Charlotte Brontë"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Charlotte Brontë"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "D. H. Lawrence"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "D. H. Lawrence"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Daphne De Maurier"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Daphne De Maurier"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Boris Pasternak"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Boris Pasternak"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "William Goldman"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "William Goldman"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Diana Galbaldon"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Diana Galbaldon"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Helen Fielding"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Helen Fielding"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Nicholas Sparks"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Nicholas Sparks"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Nora Roberts"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Nora Roberts"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Audrey Niffenegger"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Audrey Niffenegger"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Stephanie Meyer"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Stephanie Meyer"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Gayle Foreman"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Gayle Foreman"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Sara Gruen"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Sara Gruen"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "E. L. James"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "E. L. James"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "John Green"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Green"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Gabriel Garcia Marquez"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Gabriel Garcia Marquez"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Umberto Eco"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Umberto Eco"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Cormac Mccarthy"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Cormac Mccarthy"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "John Irving"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "John Irving"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Margaret Atwood"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Margaret Atwood"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Jonathan Franzen"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Jonathan Franzen"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Donna Tartt"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Donna Tartt"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "David Foster Wallace"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "David Foster Wallace"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Chuck Palahniuk"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Chuck Palahniuk"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Anita Diamant"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Anita Diamant"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Don Delillo"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Don Delillo"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Barbara Kingsolver"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Barbara Kingsolver"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Yann Martel"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Yann Martel"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Khaled Hosseini"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Khaled Hosseini"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Jhumpa Lahiri"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Jhumpa Lahiri"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Lisa See"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lisa See"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Junot Díaz"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Junot Díaz"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Haruki Murakami"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Haruki Murakami"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Esther Forbes"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Esther Forbes"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Betty Smith"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Betty Smith"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "William Golding"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "William Golding"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Madeline L’Engle"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Madeline L’Engle"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Beatrice Sparks"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Beatrice Sparks"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Robin Mckinley"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Robin Mckinley"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Brian Jacques"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Brian Jacques"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Lois Lowry"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lois Lowry"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Octavia E. Butler"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Octavia E. Butler"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Garth Nix"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Garth Nix"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "J. K. Rowling"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "J. K. Rowling"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Louis Sachar"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Louis Sachar"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Stephen Chbosky"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Stephen Chbosky"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Laurie Halse Anderson"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Laurie Halse Anderson"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Ann Brashares"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Ann Brashares"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Sarah Dessen"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Sarah Dessen"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Suzanne Collins"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Suzanne Collins"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Clement Clarke Moore"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Clement Clarke Moore"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Lewis Carroll"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lewis Carroll"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Frances Hodgson Burnett"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Frances Hodgson Burnett"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Munro Leaf"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Munro Leaf"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Antoine De Saint-Exupéry"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Antoine De Saint-Exupéry"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Margaret Wise Brown And Clement Hurd"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Margaret Wise Brown And Clement Hurd"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "C. S. Lewis"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "C. S. Lewis"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Norman Juster"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Norman Juster"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Maurice Sendak"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Maurice Sendak"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Roald Dahl"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Roald Dahl"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Shel Silverstein"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Shel Silverstein"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Eric Carle"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Eric Carle"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Dr. Seuss"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Dr. Seuss"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Laura Joffe Numeroff"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Laura Joffe Numeroff"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Philip Pullman"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Philip Pullman"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Lemony Snicket"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Lemony Snicket"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    },
+    {
+      "names_by_book": {
+        "literary-libations": "Markus Zusak"
+      },
+      "canonical_id": null,
+      "canonical_name": null,
+      "aliases_found": [
+        "Markus Zusak"
+      ],
+      "decision": "new_author",
+      "reason": "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa.",
+      "ambiguities": [
+        "El catálogo no contiene esta identidad y los libros no aportan una ficha canónica completa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "book_id": "literary-eats",
+  "status": "consolidated",
+  "discarded_foods_aggregate": {
+    "counting_method": "Una entrada agregada por lote; incluye recetas de comida y preparaciones no líquidas revisadas.",
+    "items": [
+      {
+        "batch_id": "batch-001",
+        "pages": "1-23",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-002",
+        "pages": "24-46",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-003",
+        "pages": "47-69",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-004",
+        "pages": "70-92",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-005",
+        "pages": "93-115",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-006",
+        "pages": "116-138",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-007",
+        "pages": "139-161",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-008",
+        "pages": "162-184",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-009",
+        "pages": "185-207",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      },
+      {
+        "batch_id": "batch-010",
+        "pages": "208-229",
+        "reason": "Páginas revisadas; recetas de comida, ingredientes culinarios, bebidas sólo como componente de comida y menciones sin relación útil no se promovieron."
+      }
+    ]
+  },
+  "items": [
+    {
+      "kind": "food_recipe",
+      "page_pdf": 25,
+      "section": "Rudolfo Anaya — Sardinas de Lata",
+      "reason": "Tequila, cerveza y vinos aparecen como acompañamiento de una comida; el alcance excluye comidas vinculadas con escritores."
+    },
+    {
+      "kind": "food_recipe",
+      "page_pdf": 31,
+      "section": "Anonymous — Oyster Cocktail",
+      "reason": "Preparación de ostras, no bebida."
+    },
+    {
+      "kind": "food_recipe",
+      "page_pdf": 143,
+      "section": "John D. MacDonald — Meyer’s Superior Cocktail Dip",
+      "reason": "Dip condimentado; no cóctel bebible."
+    },
+    {
+      "kind": "food_recipe",
+      "page_pdf": 167,
+      "section": "Leslie Marmon Silko — Bacardi Golden Rum Cake",
+      "reason": "Pastel; el ron es ingrediente culinario, no una preparación líquida."
+    },
+    {
+      "kind": "food_recipe",
+      "page_pdf": 181,
+      "section": "Young America Sherbet",
+      "reason": "Postre helado asociado a un menú, no relación documentada de bebida con el escritor de la entrada."
+    },
+    {
+      "kind": "unlocated_or_ambiguous",
+      "page_pdf": 117,
+      "section": "Thomas Jefferson",
+      "reason": "Apple Toddy y Persimmon Beer se conservan como candidates con nexo pendiente, no como hechos biográficos."
+    }
+  ]
+}

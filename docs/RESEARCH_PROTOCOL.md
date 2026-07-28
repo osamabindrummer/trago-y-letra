@@ -1,8 +1,8 @@
 # Protocolo de investigación editorial de autores
 
 **Proyecto:** Trago y Letra  
-**Versión:** 1.0  
-**Fecha:** 2026-07-20  
+**Versión:** 1.1
+**Fecha:** 2026-07-28
 **Uso:** investigación delegada de la primera oleada de 20 autores
 
 ## 1. Propósito
@@ -450,3 +450,34 @@ La métrica principal es **fichas publicables con evidencia válida**, no cantid
 - APIs y volcados de Open Library: <https://openlibrary.org/developers/api>
 - Acceso y licencia CC0 de Wikidata: <https://www.wikidata.org/wiki/Wikidata:Data_access/en>
 - Catálogo procesable de Project Gutenberg: <https://dev.gutenberg.org/policy/robot_access.html>
+
+## 18. Protocolo de normalización de los tres libros
+
+Para *Literary Eats*, *Sip and Sensibility* y *Literary Libations* se aplica una
+ruta de normalización distinta de una investigación web abierta:
+
+1. Las extracciones completas, sus localizadores y los tres libros
+   inventariados se consideran la evidencia bibliográfica de partida.
+2. Los agentes Luna pueden normalizar candidatos en lotes mecánicos sin repetir
+   la investigación externa ni invalidar el trabajo de los autores de los
+   libros.
+3. Luna entrega propuestas estructuradas y nunca publica directamente. Terra
+   revisa duplicados, compatibilidad con el catálogo y ejecuta la promoción.
+4. `confidence: low` es publicable. Debe conservarse, nunca elevarse por
+   conveniencia, y mostrarse visiblemente en la ficha.
+5. `editorial_pairing` no necesita una aparición textual ni una preferencia
+   biográfica; basta con atribuir con precisión el maridaje al libro.
+6. `author_documented`, `appears_in_work`, `circulating_anecdote` y
+   `editorial_pairing` no se fusionan entre sí sólo por compartir autor y bebida.
+7. Se admiten autores y obras mínimos, recetas de la casa y bebidas de servicio
+   directo conforme a la enmienda del PRD.
+8. Las cuatro identidades ambiguas permanecen separadas hasta que un agente
+   pueda determinar una identidad estable o una categoría anónima explícita.
+
+### Cierre integral
+
+Cuando todos los lotes de normalización se promuevan, el orquestador debe
+comprobar consumo único de cada `source_candidate_id`, actualizar manifiesto,
+cola de revisión, promoción y revisión editorial, y dejar `discoveries` en cero
+sólo si cada grupo tiene una recomendación canónica trazable. Los artefactos
+anteriores se conservan como historial y no sustituyen las extracciones.

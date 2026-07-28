@@ -9,10 +9,11 @@
     "validate:content": "tsx scripts/validate-content.ts",
     "validate:library": "tsx scripts/validate-library.ts",
     "validate:research": "tsx scripts/validate-research.ts",
+    "finalize:three-books": "tsx scripts/finalize-three-book-convergence.ts",
     "build:content": "tsx scripts/build-content.ts",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:e2e": "npm run build:content && playwright test",
+    "test:e2e": "npm run build && playwright test",
     "lint": "eslint .",
     "start": "vite preview"
   },

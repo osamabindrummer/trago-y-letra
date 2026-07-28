@@ -1,4 +1,91 @@
 {
   "version": 1,
-  "sources": []
+  "sources": [
+    {
+      "id": "literary-eats",
+      "title": "Literary Eats",
+      "author": "Gary Scharnhorst",
+      "format": "pdf",
+      "local_filename": "literary-eats.pdf",
+      "isbn": "978-0-7864-7548-3",
+      "edition": "McFarland & Company, 2014",
+      "publication_year": 2014,
+      "language": "en",
+      "rights_status": "personal_copy",
+      "ingestion_status": "incorporated",
+      "author_ids": [
+        "raymond-chandler",
+        "william-faulkner",
+        "ernest-hemingway"
+      ],
+      "added_at": "2026-07-26",
+      "processed_at": "2026-07-28",
+      "sha256": "727fba95838e77159daddde418311e4251f0de0cf4549ed50931ccaad99bb751",
+      "notes": "Revisión completa de 229 páginas. Evidencia complementaria incorporada; los demás hallazgos permanecen bajo revisión."
+    },
+    {
+      "id": "sip-and-sensibility",
+      "title": "Sip and Sensibility",
+      "author": "Tim Rayborn",
+      "format": "epub",
+      "local_filename": "sip-and-sensibility.epub",
+      "isbn": "9781400344017",
+      "edition": "Cider Mill Press, EPUB 3.0",
+      "publication_year": 2024,
+      "language": "en",
+      "rights_status": "personal_copy",
+      "ingestion_status": "incorporated",
+      "author_ids": [
+        "charles-bukowski",
+        "charles-dickens",
+        "dashiell-hammett",
+        "edgar-allan-poe",
+        "ernest-hemingway",
+        "f-scott-fitzgerald",
+        "hunter-s-thompson",
+        "ian-fleming",
+        "jack-kerouac",
+        "jd-salinger",
+        "raymond-chandler",
+        "tennessee-williams",
+        "truman-capote",
+        "william-faulkner"
+      ],
+      "added_at": "2026-07-26",
+      "processed_at": "2026-07-28",
+      "sha256": "4f160fe9bd02de488a35f26e6e743bb9ce0782e550dc405a8881a63aa7fe7416",
+      "notes": "Revisión completa de 101 documentos. Metadata y About the Author identifican a Tim Rayborn; la mención previa de Tim Federle queda como discrepancia documentada."
+    },
+    {
+      "id": "literary-libations",
+      "title": "Literary Libations",
+      "author": "Amira Makansi",
+      "format": "epub",
+      "local_filename": "literary-libations.epub",
+      "isbn": "9781510736610",
+      "edition": "Skyhorse Publishing, EPUB 2.0",
+      "publication_year": 2018,
+      "language": "en",
+      "rights_status": "personal_copy",
+      "ingestion_status": "incorporated",
+      "author_ids": [
+        "charles-dickens",
+        "ernest-hemingway",
+        "f-scott-fitzgerald",
+        "ian-fleming",
+        "jack-kerouac",
+        "jd-salinger",
+        "oscar-wilde",
+        "raymond-chandler",
+        "stephen-king",
+        "sylvia-plath",
+        "truman-capote",
+        "william-faulkner"
+      ],
+      "added_at": "2026-07-26",
+      "processed_at": "2026-07-28",
+      "sha256": "59a615980252f4cf2c580d4829ee5f5f0e15dc87a064a428c9264429556d84f2",
+      "notes": "Revisión completa de 162 entradas. Se incorporó un maridaje editorial explícito; las afirmaciones factuales no verificadas permanecen fuera del catálogo."
+    }
+  ]
 }

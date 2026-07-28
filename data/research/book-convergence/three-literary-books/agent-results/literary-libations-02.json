@@ -1,0 +1,876 @@
+{
+  "batch_id": "literary-libations-02",
+  "model": "gpt-5.6-luna",
+  "status": "normalization_completed",
+  "assigned_discovery_ids": [
+    "hallazgo-three-books-128",
+    "hallazgo-three-books-129",
+    "hallazgo-three-books-130",
+    "hallazgo-three-books-131",
+    "hallazgo-three-books-132",
+    "hallazgo-three-books-133",
+    "hallazgo-three-books-135",
+    "hallazgo-three-books-136",
+    "hallazgo-three-books-138",
+    "hallazgo-three-books-139",
+    "hallazgo-three-books-140",
+    "hallazgo-three-books-141",
+    "hallazgo-three-books-142",
+    "hallazgo-three-books-143",
+    "hallazgo-three-books-144",
+    "hallazgo-three-books-145",
+    "hallazgo-three-books-146",
+    "hallazgo-three-books-149",
+    "hallazgo-three-books-150",
+    "hallazgo-three-books-151"
+  ],
+  "items": [
+    {
+      "discovery_id": "hallazgo-three-books-128",
+      "source_candidate_ids": [
+        "literary-libations-002-03"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "reuse",
+        "canonical_id": "f-scott-fitzgerald",
+        "canonical_name": "F. Scott Fitzgerald"
+      },
+      "work": {
+        "action": "reuse",
+        "canonical_id": "the-great-gatsby",
+        "title": "The Great Gatsby"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "french-75",
+        "name_es": "French 75",
+        "aliases": [
+          "French 75"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "F. Scott Fitzgerald y French 75 como maridaje editorial",
+        "explanation_es": "Literary Libations propone French 75 para acompañar The Great Gatsby. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a F. Scott Fitzgerald."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda French 75 para acompañar The Great Gatsby.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — The Great Gatsby; page_28",
+        "support_excerpt": "A boozy cocktail with bubbles and a lemon twist served in a champagne glass? Does anything else say Daisy Buchanan quite so clearly? Not"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-129",
+      "source_candidate_ids": [
+        "literary-libations-002-04"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "reuse",
+        "canonical_id": "william-faulkner",
+        "canonical_name": "William Faulkner"
+      },
+      "work": {
+        "action": "reuse",
+        "canonical_id": "the-sound-and-the-fury",
+        "title": "The Sound and the Fury"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "old-fashioned",
+        "name_es": "Old-Fashioned",
+        "aliases": [
+          "Old-Fashioned"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "William Faulkner y Old-Fashioned como maridaje editorial",
+        "explanation_es": "Literary Libations propone Old-Fashioned para acompañar The Sound and the Fury. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a William Faulkner."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Old-Fashioned para acompañar The Sound and the Fury.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — The Sound and the Fury; page_29",
+        "support_excerpt": "If Faulkner's entire body of work cannot be summed up in totality by an Old Fashioned, I'll have to read his entire body of"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-130",
+      "source_candidate_ids": [
+        "literary-libations-002-05"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "john-steinbeck",
+        "canonical_name": "John Steinbeck"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-grapes-of-wrath",
+        "title": "The Grapes of Wrath"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "california-old-vine-zinfandel",
+        "name_es": "Zinfandel de viñas viejas de California",
+        "aliases": [
+          "California Old Vine Zinfandel"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "medium",
+        "headline_es": "John Steinbeck y Zinfandel de viñas viejas de California como maridaje editorial",
+        "explanation_es": "Literary Libations propone California Old Vine Zinfandel para acompañar The Grapes of Wrath. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a John Steinbeck."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda California Old Vine Zinfandel para acompañar The Grapes of Wrath.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — The Grapes of Wrath; page_30",
+        "support_excerpt": "Although the American wine industry was devastated by fifteen years of Prohibition, and wines of American origin were few and far between when Steinbeck's"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-131",
+      "source_candidate_ids": [
+        "literary-libations-002-06"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "zora-neale-hurston",
+        "canonical_name": "Zora Neale Hurston"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "their-eyes-were-watching-god",
+        "title": "Their Eyes Were Watching God"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "citrus-shandy-radler",
+        "name_es": "Shandy cítrico (Radler)",
+        "aliases": [
+          "Citrus Shandy (Radler)"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Zora Neale Hurston y Shandy cítrico (Radler) como maridaje editorial",
+        "explanation_es": "Literary Libations propone Citrus Shandy (Radler) para acompañar Their Eyes Were Watching God. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Zora Neale Hurston."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Citrus Shandy (Radler) para acompañar Their Eyes Were Watching God.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Their Eyes Were Watching God; page_31",
+        "support_excerpt": "You'll want something cool and refreshing to drink as you sit on the porch with Janie Crawford and Pheoby Watson in early twentieth-century Florida."
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-132",
+      "source_candidate_ids": [
+        "literary-libations-002-07"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "margaret-mitchell",
+        "canonical_name": "Margaret Mitchell"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "gone-with-the-wind",
+        "title": "Gone with the Wind"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "whiskey-smash",
+        "name_es": "Whiskey Smash",
+        "aliases": [
+          "Whiskey Smash"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Margaret Mitchell y Whiskey Smash como maridaje editorial",
+        "explanation_es": "Literary Libations propone Whiskey Smash para acompañar Gone with the Wind. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Margaret Mitchell."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Whiskey Smash para acompañar Gone with the Wind.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Gone with the Wind; page_32",
+        "support_excerpt": "Bourbon and mint are two Southern essentials, brought together in the classic cocktail known as the whiskey smash. The name is reminiscent of Scarlett"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-133",
+      "source_candidate_ids": [
+        "literary-libations-002-08"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "reuse",
+        "canonical_id": "ernest-hemingway",
+        "canonical_name": "Ernest Hemingway"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "for-whom-the-bell-tolls",
+        "title": "For Whom the Bell Tolls"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "ribera-del-duero",
+        "name_es": "Ribera del Duero",
+        "aliases": [
+          "Ribera Del Duero"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "medium",
+        "headline_es": "Ernest Hemingway y Ribera del Duero como maridaje editorial",
+        "explanation_es": "Literary Libations propone Ribera Del Duero para acompañar For Whom the Bell Tolls. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Ernest Hemingway."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Ribera Del Duero para acompañar For Whom the Bell Tolls.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — For Whom the Bell Tolls; page_33",
+        "support_excerpt": "Although most remember Hemingway as a cocktail aficionado, the author was a connoisseur of many kinds of alcoholic beverages. (He was, in fact, an"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-135",
+      "source_candidate_ids": [
+        "literary-libations-002-10"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "ralph-ellison",
+        "canonical_name": "Ralph Ellison"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "invisible-man",
+        "title": "Invisible Man"
+      },
+      "drink": {
+        "action": "reuse",
+        "canonical_id": "mint-julep",
+        "name_es": "Mint Julep",
+        "aliases": [
+          "Mint Julep"
+        ],
+        "recipe_plan": "Reutilizar la entidad y receta canónicas; conservar el maridaje del libro sólo en la evidencia."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "medium",
+        "headline_es": "Ralph Ellison y Mint Julep como maridaje editorial",
+        "explanation_es": "Literary Libations propone Mint Julep para acompañar Invisible Man. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Ralph Ellison."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Mint Julep para acompañar Invisible Man.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Invisible Man; page_35",
+        "support_excerpt": "In the broad history of black Americans, there are so many individuals who have been relegated to invisibility by the forces of white supremacy,"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Se reutiliza mint-julep según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-136",
+      "source_candidate_ids": [
+        "literary-libations-002-11"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "ray-bradbury",
+        "canonical_name": "Ray Bradbury"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "fahrenheit-451",
+        "title": "Fahrenheit 451"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "flaming-b-52-shot",
+        "name_es": "Shot B-52 flameado",
+        "aliases": [
+          "Flaming B-52 Shot"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Ray Bradbury y Shot B-52 flameado como maridaje editorial",
+        "explanation_es": "Literary Libations propone Flaming B-52 Shot para acompañar Fahrenheit 451. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Ray Bradbury."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Flaming B-52 Shot para acompañar Fahrenheit 451.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Fahrenheit 451; page_36",
+        "support_excerpt": "It would have been improper to recommend anything but a flaming cocktail with Bradbury's cautionary tale about censorship and burning books, and a flaming"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-138",
+      "source_candidate_ids": [
+        "literary-libations-002-13"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "harper-lee",
+        "canonical_name": "Harper Lee"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "to-kill-a-mockingbird",
+        "title": "To Kill a Mockingbird"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "muscadine-wine",
+        "name_es": "Vino muscadino",
+        "aliases": [
+          "Muscadine Wine"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Harper Lee y Vino muscadino como maridaje editorial",
+        "explanation_es": "Literary Libations propone Muscadine Wine para acompañar To Kill a Mockingbird. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Harper Lee."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Muscadine Wine para acompañar To Kill a Mockingbird.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — To Kill a Mockingbird; page_39",
+        "support_excerpt": "If you're a fan of books, and also of cocktails, you may have noticed a book floating around called Tequila Mockingbird: Cocktails with a"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-139",
+      "source_candidate_ids": [
+        "literary-libations-002-14"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "joseph-heller",
+        "canonical_name": "Joseph Heller"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "catch-22",
+        "title": "Catch-22"
+      },
+      "drink": {
+        "action": "reuse",
+        "canonical_id": "whiskey-sour",
+        "name_es": "Whiskey Sour",
+        "aliases": [
+          "Whiskey Sour"
+        ],
+        "recipe_plan": "Reutilizar la entidad y receta canónicas; conservar el maridaje del libro sólo en la evidencia."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Joseph Heller y Whiskey Sour como maridaje editorial",
+        "explanation_es": "Literary Libations propone Whiskey Sour para acompañar Catch-22. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Joseph Heller."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Whiskey Sour para acompañar Catch-22.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Catch-22; page_40",
+        "support_excerpt": "This cocktail hits all the pressure points: creamy, a touch of sweetness, zingy acid, and a lot of booze. With a bit of imagination,"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Se reutiliza whiskey-sour según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-140",
+      "source_candidate_ids": [
+        "literary-libations-002-15"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "reuse",
+        "canonical_id": "sylvia-plath",
+        "canonical_name": "Sylvia Plath"
+      },
+      "work": {
+        "action": "reuse",
+        "canonical_id": "the-bell-jar",
+        "title": "The Bell Jar"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "american-vodka",
+        "name_es": "Vodka estadounidense",
+        "aliases": [
+          "American Vodka"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Sylvia Plath y Vodka estadounidense como maridaje editorial",
+        "explanation_es": "Literary Libations propone American Vodka para acompañar The Bell Jar. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Sylvia Plath."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda American Vodka para acompañar The Bell Jar.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — The Bell Jar; page_41",
+        "support_excerpt": "One might be forgiven for thinking that vodka drinks should be exclusively paired with Russian or Eastern European books, but we would be hard-pressed"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-141",
+      "source_candidate_ids": [
+        "literary-libations-002-16"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "kurt-vonnegut",
+        "canonical_name": "Kurt Vonnegut"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "slaughterhouse-five",
+        "title": "Slaughterhouse-Five"
+      },
+      "drink": {
+        "action": "reuse",
+        "canonical_id": "death-in-the-afternoon",
+        "name_es": "Death in the Afternoon",
+        "aliases": [
+          "Death in the Afternoon"
+        ],
+        "recipe_plan": "Reutilizar la entidad y receta canónicas; conservar el maridaje del libro sólo en la evidencia."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Kurt Vonnegut y Death in the Afternoon como maridaje editorial",
+        "explanation_es": "Literary Libations propone Death in the Afternoon para acompañar Slaughterhouse-Five. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Kurt Vonnegut."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Death in the Afternoon para acompañar Slaughterhouse-Five.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Slaughterhouse-Five; page_42",
+        "support_excerpt": "Ernest Hemingway invented this drink, but I doubt very much if he would mind Vonnegut borrowing it. This mind-bending absinthe cocktail is the perfect"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Se reutiliza death-in-the-afternoon según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-142",
+      "source_candidate_ids": [
+        "literary-libations-002-17"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "toni-morrison",
+        "canonical_name": "Toni Morrison"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "beloved",
+        "title": "Beloved"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "chamomile-tea-cocktail",
+        "name_es": "Cóctel de té de manzanilla",
+        "aliases": [
+          "Chamomile Tea Cocktail"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Toni Morrison y Cóctel de té de manzanilla como maridaje editorial",
+        "explanation_es": "Literary Libations propone Chamomile Tea Cocktail para acompañar Beloved. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Toni Morrison."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Chamomile Tea Cocktail para acompañar Beloved.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — Beloved; page_43",
+        "support_excerpt": "It might seem odd to pair a cocktail with a book so viscerally about slavery and its ramifications. The history of alcohol reaches its"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-143",
+      "source_candidate_ids": [
+        "literary-libations-002-18"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "john-kennedy-toole",
+        "canonical_name": "John Kennedy Toole"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "a-confederacy-of-dunces",
+        "title": "A Confederacy of Dunces"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "budweiser",
+        "name_es": "Budweiser",
+        "aliases": [
+          "Budweiser"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "John Kennedy Toole y Budweiser como maridaje editorial",
+        "explanation_es": "Literary Libations propone Budweiser para acompañar A Confederacy of Dunces. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a John Kennedy Toole."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Budweiser para acompañar A Confederacy of Dunces.",
+        "locator": "OEBPS/Text/006_Chapter002.html; NAPA CAB, KENTUCKY BOURBON, AND A MANHATTAN — THE CLASSICS, AMERICAN EDITION — A Confederacy of Dunces; page_44",
+        "support_excerpt": "A quintessentially American product for this quintessentially American work of literature. And what but a watery, off-yellow can of Budweiser pairs as well with"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-144",
+      "source_candidate_ids": [
+        "literary-libations-003-01"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "fyodor-dostoyevsky",
+        "canonical_name": "Fyodor Dostoyevsky"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "crime-and-punishment",
+        "title": "Crime and Punishment"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "russian-vodka",
+        "name_es": "Vodka ruso",
+        "aliases": [
+          "Russian Vodka"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Fyodor Dostoyevsky y Vodka ruso como maridaje editorial",
+        "explanation_es": "Literary Libations propone Russian Vodka para acompañar Crime and Punishment. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Fyodor Dostoyevsky."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Russian Vodka para acompañar Crime and Punishment.",
+        "locator": "OEBPS/Text/007_Chapter003.html; PLOT TWIST, LEMON TWIST — MYSTERY, THRILLERS, AND SUSPENSE — Crime and Punishment; page_46",
+        "support_excerpt": "Unlike the more highbrow The Brothers Karamazov, which calls for a noble, philosophical drink, Dostoyevsky's gritty, cerebral mystery novel demands a gritty, cerebral pairing."
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-145",
+      "source_candidate_ids": [
+        "literary-libations-003-02"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "sir-arthur-conan-doyle",
+        "canonical_name": "Sir Arthur Conan Doyle"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "a-study-in-scarlet",
+        "title": "A Study in Scarlet"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "whiskey-and-soda",
+        "name_es": "Whisky con soda",
+        "aliases": [
+          "Whiskey And Soda"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Sir Arthur Conan Doyle y Whisky con soda como maridaje editorial",
+        "explanation_es": "Literary Libations propone Whiskey And Soda para acompañar A Study in Scarlet. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Sir Arthur Conan Doyle."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Whiskey And Soda para acompañar A Study in Scarlet.",
+        "locator": "OEBPS/Text/007_Chapter003.html; PLOT TWIST, LEMON TWIST — MYSTERY, THRILLERS, AND SUSPENSE — A Study in Scarlet; page_47",
+        "support_excerpt": "Sherlock Holmes, undoubtedly the Western world's most famous detective, is aided and abetted by alcohol throughout his adventures. From gleaning clues based on the"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-146",
+      "source_candidate_ids": [
+        "literary-libations-003-03"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "agatha-christie",
+        "canonical_name": "Agatha Christie"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "and-then-there-were-none",
+        "title": "And Then There Were None"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "fino-sherry",
+        "name_es": "Fino de Jerez",
+        "aliases": [
+          "Fino Sherry"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Agatha Christie y Fino de Jerez como maridaje editorial",
+        "explanation_es": "Literary Libations propone Fino Sherry para acompañar And Then There Were None. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Agatha Christie."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Fino Sherry para acompañar And Then There Were None.",
+        "locator": "OEBPS/Text/007_Chapter003.html; PLOT TWIST, LEMON TWIST — MYSTERY, THRILLERS, AND SUSPENSE — And Then There Were None; page_48",
+        "support_excerpt": "This literary game of Clue holds you at arms' length from every character, rendering them all just beyond the bounds of sympathy. None seem"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-149",
+      "source_candidate_ids": [
+        "literary-libations-003-06"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "patricia-highsmith",
+        "canonical_name": "Patricia Highsmith"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-talented-mr-ripley",
+        "title": "The Talented Mr. Ripley"
+      },
+      "drink": {
+        "action": "create_serving_only",
+        "canonical_id": "carpano-antica-formula",
+        "name_es": "Carpano Antica Formula",
+        "aliases": [
+          "Carpano Antica Formula"
+        ],
+        "recipe_plan": "Crear como bebida de servicio directo, sin inventar una receta histórica."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "medium",
+        "headline_es": "Patricia Highsmith y Carpano Antica Formula como maridaje editorial",
+        "explanation_es": "Literary Libations propone Carpano Antica Formula para acompañar The Talented Mr. Ripley. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Patricia Highsmith."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Carpano Antica Formula para acompañar The Talented Mr. Ripley.",
+        "locator": "OEBPS/Text/007_Chapter003.html; PLOT TWIST, LEMON TWIST — MYSTERY, THRILLERS, AND SUSPENSE — The Talented Mr. Ripley; page_51",
+        "support_excerpt": "Antica Formula vermouth—smooth and charismatic but brooding—so embodies the character of Tom Ripley it's a wonder the two weren't invented by the same person."
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-150",
+      "source_candidate_ids": [
+        "literary-libations-003-07"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "create_minimal",
+        "canonical_id": "john-le-carre",
+        "canonical_name": "John Le Carre"
+      },
+      "work": {
+        "action": "create_minimal",
+        "canonical_id": "the-spy-who-came-in-from-the-cold",
+        "title": "The Spy Who Came in from the Cold"
+      },
+      "drink": {
+        "action": "create_house",
+        "canonical_id": "gin-and-tonic-with-english-gin",
+        "name_es": "Gin tonic con ginebra inglesa",
+        "aliases": [
+          "Gin And Tonic With English Gin"
+        ],
+        "recipe_plan": "Crear una receta original de la casa, sin copiar proporciones ni instrucciones del libro."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "John Le Carre y Gin tonic con ginebra inglesa como maridaje editorial",
+        "explanation_es": "Literary Libations propone Gin And Tonic With English Gin para acompañar The Spy Who Came in from the Cold. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a John Le Carre."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Gin And Tonic With English Gin para acompañar The Spy Who Came in from the Cold.",
+        "locator": "OEBPS/Text/007_Chapter003.html; PLOT TWIST, LEMON TWIST — MYSTERY, THRILLERS, AND SUSPENSE — The Spy Who Came in from the Cold; page_52",
+        "support_excerpt": "John le Carré is such a prolific author it's almost impossible to pick a single book to represent his body of work. Most are"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "No existe equivalente canónico demostrado según el crosswalk."
+      ]
+    },
+    {
+      "discovery_id": "hallazgo-three-books-151",
+      "source_candidate_ids": [
+        "literary-libations-003-08"
+      ],
+      "decision": "create_recommendation",
+      "author": {
+        "action": "reuse",
+        "canonical_id": "truman-capote",
+        "canonical_name": "Truman Capote"
+      },
+      "work": {
+        "action": "reuse",
+        "canonical_id": "in-cold-blood",
+        "title": "In Cold Blood"
+      },
+      "drink": {
+        "action": "reuse",
+        "canonical_id": "cerveza",
+        "name_es": "Cerveza",
+        "aliases": [
+          "Cerveza"
+        ],
+        "recipe_plan": "Reutilizar la entidad y receta canónicas; conservar el maridaje del libro sólo en la evidencia."
+      },
+      "recommendation": {
+        "relationship_type": "editorial_pairing",
+        "confidence": "low",
+        "headline_es": "Truman Capote y Cerveza como maridaje editorial",
+        "explanation_es": "Literary Libations propone Cerveza para acompañar In Cold Blood. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Truman Capote."
+      },
+      "evidence": {
+        "source_id": "fuente-literary-libations",
+        "claim": "Literary Libations recomienda Cerveza para acompañar In Cold Blood.",
+        "locator": "OEBPS/Text/007_Chapter003.html; PLOT TWIST, LEMON TWIST — MYSTERY, THRILLERS, AND SUSPENSE — In Cold Blood; page_53",
+        "support_excerpt": "In a pioneering work of investigative journalism that reads better than most novels, Capote spins names, dates, and actions into a remarkably empathetic narrative"
+      },
+      "duplicate_of": null,
+      "notes": [
+        "Se reutiliza cerveza según el crosswalk."
+      ]
+    }
+  ],
+  "counts": {
+    "assigned": 20,
+    "normalization_ready": 20,
+    "duplicates": 0,
+    "anonymous_identities": 0
+  },
+  "errors": []
+}

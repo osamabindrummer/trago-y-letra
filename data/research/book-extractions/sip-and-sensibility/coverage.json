@@ -1,0 +1,1137 @@
+{
+  "book_id": "sip-and-sensibility",
+  "documentos_totales_del_spine": 101,
+  "secciones_editoriales_detectadas": 80,
+  "secciones_planificadas": 101,
+  "secciones_terminadas": 101,
+  "documentos_revisados": [
+    "OEBPS/cover.xhtml",
+    "OEBPS/titlepage.xhtml",
+    "OEBPS/copyright-page.xhtml",
+    "OEBPS/information.xhtml",
+    "OEBPS/chapter01.xhtml",
+    "OEBPS/content-toc.xhtml",
+    "OEBPS/chapter02.xhtml",
+    "OEBPS/chapter03.xhtml",
+    "OEBPS/chapter04.xhtml",
+    "OEBPS/part01.xhtml",
+    "OEBPS/chapter05.xhtml",
+    "OEBPS/chapter06.xhtml",
+    "OEBPS/chapter07.xhtml",
+    "OEBPS/chapter08.xhtml",
+    "OEBPS/chapter09.xhtml",
+    "OEBPS/chapter10.xhtml",
+    "OEBPS/chapter11.xhtml",
+    "OEBPS/part02.xhtml",
+    "OEBPS/chapter12.xhtml",
+    "OEBPS/chapter13.xhtml",
+    "OEBPS/chapter14.xhtml",
+    "OEBPS/chapter15.xhtml",
+    "OEBPS/chapter16.xhtml",
+    "OEBPS/chapter17.xhtml",
+    "OEBPS/chapter18.xhtml",
+    "OEBPS/chapter19.xhtml",
+    "OEBPS/chapter20.xhtml",
+    "OEBPS/chapter21.xhtml",
+    "OEBPS/chapter22.xhtml",
+    "OEBPS/chapter23.xhtml",
+    "OEBPS/chapter24.xhtml",
+    "OEBPS/part03.xhtml",
+    "OEBPS/chapter25.xhtml",
+    "OEBPS/chapter26.xhtml",
+    "OEBPS/chapter27.xhtml",
+    "OEBPS/chapter28.xhtml",
+    "OEBPS/chapter29.xhtml",
+    "OEBPS/chapter30.xhtml",
+    "OEBPS/chapter31.xhtml",
+    "OEBPS/chapter32.xhtml",
+    "OEBPS/chapter33.xhtml",
+    "OEBPS/chapter34.xhtml",
+    "OEBPS/chapter35.xhtml",
+    "OEBPS/chapter36.xhtml",
+    "OEBPS/chapter37.xhtml",
+    "OEBPS/chapter38.xhtml",
+    "OEBPS/chapter39.xhtml",
+    "OEBPS/chapter40.xhtml",
+    "OEBPS/chapter41.xhtml",
+    "OEBPS/chapter42.xhtml",
+    "OEBPS/chapter43.xhtml",
+    "OEBPS/chapter44.xhtml",
+    "OEBPS/chapter45.xhtml",
+    "OEBPS/chapter46.xhtml",
+    "OEBPS/chapter47.xhtml",
+    "OEBPS/chapter48.xhtml",
+    "OEBPS/chapter49.xhtml",
+    "OEBPS/chapter50.xhtml",
+    "OEBPS/chapter51.xhtml",
+    "OEBPS/chapter52.xhtml",
+    "OEBPS/chapter53.xhtml",
+    "OEBPS/chapter54.xhtml",
+    "OEBPS/chapter55.xhtml",
+    "OEBPS/chapter56.xhtml",
+    "OEBPS/chapter57.xhtml",
+    "OEBPS/chapter58.xhtml",
+    "OEBPS/chapter59.xhtml",
+    "OEBPS/chapter60.xhtml",
+    "OEBPS/chapter61.xhtml",
+    "OEBPS/chapter62.xhtml",
+    "OEBPS/chapter63.xhtml",
+    "OEBPS/chapter64.xhtml",
+    "OEBPS/chapter65.xhtml",
+    "OEBPS/chapter66.xhtml",
+    "OEBPS/chapter67.xhtml",
+    "OEBPS/chapter68.xhtml",
+    "OEBPS/chapter69.xhtml",
+    "OEBPS/part04.xhtml",
+    "OEBPS/chapter70.xhtml",
+    "OEBPS/chapter71.xhtml",
+    "OEBPS/chapter72.xhtml",
+    "OEBPS/chapter73.xhtml",
+    "OEBPS/chapter74.xhtml",
+    "OEBPS/chapter75.xhtml",
+    "OEBPS/chapter76.xhtml",
+    "OEBPS/chapter77.xhtml",
+    "OEBPS/chapter78.xhtml",
+    "OEBPS/chapter79.xhtml",
+    "OEBPS/chapter80.xhtml",
+    "OEBPS/chapter81.xhtml",
+    "OEBPS/chapter82.xhtml",
+    "OEBPS/chapter83.xhtml",
+    "OEBPS/chapter84.xhtml",
+    "OEBPS/chapter85.xhtml",
+    "OEBPS/chapter86.xhtml",
+    "OEBPS/chapter87.xhtml",
+    "OEBPS/chapter88.xhtml",
+    "OEBPS/index.xhtml",
+    "OEBPS/chapter89.xhtml",
+    "OEBPS/chapter90.xhtml",
+    "OEBPS/chapter91.xhtml"
+  ],
+  "documentos_pendientes": [],
+  "documentos_con_error": [],
+  "documentos_sin_hallazgos": [
+    "OEBPS/cover.xhtml",
+    "OEBPS/titlepage.xhtml",
+    "OEBPS/copyright-page.xhtml",
+    "OEBPS/information.xhtml",
+    "OEBPS/chapter01.xhtml",
+    "OEBPS/content-toc.xhtml",
+    "OEBPS/chapter02.xhtml",
+    "OEBPS/chapter03.xhtml",
+    "OEBPS/chapter04.xhtml",
+    "OEBPS/part01.xhtml",
+    "OEBPS/chapter11.xhtml",
+    "OEBPS/part02.xhtml",
+    "OEBPS/chapter24.xhtml",
+    "OEBPS/part03.xhtml",
+    "OEBPS/chapter69.xhtml",
+    "OEBPS/part04.xhtml",
+    "OEBPS/chapter88.xhtml",
+    "OEBPS/index.xhtml",
+    "OEBPS/chapter89.xhtml",
+    "OEBPS/chapter90.xhtml",
+    "OEBPS/chapter91.xhtml"
+  ],
+  "porcentaje_de_cobertura": 100,
+  "comprobacion_de_huecos": {
+    "passed": true,
+    "missing": []
+  },
+  "comprobacion_de_duplicados": {
+    "passed": true,
+    "duplicate_source_documents": [],
+    "duplicate_candidate_ids": []
+  },
+  "secciones": [
+    {
+      "spine_position": 1,
+      "source_document": "OEBPS/cover.xhtml",
+      "title": "Cover Page",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 2,
+      "source_document": "OEBPS/titlepage.xhtml",
+      "title": "Title Page",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 3,
+      "source_document": "OEBPS/copyright-page.xhtml",
+      "title": "Copyright Page",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 4,
+      "source_document": "OEBPS/information.xhtml",
+      "title": "Information about External Hyperlinks in this ebook",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 5,
+      "source_document": "OEBPS/chapter01.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 6,
+      "source_document": "OEBPS/content-toc.xhtml",
+      "title": "Contents",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Navegación/índice revisado; se usó para contrastar orden y evitar duplicar entradas."
+      ]
+    },
+    {
+      "spine_position": 7,
+      "source_document": "OEBPS/chapter02.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 8,
+      "source_document": "OEBPS/chapter03.xhtml",
+      "title": "Introduction",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 9,
+      "source_document": "OEBPS/chapter04.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 10,
+      "source_document": "OEBPS/part01.xhtml",
+      "title": "The Ancient & Early Modern World",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 11,
+      "source_document": "OEBPS/chapter05.xhtml",
+      "title": "Wine Infused with Mint, Thyme & Sage",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-05-wine-infused-with-mint-thyme-sage"
+      ]
+    },
+    {
+      "spine_position": 12,
+      "source_document": "OEBPS/chapter06.xhtml",
+      "title": "Conditum Paradoxum (Surprise Wine)",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-06-conditum-paradoxum-surprise-wine"
+      ]
+    },
+    {
+      "spine_position": 13,
+      "source_document": "OEBPS/chapter07.xhtml",
+      "title": "Rose Petal Wine",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-07-rose-petal-wine"
+      ]
+    },
+    {
+      "spine_position": 14,
+      "source_document": "OEBPS/chapter08.xhtml",
+      "title": "Piment (Spiced White Wine)",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-08-piment-spiced-white-wine"
+      ]
+    },
+    {
+      "spine_position": 15,
+      "source_document": "OEBPS/chapter09.xhtml",
+      "title": "Hippocras (Mulled Red Wine)",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-09-hippocras-mulled-red-wine"
+      ]
+    },
+    {
+      "spine_position": 16,
+      "source_document": "OEBPS/chapter10.xhtml",
+      "title": "Lamb’s Wool",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-10-lamb-s-wool"
+      ]
+    },
+    {
+      "spine_position": 17,
+      "source_document": "OEBPS/chapter11.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 18,
+      "source_document": "OEBPS/part02.xhtml",
+      "title": "The Nineteenth Century",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 19,
+      "source_document": "OEBPS/chapter12.xhtml",
+      "title": "Stone-Fence",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-12-stone-fence"
+      ]
+    },
+    {
+      "spine_position": 20,
+      "source_document": "OEBPS/chapter13.xhtml",
+      "title": "Negus",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-13-negus"
+      ]
+    },
+    {
+      "spine_position": 21,
+      "source_document": "OEBPS/chapter14.xhtml",
+      "title": "Gin Twist",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-14-gin-twist"
+      ]
+    },
+    {
+      "spine_position": 22,
+      "source_document": "OEBPS/chapter15.xhtml",
+      "title": "Pineapple Rum",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-15-pineapple-rum"
+      ]
+    },
+    {
+      "spine_position": 23,
+      "source_document": "OEBPS/chapter16.xhtml",
+      "title": "Rum Toddy",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-16-rum-toddy"
+      ]
+    },
+    {
+      "spine_position": 24,
+      "source_document": "OEBPS/chapter17.xhtml",
+      "title": "Smoking Bishop",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-17-smoking-bishop"
+      ]
+    },
+    {
+      "spine_position": 25,
+      "source_document": "OEBPS/chapter18.xhtml",
+      "title": "Rum & Lemon Punch",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-18-rum-lemon-punch"
+      ]
+    },
+    {
+      "spine_position": 26,
+      "source_document": "OEBPS/chapter19.xhtml",
+      "title": "Champagne Cock-Tail",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-19-champagne-cock-tail"
+      ]
+    },
+    {
+      "spine_position": 27,
+      "source_document": "OEBPS/chapter20.xhtml",
+      "title": "Sherry Cobbler",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-20-sherry-cobbler"
+      ]
+    },
+    {
+      "spine_position": 28,
+      "source_document": "OEBPS/chapter21.xhtml",
+      "title": "Brandy Smash",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-21-brandy-smash"
+      ]
+    },
+    {
+      "spine_position": 29,
+      "source_document": "OEBPS/chapter22.xhtml",
+      "title": "Eye-Opener",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-22-eye-opener"
+      ]
+    },
+    {
+      "spine_position": 30,
+      "source_document": "OEBPS/chapter23.xhtml",
+      "title": "Earthquake",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-23-earthquake"
+      ]
+    },
+    {
+      "spine_position": 31,
+      "source_document": "OEBPS/chapter24.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 32,
+      "source_document": "OEBPS/part03.xhtml",
+      "title": "The Twentieth & Twenty-First Centuries",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 33,
+      "source_document": "OEBPS/chapter25.xhtml",
+      "title": "Whiskey & Soda",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-25-whiskey-soda"
+      ]
+    },
+    {
+      "spine_position": 34,
+      "source_document": "OEBPS/chapter26.xhtml",
+      "title": "Brandy & Soda",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-26-brandy-soda"
+      ]
+    },
+    {
+      "spine_position": 35,
+      "source_document": "OEBPS/chapter27.xhtml",
+      "title": "Green Swizzle",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-27-green-swizzle"
+      ]
+    },
+    {
+      "spine_position": 36,
+      "source_document": "OEBPS/chapter28.xhtml",
+      "title": "Mint Julep",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-28-mint-julep"
+      ]
+    },
+    {
+      "spine_position": 37,
+      "source_document": "OEBPS/chapter29.xhtml",
+      "title": "Gin Rickey",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-29-gin-rickey"
+      ]
+    },
+    {
+      "spine_position": 38,
+      "source_document": "OEBPS/chapter30.xhtml",
+      "title": "Bronx Cocktail",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-30-bronx-cocktail"
+      ]
+    },
+    {
+      "spine_position": 39,
+      "source_document": "OEBPS/chapter31.xhtml",
+      "title": "Jack Rose",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-31-jack-rose"
+      ]
+    },
+    {
+      "spine_position": 40,
+      "source_document": "OEBPS/chapter32.xhtml",
+      "title": "Hangman’s Blood",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-32-hangman-s-blood"
+      ]
+    },
+    {
+      "spine_position": 41,
+      "source_document": "OEBPS/chapter33.xhtml",
+      "title": "Satan’s Whisker",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-33-satan-s-whisker"
+      ]
+    },
+    {
+      "spine_position": 42,
+      "source_document": "OEBPS/chapter34.xhtml",
+      "title": "Manhattan",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-34-manhattan"
+      ]
+    },
+    {
+      "spine_position": 43,
+      "source_document": "OEBPS/chapter35.xhtml",
+      "title": "Bourbon & Coke",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-35-bourbon-coke"
+      ]
+    },
+    {
+      "spine_position": 44,
+      "source_document": "OEBPS/chapter36.xhtml",
+      "title": "Knickerbocker Martini",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-36-knickerbocker-martini"
+      ]
+    },
+    {
+      "spine_position": 45,
+      "source_document": "OEBPS/chapter37.xhtml",
+      "title": "Pink Gin",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-37-pink-gin"
+      ]
+    },
+    {
+      "spine_position": 46,
+      "source_document": "OEBPS/chapter38.xhtml",
+      "title": "Sidecar",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-38-sidecar"
+      ]
+    },
+    {
+      "spine_position": 47,
+      "source_document": "OEBPS/chapter39.xhtml",
+      "title": "Hock & Seltzer",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-39-hock-seltzer"
+      ]
+    },
+    {
+      "spine_position": 48,
+      "source_document": "OEBPS/chapter40.xhtml",
+      "title": "Champagne Cocktail",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-40-champagne-cocktail"
+      ]
+    },
+    {
+      "spine_position": 49,
+      "source_document": "OEBPS/chapter41.xhtml",
+      "title": "May Queen",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-41-may-queen"
+      ]
+    },
+    {
+      "spine_position": 50,
+      "source_document": "OEBPS/chapter42.xhtml",
+      "title": "Absinthe Shaken",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-42-absinthe-shaken"
+      ]
+    },
+    {
+      "spine_position": 51,
+      "source_document": "OEBPS/chapter43.xhtml",
+      "title": "Alexandra",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-43-alexandra"
+      ]
+    },
+    {
+      "spine_position": 52,
+      "source_document": "OEBPS/chapter44.xhtml",
+      "title": "Beer Milkshake",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-44-beer-milkshake"
+      ]
+    },
+    {
+      "spine_position": 53,
+      "source_document": "OEBPS/chapter45.xhtml",
+      "title": "Very Dry Martini",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-45-very-dry-martini"
+      ]
+    },
+    {
+      "spine_position": 54,
+      "source_document": "OEBPS/chapter46.xhtml",
+      "title": "Scotch & Soda",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-46-scotch-soda"
+      ]
+    },
+    {
+      "spine_position": 55,
+      "source_document": "OEBPS/chapter47.xhtml",
+      "title": "Vesper Martini",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-47-vesper-martini"
+      ]
+    },
+    {
+      "spine_position": 56,
+      "source_document": "OEBPS/chapter48.xhtml",
+      "title": "Gimlet",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-48-gimlet"
+      ]
+    },
+    {
+      "spine_position": 57,
+      "source_document": "OEBPS/chapter49.xhtml",
+      "title": "Webster F. Street Lay-Away Plan",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-49-webster-f-street-lay-away-plan"
+      ]
+    },
+    {
+      "spine_position": 58,
+      "source_document": "OEBPS/chapter50.xhtml",
+      "title": "Pin",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-50-pin"
+      ]
+    },
+    {
+      "spine_position": 59,
+      "source_document": "OEBPS/chapter51.xhtml",
+      "title": "Wine Spodiodi",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-51-wine-spodiodi"
+      ]
+    },
+    {
+      "spine_position": 60,
+      "source_document": "OEBPS/chapter52.xhtml",
+      "title": "Daiquiri",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-52-daiquiri"
+      ]
+    },
+    {
+      "spine_position": 61,
+      "source_document": "OEBPS/chapter53.xhtml",
+      "title": "White Angel",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-53-white-angel"
+      ]
+    },
+    {
+      "spine_position": 62,
+      "source_document": "OEBPS/chapter54.xhtml",
+      "title": "Gibson",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-54-gibson"
+      ]
+    },
+    {
+      "spine_position": 63,
+      "source_document": "OEBPS/chapter55.xhtml",
+      "title": "Tom Collins",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-55-tom-collins"
+      ]
+    },
+    {
+      "spine_position": 64,
+      "source_document": "OEBPS/chapter56.xhtml",
+      "title": "Old Fashioned",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-56-old-fashioned"
+      ]
+    },
+    {
+      "spine_position": 65,
+      "source_document": "OEBPS/chapter57.xhtml",
+      "title": "Brandy Alexander",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-57-brandy-alexander"
+      ]
+    },
+    {
+      "spine_position": 66,
+      "source_document": "OEBPS/chapter58.xhtml",
+      "title": "Whiskey Sour",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-58-whiskey-sour"
+      ]
+    },
+    {
+      "spine_position": 67,
+      "source_document": "OEBPS/chapter59.xhtml",
+      "title": "Frozen Daiquiri",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-59-frozen-daiquiri"
+      ]
+    },
+    {
+      "spine_position": 68,
+      "source_document": "OEBPS/chapter60.xhtml",
+      "title": "Gin & Coconut Water",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-60-gin-coconut-water"
+      ]
+    },
+    {
+      "spine_position": 69,
+      "source_document": "OEBPS/chapter61.xhtml",
+      "title": "Singapore Sling",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-61-singapore-sling"
+      ]
+    },
+    {
+      "spine_position": 70,
+      "source_document": "OEBPS/chapter62.xhtml",
+      "title": "Gin Fizz",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-62-gin-fizz"
+      ]
+    },
+    {
+      "spine_position": 71,
+      "source_document": "OEBPS/chapter63.xhtml",
+      "title": "House of Lords Martini",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-63-house-of-lords-martini"
+      ]
+    },
+    {
+      "spine_position": 72,
+      "source_document": "OEBPS/chapter64.xhtml",
+      "title": "Gin & Tonic",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-64-gin-tonic"
+      ]
+    },
+    {
+      "spine_position": 73,
+      "source_document": "OEBPS/chapter65.xhtml",
+      "title": "Stinger",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-65-stinger"
+      ]
+    },
+    {
+      "spine_position": 74,
+      "source_document": "OEBPS/chapter66.xhtml",
+      "title": "Sweet Rob Roy",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-66-sweet-rob-roy"
+      ]
+    },
+    {
+      "spine_position": 75,
+      "source_document": "OEBPS/chapter67.xhtml",
+      "title": "Berlin Station Chief",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-67-berlin-station-chief"
+      ]
+    },
+    {
+      "spine_position": 76,
+      "source_document": "OEBPS/chapter68.xhtml",
+      "title": "Tequila Sunrise",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-68-tequila-sunrise"
+      ]
+    },
+    {
+      "spine_position": 77,
+      "source_document": "OEBPS/chapter69.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 78,
+      "source_document": "OEBPS/part04.xhtml",
+      "title": "Your Favorite Writer’s Favorite Drink",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 79,
+      "source_document": "OEBPS/chapter70.xhtml",
+      "title": "Caudle",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-70-caudle"
+      ]
+    },
+    {
+      "spine_position": 80,
+      "source_document": "OEBPS/chapter71.xhtml",
+      "title": "Brandy Eggnog",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-71-brandy-eggnog"
+      ]
+    },
+    {
+      "spine_position": 81,
+      "source_document": "OEBPS/chapter72.xhtml",
+      "title": "Apple Hot Toddy",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-72-apple-hot-toddy"
+      ]
+    },
+    {
+      "spine_position": 82,
+      "source_document": "OEBPS/chapter73.xhtml",
+      "title": "Whiskey Cock-Tail",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-73-whiskey-cock-tail"
+      ]
+    },
+    {
+      "spine_position": 83,
+      "source_document": "OEBPS/chapter74.xhtml",
+      "title": "Clover Club",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-74-clover-club"
+      ]
+    },
+    {
+      "spine_position": 84,
+      "source_document": "OEBPS/chapter75.xhtml",
+      "title": "Horse’s Neck",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-75-horse-s-neck"
+      ]
+    },
+    {
+      "spine_position": 85,
+      "source_document": "OEBPS/chapter76.xhtml",
+      "title": "Hot Toddy",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-76-hot-toddy"
+      ]
+    },
+    {
+      "spine_position": 86,
+      "source_document": "OEBPS/chapter77.xhtml",
+      "title": "Pompier",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-77-pompier"
+      ]
+    },
+    {
+      "spine_position": 87,
+      "source_document": "OEBPS/chapter78.xhtml",
+      "title": "Death in the Afternoon",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-78-death-in-the-afternoon"
+      ]
+    },
+    {
+      "spine_position": 88,
+      "source_document": "OEBPS/chapter79.xhtml",
+      "title": "Spiked Lemonade",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-79-spiked-lemonade"
+      ]
+    },
+    {
+      "spine_position": 89,
+      "source_document": "OEBPS/chapter80.xhtml",
+      "title": "Ramos Gin Fizz",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-80-ramos-gin-fizz"
+      ]
+    },
+    {
+      "spine_position": 90,
+      "source_document": "OEBPS/chapter81.xhtml",
+      "title": "Vodka & Coke",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-81-vodka-coke"
+      ]
+    },
+    {
+      "spine_position": 91,
+      "source_document": "OEBPS/chapter82.xhtml",
+      "title": "Sonnie Boy",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-82-sonnie-boy"
+      ]
+    },
+    {
+      "spine_position": 92,
+      "source_document": "OEBPS/chapter83.xhtml",
+      "title": "Boilermaker",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-83-boilermaker"
+      ]
+    },
+    {
+      "spine_position": 93,
+      "source_document": "OEBPS/chapter84.xhtml",
+      "title": "Margarita",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-84-margarita"
+      ]
+    },
+    {
+      "spine_position": 94,
+      "source_document": "OEBPS/chapter85.xhtml",
+      "title": "Screwdriver",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-85-screwdriver"
+      ]
+    },
+    {
+      "spine_position": 95,
+      "source_document": "OEBPS/chapter86.xhtml",
+      "title": "Vodka Tonic",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-86-vodka-tonic"
+      ]
+    },
+    {
+      "spine_position": 96,
+      "source_document": "OEBPS/chapter87.xhtml",
+      "title": "Cosmopolitan",
+      "anchor": null,
+      "status": "reviewed_with_candidate",
+      "notes": [
+        "sip-and-sensibility-87-cosmopolitan"
+      ]
+    },
+    {
+      "spine_position": 97,
+      "source_document": "OEBPS/chapter88.xhtml",
+      "title": "Metric Conversions",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 98,
+      "source_document": "OEBPS/index.xhtml",
+      "title": "Index",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Navegación/índice revisado; se usó para contrastar orden y evitar duplicar entradas."
+      ]
+    },
+    {
+      "spine_position": 99,
+      "source_document": "OEBPS/chapter89.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": [
+        "Página de presentación repetida, revisada sin contenido editorial adicional."
+      ]
+    },
+    {
+      "spine_position": 100,
+      "source_document": "OEBPS/chapter90.xhtml",
+      "title": "About the Author",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    },
+    {
+      "spine_position": 101,
+      "source_document": "OEBPS/chapter91.xhtml",
+      "title": "Sip and Sensibility: An Inspired Literary Cocktail Collection",
+      "anchor": null,
+      "status": "reviewed_no_findings",
+      "notes": []
+    }
+  ]
+}

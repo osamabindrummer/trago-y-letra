@@ -1,8 +1,8 @@
 # PRD — Trago y Letra
 
 **Estado:** listo para implementación secuencial  
-**Versión:** 1.1
-**Fecha:** 2026-07-22
+**Versión:** 1.2
+**Fecha:** 2026-07-28
 **Nombre de trabajo:** Trago y Letra  
 **Documento complementario:** `docs/RESEARCH_PROTOCOL.md`
 
@@ -370,7 +370,7 @@ url?, isbn?, edition?, accessed_at, language, reliability_tier
 - `reliability_tier`: `primary | scholarly | reputable_secondary | discovery_only`.
 - Una recomendación publicable requiere al menos una evidencia de tipo `primary`, `scholarly` o `reputable_secondary`.
 - `discovery_only` nunca basta para publicar.
-- `confidence: low` no se publica en V1.
+- `confidence: low` puede publicarse si la interfaz lo rotula de forma explícita y la afirmación conserva la fuerza exacta de la fuente.
 - Las relaciones contradictorias deben conservar evidencias a favor y en contra, y no publicarse como preferencia inequívoca.
 
 ## 12. Primera oleada editorial
@@ -602,3 +602,36 @@ No se almacenará el texto libre de búsquedas sin una evaluación de privacidad
 - Wikidata ofrece datos CC0 y diversos mecanismos de acceso: <https://www.wikidata.org/wiki/Wikidata:Data_access/en>
 - Project Gutenberg ofrece catálogo procesable y metadatos de dominio público: <https://dev.gutenberg.org/policy/robot_access.html>
 - Guía vigente de modelos GPT-5.6: <https://developers.openai.com/api/docs/guides/latest-model.md>
+
+## 20. Enmienda expansiva del catálogo
+
+Esta sección reemplaza cualquier criterio anterior incompatible con la expansión
+editorial aprobada el 28 de julio de 2026.
+
+- Los libros especializados incorporados a la biblioteca pueden respaldar
+  recomendaciones como fuentes secundarias reputadas. No se exige repetir fuera
+  del libro toda la investigación realizada por sus autores.
+- Una recomendación puede tener confianza `low` y estado `published` cuando la
+  interfaz muestre la confianza de forma textual, no sólo mediante color.
+- No toda recomendación requiere una obra. Se admiten consumo o receta
+  documentada, preferencia atribuida, anécdota en circulación y maridaje
+  editorial, siempre con el tipo de relación visible.
+- Un autor puede publicarse con `profile_status: minimal`; en ese caso país,
+  fechas, reseña y dos obras destacadas dejan de ser obligatorios y la interfaz
+  declara que el perfil está en desarrollo.
+- Una obra puede usar `metadata_status: minimal` cuando el libro permite
+  identificar autor y título, aunque falten año, idioma o identificadores.
+- Una bebida puede usar `recipe_status: serving_only` si se sirve directamente
+  y no corresponde inventar una receta. Las fórmulas sencillas pueden publicarse
+  como recetas de la casa, separadas de la evidencia histórica o literaria.
+- Los estados provisionales continúan siendo públicos y buscables. La ausencia
+  de una ficha completa es una tarea de enriquecimiento, no motivo para perder
+  una recomendación localizada en una fuente bibliográfica.
+
+## 21. Cierre de la convergencia de tres libros
+
+Al cerrar una promoción integral, la colección `discoveries` puede quedar vacía:
+eso significa que todos sus grupos llegaron a recomendaciones canónicas, no que
+se descartaron. El cierre debe conservar los artefactos de extracción,
+normalización y promoción, reconciliar sus conteos con el catálogo y distinguir
+el conteo canónico del contenido público cuando exista un fixture `draft`.

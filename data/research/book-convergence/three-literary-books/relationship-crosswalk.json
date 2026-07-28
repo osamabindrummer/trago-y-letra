@@ -1,0 +1,4579 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-28",
+  "entries": [
+    {
+      "convergence_id": "three-books-001",
+      "candidates_related": [
+        "le-001"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-001",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-002",
+      "candidates_related": [
+        "le-002"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-002",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-003",
+      "candidates_related": [
+        "le-003"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-003",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-004",
+      "candidates_related": [
+        "le-004"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-004",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-005",
+      "candidates_related": [
+        "le-005"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-005",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-006",
+      "candidates_related": [
+        "le-006"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-006",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-007",
+      "candidates_related": [
+        "le-007"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-007",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-008",
+      "candidates_related": [
+        "le-008"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-008",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-009",
+      "candidates_related": [
+        "le-009"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-009",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-010",
+      "candidates_related": [
+        "le-010"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-010",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-011",
+      "candidates_related": [
+        "le-011"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-011",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-012",
+      "candidates_related": [
+        "le-012"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-012",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-013",
+      "candidates_related": [
+        "le-013"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-013",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-014",
+      "candidates_related": [
+        "le-014"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-014",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-015",
+      "candidates_related": [
+        "le-015"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-015",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-016",
+      "candidates_related": [
+        "le-016"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-016",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-017",
+      "candidates_related": [
+        "le-017"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-017",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-018",
+      "candidates_related": [
+        "le-018"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-018",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-019",
+      "candidates_related": [
+        "le-019"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-019",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-020",
+      "candidates_related": [
+        "le-020"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-020",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-021",
+      "candidates_related": [
+        "le-021"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-021",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-022",
+      "candidates_related": [
+        "le-022"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-022",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-023",
+      "candidates_related": [
+        "le-023"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-023",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-024",
+      "candidates_related": [
+        "le-024"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-024",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-025",
+      "candidates_related": [
+        "le-025"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-025",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-026",
+      "candidates_related": [
+        "le-026"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-026",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-027",
+      "candidates_related": [
+        "le-027"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "le-027",
+          "book_id": "literary-eats"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-028",
+      "candidates_related": [
+        "sip-and-sensibility-05-wine-infused-with-mint-thyme-sage"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-05-wine-infused-with-mint-thyme-sage",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-029",
+      "candidates_related": [
+        "sip-and-sensibility-06-conditum-paradoxum-surprise-wine"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-06-conditum-paradoxum-surprise-wine",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-030",
+      "candidates_related": [
+        "sip-and-sensibility-07-rose-petal-wine"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-07-rose-petal-wine",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-031",
+      "candidates_related": [
+        "sip-and-sensibility-08-piment-spiced-white-wine"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-08-piment-spiced-white-wine",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-032",
+      "candidates_related": [
+        "sip-and-sensibility-09-hippocras-mulled-red-wine"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-09-hippocras-mulled-red-wine",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-033",
+      "candidates_related": [
+        "sip-and-sensibility-10-lamb-s-wool"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-10-lamb-s-wool",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-034",
+      "candidates_related": [
+        "sip-and-sensibility-12-stone-fence"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-12-stone-fence",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-035",
+      "candidates_related": [
+        "sip-and-sensibility-13-negus"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-13-negus",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-036",
+      "candidates_related": [
+        "sip-and-sensibility-14-gin-twist"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-14-gin-twist",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-037",
+      "candidates_related": [
+        "sip-and-sensibility-15-pineapple-rum"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-15-pineapple-rum",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-038",
+      "candidates_related": [
+        "sip-and-sensibility-16-rum-toddy"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-16-rum-toddy",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-039",
+      "candidates_related": [
+        "sip-and-sensibility-17-smoking-bishop"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-17-smoking-bishop",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-040",
+      "candidates_related": [
+        "sip-and-sensibility-18-rum-lemon-punch"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-18-rum-lemon-punch",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-041",
+      "candidates_related": [
+        "sip-and-sensibility-19-champagne-cock-tail"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-19-champagne-cock-tail",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-042",
+      "candidates_related": [
+        "sip-and-sensibility-20-sherry-cobbler"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-20-sherry-cobbler",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-043",
+      "candidates_related": [
+        "sip-and-sensibility-21-brandy-smash"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-21-brandy-smash",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-044",
+      "candidates_related": [
+        "sip-and-sensibility-22-eye-opener"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-22-eye-opener",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-045",
+      "candidates_related": [
+        "sip-and-sensibility-23-earthquake"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-23-earthquake",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-046",
+      "candidates_related": [
+        "sip-and-sensibility-25-whiskey-soda"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-25-whiskey-soda",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-047",
+      "candidates_related": [
+        "sip-and-sensibility-26-brandy-soda"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-26-brandy-soda",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-048",
+      "candidates_related": [
+        "sip-and-sensibility-27-green-swizzle"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-27-green-swizzle",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-049",
+      "candidates_related": [
+        "sip-and-sensibility-28-mint-julep"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-28-mint-julep",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-050",
+      "candidates_related": [
+        "sip-and-sensibility-29-gin-rickey"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-29-gin-rickey",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-051",
+      "candidates_related": [
+        "sip-and-sensibility-30-bronx-cocktail"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-30-bronx-cocktail",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-052",
+      "candidates_related": [
+        "sip-and-sensibility-31-jack-rose"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-31-jack-rose",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-053",
+      "candidates_related": [
+        "sip-and-sensibility-32-hangman-s-blood"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-32-hangman-s-blood",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-054",
+      "candidates_related": [
+        "sip-and-sensibility-33-satan-s-whisker"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-33-satan-s-whisker",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-055",
+      "candidates_related": [
+        "sip-and-sensibility-34-manhattan"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-34-manhattan",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-056",
+      "candidates_related": [
+        "sip-and-sensibility-35-bourbon-coke"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-35-bourbon-coke",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-057",
+      "candidates_related": [
+        "sip-and-sensibility-36-knickerbocker-martini"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-36-knickerbocker-martini",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-058",
+      "candidates_related": [
+        "sip-and-sensibility-37-pink-gin"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-37-pink-gin",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-059",
+      "candidates_related": [
+        "sip-and-sensibility-38-sidecar"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-38-sidecar",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-060",
+      "candidates_related": [
+        "sip-and-sensibility-39-hock-seltzer"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-39-hock-seltzer",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-061",
+      "candidates_related": [
+        "sip-and-sensibility-40-champagne-cocktail"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-40-champagne-cocktail",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-062",
+      "candidates_related": [
+        "sip-and-sensibility-41-may-queen"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-41-may-queen",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-063",
+      "candidates_related": [
+        "sip-and-sensibility-42-absinthe-shaken"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-42-absinthe-shaken",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-064",
+      "candidates_related": [
+        "sip-and-sensibility-43-alexandra"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-43-alexandra",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-065",
+      "candidates_related": [
+        "sip-and-sensibility-44-beer-milkshake"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-44-beer-milkshake",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-066",
+      "candidates_related": [
+        "sip-and-sensibility-45-very-dry-martini"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-45-very-dry-martini",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-067",
+      "candidates_related": [
+        "sip-and-sensibility-46-scotch-soda"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-46-scotch-soda",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-068",
+      "candidates_related": [
+        "sip-and-sensibility-47-vesper-martini"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-47-vesper-martini",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-069",
+      "candidates_related": [
+        "sip-and-sensibility-48-gimlet"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-48-gimlet",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-070",
+      "candidates_related": [
+        "sip-and-sensibility-49-webster-f-street-lay-away-plan"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-49-webster-f-street-lay-away-plan",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-071",
+      "candidates_related": [
+        "sip-and-sensibility-50-pin"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-50-pin",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-072",
+      "candidates_related": [
+        "sip-and-sensibility-51-wine-spodiodi"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-51-wine-spodiodi",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-073",
+      "candidates_related": [
+        "sip-and-sensibility-52-daiquiri"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-52-daiquiri",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-074",
+      "candidates_related": [
+        "sip-and-sensibility-53-white-angel"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-53-white-angel",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-075",
+      "candidates_related": [
+        "sip-and-sensibility-54-gibson"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-54-gibson",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-076",
+      "candidates_related": [
+        "sip-and-sensibility-55-tom-collins"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-55-tom-collins",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-077",
+      "candidates_related": [
+        "sip-and-sensibility-56-old-fashioned"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-56-old-fashioned",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-078",
+      "candidates_related": [
+        "sip-and-sensibility-57-brandy-alexander"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-57-brandy-alexander",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-079",
+      "candidates_related": [
+        "sip-and-sensibility-58-whiskey-sour"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-58-whiskey-sour",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-080",
+      "candidates_related": [
+        "sip-and-sensibility-59-frozen-daiquiri"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-59-frozen-daiquiri",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-081",
+      "candidates_related": [
+        "sip-and-sensibility-60-gin-coconut-water"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-60-gin-coconut-water",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-082",
+      "candidates_related": [
+        "sip-and-sensibility-61-singapore-sling"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-61-singapore-sling",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-083",
+      "candidates_related": [
+        "sip-and-sensibility-62-gin-fizz"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-62-gin-fizz",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-084",
+      "candidates_related": [
+        "sip-and-sensibility-63-house-of-lords-martini"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-63-house-of-lords-martini",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-085",
+      "candidates_related": [
+        "sip-and-sensibility-64-gin-tonic"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-64-gin-tonic",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-086",
+      "candidates_related": [
+        "sip-and-sensibility-65-stinger"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-65-stinger",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-087",
+      "candidates_related": [
+        "sip-and-sensibility-66-sweet-rob-roy"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-66-sweet-rob-roy",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-088",
+      "candidates_related": [
+        "sip-and-sensibility-67-berlin-station-chief"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-67-berlin-station-chief",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-089",
+      "candidates_related": [
+        "sip-and-sensibility-68-tequila-sunrise"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-68-tequila-sunrise",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-090",
+      "candidates_related": [
+        "sip-and-sensibility-70-caudle"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-70-caudle",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-091",
+      "candidates_related": [
+        "sip-and-sensibility-71-brandy-eggnog"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-71-brandy-eggnog",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-092",
+      "candidates_related": [
+        "sip-and-sensibility-72-apple-hot-toddy"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-72-apple-hot-toddy",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-093",
+      "candidates_related": [
+        "sip-and-sensibility-73-whiskey-cock-tail"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-73-whiskey-cock-tail",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-094",
+      "candidates_related": [
+        "sip-and-sensibility-74-clover-club"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-74-clover-club",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-095",
+      "candidates_related": [
+        "sip-and-sensibility-75-horse-s-neck"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-75-horse-s-neck",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-096",
+      "candidates_related": [
+        "sip-and-sensibility-76-hot-toddy"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-76-hot-toddy",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-097",
+      "candidates_related": [
+        "sip-and-sensibility-77-pompier"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-77-pompier",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-098",
+      "candidates_related": [
+        "sip-and-sensibility-78-death-in-the-afternoon"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-78-death-in-the-afternoon",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-099",
+      "candidates_related": [
+        "sip-and-sensibility-79-spiked-lemonade"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-79-spiked-lemonade",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-100",
+      "candidates_related": [
+        "sip-and-sensibility-80-ramos-gin-fizz"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-80-ramos-gin-fizz",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-101",
+      "candidates_related": [
+        "sip-and-sensibility-81-vodka-coke"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-81-vodka-coke",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-102",
+      "candidates_related": [
+        "sip-and-sensibility-82-sonnie-boy"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-82-sonnie-boy",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-103",
+      "candidates_related": [
+        "sip-and-sensibility-83-boilermaker"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-83-boilermaker",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-104",
+      "candidates_related": [
+        "sip-and-sensibility-84-margarita"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-84-margarita",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-105",
+      "candidates_related": [
+        "sip-and-sensibility-85-screwdriver"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-85-screwdriver",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-106",
+      "candidates_related": [
+        "sip-and-sensibility-86-vodka-tonic"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-86-vodka-tonic",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-107",
+      "candidates_related": [
+        "sip-and-sensibility-87-cosmopolitan"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "sip-and-sensibility-87-cosmopolitan",
+          "book_id": "sip-and-sensibility"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-108",
+      "candidates_related": [
+        "literary-libations-001-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-109",
+      "candidates_related": [
+        "literary-libations-001-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-110",
+      "candidates_related": [
+        "literary-libations-001-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-111",
+      "candidates_related": [
+        "literary-libations-001-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-112",
+      "candidates_related": [
+        "literary-libations-001-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-113",
+      "candidates_related": [
+        "literary-libations-001-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-114",
+      "candidates_related": [
+        "literary-libations-001-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-115",
+      "candidates_related": [
+        "literary-libations-001-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-116",
+      "candidates_related": [
+        "literary-libations-001-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-117",
+      "candidates_related": [
+        "literary-libations-001-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-118",
+      "candidates_related": [
+        "literary-libations-001-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-119",
+      "candidates_related": [
+        "literary-libations-001-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-120",
+      "candidates_related": [
+        "literary-libations-001-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-121",
+      "candidates_related": [
+        "literary-libations-001-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-122",
+      "candidates_related": [
+        "literary-libations-001-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-123",
+      "candidates_related": [
+        "literary-libations-001-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-124",
+      "candidates_related": [
+        "literary-libations-001-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-125",
+      "candidates_related": [
+        "literary-libations-001-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-001-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-126",
+      "candidates_related": [
+        "literary-libations-002-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-127",
+      "candidates_related": [
+        "literary-libations-002-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-128",
+      "candidates_related": [
+        "literary-libations-002-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-129",
+      "candidates_related": [
+        "literary-libations-002-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-130",
+      "candidates_related": [
+        "literary-libations-002-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-131",
+      "candidates_related": [
+        "literary-libations-002-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-132",
+      "candidates_related": [
+        "literary-libations-002-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-133",
+      "candidates_related": [
+        "literary-libations-002-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-134",
+      "candidates_related": [
+        "literary-libations-002-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-135",
+      "candidates_related": [
+        "literary-libations-002-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-136",
+      "candidates_related": [
+        "literary-libations-002-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-137",
+      "candidates_related": [
+        "literary-libations-002-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-138",
+      "candidates_related": [
+        "literary-libations-002-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-139",
+      "candidates_related": [
+        "literary-libations-002-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-140",
+      "candidates_related": [
+        "literary-libations-002-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-141",
+      "candidates_related": [
+        "literary-libations-002-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-142",
+      "candidates_related": [
+        "literary-libations-002-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-143",
+      "candidates_related": [
+        "literary-libations-002-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-002-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-144",
+      "candidates_related": [
+        "literary-libations-003-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-145",
+      "candidates_related": [
+        "literary-libations-003-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-146",
+      "candidates_related": [
+        "literary-libations-003-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-147",
+      "candidates_related": [
+        "literary-libations-003-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-148",
+      "candidates_related": [
+        "literary-libations-003-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-149",
+      "candidates_related": [
+        "literary-libations-003-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-150",
+      "candidates_related": [
+        "literary-libations-003-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-151",
+      "candidates_related": [
+        "literary-libations-003-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-152",
+      "candidates_related": [
+        "literary-libations-003-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "promotion_ready"
+    },
+    {
+      "convergence_id": "three-books-153",
+      "candidates_related": [
+        "literary-libations-003-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-154",
+      "candidates_related": [
+        "literary-libations-003-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-155",
+      "candidates_related": [
+        "literary-libations-003-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-156",
+      "candidates_related": [
+        "literary-libations-003-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-157",
+      "candidates_related": [
+        "literary-libations-003-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-158",
+      "candidates_related": [
+        "literary-libations-003-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-159",
+      "candidates_related": [
+        "literary-libations-003-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-160",
+      "candidates_related": [
+        "literary-libations-003-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-161",
+      "candidates_related": [
+        "literary-libations-003-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-003-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-162",
+      "candidates_related": [
+        "literary-libations-004-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-163",
+      "candidates_related": [
+        "literary-libations-004-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-164",
+      "candidates_related": [
+        "literary-libations-004-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-165",
+      "candidates_related": [
+        "literary-libations-004-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-166",
+      "candidates_related": [
+        "literary-libations-004-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-167",
+      "candidates_related": [
+        "literary-libations-004-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-168",
+      "candidates_related": [
+        "literary-libations-004-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-169",
+      "candidates_related": [
+        "literary-libations-004-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-170",
+      "candidates_related": [
+        "literary-libations-004-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-171",
+      "candidates_related": [
+        "literary-libations-004-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-172",
+      "candidates_related": [
+        "literary-libations-004-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-173",
+      "candidates_related": [
+        "literary-libations-004-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-174",
+      "candidates_related": [
+        "literary-libations-004-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-175",
+      "candidates_related": [
+        "literary-libations-004-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-176",
+      "candidates_related": [
+        "literary-libations-004-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-177",
+      "candidates_related": [
+        "literary-libations-004-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-178",
+      "candidates_related": [
+        "literary-libations-004-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-179",
+      "candidates_related": [
+        "literary-libations-004-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-004-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-180",
+      "candidates_related": [
+        "literary-libations-005-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-181",
+      "candidates_related": [
+        "literary-libations-005-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-182",
+      "candidates_related": [
+        "literary-libations-005-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-183",
+      "candidates_related": [
+        "literary-libations-005-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-184",
+      "candidates_related": [
+        "literary-libations-005-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-185",
+      "candidates_related": [
+        "literary-libations-005-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-186",
+      "candidates_related": [
+        "literary-libations-005-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-187",
+      "candidates_related": [
+        "literary-libations-005-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-188",
+      "candidates_related": [
+        "literary-libations-005-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-189",
+      "candidates_related": [
+        "literary-libations-005-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-190",
+      "candidates_related": [
+        "literary-libations-005-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-191",
+      "candidates_related": [
+        "literary-libations-005-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-192",
+      "candidates_related": [
+        "literary-libations-005-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-193",
+      "candidates_related": [
+        "literary-libations-005-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-194",
+      "candidates_related": [
+        "literary-libations-005-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-195",
+      "candidates_related": [
+        "literary-libations-005-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-196",
+      "candidates_related": [
+        "literary-libations-005-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-197",
+      "candidates_related": [
+        "literary-libations-005-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-005-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-198",
+      "candidates_related": [
+        "literary-libations-006-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-199",
+      "candidates_related": [
+        "literary-libations-006-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-200",
+      "candidates_related": [
+        "literary-libations-006-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-201",
+      "candidates_related": [
+        "literary-libations-006-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-202",
+      "candidates_related": [
+        "literary-libations-006-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-203",
+      "candidates_related": [
+        "literary-libations-006-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-204",
+      "candidates_related": [
+        "literary-libations-006-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-205",
+      "candidates_related": [
+        "literary-libations-006-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-206",
+      "candidates_related": [
+        "literary-libations-006-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-207",
+      "candidates_related": [
+        "literary-libations-006-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-208",
+      "candidates_related": [
+        "literary-libations-006-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-209",
+      "candidates_related": [
+        "literary-libations-006-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-210",
+      "candidates_related": [
+        "literary-libations-006-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-211",
+      "candidates_related": [
+        "literary-libations-006-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-212",
+      "candidates_related": [
+        "literary-libations-006-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-213",
+      "candidates_related": [
+        "literary-libations-006-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-214",
+      "candidates_related": [
+        "literary-libations-006-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-215",
+      "candidates_related": [
+        "literary-libations-006-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-006-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-216",
+      "candidates_related": [
+        "literary-libations-007-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-217",
+      "candidates_related": [
+        "literary-libations-007-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-218",
+      "candidates_related": [
+        "literary-libations-007-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-219",
+      "candidates_related": [
+        "literary-libations-007-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-220",
+      "candidates_related": [
+        "literary-libations-007-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-221",
+      "candidates_related": [
+        "literary-libations-007-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-222",
+      "candidates_related": [
+        "literary-libations-007-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-223",
+      "candidates_related": [
+        "literary-libations-007-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-224",
+      "candidates_related": [
+        "literary-libations-007-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-225",
+      "candidates_related": [
+        "literary-libations-007-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-226",
+      "candidates_related": [
+        "literary-libations-007-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-227",
+      "candidates_related": [
+        "literary-libations-007-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-228",
+      "candidates_related": [
+        "literary-libations-007-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-229",
+      "candidates_related": [
+        "literary-libations-007-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-230",
+      "candidates_related": [
+        "literary-libations-007-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-231",
+      "candidates_related": [
+        "literary-libations-007-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-232",
+      "candidates_related": [
+        "literary-libations-007-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-233",
+      "candidates_related": [
+        "literary-libations-007-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-007-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-234",
+      "candidates_related": [
+        "literary-libations-008-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-235",
+      "candidates_related": [
+        "literary-libations-008-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-236",
+      "candidates_related": [
+        "literary-libations-008-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-237",
+      "candidates_related": [
+        "literary-libations-008-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-238",
+      "candidates_related": [
+        "literary-libations-008-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-239",
+      "candidates_related": [
+        "literary-libations-008-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-240",
+      "candidates_related": [
+        "literary-libations-008-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-241",
+      "candidates_related": [
+        "literary-libations-008-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-242",
+      "candidates_related": [
+        "literary-libations-008-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-243",
+      "candidates_related": [
+        "literary-libations-008-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-244",
+      "candidates_related": [
+        "literary-libations-008-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-245",
+      "candidates_related": [
+        "literary-libations-008-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-246",
+      "candidates_related": [
+        "literary-libations-008-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-247",
+      "candidates_related": [
+        "literary-libations-008-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-248",
+      "candidates_related": [
+        "literary-libations-008-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-249",
+      "candidates_related": [
+        "literary-libations-008-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-250",
+      "candidates_related": [
+        "literary-libations-008-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-251",
+      "candidates_related": [
+        "literary-libations-008-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-008-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-252",
+      "candidates_related": [
+        "literary-libations-009-01"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-01",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-253",
+      "candidates_related": [
+        "literary-libations-009-02"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-02",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-254",
+      "candidates_related": [
+        "literary-libations-009-03"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-03",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-255",
+      "candidates_related": [
+        "literary-libations-009-04"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-04",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-256",
+      "candidates_related": [
+        "literary-libations-009-05"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-05",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-257",
+      "candidates_related": [
+        "literary-libations-009-06"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-06",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-258",
+      "candidates_related": [
+        "literary-libations-009-07"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-07",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-259",
+      "candidates_related": [
+        "literary-libations-009-08"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-08",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-260",
+      "candidates_related": [
+        "literary-libations-009-09"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-09",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-261",
+      "candidates_related": [
+        "literary-libations-009-10"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-10",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-262",
+      "candidates_related": [
+        "literary-libations-009-11"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-11",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-263",
+      "candidates_related": [
+        "literary-libations-009-12"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-12",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-264",
+      "candidates_related": [
+        "literary-libations-009-13"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-13",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-265",
+      "candidates_related": [
+        "literary-libations-009-14"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-14",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-266",
+      "candidates_related": [
+        "literary-libations-009-15"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-15",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-267",
+      "candidates_related": [
+        "literary-libations-009-16"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-16",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-268",
+      "candidates_related": [
+        "literary-libations-009-17"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-17",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    },
+    {
+      "convergence_id": "three-books-269",
+      "candidates_related": [
+        "literary-libations-009-18"
+      ],
+      "similarities": [
+        "Candidato sin duplicado real dentro de las otras dos extracciones."
+      ],
+      "differences_in_basis": [
+        {
+          "candidate_id": "literary-libations-009-18",
+          "book_id": "literary-libations"
+        }
+      ],
+      "decision": "keep_separate",
+      "convergence_status": "published_provisional"
+    }
+  ]
+}

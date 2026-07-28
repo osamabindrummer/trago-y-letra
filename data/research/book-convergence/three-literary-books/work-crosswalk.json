@@ -1,0 +1,2539 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-28",
+  "entries": [
+    {
+      "titles_found": [
+        "The Long Goodbye",
+        "The Long Good-Bye"
+      ],
+      "authors_found": [
+        "Raymond Chandler"
+      ],
+      "canonical_work_id": "the-long-goodbye",
+      "canonical_title": "The Long Goodbye",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "How to Make Rhubarb Wine"
+      ],
+      "authors_found": [
+        "Ted Kooser"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Tramp Abroad"
+      ],
+      "authors_found": [
+        "Mark Twain"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "From the Tomb of Scorpion I"
+      ],
+      "authors_found": [
+        "Autor no identificado"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Apicius"
+      ],
+      "authors_found": [
+        "Anónimo"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Perceval, the Story of the Grail"
+      ],
+      "authors_found": [
+        "Chrétien de Troyes"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "This Is the Boke of Cokery"
+      ],
+      "authors_found": [
+        "Anónimo"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Diary of Samuel Pepys"
+      ],
+      "authors_found": [
+        "Samuel Pepys"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A History of New York"
+      ],
+      "authors_found": [
+        "Washington Irving"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Mansfield Park"
+      ],
+      "authors_found": [
+        "Jane Austen"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Saint Ronan’s Well"
+      ],
+      "authors_found": [
+        "Sir Walter Scott"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Pickwick Papers"
+      ],
+      "authors_found": [
+        "Charles Dickens"
+      ],
+      "canonical_work_id": "the-pickwick-papers",
+      "canonical_title": "The Pickwick Papers",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Martin Chuzzlewit"
+      ],
+      "authors_found": [
+        "Charles Dickens"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "A Christmas Carol"
+      ],
+      "authors_found": [
+        "Charles Dickens"
+      ],
+      "canonical_work_id": "a-christmas-carol",
+      "canonical_title": "A Christmas Carol",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "David Copperfield"
+      ],
+      "authors_found": [
+        "Charles Dickens"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "The Innocents Abroad"
+      ],
+      "authors_found": [
+        "Mark Twain"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Aunt and the Sluggard"
+      ],
+      "authors_found": [
+        "P. G. Wodehouse"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Inimitable Jeeves"
+      ],
+      "authors_found": [
+        "P. G. Wodehouse"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Rummy Affair of Old Biffy"
+      ],
+      "authors_found": [
+        "P. G. Wodehouse"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Great Gatsby"
+      ],
+      "authors_found": [
+        "F. Scott Fitzgerald"
+      ],
+      "canonical_work_id": "the-great-gatsby",
+      "canonical_title": "The Great Gatsby",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "The Sun Also Rises"
+      ],
+      "authors_found": [
+        "Ernest Hemingway"
+      ],
+      "canonical_work_id": "the-sun-also-rises",
+      "canonical_title": "The Sun Also Rises",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "A High Wind in Jamaica"
+      ],
+      "authors_found": [
+        "Richard Hughes"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Black Coffee"
+      ],
+      "authors_found": [
+        "Agatha Christie"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Glass Key"
+      ],
+      "authors_found": [
+        "Dashiell Hammett"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "The Postman Always Rings Twice"
+      ],
+      "authors_found": [
+        "James M. Cain"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Thin Man"
+      ],
+      "authors_found": [
+        "Dashiell Hammett"
+      ],
+      "canonical_work_id": "the-thin-man",
+      "canonical_title": "The Thin Man",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Three Act Tragedy"
+      ],
+      "authors_found": [
+        "Agatha Christie"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Trinity Town"
+      ],
+      "authors_found": [
+        "Norman Collins"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Arrest of Oscar Wilde at the Cadogan Hotel"
+      ],
+      "authors_found": [
+        "John Betjeman"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Big Sleep"
+      ],
+      "authors_found": [
+        "Raymond Chandler"
+      ],
+      "canonical_work_id": "the-big-sleep",
+      "canonical_title": "The Big Sleep",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Uncle Fred in the Springtime"
+      ],
+      "authors_found": [
+        "P. G. Wodehouse"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "For Whom the Bell Tolls"
+      ],
+      "authors_found": [
+        "Ernest Hemingway"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "Brideshead Revisited"
+      ],
+      "authors_found": [
+        "Evelyn Waugh"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Cannery Row"
+      ],
+      "authors_found": [
+        "John Steinbeck"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Catcher in the Rye"
+      ],
+      "authors_found": [
+        "J. D. Salinger"
+      ],
+      "canonical_work_id": "the-catcher-in-the-rye",
+      "canonical_title": "The Catcher in the Rye",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Casino Royale"
+      ],
+      "authors_found": [
+        "Ian Fleming"
+      ],
+      "canonical_work_id": "casino-royale",
+      "canonical_title": "Casino Royale",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Sweet Thursday"
+      ],
+      "authors_found": [
+        "John Steinbeck"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Lolita"
+      ],
+      "authors_found": [
+        "Vladimir Nabokov"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "On the Road"
+      ],
+      "authors_found": [
+        "Jack Kerouac"
+      ],
+      "canonical_work_id": "on-the-road",
+      "canonical_title": "On the Road",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Our Man in Havana"
+      ],
+      "authors_found": [
+        "Graham Greene"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Breakfast at Tiffany’s"
+      ],
+      "authors_found": [
+        "Truman Capote"
+      ],
+      "canonical_work_id": "breakfast-at-tiffanys",
+      "canonical_title": "Breakfast at Tiffany's",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Playback"
+      ],
+      "authors_found": [
+        "Raymond Chandler"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "The Small Rain"
+      ],
+      "authors_found": [
+        "Thomas Pynchon"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Rabbit, Run"
+      ],
+      "authors_found": [
+        "John Updike"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Who’s Afraid of Virginia Woolf?"
+      ],
+      "authors_found": [
+        "Edward Albee"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Crying of Lot 49"
+      ],
+      "authors_found": [
+        "Thomas Pynchon"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Islands in the Stream"
+      ],
+      "authors_found": [
+        "Ernest Hemingway"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "Fear and Loathing in Las Vegas"
+      ],
+      "authors_found": [
+        "Hunter S. Thompson"
+      ],
+      "canonical_work_id": "fear-and-loathing-in-las-vegas",
+      "canonical_title": "Fear and Loathing in Las Vegas",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Love in the Ruins"
+      ],
+      "authors_found": [
+        "Walker Percy"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Breakfast of Champions"
+      ],
+      "authors_found": [
+        "Kurt Vonnegut"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Sympathy in White Major"
+      ],
+      "authors_found": [
+        "Philip Larkin"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Rabbit Is Rich"
+      ],
+      "authors_found": [
+        "John Updike"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Hocus Pocus"
+      ],
+      "authors_found": [
+        "Kurt Vonnegut"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Harlot’s Ghost"
+      ],
+      "authors_found": [
+        "Norman Mailer"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Bleeding Edge"
+      ],
+      "authors_found": [
+        "Thomas Pynchon"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Odyssey"
+      ],
+      "authors_found": [
+        "Homer"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Hamlet"
+      ],
+      "authors_found": [
+        "William Shakespeare"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Ingenious Gentleman Don Quixote of La Mancha"
+      ],
+      "authors_found": [
+        "Miguel De Cervantes Saavedra"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Gulliver’s Travels"
+      ],
+      "authors_found": [
+        "Jonathan Swift"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Candide"
+      ],
+      "authors_found": [
+        "Voltaire"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Count of Monte Cristo"
+      ],
+      "authors_found": [
+        "Alexandre Dumas"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Wuthering Heights"
+      ],
+      "authors_found": [
+        "Emily Brontë"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Madame Bovary"
+      ],
+      "authors_found": [
+        "Gustave Flaubert"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Tale of Two Cities"
+      ],
+      "authors_found": [
+        "Charles Dickens"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "new_work",
+      "reason": "El catálogo no contiene la obra y la extracción no aporta todos los campos canónicos exigidos."
+    },
+    {
+      "titles_found": [
+        "Les Miserables"
+      ],
+      "authors_found": [
+        "Victor Hugo"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "War and Peace"
+      ],
+      "authors_found": [
+        "Leo Tolstoy"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Heart of Darkness"
+      ],
+      "authors_found": [
+        "Joseph Conrad"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Brothers Karamazov"
+      ],
+      "authors_found": [
+        "Fyodor Dostoyevsky"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Picture of Dorian Gray"
+      ],
+      "authors_found": [
+        "Oscar Wilde"
+      ],
+      "canonical_work_id": "the-picture-of-dorian-gray",
+      "canonical_title": "The Picture of Dorian Gray",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "The Metamorphosis"
+      ],
+      "authors_found": [
+        "Franz Kafka"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Ulysses"
+      ],
+      "authors_found": [
+        "James Joyce"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Mrs. Dalloway"
+      ],
+      "authors_found": [
+        "Virginia Woolf"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Lolita"
+      ],
+      "authors_found": [
+        "Vladmir Nabokov"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Moby-Dick"
+      ],
+      "authors_found": [
+        "Herman Melville"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Adventures of Huckleberry Finn"
+      ],
+      "authors_found": [
+        "Mark Twain"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Sound and the Fury"
+      ],
+      "authors_found": [
+        "William Faulkner"
+      ],
+      "canonical_work_id": "the-sound-and-the-fury",
+      "canonical_title": "The Sound and the Fury",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "The Grapes of Wrath"
+      ],
+      "authors_found": [
+        "John Steinbeck"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Their Eyes Were Watching God"
+      ],
+      "authors_found": [
+        "Zora Neale Hurston"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Gone with the Wind"
+      ],
+      "authors_found": [
+        "Margaret Mitchell"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Invisible Man"
+      ],
+      "authors_found": [
+        "Ralph Ellison"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Fahrenheit 451"
+      ],
+      "authors_found": [
+        "Ray Bradbury"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "To Kill a Mockingbird"
+      ],
+      "authors_found": [
+        "Harper Lee"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Catch-22"
+      ],
+      "authors_found": [
+        "Joseph Heller"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Bell Jar"
+      ],
+      "authors_found": [
+        "Sylvia Plath"
+      ],
+      "canonical_work_id": "the-bell-jar",
+      "canonical_title": "The Bell Jar",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "Slaughterhouse-Five"
+      ],
+      "authors_found": [
+        "Kurt Vonnegut"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Beloved"
+      ],
+      "authors_found": [
+        "Toni Morrison"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Confederacy of Dunces"
+      ],
+      "authors_found": [
+        "John Kennedy Toole"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Crime and Punishment"
+      ],
+      "authors_found": [
+        "Fyodor Dostoyevsky"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Study in Scarlet"
+      ],
+      "authors_found": [
+        "Sir Arthur Conan Doyle"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "And Then There Were None"
+      ],
+      "authors_found": [
+        "Agatha Christie"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Talented Mr. Ripley"
+      ],
+      "authors_found": [
+        "Patricia Highsmith"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Spy Who Came in from the Cold"
+      ],
+      "authors_found": [
+        "John Le Carre"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "In Cold Blood"
+      ],
+      "authors_found": [
+        "Truman Capote"
+      ],
+      "canonical_work_id": "in-cold-blood",
+      "canonical_title": "In Cold Blood",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "The Shining"
+      ],
+      "authors_found": [
+        "Stephen King"
+      ],
+      "canonical_work_id": "the-shining",
+      "canonical_title": "The Shining",
+      "decision": "existing_work",
+      "reason": "Coincidencia exacta de título dentro del autor canónico."
+    },
+    {
+      "titles_found": [
+        "The Key to Rebecca"
+      ],
+      "authors_found": [
+        "Ken Follett"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Red Dragon"
+      ],
+      "authors_found": [
+        "Thomas Harris"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Along Came a Spider"
+      ],
+      "authors_found": [
+        "James Patterson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Killing Floor"
+      ],
+      "authors_found": [
+        "Lee Child"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Tell No One"
+      ],
+      "authors_found": [
+        "Harlan Coben"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Lovely Bones"
+      ],
+      "authors_found": [
+        "Alice Sebold"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Da Vinci Code"
+      ],
+      "authors_found": [
+        "Dan Brown"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Girl with the Dragon Tattoo"
+      ],
+      "authors_found": [
+        "Stieg Larsson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Gone Girl"
+      ],
+      "authors_found": [
+        "Gillian Flynn"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Frankenstein"
+      ],
+      "authors_found": [
+        "Mary Shelley"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Strange Case of Dr. Jekyll and Mr. Hyde"
+      ],
+      "authors_found": [
+        "Robert Louis Stevenson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Time Machine"
+      ],
+      "authors_found": [
+        "H. G. Wells"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Brave New World"
+      ],
+      "authors_found": [
+        "Aldous Huxley"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "1984"
+      ],
+      "authors_found": [
+        "George Orwell"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "I, Robot"
+      ],
+      "authors_found": [
+        "Isaac Asimov"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Childhood’s End"
+      ],
+      "authors_found": [
+        "Arthur C. Clarke"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Stranger in a Strange Land"
+      ],
+      "authors_found": [
+        "Robert Heinlein"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Clockwork Orange"
+      ],
+      "authors_found": [
+        "Anthony Burgess"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Dune"
+      ],
+      "authors_found": [
+        "Frank Herbert"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Left Hand of Darkness"
+      ],
+      "authors_found": [
+        "Ursula K. Le Guin"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Scanner Darkly"
+      ],
+      "authors_found": [
+        "Philip K. Dick"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Hitchhiker’s Guide to the Galaxy"
+      ],
+      "authors_found": [
+        "Douglas Adams"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Neuromancer"
+      ],
+      "authors_found": [
+        "William Gibson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Ender’s Game"
+      ],
+      "authors_found": [
+        "Orson Scott Card"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Children of Men"
+      ],
+      "authors_found": [
+        "P. D. James"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Snow Crash"
+      ],
+      "authors_found": [
+        "Neal Stephenson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Ready Player One"
+      ],
+      "authors_found": [
+        "Ernest Cline"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Dracula"
+      ],
+      "authors_found": [
+        "Bram Stoker"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Fellowship of the Ring"
+      ],
+      "authors_found": [
+        "J. R. R. Tolkien"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Once and Future King"
+      ],
+      "authors_found": [
+        "T. H. White"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Dragonflight"
+      ],
+      "authors_found": [
+        "Anne Mccaffrey"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Interview with the Vampire"
+      ],
+      "authors_found": [
+        "Anne Rice"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Sword of Shannara"
+      ],
+      "authors_found": [
+        "Terry Brooks"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Mists of Avalon"
+      ],
+      "authors_found": [
+        "Marion Zimmer Bradley"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Mort"
+      ],
+      "authors_found": [
+        "Terry Pratchett"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Eye of the World"
+      ],
+      "authors_found": [
+        "Robert Jordan"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Assassin’s Apprentice"
+      ],
+      "authors_found": [
+        "Robin Hobb"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Game of Thrones"
+      ],
+      "authors_found": [
+        "George R. R. Martin"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Storm Front"
+      ],
+      "authors_found": [
+        "Jim Butcher"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "American Gods"
+      ],
+      "authors_found": [
+        "Neil Gaiman"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Jonathan Strange and Mr. Norell"
+      ],
+      "authors_found": [
+        "Susanna Clarke"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Name of the Wind"
+      ],
+      "authors_found": [
+        "Patrick Rothfuss"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Way of Kings"
+      ],
+      "authors_found": [
+        "Brandon Sanderson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Discovery of Witches"
+      ],
+      "authors_found": [
+        "Deborah Harkness"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Night Circus"
+      ],
+      "authors_found": [
+        "Erin Morgenstern"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Romeo and Juliet"
+      ],
+      "authors_found": [
+        "William Shakespeare"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Pride and Prejudice"
+      ],
+      "authors_found": [
+        "Jane Austen"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Jane Eyre"
+      ],
+      "authors_found": [
+        "Charlotte Brontë"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Anna Karenina"
+      ],
+      "authors_found": [
+        "Leo Tolstoy"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Lady Chatterley’s Lover"
+      ],
+      "authors_found": [
+        "D. H. Lawrence"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Rebecca"
+      ],
+      "authors_found": [
+        "Daphne De Maurier"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Doctor Zhivago"
+      ],
+      "authors_found": [
+        "Boris Pasternak"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Princess Bride"
+      ],
+      "authors_found": [
+        "William Goldman"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Outlander"
+      ],
+      "authors_found": [
+        "Diana Galbaldon"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Bridget Jones’s Diary"
+      ],
+      "authors_found": [
+        "Helen Fielding"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Notebook"
+      ],
+      "authors_found": [
+        "Nicholas Sparks"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Carolina Moon"
+      ],
+      "authors_found": [
+        "Nora Roberts"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Time Traveler’s Wife"
+      ],
+      "authors_found": [
+        "Audrey Niffenegger"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Twilight"
+      ],
+      "authors_found": [
+        "Stephanie Meyer"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "If I Stay"
+      ],
+      "authors_found": [
+        "Gayle Foreman"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Water for Elephants"
+      ],
+      "authors_found": [
+        "Sara Gruen"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Fifty Shades of Grey"
+      ],
+      "authors_found": [
+        "E. L. James"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Fault in Our Stars"
+      ],
+      "authors_found": [
+        "John Green"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "One Hundred Years of Solitude"
+      ],
+      "authors_found": [
+        "Gabriel Garcia Marquez"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Name of the Rose"
+      ],
+      "authors_found": [
+        "Umberto Eco"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Blood Meridian"
+      ],
+      "authors_found": [
+        "Cormac Mccarthy"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Cider House Rules"
+      ],
+      "authors_found": [
+        "John Irving"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Handmaid’s Tale"
+      ],
+      "authors_found": [
+        "Margaret Atwood"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Strong Motion"
+      ],
+      "authors_found": [
+        "Jonathan Franzen"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Secret History"
+      ],
+      "authors_found": [
+        "Donna Tartt"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Infinite Jest"
+      ],
+      "authors_found": [
+        "David Foster Wallace"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Fight Club"
+      ],
+      "authors_found": [
+        "Chuck Palahniuk"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Red Tent"
+      ],
+      "authors_found": [
+        "Anita Diamant"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Underworld"
+      ],
+      "authors_found": [
+        "Don Delillo"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Poisonwood Bible"
+      ],
+      "authors_found": [
+        "Barbara Kingsolver"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Life of Pi"
+      ],
+      "authors_found": [
+        "Yann Martel"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Kite Runner"
+      ],
+      "authors_found": [
+        "Khaled Hosseini"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Namesake"
+      ],
+      "authors_found": [
+        "Jhumpa Lahiri"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Snow Flower and the Secret Fan"
+      ],
+      "authors_found": [
+        "Lisa See"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Brief Wondrous Life of Oscar Wao"
+      ],
+      "authors_found": [
+        "Junot Díaz"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "1Q84"
+      ],
+      "authors_found": [
+        "Haruki Murakami"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Call of the Wild"
+      ],
+      "authors_found": [
+        "Jack London"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Johnny Tremain"
+      ],
+      "authors_found": [
+        "Esther Forbes"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Tree Grows in Brooklyn"
+      ],
+      "authors_found": [
+        "Betty Smith"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Lord of the Flies"
+      ],
+      "authors_found": [
+        "William Golding"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Wrinkle in Time"
+      ],
+      "authors_found": [
+        "Madeline L’Engle"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Go Ask Alice"
+      ],
+      "authors_found": [
+        "Beatrice Sparks"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Blue Sword"
+      ],
+      "authors_found": [
+        "Robin Mckinley"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Redwall"
+      ],
+      "authors_found": [
+        "Brian Jacques"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Giver"
+      ],
+      "authors_found": [
+        "Lois Lowry"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Parable of the Sower"
+      ],
+      "authors_found": [
+        "Octavia E. Butler"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Sabriel"
+      ],
+      "authors_found": [
+        "Garth Nix"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Harry Potter and the Sorcerer’s Stone"
+      ],
+      "authors_found": [
+        "J. K. Rowling"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Holes"
+      ],
+      "authors_found": [
+        "Louis Sachar"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Perks of Being a Wallflower"
+      ],
+      "authors_found": [
+        "Stephen Chbosky"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Speak"
+      ],
+      "authors_found": [
+        "Laurie Halse Anderson"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Sisterhood of the Traveling Pants"
+      ],
+      "authors_found": [
+        "Ann Brashares"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Truth About Forever"
+      ],
+      "authors_found": [
+        "Sarah Dessen"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Hunger Games"
+      ],
+      "authors_found": [
+        "Suzanne Collins"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "A Visit from St. Nicholas"
+      ],
+      "authors_found": [
+        "Clement Clarke Moore"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Alice’s Adventures in Wonderland"
+      ],
+      "authors_found": [
+        "Lewis Carroll"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Secret Garden"
+      ],
+      "authors_found": [
+        "Frances Hodgson Burnett"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Story of Ferdinand"
+      ],
+      "authors_found": [
+        "Munro Leaf"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Little Prince"
+      ],
+      "authors_found": [
+        "Antoine De Saint-Exupéry"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Goodnight Moon"
+      ],
+      "authors_found": [
+        "Margaret Wise Brown And Clement Hurd"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Lion, the Witch and the Wardrobe"
+      ],
+      "authors_found": [
+        "C. S. Lewis"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Charlotte’s Web"
+      ],
+      "authors_found": [
+        "E. B. White"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Phantom Tollbooth"
+      ],
+      "authors_found": [
+        "Norman Juster"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Where the Wild Things Are"
+      ],
+      "authors_found": [
+        "Maurice Sendak"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "Charlie and the Chocolate Factory"
+      ],
+      "authors_found": [
+        "Roald Dahl"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Giving Tree"
+      ],
+      "authors_found": [
+        "Shel Silverstein"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Very Hungry Caterpillar"
+      ],
+      "authors_found": [
+        "Eric Carle"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Lorax"
+      ],
+      "authors_found": [
+        "Dr. Seuss"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "If You Give a Mouse a Cookie"
+      ],
+      "authors_found": [
+        "Laura Joffe Numeroff"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Golden Compass"
+      ],
+      "authors_found": [
+        "Philip Pullman"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Bad Beginning"
+      ],
+      "authors_found": [
+        "Lemony Snicket"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    },
+    {
+      "titles_found": [
+        "The Book Thief"
+      ],
+      "authors_found": [
+        "Markus Zusak"
+      ],
+      "canonical_work_id": null,
+      "canonical_title": null,
+      "decision": "ambiguous_or_new_author",
+      "reason": "No se puede resolver la obra antes de resolver la identidad autoral."
+    }
+  ]
+}
