@@ -110,6 +110,12 @@ describe('contrato expansivo de fichas', () => {
     const { container } = render(<AuthorSheet author={author} onClose={() => undefined} />)
     const sheet = within(container)
     expect(sheet.getByRole('heading', { name: 'Anchor Steam Beer' })).toBeInTheDocument()
-    expect(sheet.getByText('Sirve bien fría en un vaso limpio.')).toBeInTheDocument()
+    expect(sheet.getByText('Vierte 330 ml en un vaso limpio, dejando espacio para espuma.')).toBeInTheDocument()
+  })
+
+  it('mantiene las recomendaciones como invitaciones lúdicas sin defensas metodológicas', () => {
+    const recommendations = content.authors.flatMap((author) => author.recommendations)
+    const defensas = /no se (atribuye|presenta|infiere)|no afirma|no constituye|sin convertir/i
+    expect(recommendations.some((recommendation) => defensas.test(recommendation.explanation_es))).toBe(false)
   })
 })

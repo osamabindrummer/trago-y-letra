@@ -51,7 +51,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "appears_in_work",
           "headline_es": "Whisky escocés para Hazel Morse",
-          "explanation_es": "En Big Blonde, Hazel Morse decide que el whisky escocés es la bebida que mejor tolera. Una elección que acompaña el malestar de la protagonista.",
+          "explanation_es": "En Rubia grande, Whisky escocés entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-parker-scotch"
@@ -113,7 +113,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-sour",
           "relationship_type": "circulating_anecdote",
           "headline_es": "La acidez de un Whiskey Sour",
-          "explanation_es": "Varias listas asocian a Dorothy Parker con el Whiskey Sour: directo, ácido y con el golpe justo para su leyenda mordaz.",
+          "explanation_es": "Whiskey Sour para Dorothy Parker: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-parker-whiskey-sour-tasting-table",
@@ -247,7 +247,7 @@ export const content: PublicCatalog = {
           "drink_id": "martini-seco",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Dos Martinis, como máximo",
-          "explanation_es": "El Martini aparece repetidamente unido a Parker y a los versos que juegan con la progresión de una noche de copas.",
+          "explanation_es": "Martini seco para Dorothy Parker: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-parker-martini-abv-project",
@@ -419,7 +419,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "appears_in_work",
           "headline_es": "Tres cervezas y una visita",
-          "explanation_es": "En el poema I Am Visited by an Editor and a Poet, la voz bebe tres cervezas durante la visita de un editor y un poeta.",
+          "explanation_es": "En Me visita un editor y un poeta, Cerveza entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bukowski-cerveza"
@@ -480,7 +480,7 @@ export const content: PublicCatalog = {
           "drink_id": "boilermaker",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Cerveza con un golpe de bourbon",
-          "explanation_es": "Las listas coinciden en el Boilermaker como asociación de Bukowski: una cerveza acompañada por un vaso corto de whiskey.",
+          "explanation_es": "Boilermaker para Charles Bukowski: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bukowski-boilermaker-daily-meal",
@@ -629,7 +629,7 @@ export const content: PublicCatalog = {
           "drink_id": "boilermaker",
           "relationship_type": "author_documented",
           "headline_es": "Boilermaker atribuido a Bukowski",
-          "explanation_es": "Sip and Sensibility atribuye a Charles Bukowski una relación personal con Boilermaker; se mantiene separada de la asociación circulante existente.",
+          "explanation_es": "Boilermaker acompaña una conexión documentada con Charles Bukowski.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-charles-bukowski-boilermaker-sip-and-sensibility"
@@ -737,7 +737,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "appears_in_work",
           "headline_es": "Cerveza para conversar",
-          "explanation_es": "En On the Road, Sal Paradise y Dean Moriarty salen a tomar cerveza para conversar.",
+          "explanation_es": "En En el camino, Cerveza entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-cerveza"
@@ -797,7 +797,7 @@ export const content: PublicCatalog = {
           "drink_id": "margarita-mezcal",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Una Margarita para salir a la carretera",
-          "explanation_es": "Las listas relacionan los viajes mexicanos de Kerouac con una Margarita de perfil ahumado, preparada con mezcal.",
+          "explanation_es": "Margarita de mezcal para Jack Kerouac: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-margarita-tasting-table",
@@ -997,7 +997,7 @@ export const content: PublicCatalog = {
           "drink_id": "wine-spodiodi",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Oporto y whiskey en el camino",
-          "explanation_es": "AbeBooks recoge el Wine Spodiodi de On the Road: Oporto y whiskey en una combinación tan improvisada como el viaje.",
+          "explanation_es": "Wine Spodiodi para Jack Kerouac: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-wine-spodiodi-abebooks"
@@ -1059,7 +1059,7 @@ export const content: PublicCatalog = {
           "drink_id": "wine-spodiodi",
           "relationship_type": "appears_in_work",
           "headline_es": "Wine Spodiodi en On the Road",
-          "explanation_es": "Wine Spodiodi aparece o es mencionado en On the Road. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de Jack Kerouac.",
+          "explanation_es": "En En el camino, Wine Spodiodi entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-51-wine-spodiodi"
@@ -1124,7 +1124,7 @@ export const content: PublicCatalog = {
           "drink_id": "anchor-steam-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Una Steam Beer para On the Road",
-          "explanation_es": "Literary Libations propone Anchor Steam Beer para acompañar On the Road. Se publica como maridaje editorial y no como preferencia atribuida a Kerouac.",
+          "explanation_es": "Para En el camino, Anchor Steam Beer: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-anchor-steam-editorial"
@@ -1142,10 +1142,12 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve bien fría en un vaso limpio."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
             "glassware": "Vaso de cerveza",
-            "recipe_note": "Producto servido directamente; no se atribuye una receta propia ni histórica.",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -1179,7 +1181,7 @@ export const content: PublicCatalog = {
           "drink_id": "margarita",
           "relationship_type": "author_documented",
           "headline_es": "Margarita atribuida a Kerouac",
-          "explanation_es": "Sip and Sensibility atribuye a Jack Kerouac una relación personal con Margarita; la propuesta no la confunde con la Margarita de mezcal ya catalogada.",
+          "explanation_es": "Margarita acompaña una conexión documentada con Jack Kerouac.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-jack-kerouac-margarita-sip-and-sensibility"
@@ -1290,7 +1292,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-rickey",
           "relationship_type": "appears_in_work",
           "headline_es": "Cuatro gin rickeys antes de la tensión",
-          "explanation_es": "En el capítulo 7 de The Great Gatsby, Tom Buchanan vuelve con cuatro gin rickeys para Gatsby, Nick, Daisy y Jordan. La bebida les acompaña en una escena de tensión en la casa Buchanan.",
+          "explanation_es": "En El gran Gatsby, Gin Rickey entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-fitzgerald-gin-rickey",
@@ -1387,7 +1389,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Mint Julep para bajar la temperatura",
-          "explanation_es": "En The Great Gatsby, Daisy ofrece preparar un Mint Julep durante la discusión sofocante en el Plaza.",
+          "explanation_es": "Mint Julep para F. Scott Fitzgerald: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-fitzgerald-mint-julep-lifestyle-asia",
@@ -1493,7 +1495,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "appears_in_work",
           "headline_es": "Mint Julep en The Great Gatsby",
-          "explanation_es": "Mint Julep aparece o es mencionado en The Great Gatsby. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de F. Scott Fitzgerald.",
+          "explanation_es": "En El gran Gatsby, Mint Julep entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-28-mint-julep"
@@ -1558,7 +1560,7 @@ export const content: PublicCatalog = {
           "drink_id": "bronx-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bronx Cocktail para The Great Gatsby",
-          "explanation_es": "Sip and Sensibility propone este Bronx Cocktail como maridaje editorial para The Great Gatsby; no afirma que aparezca en la novela ni que Fitzgerald lo bebiera.",
+          "explanation_es": "Para El gran Gatsby, Bronx Cocktail: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-f-scott-fitzgerald-bronx-cocktail-sip-and-sensibility"
@@ -1628,7 +1630,7 @@ export const content: PublicCatalog = {
           "drink_id": "french-75",
           "relationship_type": "editorial_pairing",
           "headline_es": "F. Scott Fitzgerald y French 75 como maridaje editorial",
-          "explanation_es": "Literary Libations propone French 75 para acompañar The Great Gatsby. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a F. Scott Fitzgerald.",
+          "explanation_es": "Para El gran Gatsby, French 75: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-128"
@@ -1734,7 +1736,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Un toddy para Caroline Compson",
-          "explanation_es": "En The Sound and the Fury, el tío Maury propone preparar un toddy a Caroline Compson para calmar su inquietud.",
+          "explanation_es": "En El ruido y la furia, Toddy caliente entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-faulkner-toddy"
@@ -1811,7 +1813,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Julep sureño para Faulkner",
-          "explanation_es": "Varias páginas presentan el Mint Julep de bourbon, azúcar y menta como la bebida característica de William Faulkner.",
+          "explanation_es": "Mint Julep para William Faulkner: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-faulkner-mint-julep-daily-meal",
@@ -1983,7 +1985,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "author_documented",
           "headline_es": "Toddy caliente documentado por la fuente",
-          "explanation_es": "La sobrina de Faulkner recordó que él preparaba Hot Toddies con bourbon para familiares enfermos. La formulación se limita a lo que afirma Literary Eats, sin convertirlo en una preferencia más fuerte.",
+          "explanation_es": "Toddy caliente acompaña una conexión documentada con William Faulkner.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-le-005",
@@ -2086,7 +2088,7 @@ export const content: PublicCatalog = {
           "drink_id": "old-fashioned",
           "relationship_type": "editorial_pairing",
           "headline_es": "William Faulkner y Old-Fashioned como maridaje editorial",
-          "explanation_es": "Literary Libations propone Old-Fashioned para acompañar The Sound and the Fury. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a William Faulkner.",
+          "explanation_es": "Para El ruido y la furia, Old Fashioned: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-129"
@@ -2196,7 +2198,7 @@ export const content: PublicCatalog = {
           "drink_id": "manhattan",
           "relationship_type": "appears_in_work",
           "headline_es": "El Manhattan del escritorio de Sam Spade",
-          "explanation_es": "En The Maltese Falcon, Sam Spade saca del cajón de su escritorio un Manhattan embotellado y un vaso de papel después de reunirse con Joel Cairo.",
+          "explanation_es": "En El halcón maltés, Manhattan entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-hammett-manhattan"
@@ -2267,7 +2269,7 @@ export const content: PublicCatalog = {
           "drink_id": "manhattan",
           "relationship_type": "appears_in_work",
           "headline_es": "Un Manhattan en The Glass Key",
-          "explanation_es": "Sip and Sensibility identifica un pedido de Manhattan en The Glass Key. La recomendación se basa en esa aparición narrativa, no en una preferencia de Hammett.",
+          "explanation_es": "En The Glass Key, Manhattan entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hammett-manhattan-glass-key"
@@ -2339,7 +2341,7 @@ export const content: PublicCatalog = {
           "drink_id": "knickerbocker-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Knickerbocker Martini para The Thin Man",
-          "explanation_es": "Sip and Sensibility propone este Knickerbocker Martini como maridaje editorial para The Thin Man; no afirma que sea una bebida de la obra o de Hammett.",
+          "explanation_es": "Para La delgada línea, Knickerbocker Martini: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-dashiell-hammett-knickerbocker-martini-sip-and-sensibility"
@@ -2450,7 +2452,7 @@ export const content: PublicCatalog = {
           "drink_id": "gimlet",
           "relationship_type": "appears_in_work",
           "headline_es": "Gimlets en el bar Victor's",
-          "explanation_es": "En The Long Goodbye, Philip Marlowe y Terry Lennox beben gimlets en el bar Victor's. Entre copa y copa, Lennox explica su proporción de ginebra y cordial de lima.",
+          "explanation_es": "En El largo adiós, Gimlet entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-chandler-gimlet",
@@ -2565,7 +2567,7 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Brandy bajo una capa de champaña",
-          "explanation_es": "AbeBooks rescata la preferencia de General Sternwood en The Big Sleep: champaña helada sobre un tercio de brandy.",
+          "explanation_es": "Champagne Cocktail para Raymond Chandler: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chandler-champagne-cocktail-abebooks"
@@ -2626,7 +2628,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Una cerveza con destino inesperado",
-          "explanation_es": "Bibliotopia atribuye a Chandler una broma sobre salir a beber una cerveza y despertar en Singapur con barba completa.",
+          "explanation_es": "Cerveza para Raymond Chandler: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chandler-beer-singapore-libro-bibliotopia"
@@ -2689,7 +2691,7 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "appears_in_work",
           "headline_es": "Champagne Cocktail en The Big Sleep",
-          "explanation_es": "Champagne Cocktail aparece o es mencionado en The Big Sleep. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de Raymond Chandler.",
+          "explanation_es": "En El sueño eterno, Champagne Cocktail entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-40-champagne-cocktail"
@@ -2754,7 +2756,7 @@ export const content: PublicCatalog = {
           "drink_id": "gimlet",
           "relationship_type": "editorial_pairing",
           "headline_es": "Gimlet como maridaje editorial",
-          "explanation_es": "Makansi recomienda The Gimlet para acompañar The Big Sleep. Se publica exclusivamente como maridaje editorial para The Big Sleep; no atribuye Gimlet a Raymond Chandler ni confirma una aparición textual.",
+          "explanation_es": "Para El sueño eterno, Gimlet: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-003-04"
@@ -2824,7 +2826,7 @@ export const content: PublicCatalog = {
           "drink_id": "gibson",
           "relationship_type": "appears_in_work",
           "headline_es": "Marlowe pide un Gibson en Playback",
-          "explanation_es": "Sip and Sensibility sitúa un pedido de Gibson de Philip Marlowe en Playback. La recomendación describe al personaje y la escena, no a Chandler.",
+          "explanation_es": "En Playback, un Gibson entra en escena con el estilo seco de Marlowe.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chandler-gibson-playback"
@@ -2934,7 +2936,7 @@ export const content: PublicCatalog = {
           "drink_id": "absenta-con-agua",
           "relationship_type": "appears_in_work",
           "headline_es": "Absenta en la última noche de fiesta",
-          "explanation_es": "En The Sun Also Rises, Jake Barnes bebe absenta sin azúcar mientras observa la última noche de la fiesta de Pamplona.",
+          "explanation_es": "En Fiesta, Absenta con agua entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-hemingway-absenta"
@@ -3001,7 +3003,7 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri-hemingway",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Daiquiri a la medida de Papa",
-          "explanation_es": "Las páginas cuentan que El Floridita adaptó el Daiquiri al gusto de Hemingway: doble ron, sin azúcar, con lima, pomelo y maraschino.",
+          "explanation_es": "Daiquiri Hemingway para Ernest Hemingway: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-daiquiri-tasting-table",
@@ -3162,7 +3164,7 @@ export const content: PublicCatalog = {
           "drink_id": "mojito",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El Mojito de La Bodeguita",
-          "explanation_es": "Varias listas hacen circular el Mojito como una de las bebidas asociadas con Hemingway y con sus temporadas habaneras.",
+          "explanation_es": "Mojito para Ernest Hemingway: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-mojito-aoide",
@@ -3278,7 +3280,7 @@ export const content: PublicCatalog = {
           "drink_id": "martini-seco",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Martini casi sin vermut",
-          "explanation_es": "La anécdota describe un Martini helado y muy seco, conocido como Montgomery por su proporción extrema de ginebra y vermut.",
+          "explanation_es": "Martini seco para Ernest Hemingway: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-martini-financial-times",
@@ -3386,7 +3388,7 @@ export const content: PublicCatalog = {
           "drink_id": "jack-rose",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Jack Rose mientras llega Brett",
-          "explanation_es": "En The Sun Also Rises, Jake Barnes pide un Jack Rose mientras espera a Brett en el bar del Hotel Crillon.",
+          "explanation_es": "Jack Rose para Ernest Hemingway: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-jack-rose-abv-project",
@@ -3517,7 +3519,7 @@ export const content: PublicCatalog = {
           "drink_id": "death-in-the-afternoon",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Absenta y burbujas para la tarde",
-          "explanation_es": "Las páginas atribuyen a Hemingway esta mezcla de absenta y champaña, bautizada como su libro sobre tauromaquia.",
+          "explanation_es": "Death in the Afternoon para Ernest Hemingway: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-death-in-afternoon-drinks-business",
@@ -3601,7 +3603,7 @@ export const content: PublicCatalog = {
           "drink_id": "cognac",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Una noche de cognac en el Ritz",
-          "explanation_es": "Financial Times recuerda las noches de Hemingway en el Ritz de París, donde bebía Martinis y cognac con su círculo.",
+          "explanation_es": "Cognac para Ernest Hemingway: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-cognac-financial-times"
@@ -3658,7 +3660,7 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri-hemingway",
           "relationship_type": "author_documented",
           "headline_es": "Daiquiri Hemingway documentado por la fuente",
-          "explanation_es": "Hotchner recordó los componentes del daiquirí favorito de Hemingway. La formulación se limita a lo que afirma Literary Eats, sin convertirlo en una preferencia más fuerte.",
+          "explanation_es": "Daiquiri Hemingway acompaña una conexión documentada con Ernest Hemingway.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-le-010"
@@ -3733,7 +3735,7 @@ export const content: PublicCatalog = {
           "drink_id": "jack-rose",
           "relationship_type": "appears_in_work",
           "headline_es": "Jack Rose en The Sun Also Rises",
-          "explanation_es": "Jack Rose aparece o es mencionado en The Sun Also Rises. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de Ernest Hemingway.",
+          "explanation_es": "En Fiesta, un Jack Rose entra en escena mientras la noche sigue su curso.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-31-jack-rose"
@@ -3802,7 +3804,7 @@ export const content: PublicCatalog = {
           "drink_id": "bloody-mary",
           "relationship_type": "author_documented",
           "headline_es": "Una fórmula de Bloody Mary en su correspondencia",
-          "explanation_es": "Literary Eats atribuye a la correspondencia seleccionada de Hemingway una fórmula de Bloody Mary. La receta mostrada aquí es una versión de la casa.",
+          "explanation_es": "Bloody Mary acompaña una conexión documentada con Ernest Hemingway.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-bloody-mary-literary-eats"
@@ -3878,7 +3880,7 @@ export const content: PublicCatalog = {
           "drink_id": "absinthe-shaken",
           "relationship_type": "appears_in_work",
           "headline_es": "Absinthe Shaken",
-          "explanation_es": "Sip and Sensibility vincula esta bebida con Robert Jordan en For Whom the Bell Tolls; no se presenta como hábito de Hemingway.",
+          "explanation_es": "En For Whom the Bell Tolls, Absinthe Shaken entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ernest-hemingway-absinthe-shaken-sip-and-sensibility"
@@ -3945,7 +3947,7 @@ export const content: PublicCatalog = {
           "drink_id": "frozen-daiquiri",
           "relationship_type": "appears_in_work",
           "headline_es": "Daiquiri helado en Islas en el golfo",
-          "explanation_es": "Sip and Sensibility sitúa daiquiris helados preparados por Constante en Islands in the Stream; se trata de una aparición en la obra.",
+          "explanation_es": "En Islands in the Stream, Daiquiri helado entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ernest-hemingway-frozen-daiquiri-sip-and-sensibility"
@@ -4014,7 +4016,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-coconut-water",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin con agua de coco en Islas en el golfo",
-          "explanation_es": "Sip and Sensibility vincula gin, lima y agua de coco con Thomas Hudson en Islands in the Stream; no atribuye la mezcla a Hemingway.",
+          "explanation_es": "En Islands in the Stream, Gin con agua de coco entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ernest-hemingway-gin-coconut-water-sip-and-sensibility"
@@ -4083,7 +4085,7 @@ export const content: PublicCatalog = {
           "drink_id": "death-in-the-afternoon",
           "relationship_type": "author_documented",
           "headline_es": "Death in the Afternoon atribuido a Hemingway",
-          "explanation_es": "Sip and Sensibility atribuye a Hemingway una relación personal con Death in the Afternoon; se conserva separada de la anécdota circulante ya publicada.",
+          "explanation_es": "Death in the Afternoon acompaña una conexión documentada con Ernest Hemingway.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-ernest-hemingway-death-in-the-afternoon-sip-and-sensibility"
@@ -4148,7 +4150,7 @@ export const content: PublicCatalog = {
           "drink_id": "ribera-del-duero",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ernest Hemingway y Ribera del Duero como maridaje editorial",
-          "explanation_es": "Literary Libations propone Ribera Del Duero para acompañar For Whom the Bell Tolls. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Ernest Hemingway.",
+          "explanation_es": "Para For Whom the Bell Tolls, Ribera del Duero: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-133"
@@ -4162,14 +4164,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Ribera Del Duero"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -4248,7 +4252,7 @@ export const content: PublicCatalog = {
           "drink_id": "amontillado",
           "relationship_type": "appears_in_work",
           "headline_es": "El amontillado de la trampa",
-          "explanation_es": "En The Cask of Amontillado, Montresor atrae a Fortunato a las catacumbas con una supuesta pipa de amontillado. La bebida será partícipe de la trama y de su engaño.",
+          "explanation_es": "En El barril de amontillado, Amontillado entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-poe-amontillado"
@@ -4310,7 +4314,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-eggnog",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El Eggnog de la familia Poe",
-          "explanation_es": "Las páginas hacen circular una receta familiar de Eggnog con brandy y ron como alternativa invernal para leer a Poe.",
+          "explanation_es": "Eggnog con brandy para Edgar Allan Poe: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-poe-brandy-eggnog-daily-meal",
@@ -4427,7 +4431,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-eggnog",
           "relationship_type": "author_documented",
           "headline_es": "Eggnog con brandy atribuido a Poe",
-          "explanation_es": "Sip and Sensibility atribuye a Poe una relación personal con Brandy Eggnog; la atribución se conserva con confianza baja y sin reforzarla como preferencia.",
+          "explanation_es": "Eggnog con brandy acompaña una conexión documentada con Edgar Allan Poe.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-edgar-allan-poe-brandy-eggnog-sip-and-sensibility"
@@ -4546,7 +4550,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "appears_in_work",
           "headline_es": "La botella intacta de Hickey",
-          "explanation_es": "En The Iceman Cometh, Rocky lleva a Hickey una botella de whiskey, un vaso y un chaser. Hickey la deja intacta mientras los demás insisten en su antigua rutina.",
+          "explanation_es": "En El vendedor de hielo, Whisky escocés entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-oneill-whiskey"
@@ -4608,7 +4612,7 @@ export const content: PublicCatalog = {
           "drink_id": "gibson",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Gibson para O’Neill",
-          "explanation_es": "Dos listas asocian a Eugene O’Neill con el Gibson: un Martini seco rematado con cebollitas encurtidas.",
+          "explanation_es": "Gibson para Eugene O'Neill: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-oneill-gibson-aoide",
@@ -4735,7 +4739,7 @@ export const content: PublicCatalog = {
           "drink_id": "agua-mineral",
           "relationship_type": "author_documented",
           "headline_es": "Agua para el discurso del Cervantes",
-          "explanation_es": "Durante la entrega del Premio Cervantes de 1998, Miriam Gómez llevó agua para que Guillermo Cabrera Infante pudiera beber a lo largo de su discurso.",
+          "explanation_es": "Agua mineral acompaña una conexión documentada con Guillermo Cabrera Infante.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-cabrera-infante-agua"
@@ -4842,7 +4846,7 @@ export const content: PublicCatalog = {
           "drink_id": "singapore-sling",
           "relationship_type": "appears_in_work",
           "headline_es": "Singapore Slings en el Polo Lounge",
-          "explanation_es": "En Fear and Loathing in Las Vegas, el grupo pasa horas en el Polo Lounge entre Singapore Slings, mezcal y cerveza.",
+          "explanation_es": "En Miedo y asco en Las Vegas, Singapore Sling entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thompson-singapore-sling",
@@ -4987,7 +4991,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
           "headline_es": "Un gin tonic entre piscinas",
-          "explanation_es": "En The Swimmer, un barman da a Neddy Merrill un gin tonic mientras continúa su recorrido entre piscinas. La escena se volverá progresivamente más incómoda.",
+          "explanation_es": "En El nadador, Gin tonic entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cheever-gin-tonic"
@@ -5098,7 +5102,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "author_documented",
           "headline_es": "Whisky y una novela policial por leer",
-          "explanation_es": "En un cuestionario Proust, Onetti responde que su sueño de dicha era whisky y una buena novela policial que todavía no hubiera leído.",
+          "explanation_es": "Whisky escocés acompaña una conexión documentada con Juan Carlos Onetti.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-onetti-whisky"
@@ -5206,7 +5210,7 @@ export const content: PublicCatalog = {
           "drink_id": "cafe-con-mate",
           "relationship_type": "appears_in_work",
           "headline_es": "Café y mate en la madrugada",
-          "explanation_es": "En el capítulo 3 de Rayuela, Oliveira y la Maga pasan la noche leyendo y escuchando discos. Por turnos, se levantan a calentar café o cebar mate.",
+          "explanation_es": "En Rayuela, Café con mate entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cortazar-cafe-mate"
@@ -5317,7 +5321,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "Sancho reconoce el vino",
-          "explanation_es": "En el capítulo XIII de la segunda parte de Don Quijote, Sancho bebe de una bota e identifica el vino como de Ciudad Real. Su talento para reconocer vinos hará el resto.",
+          "explanation_es": "En Don Quijote de la Mancha, segunda parte, Vino tinto entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cervantes-vino"
@@ -5423,7 +5427,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "El vino que inspira una oda",
-          "explanation_es": "En Oda al vino, el vino tinto aparece como materia poética y combustible para la conversación compartida.",
+          "explanation_es": "En Odas elementales, Vino tinto entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-neruda-vino"
@@ -5484,7 +5488,7 @@ export const content: PublicCatalog = {
           "drink_id": "el-coquetelon",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El Coquetelón de Neruda",
-          "explanation_es": "The Daily Meal incorpora El Coquetelón a la constelación de bebidas vinculadas con Pablo Neruda.",
+          "explanation_es": "El Coquetelón para Pablo Neruda: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-neruda-coquetelon-daily-meal"
@@ -5596,7 +5600,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "Morapio en la taberna de Pica Lagartos",
-          "explanation_es": "En la escena III de Luces de bohemia, Máximo Estrella y Don Latino beben sendos quinces de morapio en la taberna de Pica Lagartos.",
+          "explanation_es": "En Luces de bohemia, Vino tinto entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-valle-inclan-morapio"
@@ -5702,7 +5706,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin y tónica para hablar de amor",
-          "explanation_es": "Al inicio de What We Talk About When We Talk About Love, el gin y el agua tónica circulan por la mesa mientras cuatro personajes hablan de amor.",
+          "explanation_es": "En De qué hablamos cuando hablamos de amor, Gin tonic entra en escena.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-carver-gin-tonic"
@@ -5813,7 +5817,7 @@ export const content: PublicCatalog = {
           "drink_id": "tonica-citricos-cero",
           "relationship_type": "abstinence_or_recovery",
           "headline_es": "Esta ronda va sin alcohol",
-          "explanation_es": "En una entrevista del año 2000, Stephen King cuenta que dejó las drogas y el alcohol y que la escritura volvió a sostenerse sin esa búsqueda de efecto. Nos quedamos sin alcohol.",
+          "explanation_es": "Una ronda sin alcohol para acompañar la lectura de Stephen King.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-king-recuperacion"
@@ -5888,7 +5892,7 @@ export const content: PublicCatalog = {
           "drink_id": "boilermaker",
           "relationship_type": "editorial_pairing",
           "headline_es": "Boilermaker como maridaje editorial",
-          "explanation_es": "Makansi recomienda Boilermaker para acompañar The Shining. Se publica exclusivamente como maridaje editorial para The Shining; no atribuye Boilermaker a Stephen King ni confirma una aparición textual.",
+          "explanation_es": "Para El resplandor, Boilermaker: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-003-09"
@@ -5994,7 +5998,7 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-martini",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Tres Martinis después del taller",
-          "explanation_es": "Las páginas sitúan a Sylvia Plath y Anne Sexton conversando después de sus seminarios de poesía sobre Vodka Martinis.",
+          "explanation_es": "Vodka Martini para Sylvia Plath: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-plath-vodka-martini-tasting-table",
@@ -6080,7 +6084,7 @@ export const content: PublicCatalog = {
           "drink_id": "american-vodka",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sylvia Plath y Vodka estadounidense como maridaje editorial",
-          "explanation_es": "Literary Libations propone American Vodka para acompañar The Bell Jar. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Sylvia Plath.",
+          "explanation_es": "Para La campana de cristal, Vodka estadounidense: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-140"
@@ -6094,14 +6098,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "American Vodka"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Destilado o aperitivo",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -6178,7 +6184,7 @@ export const content: PublicCatalog = {
           "drink_id": "screwdriver",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El “orange drink” de Capote",
-          "explanation_es": "Varias listas cuentan que Truman Capote llamaba “mi bebida naranja” a su mezcla de vodka y jugo de naranja.",
+          "explanation_es": "Screwdriver para Truman Capote: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-capote-screwdriver-tasting-table",
@@ -6352,7 +6358,7 @@ export const content: PublicCatalog = {
           "drink_id": "white-angel",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El ángel nada inocente de Holly Golightly",
-          "explanation_es": "Al comienzo de Breakfast at Tiffany’s, Holly pide un White Angel: mitad vodka, mitad ginebra y nada de vermut.",
+          "explanation_es": "White Angel para Truman Capote: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-capote-white-angel-abv-project",
@@ -6458,7 +6464,7 @@ export const content: PublicCatalog = {
           "drink_id": "white-angel",
           "relationship_type": "appears_in_work",
           "headline_es": "White Angel en Breakfast at Tiffany's",
-          "explanation_es": "White Angel aparece o es mencionado en Breakfast at Tiffany’s. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de Truman Capote.",
+          "explanation_es": "En Desayuno en Tiffany’s, White Angel entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-53-white-angel"
@@ -6522,7 +6528,7 @@ export const content: PublicCatalog = {
           "drink_id": "screwdriver",
           "relationship_type": "author_documented",
           "headline_es": "Screwdriver atribuido a Capote",
-          "explanation_es": "Sip and Sensibility atribuye a Truman Capote una relación personal con Screwdriver; se conserva separada de la anécdota circulante existente.",
+          "explanation_es": "Screwdriver acompaña una conexión documentada con Truman Capote.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-truman-capote-screwdriver-sip-and-sensibility"
@@ -6588,7 +6594,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "editorial_pairing",
           "headline_es": "Truman Capote y Cerveza como maridaje editorial",
-          "explanation_es": "Literary Libations propone Cerveza para acompañar In Cold Blood. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Truman Capote.",
+          "explanation_es": "Para A sangre fría, Cerveza: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-151"
@@ -6693,7 +6699,7 @@ export const content: PublicCatalog = {
           "drink_id": "absenta-con-agua",
           "relationship_type": "circulating_anecdote",
           "headline_es": "La leyenda verde de Wilde",
-          "explanation_es": "Varias páginas asocian a Oscar Wilde con la absenta y con una descripción en etapas de sus supuestos efectos.",
+          "explanation_es": "Absenta con agua para Oscar Wilde: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-wilde-absinthe-tasting-table",
@@ -6826,7 +6832,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-and-soda",
           "relationship_type": "editorial_pairing",
           "headline_es": "Brandy and Soda para Dorian Gray",
-          "explanation_es": "Literary Libations propone Brandy and Soda para acompañar The Picture of Dorian Gray y explica el contraste simbólico de los dos componentes.",
+          "explanation_es": "Para El retrato de Dorian Gray, Brandy and Soda: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-wilde-brandy-soda-editorial"
@@ -6936,7 +6942,7 @@ export const content: PublicCatalog = {
           "drink_id": "jerez",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Jerez en la habitación de escritura",
-          "explanation_es": "Las páginas describen el ritual de Maya Angelou en una habitación de hotel, con cuadernos, diccionario y una botella de jerez.",
+          "explanation_es": "Jerez para Maya Angelou: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-angelou-sherry-tasting-table",
@@ -7080,7 +7086,7 @@ export const content: PublicCatalog = {
           "drink_id": "vesper-martini",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Tres de ginebra, una de vodka",
-          "explanation_es": "Casino Royale entrega la fórmula del Vesper Martini y su piel de limón; las páginas la reconocen como una orden literaria emblemática.",
+          "explanation_es": "Vesper Martini para Ian Fleming: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-fleming-vesper-abv-project",
@@ -7258,7 +7264,7 @@ export const content: PublicCatalog = {
           "drink_id": "vesper-martini",
           "relationship_type": "appears_in_work",
           "headline_es": "Vesper Martini en Casino Royale",
-          "explanation_es": "Vesper Martini aparece o es mencionado en Casino Royale. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de Ian Fleming.",
+          "explanation_es": "En Casino Royale, Vesper Martini entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-47-vesper-martini"
@@ -7329,7 +7335,7 @@ export const content: PublicCatalog = {
           "drink_id": "vesper-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vesper Martini como maridaje editorial",
-          "explanation_es": "Makansi recomienda The Vesper para acompañar Casino Royale. Se publica exclusivamente como maridaje editorial para Casino Royale; no atribuye Vesper Martini a Ian Fleming ni confirma una aparición textual.",
+          "explanation_es": "Para Casino Royale, Vesper Martini: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-003-05"
@@ -7441,7 +7447,7 @@ export const content: PublicCatalog = {
           "drink_id": "ramos-gin-fizz",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Ramos Gin Fizz de Nueva Orleans",
-          "explanation_es": "Las listas vinculan a Tennessee Williams con el Ramos Gin Fizz, una mezcla larga, cítrica y cremosa nacida en Nueva Orleans.",
+          "explanation_es": "Ramos Gin Fizz para Tennessee Williams: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-williams-ramos-fizz-aoide",
@@ -7567,7 +7573,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Toddy para Brick Pollitt",
-          "explanation_es": "AbeBooks recoge el Hot Toddy de whiskey, agua caliente y limón que bebe Brick Pollitt en Cat on a Hot Tin Roof.",
+          "explanation_es": "Toddy caliente para Tennessee Williams: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-williams-hot-toddy-abebooks"
@@ -7643,7 +7649,7 @@ export const content: PublicCatalog = {
           "drink_id": "ramos-gin-fizz",
           "relationship_type": "author_documented",
           "headline_es": "Ramos Gin Fizz atribuido a Tennessee Williams",
-          "explanation_es": "Sip and Sensibility atribuye a Tennessee Williams una relación personal con Ramos Gin Fizz; se mantiene separada de la anécdota circulante.",
+          "explanation_es": "Ramos Gin Fizz acompaña una conexión documentada con Tennessee Williams.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-tennessee-williams-ramos-gin-fizz-sip-and-sensibility"
@@ -7770,7 +7776,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Toddy para el Club Pickwick",
-          "explanation_es": "Read & Co. destaca los vasos de whisky toddy que acompañan la sobremesa festiva en The Pickwick Papers.",
+          "explanation_es": "Toddy caliente para Charles Dickens: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-whisky-toddy-read-and-co"
@@ -7847,7 +7853,7 @@ export const content: PublicCatalog = {
           "drink_id": "smoking-bishop",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Smoking Bishop con Scrooge",
-          "explanation_es": "En A Christmas Carol, Scrooge propone discutir el futuro de Bob Cratchit ante un cuenco navideño de Smoking Bishop.",
+          "explanation_es": "Smoking Bishop para Charles Dickens: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-smoking-bishop-slosh-spot",
@@ -7942,7 +7948,7 @@ export const content: PublicCatalog = {
           "drink_id": "smoking-bishop",
           "relationship_type": "appears_in_work",
           "headline_es": "Smoking Bishop en A Christmas Carol",
-          "explanation_es": "Smoking Bishop aparece o es mencionado en A Christmas Carol. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de Charles Dickens.",
+          "explanation_es": "En Cuento de Navidad, Smoking Bishop entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-17-smoking-bishop"
@@ -8018,7 +8024,7 @@ export const content: PublicCatalog = {
           "drink_id": "pineapple-rum",
           "relationship_type": "appears_in_work",
           "headline_es": "Pineapple Rum en The Pickwick Papers",
-          "explanation_es": "Sip and Sensibility localiza Pineapple Rum en una escena de The Pickwick Papers. La asociación pertenece a la obra y no se presenta como hábito de Dickens.",
+          "explanation_es": "En Los papeles póstumos del Club Pickwick, Pineapple Rum entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-pineapple-rum-obra"
@@ -8091,7 +8097,7 @@ export const content: PublicCatalog = {
           "drink_id": "rum-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Toddy de ron",
-          "explanation_es": "Sip and Sensibility ubica Rum Toddy en Martin Chuzzlewit como parte de una escena de ocio en un bar.",
+          "explanation_es": "En Martin Chuzzlewit, Toddy de ron entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-charles-dickens-rum-toddy-sip-and-sensibility"
@@ -8160,7 +8166,7 @@ export const content: PublicCatalog = {
           "drink_id": "ponche-de-ron-y-limon",
           "relationship_type": "appears_in_work",
           "headline_es": "Ponche de ron y limón",
-          "explanation_es": "En David Copperfield, Sip and Sensibility vincula este ponche con una escena entre David y el señor Micawber.",
+          "explanation_es": "En David Copperfield, Ponche de ron y limón entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-charles-dickens-ponche-de-ron-y-limon-sip-and-sensibility"
@@ -8230,7 +8236,7 @@ export const content: PublicCatalog = {
           "drink_id": "bordeaux",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bordeaux para Historia de dos ciudades",
-          "explanation_es": "Literary Libations propone Bordeaux como maridaje editorial para A Tale of Two Cities.",
+          "explanation_es": "Para A Tale of Two Cities, Bordeaux: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-116"
@@ -8242,14 +8248,16 @@ export const content: PublicCatalog = {
             "id": "bordeaux",
             "name_es": "Bordeaux",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -8328,7 +8336,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-soda",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Scotch & Soda para parecer adulto",
-          "explanation_es": "Lifestyle Asia observa que Holden Caulfield pide Scotch & Soda como parte de su ensayo obstinado de la adultez.",
+          "explanation_es": "Scotch & Soda para J. D. Salinger: una historia que sigue acompañando su lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-salinger-scotch-soda-lifestyle-asia"
@@ -8391,7 +8399,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-soda",
           "relationship_type": "appears_in_work",
           "headline_es": "Scotch & Soda en The Catcher in the Rye",
-          "explanation_es": "Scotch & Soda aparece o es mencionado en The Catcher in the Rye. La relación pertenece a la obra y sus personajes; no se presenta como hábito o preferencia personal de J. D. Salinger.",
+          "explanation_es": "En El guardián entre el centeno, Scotch & Soda entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-46-scotch-soda"
@@ -8456,7 +8464,7 @@ export const content: PublicCatalog = {
           "drink_id": "manhattan",
           "relationship_type": "editorial_pairing",
           "headline_es": "Manhattan como maridaje editorial",
-          "explanation_es": "Makansi recomienda Manhattan para acompañar The Catcher in the Rye. Se publica exclusivamente como maridaje editorial para The Catcher in the Rye; no atribuye Manhattan a J. D. Salinger ni confirma una aparición textual.",
+          "explanation_es": "Para El guardián entre el centeno, Manhattan: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-salinger-manhattan-literary-libations"
@@ -8529,7 +8537,7 @@ export const content: PublicCatalog = {
           "drink_id": "very-dry-martini",
           "relationship_type": "appears_in_work",
           "headline_es": "Un martini muy seco en The Catcher in the Rye",
-          "explanation_es": "Sip and Sensibility relaciona un pedido de Very Dry Martini con una escena de The Catcher in the Rye. No se atribuye la bebida a Salinger.",
+          "explanation_es": "En El guardián entre el centeno, Very Dry Martini entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-salinger-very-dry-martini-obra"
@@ -8637,7 +8645,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Un Mint Julep conservado en archivo",
-          "explanation_es": "Literary Eats vincula la entrada de Eudora Welty con una fórmula de Mint Julep preservada en la Manuscript Division de la Library of Congress.",
+          "explanation_es": "Mint Julep acompaña una conexión documentada con Eudora Welty.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-welty-mint-julep-literary-eats"
@@ -8741,7 +8749,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Mint Julep en La Cuisine Creole",
-          "explanation_es": "Literary Eats documenta que La Cuisine Creole, atribuida a Lafcadio Hearn, incluye una fórmula de Mint Julep preparada con distintos destilados.",
+          "explanation_es": "Mint Julep acompaña una conexión documentada con Lafcadio Hearn.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hearn-mint-julep-literary-eats"
@@ -8845,7 +8853,7 @@ export const content: PublicCatalog = {
           "drink_id": "martini-a-la-devoto",
           "relationship_type": "author_documented",
           "headline_es": "Martini à la DeVoto",
-          "explanation_es": "Literary Eats atribuye a Avis DeVoto la recomendación de servir este martini seco mientras se cocinan langostas.",
+          "explanation_es": "Martini à la DeVoto acompaña una conexión documentada con Bernard DeVoto.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bernard-devoto-martini-a-la-devoto-literary-eats"
@@ -8944,7 +8952,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-grosella",
           "relationship_type": "author_documented",
           "headline_es": "Vino de grosella",
-          "explanation_es": "Literary Eats sitúa una fórmula de vino de grosella publicada por Lydia Maria Child en The Frugal Housewife.",
+          "explanation_es": "Vino de grosella acompaña una conexión documentada con Lydia Maria Child.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-lydia-maria-child-vino-de-grosella-literary-eats"
@@ -8958,14 +8966,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Currant Wine"
             ],
-            "category": "Bebida de servicio",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso apropiado",
-            "recipe_note": "Crear una receta contemporánea de la casa para una bebida de grosella; no reproducir ni atribuir la fermentación histórica.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -9039,7 +9049,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-diente-de-leon",
           "relationship_type": "author_documented",
           "headline_es": "Vino de diente de león",
-          "explanation_es": "Literary Eats presenta esta bebida casera bajo la entrada de Oliver Bell Bunce, con una atribución que requiere redacción cauta.",
+          "explanation_es": "Vino de diente de león acompaña una conexión documentada con Oliver Bell Bunce.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-oliver-bell-bunce-vino-de-diente-de-leon-literary-eats"
@@ -9053,14 +9063,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Dandelion Wine"
             ],
-            "category": "Bebida de servicio",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso apropiado",
-            "recipe_note": "Crear una receta contemporánea de la casa y distinguirla de la preparación histórica citada por el libro.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -9134,7 +9146,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza-con-esencia-de-abeto",
           "relationship_type": "author_documented",
           "headline_es": "Cerveza con esencia de abeto",
-          "explanation_es": "Literary Eats indica que entre los papeles de Franklin se conservó una receta francesa de cerveza con esencia de abeto.",
+          "explanation_es": "Cerveza con esencia de abeto acompaña una conexión documentada con Benjamin Franklin.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-benjamin-franklin-cerveza-con-esencia-de-abeto-literary-eats"
@@ -9148,14 +9160,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Beer with Essence of Spruce"
             ],
-            "category": "Bebida de servicio",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso apropiado",
-            "recipe_note": "Crear una receta contemporánea de la casa o una ficha de preparación simplificada; no presentar la fórmula archivada como receta actual.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -9189,7 +9203,7 @@ export const content: PublicCatalog = {
           "drink_id": "orange-shrub",
           "relationship_type": "author_documented",
           "headline_es": "Orange Shrub",
-          "explanation_es": "Literary Eats registra entre los papeles de Benjamin Franklin una fórmula de shrub de naranja con ron.",
+          "explanation_es": "Orange Shrub acompaña una conexión documentada con Benjamin Franklin.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-benjamin-franklin-orange-shrub-literary-eats"
@@ -9290,7 +9304,7 @@ export const content: PublicCatalog = {
           "drink_id": "case-of-the-caretakers-cat-cocktail",
           "relationship_type": "author_documented",
           "headline_es": "Case of the Caretaker’s Cat Cocktail",
-          "explanation_es": "Literary Eats señala que Erle Stanley Gardner aportó una receta de cóctel a un libro de bebidas posterior a la Prohibición.",
+          "explanation_es": "Case of the Caretaker’s Cat Cocktail acompaña una conexión documentada con Erle Stanley Gardner.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-erle-stanley-gardner-case-of-the-caretakers-cat-cocktail-literary-eats"
@@ -9389,7 +9403,7 @@ export const content: PublicCatalog = {
           "drink_id": "apple-toddy",
           "relationship_type": "author_documented",
           "headline_es": "Apple Toddy",
-          "explanation_es": "Literary Eats incluye Apple Toddy dentro de su entrada dedicada a Thomas Jefferson, sin afirmar en la ficha que él la preparara o bebiera.",
+          "explanation_es": "Apple Toddy acompaña una conexión documentada con Thomas Jefferson.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-jefferson-apple-toddy-literary-eats"
@@ -9450,7 +9464,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza-de-caqui",
           "relationship_type": "author_documented",
           "headline_es": "Cerveza de caqui",
-          "explanation_es": "Literary Eats incluye una receta de cerveza de caqui dentro de su entrada dedicada a Thomas Jefferson.",
+          "explanation_es": "Cerveza de caqui acompaña una conexión documentada con Thomas Jefferson.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-jefferson-cerveza-de-caqui-literary-eats"
@@ -9464,14 +9478,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Persimmon Beer"
             ],
-            "category": "Bebida de servicio",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso apropiado",
-            "recipe_note": "Crear una receta contemporánea de la casa o una preparación simplificada; no atribuir el documento de 1819 a Jefferson.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -9545,7 +9561,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-ruibarbo",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino de ruibarbo",
-          "explanation_es": "En el poema How to Make Rhubarb Wine, Ted Kooser describe una elaboración de vino de ruibarbo.",
+          "explanation_es": "En How to Make Rhubarb Wine, Vino de ruibarbo entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ted-kooser-vino-de-ruibarbo-literary-eats"
@@ -9646,7 +9662,7 @@ export const content: PublicCatalog = {
           "drink_id": "martini-seco",
           "relationship_type": "appears_in_work",
           "headline_es": "Martini seco",
-          "explanation_es": "Literary Eats atribuye a una columna de Ring Lardner una receta satírica que menciona un dry martini.",
+          "explanation_es": "Martini seco entra en escena junto a Ring Lardner.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ring-lardner-martini-seco-literary-eats"
@@ -9750,7 +9766,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Walker Percy y un Mint Julep atribuido a su tío Will",
-          "explanation_es": "Literary Eats reproduce una receta publicada por Percy y atribuida a su tío Will. La recomendación se limita a esa atribución editorial, sin presentarla como una preferencia personal de Percy.",
+          "explanation_es": "Mint Julep acompaña una conexión documentada con Walker Percy.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-walker-percy-mint-julep-literary-eats"
@@ -9814,7 +9830,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-fizz",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin Fizz en Love in the Ruins",
-          "explanation_es": "Sip and Sensibility sitúa un Gin Fizz en Love in the Ruins y lo vincula con la reacción del personaje; no se infiere un hábito del autor.",
+          "explanation_es": "En Love in the Ruins, Gin Fizz entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-walker-percy-gin-fizz-sip-and-sensibility"
@@ -9921,7 +9937,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-buttered-rum",
           "relationship_type": "author_documented",
           "headline_es": "Kenneth Roberts y el ron caliente con mantequilla",
-          "explanation_es": "Literary Eats señala que Roberts describe una preparación de Hot Buttered Rum en Trending into Maine. La ficha debe atribuir la relación a esa descripción, sin convertirla en una preferencia biográfica.",
+          "explanation_es": "Ron caliente con mantequilla acompaña una conexión documentada con Kenneth Roberts.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kenneth-roberts-hot-buttered-rum-literary-eats"
@@ -10022,7 +10038,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Theodore Roosevelt y una prueba parcial de Mint Julep",
-          "explanation_es": "Literary Eats recoge que Roosevelt declaró haber probado parte de un Mint Julep en 1910. Es un registro de una ocasión concreta, no una afirmación de consumo habitual ni de preferencia.",
+          "explanation_es": "Mint Julep acompaña una conexión documentada con Theodore Roosevelt.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-theodore-roosevelt-mint-julep-literary-eats"
@@ -10126,7 +10142,7 @@ export const content: PublicCatalog = {
           "drink_id": "cordiales-caseros",
           "relationship_type": "author_documented",
           "headline_es": "Lydia Sigourney y los cordiales caseros",
-          "explanation_es": "Literary Eats indica que Sigourney incluyó una receta familiar de cordial en Lucy Howard’s Journal. La recomendación se presenta como una relación documental con esa receta, no como un hábito atribuido a la autora.",
+          "explanation_es": "Cordiales caseros acompaña una conexión documentada con Lydia Sigourney.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-lydia-sigourney-cordiales-caseros-literary-eats"
@@ -10227,7 +10243,7 @@ export const content: PublicCatalog = {
           "drink_id": "gothic-punch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bayard Taylor y un Ponche gótico editorial",
-          "explanation_es": "Literary Eats sitúa Gothic Punch en su entrada dedicada a Bayard Taylor, pero el candidato no demuestra una relación biográfica directa. La ficha debe rotularlo expresamente como maridaje editorial del libro.",
+          "explanation_es": "Ponche gótico: una compañía elegida para la lectura de Bayard Taylor.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-bayard-taylor-gothic-punch-literary-eats"
@@ -10329,7 +10345,7 @@ export const content: PublicCatalog = {
           "drink_id": "cafe-aleman",
           "relationship_type": "appears_in_work",
           "headline_es": "Mark Twain y el café alemán de A Tramp Abroad",
-          "explanation_es": "Literary Eats identifica una receta satírica de café alemán en A Tramp Abroad. La recomendación remite a esa aparición textual y no presenta la preparación como una receta literal para reproducir.",
+          "explanation_es": "En A Tramp Abroad, Café alemán entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-cafe-aleman-literary-eats"
@@ -10390,7 +10406,7 @@ export const content: PublicCatalog = {
           "drink_id": "whisky-y-bitters",
           "relationship_type": "author_documented",
           "headline_es": "Mark Twain y un cóctel de whisky y bitters",
-          "explanation_es": "Literary Eats cita una carta de Twain a Olivia sobre un cóctel de whisky, limón, azúcar y bitters durante una estancia en Londres. La redacción debe conservar ese contexto temporal y no generalizarlo como preferencia permanente.",
+          "explanation_es": "Whisky y bitters acompaña una conexión documentada con Mark Twain.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-whisky-y-bitters-literary-eats"
@@ -10451,7 +10467,7 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "appears_in_work",
           "headline_es": "Champagne Cocktail",
-          "explanation_es": "Sip and Sensibility localiza un pedido de Champagne Cock-Tail en The Innocents Abroad, durante una escena en París.",
+          "explanation_es": "En The Innocents Abroad, Champagne Cocktail entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-champagne-cocktail-sip-and-sensibility"
@@ -10516,7 +10532,7 @@ export const content: PublicCatalog = {
           "drink_id": "sherry-cobbler",
           "relationship_type": "appears_in_work",
           "headline_es": "Sherry Cobbler",
-          "explanation_es": "Sip and Sensibility localiza el pedido de un sherry cobbler en The Innocents Abroad.",
+          "explanation_es": "En The Innocents Abroad, Sherry Cobbler entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-sherry-cobbler-sip-and-sensibility"
@@ -10583,7 +10599,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-smash",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy Smash",
-          "explanation_es": "Sip and Sensibility localiza el pedido de un brandy smash en The Innocents Abroad.",
+          "explanation_es": "En The Innocents Abroad, Brandy Smash entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-brandy-smash-sip-and-sensibility"
@@ -10650,7 +10666,7 @@ export const content: PublicCatalog = {
           "drink_id": "eye-opener",
           "relationship_type": "appears_in_work",
           "headline_es": "Eye-Opener",
-          "explanation_es": "Sip and Sensibility incluye Eye-Opener entre las bebidas mencionadas en The Innocents Abroad.",
+          "explanation_es": "En The Innocents Abroad, Eye-Opener entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-eye-opener-sip-and-sensibility"
@@ -10717,7 +10733,7 @@ export const content: PublicCatalog = {
           "drink_id": "earthquake",
           "relationship_type": "appears_in_work",
           "headline_es": "Earthquake",
-          "explanation_es": "Sip and Sensibility incluye Earthquake entre las bebidas mencionadas en The Innocents Abroad.",
+          "explanation_es": "En The Innocents Abroad, Earthquake entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-earthquake-sip-and-sensibility"
@@ -10784,7 +10800,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-cock-tail",
           "relationship_type": "author_documented",
           "headline_es": "Whiskey Cock-Tail atribuido a Mark Twain",
-          "explanation_es": "Sip and Sensibility atribuye a Mark Twain una relación personal con un Whiskey Cock-Tail; se mantiene como atribución de confianza baja.",
+          "explanation_es": "Whiskey Cock-Tail acompaña una conexión documentada con Mark Twain.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-mark-twain-whiskey-cock-tail-sip-and-sensibility"
@@ -10853,7 +10869,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-fizz",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey Fizz para Las aventuras de Huckleberry Finn",
-          "explanation_es": "Literary Libations propone Whiskey Fizz como maridaje editorial para The Adventures of Huckleberry Finn.",
+          "explanation_es": "Para The Adventures of Huckleberry Finn, Whiskey Fizz: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-127"
@@ -10953,7 +10969,7 @@ export const content: PublicCatalog = {
           "drink_id": "ponche-insidioso",
           "relationship_type": "author_documented",
           "headline_es": "Robert Penn Warren y el Ponche insidioso",
-          "explanation_es": "Literary Eats atribuye a Warren una receta de ponche compartida con un amigo, según sus cartas seleccionadas. La recomendación se limita a esa comunicación documentada.",
+          "explanation_es": "Ponche insidioso acompaña una conexión documentada con Robert Penn Warren.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-robert-penn-warren-ponche-insidioso-literary-eats"
@@ -11054,7 +11070,7 @@ export const content: PublicCatalog = {
           "drink_id": "small-beer",
           "relationship_type": "author_documented",
           "headline_es": "George Washington y una receta de cerveza ligera",
-          "explanation_es": "Literary Eats señala que Washington anotó una receta de small beer en un cuaderno privado de 1757. La ficha debe describir ese registro de receta sin convertirlo en una fórmula casera recomendada.",
+          "explanation_es": "Cerveza ligera acompaña una conexión documentada con George Washington.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-george-washington-small-beer-literary-eats"
@@ -11154,7 +11170,7 @@ export const content: PublicCatalog = {
           "drink_id": "natilla-hervida",
           "relationship_type": "author_documented",
           "headline_es": "Bobbie Ann Mason y la natilla hervida familiar",
-          "explanation_es": "Literary Eats recoge la descripción de Mason del Boiled Custard de su abuela como una bebida espesa parecida al eggnog. La ficha debe conservar el origen familiar de esa descripción y su carácter sin alcohol.",
+          "explanation_es": "Natilla hervida acompaña una conexión documentada con Bobbie Ann Mason.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bobbie-ann-mason-natilla-hervida-literary-eats"
@@ -11228,7 +11244,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-con-menta-tomillo-y-salvia",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino con menta, tomillo y salvia",
-          "explanation_es": "Sip and Sensibility vincula esta bebida con el texto From the Tomb of Scorpion I y sus referencias funerarias egipcias.",
+          "explanation_es": "En From the Tomb of Scorpion I, Vino con menta, tomillo y salvia entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-autor-no-identificado-vino-con-menta-tomillo-y-salvia-sip-and-sensibility"
@@ -11310,7 +11326,7 @@ export const content: PublicCatalog = {
           "drink_id": "conditum-paradoxum",
           "relationship_type": "appears_in_work",
           "headline_es": "Conditum paradoxum",
-          "explanation_es": "Sip and Sensibility presenta este vino especiado dentro de Apicius, un compendio culinario de autoría no identificada.",
+          "explanation_es": "En Apicius, Conditum paradoxum entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-anonimo-conditum-paradoxum-sip-and-sensibility"
@@ -11379,7 +11395,7 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-petalos-de-rosa",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino de pétalos de rosa",
-          "explanation_es": "Sip and Sensibility presenta esta preparación de vino de rosas en Apicius, sin atribuirla a una persona identificada.",
+          "explanation_es": "En Apicius, Vino de pétalos de rosa entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-anonimo-vino-de-petalos-de-rosa-sip-and-sensibility"
@@ -11448,7 +11464,7 @@ export const content: PublicCatalog = {
           "drink_id": "hippocras",
           "relationship_type": "appears_in_work",
           "headline_es": "Hipocrás",
-          "explanation_es": "Sip and Sensibility presenta esta preparación de vino especiado en This Is the Boke of Cokery, texto de autoría anónima.",
+          "explanation_es": "En This Is the Boke of Cokery, Hipocrás entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-anonimo-hippocras-sip-and-sensibility"
@@ -11556,7 +11572,7 @@ export const content: PublicCatalog = {
           "drink_id": "piment",
           "relationship_type": "appears_in_work",
           "headline_es": "Piment",
-          "explanation_es": "En Perceval, the Story of the Grail, Sip and Sensibility localiza una escena de banquete que menciona piment.",
+          "explanation_es": "En Perceval, the Story of the Grail, Piment entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chretien-de-troyes-piment-sip-and-sensibility"
@@ -11663,7 +11679,7 @@ export const content: PublicCatalog = {
           "drink_id": "lambs-wool",
           "relationship_type": "appears_in_work",
           "headline_es": "Lamb’s Wool",
-          "explanation_es": "Sip and Sensibility localiza Lamb’s Wool en el diario de Samuel Pepys durante una reunión nocturna de cartas.",
+          "explanation_es": "En The Diary of Samuel Pepys, Lamb’s Wool entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-samuel-pepys-lambs-wool-sip-and-sensibility"
@@ -11768,7 +11784,7 @@ export const content: PublicCatalog = {
           "drink_id": "stone-fence",
           "relationship_type": "appears_in_work",
           "headline_es": "Stone-Fence",
-          "explanation_es": "Sip and Sensibility asocia Stone-Fence con la sátira de Washington Irving A History of New York.",
+          "explanation_es": "En A History of New York, Stone-Fence entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-washington-irving-stone-fence-sip-and-sensibility"
@@ -11873,7 +11889,7 @@ export const content: PublicCatalog = {
           "drink_id": "negus",
           "relationship_type": "appears_in_work",
           "headline_es": "Negus",
-          "explanation_es": "Sip and Sensibility sitúa Negus en Mansfield Park, en el contexto del cierre de un baile observado por Fanny Price.",
+          "explanation_es": "En Mansfield Park, Negus entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-jane-austen-negus-sip-and-sensibility"
@@ -11941,7 +11957,7 @@ export const content: PublicCatalog = {
           "drink_id": "rum-punch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ponche de ron para Pride and Prejudice",
-          "explanation_es": "Literary Libations propone ponche de ron como maridaje editorial para acompañar Pride and Prejudice.",
+          "explanation_es": "Para Pride and Prejudice, Ponche de ron: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-199"
@@ -12041,7 +12057,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-twist",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin Twist",
-          "explanation_es": "Sip and Sensibility localiza una invitación a beber gin-twist en Saint Ronan’s Well.",
+          "explanation_es": "En Saint Ronan’s Well, Gin Twist entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sir-walter-scott-gin-twist-sip-and-sensibility"
@@ -12146,7 +12162,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-and-soda",
           "relationship_type": "appears_in_work",
           "headline_es": "Whiskey and Soda",
-          "explanation_es": "Sip and Sensibility vincula esta bebida con una escena de Bertie Wooster en The Aunt and the Sluggard; no se presenta como hábito de Wodehouse.",
+          "explanation_es": "En The Aunt and the Sluggard, Whiskey and Soda entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-whiskey-and-soda-sip-and-sensibility"
@@ -12161,15 +12177,28 @@ export const content: PublicCatalog = {
             "aliases": [
               "Whiskey & Soda"
             ],
-            "category": "Servicio directo",
+            "category": "Cóctel highball",
             "alcoholic": true,
-            "ingredients": [],
+            "ingredients": [
+              {
+                "name": "whiskey",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas fría",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
             "steps": [
-              "Sirve bien fría en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Vierte 45 ml de whiskey.",
+              "Añade 90 ml de agua con gas fría y remueve una vez."
             ],
             "glassware": "Vaso alto",
-            "recipe_note": "Servicio directo; la fuente no demuestra proporciones históricas.",
-            "recipe_status": "serving_only"
+            "recipe_note": "Versión contemporánea de la casa; no se atribuye una proporción histórica.",
+            "recipe_status": "house"
           },
           "evidence": [
             {
@@ -12203,7 +12232,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-and-soda",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy and Soda",
-          "explanation_es": "Sip and Sensibility localiza un pedido de brandy con soda de Bertie Wooster en The Inimitable Jeeves; no prueba una preferencia del autor.",
+          "explanation_es": "En The Inimitable Jeeves, Brandy and Soda entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-brandy-and-soda-sip-and-sensibility"
@@ -12273,7 +12302,7 @@ export const content: PublicCatalog = {
           "drink_id": "green-swizzle",
           "relationship_type": "appears_in_work",
           "headline_es": "Green Swizzle",
-          "explanation_es": "Sip and Sensibility relaciona el Green Swizzle con Bertie Wooster y Biffy en The Rummy Affair of Old Biffy; no lo atribuye a Wodehouse.",
+          "explanation_es": "En The Rummy Affair of Old Biffy, Green Swizzle entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-green-swizzle-sip-and-sensibility"
@@ -12340,7 +12369,7 @@ export const content: PublicCatalog = {
           "drink_id": "may-queen",
           "relationship_type": "appears_in_work",
           "headline_es": "May Queen",
-          "explanation_es": "Sip and Sensibility localiza una mención a la bebida May Queen en Uncle Fred in the Springtime; no implica que Wodehouse la consumiera.",
+          "explanation_es": "En Uncle Fred in the Springtime, May Queen entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-may-queen-sip-and-sensibility"
@@ -12445,7 +12474,7 @@ export const content: PublicCatalog = {
           "drink_id": "hangmans-blood",
           "relationship_type": "appears_in_work",
           "headline_es": "Hangman's Blood",
-          "explanation_es": "Sip and Sensibility sitúa a Captain Jonsen preparando Hangman's Blood en A High Wind in Jamaica; no es una afirmación sobre Hughes.",
+          "explanation_es": "En A High Wind in Jamaica, Hangman's Blood entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-richard-hughes-hangmans-blood-sip-and-sensibility"
@@ -12552,7 +12581,7 @@ export const content: PublicCatalog = {
           "drink_id": "satans-whisker",
           "relationship_type": "appears_in_work",
           "headline_es": "Satan's Whisker",
-          "explanation_es": "Sip and Sensibility identifica a Barbara preparando esta mezcla para Lucia en Black Coffee; no se infiere una preferencia de Christie.",
+          "explanation_es": "En Black Coffee, Satan's Whisker entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-agatha-christie-satans-whisker-sip-and-sensibility"
@@ -12621,7 +12650,7 @@ export const content: PublicCatalog = {
           "drink_id": "pink-gin",
           "relationship_type": "appears_in_work",
           "headline_es": "Pink Gin",
-          "explanation_es": "Sip and Sensibility ubica un pedido de Pink Gin en Three Act Tragedy; la relación pertenece a un personaje y no a Christie.",
+          "explanation_es": "En Three Act Tragedy, Pink Gin entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-agatha-christie-pink-gin-sip-and-sensibility"
@@ -12689,7 +12718,7 @@ export const content: PublicCatalog = {
           "drink_id": "fino-sherry",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agatha Christie y Fino de Jerez como maridaje editorial",
-          "explanation_es": "Literary Libations propone Fino Sherry para acompañar And Then There Were None. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Agatha Christie.",
+          "explanation_es": "Para And Then There Were None, Fino de Jerez: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-146"
@@ -12703,14 +12732,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Fino Sherry"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -12783,7 +12814,7 @@ export const content: PublicCatalog = {
           "drink_id": "bourbon-and-coke",
           "relationship_type": "appears_in_work",
           "headline_es": "Bourbon and Coke",
-          "explanation_es": "Sip and Sensibility asocia Bourbon and Coke con Frank y Cora en The Postman Always Rings Twice, sin atribuirla a James M. Cain.",
+          "explanation_es": "En The Postman Always Rings Twice, Bourbon and Coke entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-james-m-cain-bourbon-and-coke-sip-and-sensibility"
@@ -12890,7 +12921,7 @@ export const content: PublicCatalog = {
           "drink_id": "sidecar",
           "relationship_type": "appears_in_work",
           "headline_es": "Sidecar",
-          "explanation_es": "Sip and Sensibility sitúa la elección de un Sidecar por Vicky en Trinity Town; no atribuye la bebida a Norman Collins.",
+          "explanation_es": "En Trinity Town, Sidecar entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-norman-collins-sidecar-sip-and-sensibility"
@@ -12995,7 +13026,7 @@ export const content: PublicCatalog = {
           "drink_id": "hock-and-seltzer",
           "relationship_type": "appears_in_work",
           "headline_es": "Hock and Seltzer",
-          "explanation_es": "Sip and Sensibility relaciona Hock and Seltzer con la figura de Oscar Wilde en el poema de John Betjeman; no es una afirmación biográfica sobre Betjeman.",
+          "explanation_es": "En The Arrest of Oscar Wilde at the Cadogan Hotel, Hock and Seltzer entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-betjeman-hock-and-seltzer-sip-and-sensibility"
@@ -13102,7 +13133,7 @@ export const content: PublicCatalog = {
           "drink_id": "alexandra",
           "relationship_type": "appears_in_work",
           "headline_es": "Alexandra",
-          "explanation_es": "Sip and Sensibility cita a Anthony Blanche ordenando Alexandra cocktails en Brideshead Revisited; no atribuye la bebida a Evelyn Waugh.",
+          "explanation_es": "En Brideshead Revisited, Alexandra entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-evelyn-waugh-alexandra-sip-and-sensibility"
@@ -13207,7 +13238,7 @@ export const content: PublicCatalog = {
           "drink_id": "beer-milkshake",
           "relationship_type": "appears_in_work",
           "headline_es": "Beer Milkshake",
-          "explanation_es": "Sip and Sensibility relaciona la idea de un Beer Milkshake con Doc y Blaisedell en Cannery Row; no lo atribuye a Steinbeck.",
+          "explanation_es": "En Cannery Row, Beer Milkshake entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-steinbeck-beer-milkshake-sip-and-sensibility"
@@ -13274,7 +13305,7 @@ export const content: PublicCatalog = {
           "drink_id": "webster-f-street-lay-away-plan",
           "relationship_type": "appears_in_work",
           "headline_es": "Webster F. Street Lay-Away Plan",
-          "explanation_es": "Sip and Sensibility sitúa esta variante de martini en Sweet Thursday mediante un personaje; no se presenta como hábito de Steinbeck.",
+          "explanation_es": "En Sweet Thursday, Webster F. Street Lay-Away Plan entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-steinbeck-webster-f-street-lay-away-plan-sip-and-sensibility"
@@ -13342,7 +13373,7 @@ export const content: PublicCatalog = {
           "drink_id": "california-old-vine-zinfandel",
           "relationship_type": "editorial_pairing",
           "headline_es": "John Steinbeck y Zinfandel de viñas viejas de California como maridaje editorial",
-          "explanation_es": "Literary Libations propone California Old Vine Zinfandel para acompañar The Grapes of Wrath. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a John Steinbeck.",
+          "explanation_es": "Para The Grapes of Wrath, Zinfandel de viñas viejas de California: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-130"
@@ -13356,14 +13387,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "California Old Vine Zinfandel"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -13436,7 +13469,7 @@ export const content: PublicCatalog = {
           "drink_id": "pin",
           "relationship_type": "appears_in_work",
           "headline_es": "Un Pin en Lolita",
-          "explanation_es": "Sip and Sensibility vincula el Pin con una escena de Lolita y lo presenta como bebida de Humbert Humbert; no se atribuye al autor.",
+          "explanation_es": "En Lolita, un Pin entra en escena como detalle de la travesía.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-vladimir-nabokov-pin-sip-and-sensibility"
@@ -13504,7 +13537,7 @@ export const content: PublicCatalog = {
           "drink_id": "moscow-mule",
           "relationship_type": "editorial_pairing",
           "headline_es": "Moscow Mule para Lolita",
-          "explanation_es": "Literary Libations propone Moscow Mule como maridaje editorial para Lolita.",
+          "explanation_es": "Para Lolita, Moscow Mule: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-125"
@@ -13602,7 +13635,7 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri",
           "relationship_type": "appears_in_work",
           "headline_es": "Un Daiquiri en Nuestro hombre en La Habana",
-          "explanation_es": "Sip and Sensibility asocia un Daiquiri con una escena de Our Man in Havana; la recomendación describe la obra, no un hábito de Greene.",
+          "explanation_es": "En Our Man in Havana, Daiquiri entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-graham-greene-daiquiri-sip-and-sensibility"
@@ -13706,7 +13739,7 @@ export const content: PublicCatalog = {
           "drink_id": "tom-collins",
           "relationship_type": "appears_in_work",
           "headline_es": "Tom Collins en The Small Rain",
-          "explanation_es": "Sip and Sensibility sitúa un Tom Collins en The Small Rain como respuesta sobre lo que bebe un grupo; no se infiere una preferencia de Pynchon.",
+          "explanation_es": "En The Small Rain, Tom Collins entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-pynchon-tom-collins-sip-and-sensibility"
@@ -13773,7 +13806,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-sour",
           "relationship_type": "appears_in_work",
           "headline_es": "Whiskey Sour en La subasta del lote 49",
-          "explanation_es": "Sip and Sensibility sitúa un Whiskey Sour en The Crying of Lot 49 antes de la llegada de Mucho; no se infiere una práctica de Pynchon.",
+          "explanation_es": "En The Crying of Lot 49, Whiskey Sour entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-pynchon-whiskey-sour-sip-and-sensibility"
@@ -13844,7 +13877,7 @@ export const content: PublicCatalog = {
           "drink_id": "tequila-sunrise",
           "relationship_type": "appears_in_work",
           "headline_es": "Tequila Sunrise en Al límite",
-          "explanation_es": "Sip and Sensibility sitúa Tequila Sunrises entre las bebidas ofrecidas en un tren de Bleeding Edge; no se infiere hábito de Pynchon.",
+          "explanation_es": "En Bleeding Edge, Tequila Sunrise entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-pynchon-tequila-sunrise-sip-and-sensibility"
@@ -13949,7 +13982,7 @@ export const content: PublicCatalog = {
           "drink_id": "old-fashioned",
           "relationship_type": "appears_in_work",
           "headline_es": "Old Fashioned en Rabbit, Run",
-          "explanation_es": "Sip and Sensibility relaciona un Old Fashioned con Janice Angstrom en Rabbit, Run; la asociación pertenece a la escena narrativa.",
+          "explanation_es": "En Rabbit, Run, Old Fashioned entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-updike-old-fashioned-sip-and-sensibility"
@@ -14016,7 +14049,7 @@ export const content: PublicCatalog = {
           "drink_id": "stinger",
           "relationship_type": "appears_in_work",
           "headline_es": "Stinger en Rabbit Is Rich",
-          "explanation_es": "Sip and Sensibility sitúa Stingers compartidos por Harry Rabbit Angstrom y Janice en Rabbit Is Rich; no se asocia el trago con Updike.",
+          "explanation_es": "En Rabbit Is Rich, Stinger entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-updike-stinger-sip-and-sensibility"
@@ -14121,7 +14154,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-alexander",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy Alexander en ¿Quién teme a Virginia Woolf?",
-          "explanation_es": "Sip and Sensibility relaciona un Brandy Alexander con Martha en la obra de Albee; no se presenta como una bebida del autor.",
+          "explanation_es": "En Who’s Afraid of Virginia Woolf?, Brandy Alexander entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-edward-albee-brandy-alexander-sip-and-sensibility"
@@ -14226,7 +14259,7 @@ export const content: PublicCatalog = {
           "drink_id": "house-of-lords-martini",
           "relationship_type": "appears_in_work",
           "headline_es": "Martini House of Lords en Desayuno de campeones",
-          "explanation_es": "Sip and Sensibility sitúa un Martini House of Lords como bebida habitual de Dwayne Hoover en Breakfast of Champions; no lo atribuye a Vonnegut.",
+          "explanation_es": "En Breakfast of Champions, Martini House of Lords entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kurt-vonnegut-house-of-lords-martini-sip-and-sensibility"
@@ -14295,7 +14328,7 @@ export const content: PublicCatalog = {
           "drink_id": "sweet-rob-roy",
           "relationship_type": "appears_in_work",
           "headline_es": "Sweet Rob Roy en Hocus Pocus",
-          "explanation_es": "Sip and Sensibility vincula un Sweet Rob Roy con un recuerdo de Eugene Debs Hartke en Hocus Pocus; no se atribuye a Vonnegut.",
+          "explanation_es": "En Hocus Pocus, Sweet Rob Roy entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kurt-vonnegut-sweet-rob-roy-sip-and-sensibility"
@@ -14363,7 +14396,7 @@ export const content: PublicCatalog = {
           "drink_id": "death-in-the-afternoon",
           "relationship_type": "editorial_pairing",
           "headline_es": "Kurt Vonnegut y Death in the Afternoon como maridaje editorial",
-          "explanation_es": "Literary Libations propone Death in the Afternoon para acompañar Slaughterhouse-Five. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Kurt Vonnegut.",
+          "explanation_es": "Para Slaughterhouse-Five, Death in the Afternoon: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-141"
@@ -14465,7 +14498,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin tonic en Sympathy in White Major",
-          "explanation_es": "Sip and Sensibility vincula el gin tonic con el poema Sympathy in White Major de Larkin; la recomendación se limita a su presencia en la obra.",
+          "explanation_es": "En Sympathy in White Major, Gin tonic entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-philip-larkin-gin-tonic-sip-and-sensibility"
@@ -14574,7 +14607,7 @@ export const content: PublicCatalog = {
           "drink_id": "berlin-station-chief",
           "relationship_type": "appears_in_work",
           "headline_es": "Berlin Station Chief en El fantasma de Harlot",
-          "explanation_es": "Sip and Sensibility sitúa una variante de martini con escocés en Harlot’s Ghost; la relación es narrativa y no biográfica.",
+          "explanation_es": "En Harlot’s Ghost, Berlin Station Chief entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-norman-mailer-berlin-station-chief-sip-and-sensibility"
@@ -14679,7 +14712,7 @@ export const content: PublicCatalog = {
           "drink_id": "caudle",
           "relationship_type": "editorial_pairing",
           "headline_es": "Caudle según Sip and Sensibility",
-          "explanation_es": "Sip and Sensibility propone un Caudle junto a Shakespeare mediante una atribución del compilador; se conserva como maridaje editorial de confianza baja.",
+          "explanation_es": "Caudle: una compañía elegida para la lectura de William Shakespeare.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-william-shakespeare-caudle-sip-and-sensibility"
@@ -14746,7 +14779,7 @@ export const content: PublicCatalog = {
           "drink_id": "mulled-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino caliente especiado para Hamlet",
-          "explanation_es": "Literary Libations propone vino caliente especiado como maridaje editorial para la atmósfera de Hamlet.",
+          "explanation_es": "Para Hamlet, Vino caliente especiado: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-109"
@@ -14809,7 +14842,7 @@ export const content: PublicCatalog = {
           "drink_id": "recioto-della-valpolicella",
           "relationship_type": "editorial_pairing",
           "headline_es": "Recioto della Valpolicella para Romeo and Juliet",
-          "explanation_es": "Literary Libations propone recioto della valpolicella como maridaje editorial para acompañar Romeo and Juliet.",
+          "explanation_es": "Para Romeo and Juliet, Recioto della Valpolicella: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-198"
@@ -14823,14 +14856,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Recioto Della Valpolicella"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -14903,7 +14938,7 @@ export const content: PublicCatalog = {
           "drink_id": "apple-hot-toddy",
           "relationship_type": "author_documented",
           "headline_es": "Toddy caliente de manzana atribuido a Flaubert",
-          "explanation_es": "Sip and Sensibility presenta un Apple Hot Toddy como una posible asociación de Flaubert; la formulación permanece cauta y de confianza baja.",
+          "explanation_es": "Toddy caliente de manzana acompaña una conexión documentada con Gustave Flaubert.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-gustave-flaubert-apple-hot-toddy-sip-and-sensibility"
@@ -14972,7 +15007,7 @@ export const content: PublicCatalog = {
           "drink_id": "calvados-pays-dauge",
           "relationship_type": "editorial_pairing",
           "headline_es": "Calvados para Madame Bovary",
-          "explanation_es": "Literary Libations propone Calvados, Pays d’Auge como maridaje editorial para Madame Bovary.",
+          "explanation_es": "Para Madame Bovary, Calvados, Pays d’Auge: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-115"
@@ -14984,14 +15019,16 @@ export const content: PublicCatalog = {
             "id": "calvados-pays-dauge",
             "name_es": "Calvados, Pays d’Auge",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -15064,7 +15101,7 @@ export const content: PublicCatalog = {
           "drink_id": "clover-club",
           "relationship_type": "author_documented",
           "headline_es": "Clover Club atribuido a Yeats",
-          "explanation_es": "Sip and Sensibility recoge una historia que asocia a Yeats con un Clover Club; no se formula como una preferencia comprobada.",
+          "explanation_es": "Clover Club acompaña una conexión documentada con William Butler Yeats.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-william-butler-yeats-clover-club-sip-and-sensibility"
@@ -15168,7 +15205,7 @@ export const content: PublicCatalog = {
           "drink_id": "horses-neck",
           "relationship_type": "author_documented",
           "headline_es": "Horse's Neck atribuido a Jack London",
-          "explanation_es": "Sip and Sensibility atribuye a Jack London una relación con Horse's Neck; la recomendación no la eleva a preferencia confirmada.",
+          "explanation_es": "Horse's Neck acompaña una conexión documentada con Jack London.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-jack-london-horses-neck-sip-and-sensibility"
@@ -15237,7 +15274,7 @@ export const content: PublicCatalog = {
           "drink_id": "nieve-raspada",
           "relationship_type": "editorial_pairing",
           "headline_es": "Nieve raspada para The Call of the Wild",
-          "explanation_es": "Literary Libations propone nieve raspada como maridaje editorial para acompañar The Call of the Wild.",
+          "explanation_es": "Para The Call of the Wild, Nieve raspada: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-234"
@@ -15337,7 +15374,7 @@ export const content: PublicCatalog = {
           "drink_id": "pompier",
           "relationship_type": "author_documented",
           "headline_es": "Pompier atribuido a E. B. White",
-          "explanation_es": "Sip and Sensibility atribuye a E. B. White una relación personal con Pompier; no se amplía la afirmación más allá de esa atribución.",
+          "explanation_es": "Pompier acompaña una conexión documentada con E. B. White.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-e-b-white-pompier-sip-and-sensibility"
@@ -15404,7 +15441,7 @@ export const content: PublicCatalog = {
           "drink_id": "leche-vegetal",
           "relationship_type": "editorial_pairing",
           "headline_es": "Leche vegetal para Charlotte’s Web",
-          "explanation_es": "Literary Libations propone leche vegetal como maridaje editorial para acompañar Charlotte’s Web.",
+          "explanation_es": "Para Charlotte’s Web, Leche vegetal: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-259"
@@ -15422,10 +15459,12 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 250 ml fríos en un vaso limpio.",
+              "Añade hielo sólo si lo deseas.",
+              "Bebe de inmediato."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso alto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -15498,7 +15537,7 @@ export const content: PublicCatalog = {
           "drink_id": "spiked-lemonade",
           "relationship_type": "author_documented",
           "headline_es": "Limonada con alcohol atribuida a Zelda Fitzgerald",
-          "explanation_es": "Sip and Sensibility atribuye a Zelda Fitzgerald una relación personal con Spiked Lemonade; se mantiene con confianza baja.",
+          "explanation_es": "Limonada con alcohol acompaña una conexión documentada con Zelda Fitzgerald.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-zelda-fitzgerald-spiked-lemonade-sip-and-sensibility"
@@ -15604,7 +15643,7 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-coke",
           "relationship_type": "author_documented",
           "headline_es": "Vodka con cola atribuido a Burroughs",
-          "explanation_es": "Sip and Sensibility atribuye a William S. Burroughs una relación personal con Vodka & Coke; se conserva con confianza baja.",
+          "explanation_es": "Vodka con cola acompaña una conexión documentada con William S. Burroughs.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-william-s-burroughs-vodka-coke-sip-and-sensibility"
@@ -15710,7 +15749,7 @@ export const content: PublicCatalog = {
           "drink_id": "sonnie-boy",
           "relationship_type": "author_documented",
           "headline_es": "Sonnie Boy atribuido a Carson McCullers",
-          "explanation_es": "Sip and Sensibility atribuye a Carson McCullers una relación personal con Sonnie Boy; no se presenta como una preferencia comprobada.",
+          "explanation_es": "Sonnie Boy acompaña una conexión documentada con Carson McCullers.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-carson-mccullers-sonnie-boy-sip-and-sensibility"
@@ -15813,7 +15852,7 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-tonic",
           "relationship_type": "author_documented",
           "headline_es": "Vodka tonic atribuido a Rushdie",
-          "explanation_es": "Sip and Sensibility atribuye a Salman Rushdie una relación personal con Vodka Tonic; la afirmación conserva confianza baja.",
+          "explanation_es": "Vodka tonic acompaña una conexión documentada con Salman Rushdie.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-salman-rushdie-vodka-tonic-sip-and-sensibility"
@@ -15918,7 +15957,7 @@ export const content: PublicCatalog = {
           "drink_id": "cosmopolitan",
           "relationship_type": "author_documented",
           "headline_es": "Cosmopolitan atribuido a Bushnell",
-          "explanation_es": "Sip and Sensibility atribuye a Candice Bushnell una relación personal con Cosmopolitan; no se refuerza como una preferencia confirmada.",
+          "explanation_es": "Cosmopolitan acompaña una conexión documentada con Candace Bushnell.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-candice-bushnell-cosmopolitan-sip-and-sensibility"
@@ -16021,7 +16060,7 @@ export const content: PublicCatalog = {
           "drink_id": "greek-red-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino tinto griego para La Odisea",
-          "explanation_es": "Literary Libations propone vino tinto griego como maridaje editorial para acompañar The Odyssey.",
+          "explanation_es": "Para The Odyssey, Vino tinto griego: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-108"
@@ -16035,14 +16074,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Greek Red Wine"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16116,7 +16157,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-de-jerez-solera",
           "relationship_type": "editorial_pairing",
           "headline_es": "Brandy de Jerez Solera para Don Quijote",
-          "explanation_es": "Literary Libations propone Brandy de Jerez Solera como maridaje editorial para Don Quijote.",
+          "explanation_es": "Para The Ingenious Gentleman Don Quixote of La Mancha, Brandy de Jerez Solera: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-110"
@@ -16130,14 +16171,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Brandy De Jerez Solera"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Destilado o aperitivo",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16211,7 +16254,7 @@ export const content: PublicCatalog = {
           "drink_id": "navy-grog",
           "relationship_type": "editorial_pairing",
           "headline_es": "Navy Grog para Los viajes de Gulliver",
-          "explanation_es": "Literary Libations propone Navy Grog como maridaje editorial para Gulliver’s Travels.",
+          "explanation_es": "Para Gulliver’s Travels, Navy Grog: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-111"
@@ -16310,7 +16353,7 @@ export const content: PublicCatalog = {
           "drink_id": "volnay",
           "relationship_type": "editorial_pairing",
           "headline_es": "Volnay para Cándido",
-          "explanation_es": "Literary Libations propone Volnay como maridaje editorial para Candide.",
+          "explanation_es": "Para Candide, Volnay: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-112"
@@ -16322,14 +16365,16 @@ export const content: PublicCatalog = {
             "id": "volnay",
             "name_es": "Volnay",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16403,7 +16448,7 @@ export const content: PublicCatalog = {
           "drink_id": "banyuls-vin-doux-naturel",
           "relationship_type": "editorial_pairing",
           "headline_es": "Banyuls para El conde de Montecristo",
-          "explanation_es": "Literary Libations propone Banyuls como maridaje editorial para The Count of Monte Cristo.",
+          "explanation_es": "Para The Count of Monte Cristo, Banyuls, vin doux naturel: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-113"
@@ -16415,14 +16460,16 @@ export const content: PublicCatalog = {
             "id": "banyuls-vin-doux-naturel",
             "name_es": "Banyuls, vin doux naturel",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16496,7 +16543,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Toddy caliente en Cumbres borrascosas",
-          "explanation_es": "Literary Libations vincula un Brandy Hot Toddy con Wuthering Heights como aparición identificada en la obra; no se atribuye a Brontë.",
+          "explanation_es": "En Wuthering Heights, Toddy caliente entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-114"
@@ -16614,7 +16661,7 @@ export const content: PublicCatalog = {
           "drink_id": "cru-beaujolais",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cru Beaujolais para Los miserables",
-          "explanation_es": "Literary Libations propone Cru Beaujolais como maridaje editorial para Les Miserables.",
+          "explanation_es": "Para Les Miserables, Cru Beaujolais: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-117"
@@ -16628,14 +16675,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Cru Beajoulais"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16709,7 +16758,7 @@ export const content: PublicCatalog = {
           "drink_id": "imperial-russian-stout",
           "relationship_type": "editorial_pairing",
           "headline_es": "Imperial Russian Stout para Guerra y paz",
-          "explanation_es": "Literary Libations propone Imperial Russian Stout como maridaje editorial para War and Peace.",
+          "explanation_es": "Para War and Peace, Imperial Russian Stout: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-118"
@@ -16721,14 +16770,16 @@ export const content: PublicCatalog = {
             "id": "imperial-russian-stout",
             "name_es": "Imperial Russian Stout",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16764,7 +16815,7 @@ export const content: PublicCatalog = {
           "drink_id": "sauternes",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sauternes para Anna Karenina",
-          "explanation_es": "Literary Libations propone sauternes como maridaje editorial para acompañar Anna Karenina.",
+          "explanation_es": "Para Anna Karenina, Sauternes: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-201"
@@ -16778,14 +16829,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Sauternes"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16859,7 +16912,7 @@ export const content: PublicCatalog = {
           "drink_id": "petite-sirah",
           "relationship_type": "editorial_pairing",
           "headline_es": "Petite Sirah para El corazón de las tinieblas",
-          "explanation_es": "Literary Libations propone Petite Sirah como maridaje editorial para Heart of Darkness.",
+          "explanation_es": "Para Heart of Darkness, Petite Sirah: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-119"
@@ -16871,14 +16924,16 @@ export const content: PublicCatalog = {
             "id": "petite-sirah",
             "name_es": "Petite Sirah",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -16952,7 +17007,7 @@ export const content: PublicCatalog = {
           "drink_id": "tokaji-aszu",
           "relationship_type": "editorial_pairing",
           "headline_es": "Tokaji Aszú para Los hermanos Karamázov",
-          "explanation_es": "Literary Libations propone Tokaji Aszú como maridaje editorial para The Brothers Karamazov.",
+          "explanation_es": "Para The Brothers Karamazov, Tokaji Aszú: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-120"
@@ -16966,14 +17021,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Tokaji Aszu"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -17009,7 +17066,7 @@ export const content: PublicCatalog = {
           "drink_id": "russian-vodka",
           "relationship_type": "editorial_pairing",
           "headline_es": "Fyodor Dostoyevsky y Vodka ruso como maridaje editorial",
-          "explanation_es": "Literary Libations propone Russian Vodka para acompañar Crime and Punishment. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Fyodor Dostoyevsky.",
+          "explanation_es": "Para Crime and Punishment, Vodka ruso: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-144"
@@ -17023,14 +17080,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Russian Vodka"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Destilado o aperitivo",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -17104,7 +17163,7 @@ export const content: PublicCatalog = {
           "drink_id": "absenta-con-agua",
           "relationship_type": "editorial_pairing",
           "headline_es": "Absenta con agua para La metamorfosis",
-          "explanation_es": "Literary Libations propone absenta como maridaje editorial para The Metamorphosis.",
+          "explanation_es": "Para The Metamorphosis, Absenta con agua: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-122"
@@ -17212,7 +17271,7 @@ export const content: PublicCatalog = {
           "drink_id": "irish-whiskey-neat",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey irlandés para Ulises",
-          "explanation_es": "Literary Libations propone whiskey irlandés servido solo como maridaje editorial para Ulysses.",
+          "explanation_es": "Para Ulysses, Whiskey irlandés solo: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-123"
@@ -17226,14 +17285,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Irish Whiskey, Neat"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Destilado o aperitivo",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -17307,7 +17368,7 @@ export const content: PublicCatalog = {
           "drink_id": "amontillado-sherry",
           "relationship_type": "editorial_pairing",
           "headline_es": "Jerez amontillado para La señora Dalloway",
-          "explanation_es": "Literary Libations propone jerez amontillado como maridaje editorial para Mrs. Dalloway.",
+          "explanation_es": "Para Mrs. Dalloway, Jerez amontillado: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-124"
@@ -17321,14 +17382,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Amontillado Sherry"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -17402,7 +17465,7 @@ export const content: PublicCatalog = {
           "drink_id": "napa-valley-cabernet-sauvignon",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cabernet Sauvignon de Napa para Moby-Dick",
-          "explanation_es": "Literary Libations propone Cabernet Sauvignon de Napa Valley como maridaje editorial para Moby-Dick.",
+          "explanation_es": "Para Moby-Dick, Cabernet Sauvignon de Napa Valley: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-126"
@@ -17416,14 +17479,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Napa Valley Cabernet Sauvignon"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -17497,7 +17562,7 @@ export const content: PublicCatalog = {
           "drink_id": "citrus-shandy-radler",
           "relationship_type": "editorial_pairing",
           "headline_es": "Zora Neale Hurston y Shandy cítrico (Radler) como maridaje editorial",
-          "explanation_es": "Literary Libations propone Citrus Shandy (Radler) para acompañar Their Eyes Were Watching God. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Zora Neale Hurston.",
+          "explanation_es": "Para Their Eyes Were Watching God, Shandy cítrico (Radler): una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-131"
@@ -17598,7 +17663,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-smash",
           "relationship_type": "editorial_pairing",
           "headline_es": "Margaret Mitchell y Whiskey Smash como maridaje editorial",
-          "explanation_es": "Literary Libations propone Whiskey Smash para acompañar Gone with the Wind. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Margaret Mitchell.",
+          "explanation_es": "Para Gone with the Wind, Whiskey Smash: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-132"
@@ -17699,7 +17764,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ralph Ellison y Mint Julep como maridaje editorial",
-          "explanation_es": "Literary Libations propone Mint Julep para acompañar Invisible Man. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Ralph Ellison.",
+          "explanation_es": "Para Invisible Man, Mint Julep: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-135"
@@ -17803,7 +17868,7 @@ export const content: PublicCatalog = {
           "drink_id": "flaming-b-52-shot",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ray Bradbury y Shot B-52 flameado como maridaje editorial",
-          "explanation_es": "Literary Libations propone Flaming B-52 Shot para acompañar Fahrenheit 451. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Ray Bradbury.",
+          "explanation_es": "Para Fahrenheit 451, Shot B-52 flameado: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-136"
@@ -17904,7 +17969,7 @@ export const content: PublicCatalog = {
           "drink_id": "muscadine-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Harper Lee y Vino muscadino como maridaje editorial",
-          "explanation_es": "Literary Libations propone Muscadine Wine para acompañar To Kill a Mockingbird. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Harper Lee.",
+          "explanation_es": "Para To Kill a Mockingbird, Vino muscadino: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-138"
@@ -17918,14 +17983,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Muscadine Wine"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -17999,7 +18066,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-sour",
           "relationship_type": "editorial_pairing",
           "headline_es": "Joseph Heller y Whiskey Sour como maridaje editorial",
-          "explanation_es": "Literary Libations propone Whiskey Sour para acompañar Catch-22. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Joseph Heller.",
+          "explanation_es": "Para Catch-22, Whiskey Sour: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-139"
@@ -18108,7 +18175,7 @@ export const content: PublicCatalog = {
           "drink_id": "chamomile-tea-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Toni Morrison y Cóctel de té de manzanilla como maridaje editorial",
-          "explanation_es": "Literary Libations propone Chamomile Tea Cocktail para acompañar Beloved. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Toni Morrison.",
+          "explanation_es": "Para Beloved, Cóctel de té de manzanilla: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-142"
@@ -18209,7 +18276,7 @@ export const content: PublicCatalog = {
           "drink_id": "budweiser",
           "relationship_type": "editorial_pairing",
           "headline_es": "John Kennedy Toole y Budweiser como maridaje editorial",
-          "explanation_es": "Literary Libations propone Budweiser para acompañar A Confederacy of Dunces. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a John Kennedy Toole.",
+          "explanation_es": "Para A Confederacy of Dunces, Budweiser: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-143"
@@ -18223,14 +18290,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Budweiser"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -18304,7 +18373,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-and-soda",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sir Arthur Conan Doyle y Whisky con soda como maridaje editorial",
-          "explanation_es": "Literary Libations propone Whiskey And Soda para acompañar A Study in Scarlet. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Sir Arthur Conan Doyle.",
+          "explanation_es": "Para A Study in Scarlet, Whiskey and Soda: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-145"
@@ -18318,15 +18387,28 @@ export const content: PublicCatalog = {
             "aliases": [
               "Whiskey & Soda"
             ],
-            "category": "Servicio directo",
+            "category": "Cóctel highball",
             "alcoholic": true,
-            "ingredients": [],
+            "ingredients": [
+              {
+                "name": "whiskey",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas fría",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
             "steps": [
-              "Sirve bien fría en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Vierte 45 ml de whiskey.",
+              "Añade 90 ml de agua con gas fría y remueve una vez."
             ],
             "glassware": "Vaso alto",
-            "recipe_note": "Servicio directo; la fuente no demuestra proporciones históricas.",
-            "recipe_status": "serving_only"
+            "recipe_note": "Versión contemporánea de la casa; no se atribuye una proporción histórica.",
+            "recipe_status": "house"
           },
           "evidence": [
             {
@@ -18399,7 +18481,7 @@ export const content: PublicCatalog = {
           "drink_id": "carpano-antica-formula",
           "relationship_type": "editorial_pairing",
           "headline_es": "Patricia Highsmith y Carpano Antica Formula como maridaje editorial",
-          "explanation_es": "Literary Libations propone Carpano Antica Formula para acompañar The Talented Mr. Ripley. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a Patricia Highsmith.",
+          "explanation_es": "Para The Talented Mr. Ripley, Carpano Antica Formula: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-149"
@@ -18413,14 +18495,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Carpano Antica Formula"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -18494,7 +18578,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-and-tonic-with-english-gin",
           "relationship_type": "editorial_pairing",
           "headline_es": "John Le Carre y Gin tonic con ginebra inglesa como maridaje editorial",
-          "explanation_es": "Literary Libations propone Gin And Tonic With English Gin para acompañar The Spy Who Came in from the Cold. La ficha debe rotularlo como maridaje editorial del libro, sin atribuir el consumo o la preferencia a John Le Carre.",
+          "explanation_es": "Para The Spy Who Came in from the Cold, Gin tonic con ginebra inglesa: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-150"
@@ -18594,7 +18678,7 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri",
           "relationship_type": "editorial_pairing",
           "headline_es": "Daiquiri para The Key to Rebecca",
-          "explanation_es": "Literary Libations propone un daiquiri como maridaje editorial para acompañar The Key to Rebecca; no se presenta como preferencia de Ken Follett.",
+          "explanation_es": "Para The Key to Rebecca, Daiquiri: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-153"
@@ -18698,7 +18782,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-soda",
           "relationship_type": "editorial_pairing",
           "headline_es": "Scotch & Soda para Red Dragon",
-          "explanation_es": "Literary Libations propone Scotch & Soda como maridaje editorial para Red Dragon; la asociación no se publica como hecho sobre Thomas Harris.",
+          "explanation_es": "Para Red Dragon, Scotch & Soda: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-154"
@@ -18800,7 +18884,7 @@ export const content: PublicCatalog = {
           "drink_id": "inside-job",
           "relationship_type": "editorial_pairing",
           "headline_es": "Inside Job para Along Came a Spider",
-          "explanation_es": "Literary Libations propone Inside Job como maridaje editorial para Along Came a Spider, sin atribuir la bebida al autor ni a sus personajes.",
+          "explanation_es": "Para Along Came a Spider, Inside Job: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-155"
@@ -18898,7 +18982,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-buck",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey Buck para Killing Floor",
-          "explanation_es": "Literary Libations propone Whiskey Buck como maridaje editorial para Killing Floor; no convierte la asociación en un hábito de Lee Child.",
+          "explanation_es": "Para Killing Floor, Whiskey Buck: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-156"
@@ -18996,7 +19080,7 @@ export const content: PublicCatalog = {
           "drink_id": "rolling-rock",
           "relationship_type": "editorial_pairing",
           "headline_es": "Rolling Rock para Tell No One",
-          "explanation_es": "Literary Libations propone Rolling Rock como maridaje editorial para Tell No One, sin afirmar una relación biográfica con Harlan Coben.",
+          "explanation_es": "Para Tell No One, Rolling Rock: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-157"
@@ -19008,14 +19092,16 @@ export const content: PublicCatalog = {
             "id": "rolling-rock",
             "name_es": "Rolling Rock",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -19088,7 +19174,7 @@ export const content: PublicCatalog = {
           "drink_id": "blood-and-sand",
           "relationship_type": "editorial_pairing",
           "headline_es": "Blood and Sand para The Lovely Bones",
-          "explanation_es": "Literary Libations propone Blood and Sand como maridaje editorial para The Lovely Bones; la presentación debe evitar lenguaje que romantice la violencia.",
+          "explanation_es": "Para The Lovely Bones, Blood and Sand: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-158"
@@ -19188,7 +19274,7 @@ export const content: PublicCatalog = {
           "drink_id": "white-zinfandel",
           "relationship_type": "editorial_pairing",
           "headline_es": "Zinfandel blanco para The Da Vinci Code",
-          "explanation_es": "Literary Libations propone zinfandel blanco como maridaje editorial para The Da Vinci Code, sin atribuirlo a Dan Brown.",
+          "explanation_es": "Para The Da Vinci Code, Zinfandel blanco: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-159"
@@ -19202,14 +19288,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "White Zinfandel"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -19283,7 +19371,7 @@ export const content: PublicCatalog = {
           "drink_id": "akavit",
           "relationship_type": "editorial_pairing",
           "headline_es": "Akavit para The Girl with the Dragon Tattoo",
-          "explanation_es": "Literary Libations propone akavit como maridaje editorial para The Girl with the Dragon Tattoo; no afirma una preferencia de Stieg Larsson.",
+          "explanation_es": "Para The Girl with the Dragon Tattoo, Akavit: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-160"
@@ -19297,14 +19385,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Akvavit"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -19377,7 +19467,7 @@ export const content: PublicCatalog = {
           "drink_id": "last-word",
           "relationship_type": "editorial_pairing",
           "headline_es": "Last Word para Gone Girl",
-          "explanation_es": "Literary Libations propone Last Word como maridaje editorial para Gone Girl, sin presentar la asociación como dato sobre Gillian Flynn.",
+          "explanation_es": "Para Gone Girl, Last Word: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-161"
@@ -19476,7 +19566,7 @@ export const content: PublicCatalog = {
           "drink_id": "corpse-reviver",
           "relationship_type": "editorial_pairing",
           "headline_es": "Corpse Reviver para Frankenstein",
-          "explanation_es": "Literary Libations propone Corpse Reviver como maridaje editorial para Frankenstein; la relación se limita al juego editorial del libro.",
+          "explanation_es": "Para Frankenstein, Corpse Reviver: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-162"
@@ -19575,7 +19665,7 @@ export const content: PublicCatalog = {
           "drink_id": "irish-car-bomb",
           "relationship_type": "editorial_pairing",
           "headline_es": "Irish Car Bomb para The Strange Case of Dr. Jekyll and Mr. Hyde",
-          "explanation_es": "Literary Libations propone esta bebida como maridaje editorial para The Strange Case of Dr. Jekyll and Mr. Hyde y declara que no tiene vínculo irlandés con la obra.",
+          "explanation_es": "Para The Strange Case of Dr. Jekyll and Mr. Hyde, Irish Car Bomb: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-163"
@@ -19674,7 +19764,7 @@ export const content: PublicCatalog = {
           "drink_id": "lillet-blanc",
           "relationship_type": "editorial_pairing",
           "headline_es": "Lillet Blanc para The Time Machine",
-          "explanation_es": "Literary Libations propone Lillet Blanc como maridaje editorial para The Time Machine; no se infiere una preferencia de H. G. Wells.",
+          "explanation_es": "Para The Time Machine, Lillet Blanc: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-164"
@@ -19686,14 +19776,16 @@ export const content: PublicCatalog = {
             "id": "lillet-blanc",
             "name_es": "Lillet Blanc",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -19767,7 +19859,7 @@ export const content: PublicCatalog = {
           "drink_id": "trippy-gin-julep",
           "relationship_type": "editorial_pairing",
           "headline_es": "Trippy Gin Julep para Brave New World",
-          "explanation_es": "Literary Libations propone Trippy Gin Julep como maridaje editorial para Brave New World; la explicación debe evitar asociar la bebida con consumo de sustancias ficticias.",
+          "explanation_es": "Para Brave New World, Trippy Gin Julep: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-165"
@@ -19866,7 +19958,7 @@ export const content: PublicCatalog = {
           "drink_id": "the-obituary",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Obituary para 1984",
-          "explanation_es": "Literary Libations propone The Obituary como maridaje editorial para 1984, sin afirmar que George Orwell consumiera esta bebida.",
+          "explanation_es": "Para 1984, The Obituary: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-166"
@@ -19965,7 +20057,7 @@ export const content: PublicCatalog = {
           "drink_id": "india-pale-ale",
           "relationship_type": "editorial_pairing",
           "headline_es": "India Pale Ale para I, Robot",
-          "explanation_es": "Literary Libations propone India Pale Ale como maridaje editorial para I, Robot; no constituye evidencia de una preferencia de Isaac Asimov.",
+          "explanation_es": "Para I, Robot, India Pale Ale: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-167"
@@ -19979,14 +20071,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "IPA"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -20060,7 +20154,7 @@ export const content: PublicCatalog = {
           "drink_id": "saison-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza saison para Childhood’s End",
-          "explanation_es": "Literary Libations propone cerveza saison como maridaje editorial para Childhood’s End, sin atribuir la bebida a Arthur C. Clarke.",
+          "explanation_es": "Para Childhood’s End, Cerveza saison: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-168"
@@ -20074,14 +20168,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Saison Beer"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -20155,7 +20251,7 @@ export const content: PublicCatalog = {
           "drink_id": "red-sangria",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sangría roja para Stranger in a Strange Land",
-          "explanation_es": "Literary Libations propone sangría roja como maridaje editorial para Stranger in a Strange Land, sin convertirla en un dato sobre Robert Heinlein.",
+          "explanation_es": "Para Stranger in a Strange Land, Sangría roja: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-169"
@@ -20256,7 +20352,7 @@ export const content: PublicCatalog = {
           "drink_id": "knifey-moloko-milk-punch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Knifey Moloko para A Clockwork Orange",
-          "explanation_es": "Literary Libations propone Knifey Moloko como maridaje editorial para A Clockwork Orange; no se atribuye la bebida a Anthony Burgess.",
+          "explanation_es": "Para A Clockwork Orange, Knifey Moloko (Milk Punch): una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-170"
@@ -20355,7 +20451,7 @@ export const content: PublicCatalog = {
           "drink_id": "arak",
           "relationship_type": "editorial_pairing",
           "headline_es": "Arak para Dune",
-          "explanation_es": "Literary Libations propone arak como maridaje editorial para Dune; no se presenta como una preferencia de Frank Herbert.",
+          "explanation_es": "Para Dune, Arak: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-171"
@@ -20367,14 +20463,16 @@ export const content: PublicCatalog = {
             "id": "arak",
             "name_es": "Arak",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -20448,7 +20546,7 @@ export const content: PublicCatalog = {
           "drink_id": "eiswein",
           "relationship_type": "editorial_pairing",
           "headline_es": "Eiswein para The Left Hand of Darkness",
-          "explanation_es": "Literary Libations propone Eiswein como maridaje editorial para acompañar la lectura de The Left Hand of Darkness.",
+          "explanation_es": "Para The Left Hand of Darkness, Eiswein: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-172"
@@ -20462,14 +20560,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Eiswein"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -20543,7 +20643,7 @@ export const content: PublicCatalog = {
           "drink_id": "olive-oil-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Martini de aceite de oliva para A Scanner Darkly",
-          "explanation_es": "Literary Libations propone este martini como maridaje editorial para acompañar A Scanner Darkly.",
+          "explanation_es": "Para A Scanner Darkly, Martini de aceite de oliva: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-173"
@@ -20644,7 +20744,7 @@ export const content: PublicCatalog = {
           "drink_id": "pan-galactic-gargle-blaster",
           "relationship_type": "editorial_pairing",
           "headline_es": "Pan-Galactic Gargle Blaster para A Hitchhiker’s Guide to the Galaxy",
-          "explanation_es": "Literary Libations propone este cóctel como maridaje editorial para acompañar la lectura.",
+          "explanation_es": "Para A Hitchhiker’s Guide to the Galaxy, Pan-Galactic Gargle Blaster: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-174"
@@ -20744,7 +20844,7 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vodka Martini para Neuromancer",
-          "explanation_es": "Literary Libations propone Vodka Martini como maridaje editorial para acompañar Neuromancer.",
+          "explanation_es": "Para Neuromancer, Vodka Martini: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-175"
@@ -20847,7 +20947,7 @@ export const content: PublicCatalog = {
           "drink_id": "classic-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Martini clásico para Ender’s Game",
-          "explanation_es": "Literary Libations propone Martini clásico como maridaje editorial para acompañar Ender’s Game.",
+          "explanation_es": "Para Ender’s Game, Martini clásico: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-176"
@@ -20948,7 +21048,7 @@ export const content: PublicCatalog = {
           "drink_id": "wine-dealers-choice",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino a elección para Children of Men",
-          "explanation_es": "Literary Libations propone un vino a elección como maridaje editorial para acompañar Children of Men.",
+          "explanation_es": "Para Children of Men, Vino a elección (especificar estilo): una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-177"
@@ -20958,18 +21058,20 @@ export const content: PublicCatalog = {
           "reviewed_at": "2026-07-28",
           "drink": {
             "id": "wine-dealers-choice",
-            "name_es": "Vino a elección",
+            "name_es": "Vino a elección (especificar estilo)",
             "aliases": [
               "Wine, Dealer’S Choice"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -21042,7 +21144,7 @@ export const content: PublicCatalog = {
           "drink_id": "ramos-gin-fizz",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ramos Gin Fizz para Snow Crash",
-          "explanation_es": "Literary Libations propone Ramos Gin Fizz como maridaje editorial para acompañar Snow Crash.",
+          "explanation_es": "Para Snow Crash, Ramos Gin Fizz: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-178"
@@ -21164,7 +21266,7 @@ export const content: PublicCatalog = {
           "drink_id": "corpse-reviver-no-blue",
           "relationship_type": "editorial_pairing",
           "headline_es": "Corpse Reviver No. Blue para Ready Player One",
-          "explanation_es": "Literary Libations propone este cóctel como maridaje editorial para acompañar Ready Player One.",
+          "explanation_es": "Para Ready Player One, Corpse Reviver No. Blue: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-179"
@@ -21265,7 +21367,7 @@ export const content: PublicCatalog = {
           "drink_id": "bloody-mary",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bloody Mary para Dracula",
-          "explanation_es": "Literary Libations propone Bloody Mary como maridaje editorial para acompañar Dracula.",
+          "explanation_es": "Para Dracula, Bloody Mary: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-180"
@@ -21381,7 +21483,7 @@ export const content: PublicCatalog = {
           "drink_id": "english-ale",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ale inglesa para The Fellowship of the Ring",
-          "explanation_es": "Literary Libations propone ale inglesa como maridaje editorial para acompañar The Fellowship of the Ring.",
+          "explanation_es": "Para The Fellowship of the Ring, Ale inglesa: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-181"
@@ -21395,14 +21497,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "English Ale"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -21476,7 +21580,7 @@ export const content: PublicCatalog = {
           "drink_id": "cotes-du-rhone",
           "relationship_type": "editorial_pairing",
           "headline_es": "Côtes du Rhône para The Once and Future King",
-          "explanation_es": "Literary Libations propone Côtes du Rhône como maridaje editorial para acompañar la lectura.",
+          "explanation_es": "Para The Once and Future King, Côtes du Rhône: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-182"
@@ -21490,14 +21594,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Côtes Du Rhône"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -21571,7 +21677,7 @@ export const content: PublicCatalog = {
           "drink_id": "klahktail",
           "relationship_type": "appears_in_work",
           "headline_es": "Klahktail para Dragonflight",
-          "explanation_es": "Literary Libations vincula Klahktail con la bebida mencionada en Dragonflight; la receta propuesta debe ser original de la casa.",
+          "explanation_es": "En Dragonflight, Klahktail entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-183"
@@ -21672,7 +21778,7 @@ export const content: PublicCatalog = {
           "drink_id": "sidecar",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sidecar para Interview with the Vampire",
-          "explanation_es": "Literary Libations propone Sidecar como maridaje editorial para acompañar Interview with the Vampire.",
+          "explanation_es": "Para Interview with the Vampire, Sidecar: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-184"
@@ -21776,7 +21882,7 @@ export const content: PublicCatalog = {
           "drink_id": "sour-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza ácida para The Sword of Shannara",
-          "explanation_es": "Literary Libations propone cerveza ácida como maridaje editorial para acompañar The Sword of Shannara.",
+          "explanation_es": "Para The Sword of Shannara, Cerveza ácida: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-185"
@@ -21790,14 +21896,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Sour Beer"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -21871,7 +21979,7 @@ export const content: PublicCatalog = {
           "drink_id": "mead",
           "relationship_type": "editorial_pairing",
           "headline_es": "Hidromiel para The Mists of Avalon",
-          "explanation_es": "Literary Libations propone hidromiel como maridaje editorial para acompañar The Mists of Avalon.",
+          "explanation_es": "Para The Mists of Avalon, Hidromiel: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-186"
@@ -21885,14 +21993,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Mead"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -21966,7 +22076,7 @@ export const content: PublicCatalog = {
           "drink_id": "porter-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza porter para Mort",
-          "explanation_es": "Literary Libations propone cerveza porter como maridaje editorial para acompañar Mort.",
+          "explanation_es": "Para Mort, Cerveza porter: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-187"
@@ -21980,14 +22090,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Porter Beer"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22061,7 +22173,7 @@ export const content: PublicCatalog = {
           "drink_id": "loire-valley-chenin-blanc",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chenin Blanc del Valle del Loira para The Eye of the World",
-          "explanation_es": "Literary Libations propone este Chenin Blanc como maridaje editorial para acompañar The Eye of the World.",
+          "explanation_es": "Para The Eye of the World, Chenin Blanc del Valle del Loira: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-188"
@@ -22075,14 +22187,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Loire Valley Chenin Blanc"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22155,7 +22269,7 @@ export const content: PublicCatalog = {
           "drink_id": "chocolate-stout",
           "relationship_type": "editorial_pairing",
           "headline_es": "Stout de chocolate para Assassin’s Apprentice",
-          "explanation_es": "Literary Libations propone stout de chocolate como maridaje editorial para acompañar Assassin’s Apprentice.",
+          "explanation_es": "Para Assassin’s Apprentice, Stout de chocolate: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-189"
@@ -22169,14 +22283,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Chocolate Stout"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22249,7 +22365,7 @@ export const content: PublicCatalog = {
           "drink_id": "barolo-or-barbaresco",
           "relationship_type": "editorial_pairing",
           "headline_es": "Barolo o Barbaresco para A Game of Thrones",
-          "explanation_es": "Literary Libations propone Barolo o Barbaresco como maridaje editorial para acompañar A Game of Thrones.",
+          "explanation_es": "Para A Game of Thrones, Barolo o Barbaresco (elige uno): una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-190"
@@ -22259,18 +22375,22 @@ export const content: PublicCatalog = {
           "reviewed_at": "2026-07-28",
           "drink": {
             "id": "barolo-or-barbaresco",
-            "name_es": "Barolo o Barbaresco",
+            "name_es": "Barolo o Barbaresco (elige uno)",
             "aliases": [
-              "Barolo Or Barbaresco"
+              "Barolo Or Barbaresco",
+              "Barolo",
+              "Barbaresco"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Elige Barolo o Barbaresco; no los mezcles.",
+              "Sirve 150 ml entre 16 y 18 °C.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Son denominaciones distintas; la recomendación se conserva como alternativa explícita.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22343,7 +22463,7 @@ export const content: PublicCatalog = {
           "drink_id": "blue-cosmopolitan",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cosmopolitan azul para Storm Front",
-          "explanation_es": "Literary Libations propone Cosmopolitan azul como maridaje editorial para acompañar Storm Front.",
+          "explanation_es": "Para Storm Front, Cosmopolitan azul: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-191"
@@ -22443,7 +22563,7 @@ export const content: PublicCatalog = {
           "drink_id": "jack-daniels-and-coffee",
           "relationship_type": "editorial_pairing",
           "headline_es": "Jack Daniel’s y café para American Gods",
-          "explanation_es": "Literary Libations propone jack daniel’s y café como maridaje editorial para acompañar American Gods.",
+          "explanation_es": "Para American Gods, Jack Daniel’s y café: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-192"
@@ -22543,7 +22663,7 @@ export const content: PublicCatalog = {
           "drink_id": "magical-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Martini mágico para Jonathan Strange and Mr. Norell",
-          "explanation_es": "Literary Libations propone martini mágico como maridaje editorial para acompañar Jonathan Strange and Mr. Norell.",
+          "explanation_es": "Para Jonathan Strange and Mr. Norell, Martini mágico: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-193"
@@ -22643,7 +22763,7 @@ export const content: PublicCatalog = {
           "drink_id": "barleywine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Barleywine para The Name of the Wind",
-          "explanation_es": "Literary Libations propone barleywine como maridaje editorial para acompañar The Name of the Wind.",
+          "explanation_es": "Para The Name of the Wind, Barleywine: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-194"
@@ -22657,14 +22777,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Barleywine"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22737,7 +22859,7 @@ export const content: PublicCatalog = {
           "drink_id": "german-riesling",
           "relationship_type": "editorial_pairing",
           "headline_es": "Riesling alemán para The Way of Kings",
-          "explanation_es": "Literary Libations propone riesling alemán como maridaje editorial para acompañar The Way of Kings.",
+          "explanation_es": "Para The Way of Kings, Riesling alemán: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-195"
@@ -22751,14 +22873,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "German Riesling"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22831,7 +22955,7 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-blanc-de-noirs",
           "relationship_type": "editorial_pairing",
           "headline_es": "Champaña Blanc de Noirs para A Discovery of Witches",
-          "explanation_es": "Literary Libations propone champaña blanc de noirs como maridaje editorial para acompañar A Discovery of Witches.",
+          "explanation_es": "Para A Discovery of Witches, Champaña Blanc de Noirs: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-196"
@@ -22845,14 +22969,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Champagne, Blanc De Noirs"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -22925,7 +23051,7 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cóctel de champaña para The Night Circus",
-          "explanation_es": "Literary Libations propone cóctel de champaña como maridaje editorial para acompañar The Night Circus.",
+          "explanation_es": "Para The Night Circus, Champagne Cocktail: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-197"
@@ -23028,7 +23154,7 @@ export const content: PublicCatalog = {
           "drink_id": "tawny-port",
           "relationship_type": "editorial_pairing",
           "headline_es": "Oporto tawny para Jane Eyre",
-          "explanation_es": "Literary Libations propone oporto tawny como maridaje editorial para acompañar Jane Eyre.",
+          "explanation_es": "Para Jane Eyre, Oporto tawny: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-200"
@@ -23042,14 +23168,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Tawny Port"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -23123,7 +23251,7 @@ export const content: PublicCatalog = {
           "drink_id": "oregon-chardonnay",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chardonnay de Oregón para Lady Chatterley’s Lover",
-          "explanation_es": "Literary Libations propone chardonnay de oregón como maridaje editorial para acompañar Lady Chatterley’s Lover.",
+          "explanation_es": "Para Lady Chatterley’s Lover, Chardonnay de Oregón: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-202"
@@ -23137,14 +23265,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Oregon Chardonnay"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -23218,7 +23348,7 @@ export const content: PublicCatalog = {
           "drink_id": "the-jasmine",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Jasmine para Rebecca",
-          "explanation_es": "Literary Libations propone the jasmine como maridaje editorial para acompañar Rebecca.",
+          "explanation_es": "Para Rebecca, The Jasmine: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-203"
@@ -23319,7 +23449,7 @@ export const content: PublicCatalog = {
           "drink_id": "white-russian",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ruso blanco para Doctor Zhivago",
-          "explanation_es": "Literary Libations propone ruso blanco como maridaje editorial para acompañar Doctor Zhivago.",
+          "explanation_es": "Para Doctor Zhivago, Ruso blanco: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-204"
@@ -23420,7 +23550,7 @@ export const content: PublicCatalog = {
           "drink_id": "chianti-classico",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chianti Classico para The Princess Bride",
-          "explanation_es": "Literary Libations propone chianti classico como maridaje editorial para acompañar The Princess Bride.",
+          "explanation_es": "Para The Princess Bride, Chianti Classico: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-205"
@@ -23434,14 +23564,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Chianti Classico"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -23514,7 +23646,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-the-older-the-better",
           "relationship_type": "editorial_pairing",
           "headline_es": "Scotch añejo para Outlander",
-          "explanation_es": "Literary Libations propone scotch añejo como maridaje editorial para acompañar Outlander.",
+          "explanation_es": "Para Outlander, Scotch añejo: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-206"
@@ -23528,14 +23660,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Scotch, The Older The Better"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -23608,7 +23742,7 @@ export const content: PublicCatalog = {
           "drink_id": "chocolatini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chocolatini para Bridget Jones’s Diary",
-          "explanation_es": "Literary Libations propone chocolatini como maridaje editorial para acompañar Bridget Jones’s Diary.",
+          "explanation_es": "Para Bridget Jones’s Diary, Chocolatini: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-207"
@@ -23708,7 +23842,7 @@ export const content: PublicCatalog = {
           "drink_id": "provencal-rose",
           "relationship_type": "editorial_pairing",
           "headline_es": "Rosado provenzal para The Notebook",
-          "explanation_es": "Literary Libations propone rosado provenzal como maridaje editorial para acompañar The Notebook.",
+          "explanation_es": "Para The Notebook, Rosado provenzal: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-208"
@@ -23722,14 +23856,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Provençal Rosé"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -23802,7 +23938,7 @@ export const content: PublicCatalog = {
           "drink_id": "peach-tea-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cóctel de té con durazno para Carolina Moon",
-          "explanation_es": "Literary Libations propone cóctel de té con durazno como maridaje editorial para acompañar Carolina Moon.",
+          "explanation_es": "Para Carolina Moon, Cóctel de té con durazno: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-209"
@@ -23902,7 +24038,7 @@ export const content: PublicCatalog = {
           "drink_id": "the-chicago",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Chicago para The Time Traveler’s Wife",
-          "explanation_es": "Literary Libations propone the chicago como maridaje editorial para acompañar The Time Traveler’s Wife.",
+          "explanation_es": "Para The Time Traveler’s Wife, The Chicago: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-210"
@@ -24002,7 +24138,7 @@ export const content: PublicCatalog = {
           "drink_id": "washington-syrah",
           "relationship_type": "editorial_pairing",
           "headline_es": "Syrah de Washington para Twilight",
-          "explanation_es": "Literary Libations propone syrah de Washington como maridaje editorial para Twilight; no se atribuye la bebida a Stephanie Meyer.",
+          "explanation_es": "Para Twilight, Syrah de Washington: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-211"
@@ -24016,14 +24152,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Washington Syrah"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24096,7 +24234,7 @@ export const content: PublicCatalog = {
           "drink_id": "oregon-pinot-gris",
           "relationship_type": "editorial_pairing",
           "headline_es": "Pinot gris de Oregón para If I Stay",
-          "explanation_es": "Literary Libations propone pinot gris de Oregón como maridaje editorial para If I Stay; no se presenta como preferencia de Gayle Foreman.",
+          "explanation_es": "Para If I Stay, Pinot gris de Oregón: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-212"
@@ -24110,14 +24248,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Oregon Pinot Gris"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24190,7 +24330,7 @@ export const content: PublicCatalog = {
           "drink_id": "gin-and-ginger-ale",
           "relationship_type": "editorial_pairing",
           "headline_es": "Gin con ginger ale para Water for Elephants",
-          "explanation_es": "Literary Libations propone gin con ginger ale como maridaje editorial para Water for Elephants, sin atribuirlo a Sara Gruen.",
+          "explanation_es": "Para Water for Elephants, Gin con ginger ale: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-213"
@@ -24290,7 +24430,7 @@ export const content: PublicCatalog = {
           "drink_id": "merlot",
           "relationship_type": "editorial_pairing",
           "headline_es": "Merlot para Fifty Shades of Grey",
-          "explanation_es": "Literary Libations propone merlot como maridaje editorial para Fifty Shades of Grey; no se afirma que sea una preferencia de E. L. James.",
+          "explanation_es": "Para Fifty Shades of Grey, Merlot: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-214"
@@ -24302,14 +24442,16 @@ export const content: PublicCatalog = {
             "id": "merlot",
             "name_es": "Merlot",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24382,7 +24524,7 @@ export const content: PublicCatalog = {
           "drink_id": "champagne",
           "relationship_type": "editorial_pairing",
           "headline_es": "Champaña para The Fault in Our Stars",
-          "explanation_es": "Literary Libations propone champaña como maridaje editorial para The Fault in Our Stars; no se vincula como hecho con John Green.",
+          "explanation_es": "Para The Fault in Our Stars, Champaña: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-215"
@@ -24396,14 +24538,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Champagne"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24477,7 +24621,7 @@ export const content: PublicCatalog = {
           "drink_id": "aguardiente",
           "relationship_type": "editorial_pairing",
           "headline_es": "Aguardiente para One Hundred Years of Solitude",
-          "explanation_es": "Literary Libations propone aguardiente como maridaje editorial para One Hundred Years of Solitude; no se atribuye una preferencia a Gabriel Garcia Marquez.",
+          "explanation_es": "Para One Hundred Years of Solitude, Aguardiente: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-216"
@@ -24489,14 +24633,16 @@ export const content: PublicCatalog = {
             "id": "aguardiente",
             "name_es": "Aguardiente",
             "aliases": [],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24570,7 +24716,7 @@ export const content: PublicCatalog = {
           "drink_id": "trappist-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza trapense para The Name of the Rose",
-          "explanation_es": "Literary Libations propone cerveza trapense como maridaje editorial para The Name of the Rose; no constituye una afirmación biográfica sobre Umberto Eco.",
+          "explanation_es": "Para The Name of the Rose, Cerveza trapense: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-217"
@@ -24584,14 +24730,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Trappist Beer"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24665,7 +24813,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey para Blood Meridian",
-          "explanation_es": "Literary Libations propone whiskey como maridaje editorial para Blood Meridian; la asociación no se publica como hábito de Cormac Mccarthy.",
+          "explanation_es": "Para Blood Meridian, Whiskey: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-218"
@@ -24677,14 +24825,16 @@ export const content: PublicCatalog = {
             "id": "whiskey",
             "name_es": "Whiskey",
             "aliases": [],
-            "category": "Bebida de servicio directo",
+            "category": "Destilado o aperitivo",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24754,10 +24904,10 @@ export const content: PublicCatalog = {
           "id": "literary-libations-219-editorial",
           "author_id": "john-irving",
           "work_id": "the-cider-house-rules",
-          "drink_id": "hard-apple-cider",
+          "drink_id": "sidra-de-manzana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sidra de manzana para The Cider House Rules",
-          "explanation_es": "Literary Libations propone sidra de manzana como maridaje editorial para The Cider House Rules; no se presenta como preferencia de John Irving.",
+          "explanation_es": "Para The Cider House Rules, Sidra de manzana: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-219"
@@ -24766,19 +24916,22 @@ export const content: PublicCatalog = {
           "reviewed_by": "terra-literary-libations",
           "reviewed_at": "2026-07-28",
           "drink": {
-            "id": "hard-apple-cider",
+            "id": "sidra-de-manzana",
             "name_es": "Sidra de manzana",
             "aliases": [
+              "Apple Cider",
               "Hard Apple Cider"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Sirve 250 ml en un vaso de sidra.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de sidra",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -24851,7 +25004,7 @@ export const content: PublicCatalog = {
           "drink_id": "the-liberator",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Liberator para The Handmaid’s Tale",
-          "explanation_es": "Literary Libations propone The Liberator como maridaje editorial para The Handmaid’s Tale; no se atribuye al consumo de Margaret Atwood.",
+          "explanation_es": "Para The Handmaid’s Tale, The Liberator: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-220"
@@ -24949,7 +25102,7 @@ export const content: PublicCatalog = {
           "drink_id": "sparkling-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino espumoso para Strong Motion",
-          "explanation_es": "Literary Libations propone vino espumoso como maridaje editorial para Strong Motion; no se afirma un vínculo biográfico con Jonathan Franzen.",
+          "explanation_es": "Para Strong Motion, Vino espumoso: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-221"
@@ -24963,14 +25116,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Sparkling Wine"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Vino o sidra",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -25043,7 +25198,7 @@ export const content: PublicCatalog = {
           "drink_id": "vin-jaune",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vin jaune para The Secret History",
-          "explanation_es": "Literary Libations propone vin jaune como maridaje editorial para The Secret History; no se presenta como preferencia de Donna Tartt.",
+          "explanation_es": "Para The Secret History, Vin jaune: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-222"
@@ -25057,14 +25212,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Vin Jaune"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -25138,7 +25295,7 @@ export const content: PublicCatalog = {
           "drink_id": "american-pinot-noir",
           "relationship_type": "editorial_pairing",
           "headline_es": "Pinot noir estadounidense para Infinite Jest",
-          "explanation_es": "Literary Libations propone pinot noir estadounidense como maridaje editorial para Infinite Jest; no se presenta como una afirmación sobre David Foster Wallace.",
+          "explanation_es": "Para Infinite Jest, Pinot noir estadounidense: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-223"
@@ -25152,14 +25309,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "American Pinot Noir"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Vino o sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -25232,7 +25391,7 @@ export const content: PublicCatalog = {
           "drink_id": "lager-local-en-jarra",
           "relationship_type": "editorial_pairing",
           "headline_es": "Lager local en jarra para Fight Club",
-          "explanation_es": "Literary Libations propone una lager local en jarra como maridaje editorial para Fight Club; no se atribuye al autor ni se presenta como hecho biográfico.",
+          "explanation_es": "Para Fight Club, Lager local en jarra: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-224"
@@ -25246,14 +25405,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Lager, By The Pitcher, From Your Local Dive"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Cerveza",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -25326,7 +25487,7 @@ export const content: PublicCatalog = {
           "drink_id": "levantine-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza levantina para The Red Tent",
-          "explanation_es": "Literary Libations propone cerveza levantina como maridaje editorial para The Red Tent; no se convierte la propuesta en un hecho sobre Anita Diamant.",
+          "explanation_es": "Para The Red Tent, Cerveza levantina: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-225"
@@ -25340,14 +25501,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Levantine Beer"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -25420,7 +25583,7 @@ export const content: PublicCatalog = {
           "drink_id": "long-island-iced-tea",
           "relationship_type": "editorial_pairing",
           "headline_es": "Long Island Iced Tea para Underworld",
-          "explanation_es": "Literary Libations propone Long Island Iced Tea como maridaje editorial para Underworld; no se afirma una preferencia de Don Delillo.",
+          "explanation_es": "Para Underworld, Long Island Iced Tea: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-226"
@@ -25518,7 +25681,7 @@ export const content: PublicCatalog = {
           "drink_id": "tap-water",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agua de grifo para The Poisonwood Bible",
-          "explanation_es": "Literary Libations propone agua de grifo como maridaje editorial para The Poisonwood Bible; no se atribuye como preferencia de Barbara Kingsolver.",
+          "explanation_es": "Para The Poisonwood Bible, Agua de grifo: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-227"
@@ -25536,10 +25699,12 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 250 ml fríos en un vaso limpio.",
+              "Añade hielo sólo si lo deseas.",
+              "Bebe de inmediato."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso alto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -25612,7 +25777,7 @@ export const content: PublicCatalog = {
           "drink_id": "bengali-tiger",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bengali Tiger para Life of Pi",
-          "explanation_es": "Literary Libations propone Bengali Tiger como maridaje editorial para Life of Pi; no se presenta como un dato sobre Yann Martel.",
+          "explanation_es": "Para Life of Pi, Bengali Tiger: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-228"
@@ -25710,7 +25875,7 @@ export const content: PublicCatalog = {
           "drink_id": "arabic-coffee",
           "relationship_type": "editorial_pairing",
           "headline_es": "Café árabe para The Kite Runner",
-          "explanation_es": "Literary Libations propone café árabe como maridaje editorial para The Kite Runner; no se presenta como preferencia de Khaled Hosseini.",
+          "explanation_es": "Para The Kite Runner, Café árabe: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-229"
@@ -25810,7 +25975,7 @@ export const content: PublicCatalog = {
           "drink_id": "masala-sour",
           "relationship_type": "editorial_pairing",
           "headline_es": "Masala Sour para The Namesake",
-          "explanation_es": "Literary Libations propone Masala Sour como maridaje editorial para The Namesake; no se convierte la asociación en un hecho biográfico sobre Jhumpa Lahiri.",
+          "explanation_es": "Para The Namesake, Masala Sour: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-230"
@@ -25908,7 +26073,7 @@ export const content: PublicCatalog = {
           "drink_id": "baijiu",
           "relationship_type": "editorial_pairing",
           "headline_es": "Baijiu para Snow Flower and the Secret Fan",
-          "explanation_es": "Literary Libations propone baijiu como maridaje editorial para acompañar Snow Flower and the Secret Fan.",
+          "explanation_es": "Para Snow Flower and the Secret Fan, Baijiu: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-231"
@@ -26008,7 +26173,7 @@ export const content: PublicCatalog = {
           "drink_id": "mamajuana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Mamajuana para The Brief Wondrous Life of Oscar Wao",
-          "explanation_es": "Literary Libations propone mamajuana como maridaje editorial para acompañar The Brief Wondrous Life of Oscar Wao.",
+          "explanation_es": "Para The Brief Wondrous Life of Oscar Wao, Mamajuana: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-232"
@@ -26108,7 +26273,7 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whisky escocés para 1Q84",
-          "explanation_es": "Literary Libations propone whisky escocés como maridaje editorial para acompañar 1Q84.",
+          "explanation_es": "Para 1Q84, Whisky escocés: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-233"
@@ -26211,7 +26376,7 @@ export const content: PublicCatalog = {
           "drink_id": "cafe",
           "relationship_type": "editorial_pairing",
           "headline_es": "Café para Johnny Tremain",
-          "explanation_es": "Literary Libations propone café como maridaje editorial para acompañar Johnny Tremain.",
+          "explanation_es": "Para Johnny Tremain, Café: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-235"
@@ -26225,14 +26390,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Coffee"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Café",
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Prepáralo con el método que prefieras.",
+              "Sírvelo bien caliente en una taza.",
+              "Endulza sólo si lo deseas."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Taza",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -26306,7 +26473,7 @@ export const content: PublicCatalog = {
           "drink_id": "cafe-de-achicoria",
           "relationship_type": "editorial_pairing",
           "headline_es": "Café de achicoria para A Tree Grows in Brooklyn",
-          "explanation_es": "Literary Libations propone café de achicoria como maridaje editorial para acompañar A Tree Grows in Brooklyn.",
+          "explanation_es": "Para A Tree Grows in Brooklyn, Café de achicoria: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-236"
@@ -26320,15 +26487,33 @@ export const content: PublicCatalog = {
             "aliases": [
               "Chicory Coffee"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Café de achicoria",
             "alcoholic": false,
-            "ingredients": [],
-            "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+            "ingredients": [
+              {
+                "name": "café molido",
+                "amount": 12,
+                "unit": "g"
+              },
+              {
+                "name": "achicoria tostada molida",
+                "amount": 6,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 300,
+                "unit": "ml"
+              }
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-            "recipe_status": "serving_only"
+            "steps": [
+              "Mezcla el café y la achicoria en un filtro.",
+              "Agrega 300 ml de agua caliente.",
+              "Deja filtrar y sirve caliente."
+            ],
+            "glassware": "Taza de 300 ml",
+            "recipe_note": "Versión contemporánea de la casa; no reproduce una fórmula literaria.",
+            "recipe_status": "house"
           },
           "evidence": [
             {
@@ -26401,7 +26586,7 @@ export const content: PublicCatalog = {
           "drink_id": "agua-de-coco",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agua de coco para Lord of the Flies",
-          "explanation_es": "Literary Libations propone agua de coco como maridaje editorial para acompañar Lord of the Flies.",
+          "explanation_es": "Para Lord of the Flies, Agua de coco: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-237"
@@ -26419,10 +26604,12 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 250 ml fríos en un vaso limpio.",
+              "Añade hielo sólo si lo deseas.",
+              "Bebe de inmediato."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso alto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -26496,7 +26683,7 @@ export const content: PublicCatalog = {
           "drink_id": "tea-zerac",
           "relationship_type": "editorial_pairing",
           "headline_es": "Tea-Zerac para A Wrinkle in Time",
-          "explanation_es": "Literary Libations propone tea-zerac como maridaje editorial para acompañar A Wrinkle in Time.",
+          "explanation_es": "Para A Wrinkle in Time, Tea-Zerac: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-238"
@@ -26597,7 +26784,7 @@ export const content: PublicCatalog = {
           "drink_id": "kombucha",
           "relationship_type": "editorial_pairing",
           "headline_es": "Kombucha para Go Ask Alice",
-          "explanation_es": "Literary Libations propone kombucha como maridaje editorial para acompañar Go Ask Alice.",
+          "explanation_es": "Para Go Ask Alice, Kombucha: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-239"
@@ -26697,7 +26884,7 @@ export const content: PublicCatalog = {
           "drink_id": "doogh",
           "relationship_type": "editorial_pairing",
           "headline_es": "Doogh para The Blue Sword",
-          "explanation_es": "Literary Libations propone doogh como maridaje editorial para acompañar The Blue Sword.",
+          "explanation_es": "Para The Blue Sword, Doogh: una compañía elegida para la lectura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-240"
@@ -26798,7 +26985,7 @@ export const content: PublicCatalog = {
           "drink_id": "cordial-de-frutilla",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cordial de frutilla para Redwall",
-          "explanation_es": "Literary Libations propone cordial de frutilla como maridaje editorial para acompañar Redwall.",
+          "explanation_es": "Para Redwall, Cordial de frutilla: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-241"
@@ -26898,7 +27085,7 @@ export const content: PublicCatalog = {
           "drink_id": "jugo-de-naranja",
           "relationship_type": "editorial_pairing",
           "headline_es": "Jugo de naranja para The Giver",
-          "explanation_es": "Literary Libations propone jugo de naranja como maridaje editorial para acompañar The Giver.",
+          "explanation_es": "Para The Giver, Jugo de naranja: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-242"
@@ -26999,7 +27186,7 @@ export const content: PublicCatalog = {
           "drink_id": "spritzer-de-granada",
           "relationship_type": "editorial_pairing",
           "headline_es": "Spritzer de granada para Parable of the Sower",
-          "explanation_es": "Literary Libations propone spritzer de granada como maridaje editorial para acompañar Parable of the Sower.",
+          "explanation_es": "Para Parable of the Sower, Spritzer de granada: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-243"
@@ -27099,7 +27286,7 @@ export const content: PublicCatalog = {
           "drink_id": "root-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Root beer para Sabriel",
-          "explanation_es": "Literary Libations propone root beer como maridaje editorial para acompañar Sabriel.",
+          "explanation_es": "Para Sabriel, Root beer: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-244"
@@ -27113,14 +27300,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Root Beer"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Cerveza",
             "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -27193,7 +27382,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza-de-mantequilla",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza de mantequilla para Harry Potter and the Sorcerer’s Stone",
-          "explanation_es": "Literary Libations propone cerveza de mantequilla como maridaje editorial para acompañar Harry Potter and the Sorcerer’s Stone.",
+          "explanation_es": "Para Harry Potter and the Sorcerer’s Stone, Cerveza de mantequilla: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-245"
@@ -27207,15 +27396,34 @@ export const content: PublicCatalog = {
             "aliases": [
               "Butterbeer"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": true,
-            "ingredients": [],
-            "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+            "category": "Bebida dulce sin alcohol",
+            "alcoholic": false,
+            "ingredients": [
+              {
+                "name": "refresco de crema frío",
+                "amount": 180,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de butterscotch",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "crema batida",
+                "amount": 30,
+                "unit": "ml"
+              }
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-            "recipe_status": "serving_only"
+            "steps": [
+              "Vierte el refresco y el jarabe en una jarra fría.",
+              "Remueve suavemente.",
+              "Termina con crema batida y sirve de inmediato."
+            ],
+            "glassware": "Jarra de 250 ml",
+            "recipe_note": "Versión contemporánea de la casa, sin alcohol; no pretende reproducir una fórmula de la obra.",
+            "recipe_status": "house",
+            "garnish": "Crema batida"
           },
           "evidence": [
             {
@@ -27287,7 +27495,7 @@ export const content: PublicCatalog = {
           "drink_id": "sploosh-bellini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sploosh (Bellini) para Holes",
-          "explanation_es": "Literary Libations propone sploosh (bellini) como maridaje editorial para acompañar Holes.",
+          "explanation_es": "Para Holes, Sploosh (Bellini): una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-246"
@@ -27387,7 +27595,7 @@ export const content: PublicCatalog = {
           "drink_id": "bebida-sin-alcohol-de-inicio",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bebida sin alcohol de inicio para The Perks of Being a Wallflower",
-          "explanation_es": "Literary Libations propone bebida sin alcohol de inicio como maridaje editorial para acompañar The Perks of Being a Wallflower.",
+          "explanation_es": "Para The Perks of Being a Wallflower, Bebida sin alcohol de inicio: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-247"
@@ -27487,7 +27695,7 @@ export const content: PublicCatalog = {
           "drink_id": "batido-de-chocolate-y-palta",
           "relationship_type": "editorial_pairing",
           "headline_es": "Batido de chocolate y palta para Speak",
-          "explanation_es": "Literary Libations propone batido de chocolate y palta como maridaje editorial para acompañar Speak.",
+          "explanation_es": "Para Speak, Batido de chocolate y palta: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-248"
@@ -27587,7 +27795,7 @@ export const content: PublicCatalog = {
           "drink_id": "gatorade-te-dulce-pellegrino-o-granizado",
           "relationship_type": "editorial_pairing",
           "headline_es": "Gatorade, té dulce, Pellegrino o granizado para The Sisterhood of the Traveling Pants",
-          "explanation_es": "Literary Libations propone gatorade, té dulce, pellegrino o granizado como maridaje editorial para acompañar The Sisterhood of the Traveling Pants.",
+          "explanation_es": "Para The Sisterhood of the Traveling Pants, Gatorade, té dulce, Pellegrino o granizado: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-249"
@@ -27687,7 +27895,7 @@ export const content: PublicCatalog = {
           "drink_id": "moca-helado",
           "relationship_type": "editorial_pairing",
           "headline_es": "Moca helado para The Truth About Forever",
-          "explanation_es": "Literary Libations propone moca helado como maridaje editorial para acompañar The Truth About Forever.",
+          "explanation_es": "Para The Truth About Forever, Moca helado: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-250"
@@ -27787,7 +27995,7 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri-de-arandanos",
           "relationship_type": "editorial_pairing",
           "headline_es": "Daiquiri de arándanos para The Hunger Games",
-          "explanation_es": "Literary Libations propone daiquiri de arándanos como maridaje editorial para acompañar The Hunger Games.",
+          "explanation_es": "Para The Hunger Games, Daiquiri de arándanos: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-251"
@@ -27888,7 +28096,7 @@ export const content: PublicCatalog = {
           "drink_id": "ponche-de-huevo",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ponche de huevo para A Visit from St. Nicholas",
-          "explanation_es": "Literary Libations propone ponche de huevo como maridaje editorial para acompañar A Visit from St. Nicholas.",
+          "explanation_es": "Para A Visit from St. Nicholas, Ponche de huevo: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-252"
@@ -27989,7 +28197,7 @@ export const content: PublicCatalog = {
           "drink_id": "te-helado",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té helado para Alice’s Adventures in Wonderland",
-          "explanation_es": "Literary Libations propone té helado como maridaje editorial para acompañar Alice’s Adventures in Wonderland.",
+          "explanation_es": "Para Alice’s Adventures in Wonderland, Té helado: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-253"
@@ -28090,7 +28298,7 @@ export const content: PublicCatalog = {
           "drink_id": "te-de-hibisco",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té de hibisco para The Secret Garden",
-          "explanation_es": "Literary Libations propone té de hibisco como maridaje editorial para acompañar The Secret Garden.",
+          "explanation_es": "Para The Secret Garden, Té de hibisco: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-254"
@@ -28191,7 +28399,7 @@ export const content: PublicCatalog = {
           "drink_id": "te-de-jazmin-y-gewurztraminer-alsaciano",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té de jazmín y gewürztraminer alsaciano para The Story of Ferdinand",
-          "explanation_es": "Literary Libations propone té de jazmín y gewürztraminer alsaciano como maridaje editorial para acompañar The Story of Ferdinand.",
+          "explanation_es": "Para The Story of Ferdinand, Té de jazmín y gewürztraminer alsaciano: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-255"
@@ -28292,7 +28500,7 @@ export const content: PublicCatalog = {
           "drink_id": "agua-con-gas",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agua con gas para The Little Prince",
-          "explanation_es": "Literary Libations propone agua con gas como maridaje editorial para acompañar The Little Prince.",
+          "explanation_es": "Para The Little Prince, Agua con gas: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-256"
@@ -28310,10 +28518,12 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 250 ml fríos en un vaso limpio.",
+              "Añade hielo sólo si lo deseas.",
+              "Bebe de inmediato."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso alto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -28387,7 +28597,7 @@ export const content: PublicCatalog = {
           "drink_id": "te-negro-ingles-con-crema-y-azucar",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té negro inglés con crema y azúcar para The Lion, the Witch and the Wardrobe",
-          "explanation_es": "Literary Libations propone té negro inglés con crema y azúcar como maridaje editorial para acompañar The Lion, the Witch and the Wardrobe.",
+          "explanation_es": "Para The Lion, the Witch and the Wardrobe, Té negro inglés con crema y azúcar: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-258"
@@ -28488,7 +28698,7 @@ export const content: PublicCatalog = {
           "drink_id": "sopa-de-letras",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sopa de letras para The Phantom Tollbooth",
-          "explanation_es": "Literary Libations propone sopa de letras como maridaje editorial para acompañar The Phantom Tollbooth.",
+          "explanation_es": "Para The Phantom Tollbooth, Sopa de letras: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-260"
@@ -28502,14 +28712,16 @@ export const content: PublicCatalog = {
             "aliases": [
               "Alphabet Soup"
             ],
-            "category": "Bebida de servicio directo",
+            "category": "Acompañamiento cálido",
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Elige una sopa de letras o una sopa caliente que te guste.",
+              "Calienta una porción y sírvela en un tazón.",
+              "Disfrútala mientras lees."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Tazón",
+            "recipe_note": "Propuesta editorial para acompañar la lectura.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -28583,7 +28795,7 @@ export const content: PublicCatalog = {
           "drink_id": "coca-cola-y-whiskey-con-cola",
           "relationship_type": "editorial_pairing",
           "headline_es": "Coca-Cola y whiskey con cola para Where the Wild Things Are",
-          "explanation_es": "Literary Libations propone coca-cola y whiskey con cola como maridaje editorial para acompañar Where the Wild Things Are.",
+          "explanation_es": "Para Where the Wild Things Are, Coca-Cola y whiskey con cola: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-261"
@@ -28684,7 +28896,7 @@ export const content: PublicCatalog = {
           "drink_id": "batido-de-chocolate",
           "relationship_type": "editorial_pairing",
           "headline_es": "Batido de chocolate para Charlie and the Chocolate Factory",
-          "explanation_es": "Literary Libations propone batido de chocolate como maridaje editorial para acompañar Charlie and the Chocolate Factory.",
+          "explanation_es": "Para Charlie and the Chocolate Factory, Batido de chocolate: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-262"
@@ -28785,7 +28997,7 @@ export const content: PublicCatalog = {
           "drink_id": "sidra-de-manzana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sidra de manzana para The Giving Tree",
-          "explanation_es": "Literary Libations propone sidra de manzana como maridaje editorial para acompañar The Giving Tree.",
+          "explanation_es": "Para The Giving Tree, Sidra de manzana: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-263"
@@ -28797,16 +29009,19 @@ export const content: PublicCatalog = {
             "id": "sidra-de-manzana",
             "name_es": "Sidra de manzana",
             "aliases": [
-              "Apple Cider"
+              "Apple Cider",
+              "Hard Apple Cider"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": false,
+            "category": "Sidra",
+            "alcoholic": true,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Enfría entre 6 y 8 °C.",
+              "Sirve 250 ml en un vaso de sidra.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso de sidra",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -28880,7 +29095,7 @@ export const content: PublicCatalog = {
           "drink_id": "cordial-de-frutas",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cordial de frutas para The Very Hungry Caterpillar",
-          "explanation_es": "Literary Libations propone cordial de frutas como maridaje editorial para acompañar The Very Hungry Caterpillar.",
+          "explanation_es": "Para The Very Hungry Caterpillar, Cordial de frutas: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-264"
@@ -28894,15 +29109,38 @@ export const content: PublicCatalog = {
             "aliases": [
               "Fruit Cordial"
             ],
-            "category": "Bebida de servicio directo",
-            "alcoholic": true,
-            "ingredients": [],
-            "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+            "category": "Cordial de fruta sin alcohol",
+            "alcoholic": false,
+            "ingredients": [
+              {
+                "name": "fruta roja congelada",
+                "amount": 120,
+                "unit": "g"
+              },
+              {
+                "name": "azúcar",
+                "amount": 30,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 180,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 5,
+                "unit": "ml"
+              }
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-            "recipe_status": "serving_only"
+            "steps": [
+              "Calienta fruta, azúcar y agua durante 5 minutos.",
+              "Cuela y añade el limón.",
+              "Enfría; mezcla 30 ml del concentrado con 150 ml de agua fría para servir."
+            ],
+            "glassware": "Vaso alto",
+            "recipe_note": "Versión contemporánea de la casa; no se atribuye al autor.",
+            "recipe_status": "house"
           },
           "evidence": [
             {
@@ -28975,7 +29213,7 @@ export const content: PublicCatalog = {
           "drink_id": "te-rooibos",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té rooibos para The Lorax",
-          "explanation_es": "Literary Libations propone té rooibos como maridaje editorial para acompañar The Lorax.",
+          "explanation_es": "Para The Lorax, Té rooibos: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-265"
@@ -29075,7 +29313,7 @@ export const content: PublicCatalog = {
           "drink_id": "leche-o-leche-vegetal",
           "relationship_type": "editorial_pairing",
           "headline_es": "Leche o leche vegetal para If You Give a Mouse a Cookie",
-          "explanation_es": "Literary Libations propone leche o leche vegetal como maridaje editorial para acompañar If You Give a Mouse a Cookie.",
+          "explanation_es": "Para If You Give a Mouse a Cookie, Leche o bebida vegetal (elige una): una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-266"
@@ -29085,7 +29323,7 @@ export const content: PublicCatalog = {
           "reviewed_at": "2026-07-28",
           "drink": {
             "id": "leche-o-leche-vegetal",
-            "name_es": "Leche o leche vegetal",
+            "name_es": "Leche o bebida vegetal (elige una)",
             "aliases": [
               "Milk (Or Plant-Based Milk)"
             ],
@@ -29093,10 +29331,12 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Elige leche o una bebida vegetal.",
+              "Sirve 250 ml entre 4 y 6 °C.",
+              "Bebe de inmediato."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso alto",
+            "recipe_note": "La alternativa original se conserva, pero debe declararse cuál se eligió.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -29169,7 +29409,7 @@ export const content: PublicCatalog = {
           "drink_id": "ginger-beer-y-julep-de-jengibre-con-bourbon",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ginger beer y julep de jengibre con bourbon para The Golden Compass",
-          "explanation_es": "Literary Libations propone ginger beer y julep de jengibre con bourbon como maridaje editorial para acompañar The Golden Compass.",
+          "explanation_es": "Para The Golden Compass, Ginger beer y julep de jengibre con bourbon: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-267"
@@ -29269,7 +29509,7 @@ export const content: PublicCatalog = {
           "drink_id": "limonada-y-limonada-con-vodka",
           "relationship_type": "editorial_pairing",
           "headline_es": "Limonada y limonada con vodka para The Bad Beginning",
-          "explanation_es": "Literary Libations propone limonada y limonada con vodka como maridaje editorial para acompañar The Bad Beginning.",
+          "explanation_es": "Para The Bad Beginning, Limonada y limonada con vodka: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-268"
@@ -29369,7 +29609,7 @@ export const content: PublicCatalog = {
           "drink_id": "fanta-naranja",
           "relationship_type": "editorial_pairing",
           "headline_es": "Fanta naranja para The Book Thief",
-          "explanation_es": "Literary Libations propone fanta naranja como maridaje editorial para acompañar The Book Thief.",
+          "explanation_es": "Para The Book Thief, Fanta naranja: una compañía elegida para la lectura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-269"
@@ -29387,10 +29627,12 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [],
             "steps": [
-              "Sirve la bebida a la temperatura adecuada."
+              "Sirve 250 ml fríos en un vaso limpio.",
+              "Añade hielo sólo si lo deseas.",
+              "Bebe de inmediato."
             ],
-            "glassware": "Vaso de servicio",
-            "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+            "glassware": "Vaso alto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
             "recipe_status": "serving_only"
           },
           "evidence": [
@@ -30977,10 +31219,12 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve bien fría en un vaso limpio."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
       "glassware": "Vaso de cerveza",
-      "recipe_note": "Producto servido directamente; no se atribuye una receta propia ni histórica.",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -31009,14 +31253,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Currant Wine"
       ],
-      "category": "Bebida de servicio",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso apropiado",
-      "recipe_note": "Crear una receta contemporánea de la casa para una bebida de grosella; no reproducir ni atribuir la fermentación histórica.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -31025,14 +31271,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Dandelion Wine"
       ],
-      "category": "Bebida de servicio",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso apropiado",
-      "recipe_note": "Crear una receta contemporánea de la casa y distinguirla de la preparación histórica citada por el libro.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -31041,14 +31289,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Beer with Essence of Spruce"
       ],
-      "category": "Bebida de servicio",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso apropiado",
-      "recipe_note": "Crear una receta contemporánea de la casa o una ficha de preparación simplificada; no presentar la fórmula archivada como receta actual.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -31121,14 +31371,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Persimmon Beer"
       ],
-      "category": "Bebida de servicio",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso apropiado",
-      "recipe_note": "Crear una receta contemporánea de la casa o una preparación simplificada; no atribuir el documento de 1819 a Jefferson.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -32804,15 +33056,28 @@ export const content: PublicCatalog = {
       "aliases": [
         "Whiskey & Soda"
       ],
-      "category": "Servicio directo",
+      "category": "Cóctel highball",
       "alcoholic": true,
-      "ingredients": [],
+      "ingredients": [
+        {
+          "name": "whiskey",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas fría",
+          "amount": 90,
+          "unit": "ml"
+        }
+      ],
       "steps": [
-        "Sirve bien fría en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Vierte 45 ml de whiskey.",
+        "Añade 90 ml de agua con gas fría y remueve una vez."
       ],
       "glassware": "Vaso alto",
-      "recipe_note": "Servicio directo; la fuente no demuestra proporciones históricas.",
-      "recipe_status": "serving_only"
+      "recipe_note": "Versión contemporánea de la casa; no se atribuye una proporción histórica.",
+      "recipe_status": "house"
     },
     {
       "id": "greek-red-wine",
@@ -32820,14 +33085,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Greek Red Wine"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -32858,14 +33125,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Brandy De Jerez Solera"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Destilado o aperitivo",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -32892,56 +33161,64 @@ export const content: PublicCatalog = {
       "id": "volnay",
       "name_es": "Volnay",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
       "id": "banyuls-vin-doux-naturel",
       "name_es": "Banyuls, vin doux naturel",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
       "id": "calvados-pays-dauge",
       "name_es": "Calvados, Pays d’Auge",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
       "id": "bordeaux",
       "name_es": "Bordeaux",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -32950,42 +33227,48 @@ export const content: PublicCatalog = {
       "aliases": [
         "Cru Beajoulais"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
       "id": "imperial-russian-stout",
       "name_es": "Imperial Russian Stout",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
       "id": "petite-sirah",
       "name_es": "Petite Sirah",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -32994,14 +33277,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Tokaji Aszu"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33010,14 +33295,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Irish Whiskey, Neat"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Destilado o aperitivo",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -33026,14 +33313,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Amontillado Sherry"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33062,14 +33351,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Napa Valley Cabernet Sauvignon"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33120,14 +33411,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "California Old Vine Zinfandel"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33180,14 +33473,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Ribera Del Duero"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33218,14 +33513,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Muscadine Wine"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33234,14 +33531,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "American Vodka"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Destilado o aperitivo",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -33272,14 +33571,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Budweiser"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33288,14 +33589,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Russian Vodka"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Destilado o aperitivo",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -33304,14 +33607,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Fino Sherry"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33320,14 +33625,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Carpano Antica Formula"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -33396,14 +33703,16 @@ export const content: PublicCatalog = {
       "id": "rolling-rock",
       "name_es": "Rolling Rock",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33434,14 +33743,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "White Zinfandel"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33450,14 +33761,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Akvavit"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -33524,14 +33837,16 @@ export const content: PublicCatalog = {
       "id": "lillet-blanc",
       "name_es": "Lillet Blanc",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33580,14 +33895,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "IPA"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33596,14 +33913,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Saison Beer"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33652,14 +33971,16 @@ export const content: PublicCatalog = {
       "id": "arak",
       "name_es": "Arak",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -33668,14 +33989,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Eiswein"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33746,18 +34069,20 @@ export const content: PublicCatalog = {
     },
     {
       "id": "wine-dealers-choice",
-      "name_es": "Vino a elección",
+      "name_es": "Vino a elección (especificar estilo)",
       "aliases": [
         "Wine, Dealer’S Choice"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Elige y declara un estilo antes de servir.",
+        "Sirve 150 ml.",
+        "Usa 8–10 °C para blanco o 16–18 °C para tinto."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
       "recipe_status": "serving_only"
     },
     {
@@ -33788,14 +34113,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "English Ale"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33804,14 +34131,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Côtes Du Rhône"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33842,14 +34171,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Sour Beer"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33858,14 +34189,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Mead"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33874,14 +34207,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Porter Beer"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -33890,14 +34225,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Loire Valley Chenin Blanc"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -33906,30 +34243,36 @@ export const content: PublicCatalog = {
       "aliases": [
         "Chocolate Stout"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
       "id": "barolo-or-barbaresco",
-      "name_es": "Barolo o Barbaresco",
+      "name_es": "Barolo o Barbaresco (elige uno)",
       "aliases": [
-        "Barolo Or Barbaresco"
+        "Barolo Or Barbaresco",
+        "Barolo",
+        "Barbaresco"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Elige Barolo o Barbaresco; no los mezcles.",
+        "Sirve 150 ml entre 16 y 18 °C.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Son denominaciones distintas; la recomendación se conserva como alternativa explícita.",
       "recipe_status": "serving_only"
     },
     {
@@ -34004,14 +34347,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Barleywine"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -34020,14 +34365,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "German Riesling"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34036,14 +34383,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Champagne, Blanc De Noirs"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34052,14 +34401,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Recioto Della Valpolicella"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34090,14 +34441,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Tawny Port"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34106,14 +34459,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Sauternes"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34122,14 +34477,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Oregon Chardonnay"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34182,14 +34539,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Chianti Classico"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34198,14 +34557,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Scotch, The Older The Better"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34236,14 +34597,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Provençal Rosé"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34296,14 +34659,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Washington Syrah"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34312,14 +34677,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Oregon Pinot Gris"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34348,14 +34715,16 @@ export const content: PublicCatalog = {
       "id": "merlot",
       "name_es": "Merlot",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34364,28 +34733,32 @@ export const content: PublicCatalog = {
       "aliases": [
         "Champagne"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
       "id": "aguardiente",
       "name_es": "Aguardiente",
       "aliases": [],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -34394,44 +34767,32 @@ export const content: PublicCatalog = {
       "aliases": [
         "Trappist Beer"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
       "id": "whiskey",
       "name_es": "Whiskey",
       "aliases": [],
-      "category": "Bebida de servicio directo",
+      "category": "Destilado o aperitivo",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-      "recipe_status": "serving_only"
-    },
-    {
-      "id": "hard-apple-cider",
-      "name_es": "Sidra de manzana",
-      "aliases": [
-        "Hard Apple Cider"
-      ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
-      "ingredients": [],
-      "steps": [
-        "Sirve la bebida a la temperatura adecuada."
-      ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     },
     {
@@ -34460,14 +34821,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Sparkling Wine"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Vino o sidra",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34476,14 +34839,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Vin Jaune"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34492,14 +34857,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "American Pinot Noir"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Vino o sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 150 ml en una copa limpia.",
+        "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34508,14 +34875,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Lager, By The Pitcher, From Your Local Dive"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Cerveza",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -34524,14 +34893,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Levantine Beer"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -34564,10 +34935,12 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 250 ml fríos en un vaso limpio.",
+        "Añade hielo sólo si lo deseas.",
+        "Bebe de inmediato."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso alto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34704,14 +35077,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Coffee"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Café",
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Prepáralo con el método que prefieras.",
+        "Sírvelo bien caliente en una taza.",
+        "Endulza sólo si lo deseas."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Taza",
+      "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34720,15 +35095,33 @@ export const content: PublicCatalog = {
       "aliases": [
         "Chicory Coffee"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Café de achicoria",
       "alcoholic": false,
-      "ingredients": [],
-      "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+      "ingredients": [
+        {
+          "name": "café molido",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "name": "achicoria tostada molida",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 300,
+          "unit": "ml"
+        }
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-      "recipe_status": "serving_only"
+      "steps": [
+        "Mezcla el café y la achicoria en un filtro.",
+        "Agrega 300 ml de agua caliente.",
+        "Deja filtrar y sirve caliente."
+      ],
+      "glassware": "Taza de 300 ml",
+      "recipe_note": "Versión contemporánea de la casa; no reproduce una fórmula literaria.",
+      "recipe_status": "house"
     },
     {
       "id": "agua-de-coco",
@@ -34740,10 +35133,12 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 250 ml fríos en un vaso limpio.",
+        "Añade hielo sólo si lo deseas.",
+        "Bebe de inmediato."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso alto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -34884,14 +35279,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Root Beer"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Cerveza",
       "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Vierte 330 ml en un vaso limpio, dejando espacio para espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de cerveza",
+      "recipe_note": "Servicio contemporáneo; no reconstruye una elaboración histórica.",
       "recipe_status": "serving_only"
     },
     {
@@ -34900,15 +35297,34 @@ export const content: PublicCatalog = {
       "aliases": [
         "Butterbeer"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": true,
-      "ingredients": [],
-      "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+      "category": "Bebida dulce sin alcohol",
+      "alcoholic": false,
+      "ingredients": [
+        {
+          "name": "refresco de crema frío",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de butterscotch",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "crema batida",
+          "amount": 30,
+          "unit": "ml"
+        }
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-      "recipe_status": "serving_only"
+      "steps": [
+        "Vierte el refresco y el jarabe en una jarra fría.",
+        "Remueve suavemente.",
+        "Termina con crema batida y sirve de inmediato."
+      ],
+      "glassware": "Jarra de 250 ml",
+      "recipe_note": "Versión contemporánea de la casa, sin alcohol; no pretende reproducir una fórmula de la obra.",
+      "recipe_status": "house",
+      "garnish": "Crema batida"
     },
     {
       "id": "sploosh-bellini",
@@ -35140,10 +35556,12 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 250 ml fríos en un vaso limpio.",
+        "Añade hielo sólo si lo deseas.",
+        "Bebe de inmediato."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso alto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -35200,10 +35618,12 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 250 ml fríos en un vaso limpio.",
+        "Añade hielo sólo si lo deseas.",
+        "Bebe de inmediato."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso alto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -35212,14 +35632,16 @@ export const content: PublicCatalog = {
       "aliases": [
         "Alphabet Soup"
       ],
-      "category": "Bebida de servicio directo",
+      "category": "Acompañamiento cálido",
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Elige una sopa de letras o una sopa caliente que te guste.",
+        "Calienta una porción y sírvela en un tazón.",
+        "Disfrútala mientras lees."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Tazón",
+      "recipe_note": "Propuesta editorial para acompañar la lectura.",
       "recipe_status": "serving_only"
     },
     {
@@ -35270,16 +35692,19 @@ export const content: PublicCatalog = {
       "id": "sidra-de-manzana",
       "name_es": "Sidra de manzana",
       "aliases": [
-        "Apple Cider"
+        "Apple Cider",
+        "Hard Apple Cider"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": false,
+      "category": "Sidra",
+      "alcoholic": true,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Enfría entre 6 y 8 °C.",
+        "Sirve 250 ml en un vaso de sidra.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso de sidra",
+      "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
       "recipe_status": "serving_only"
     },
     {
@@ -35288,15 +35713,38 @@ export const content: PublicCatalog = {
       "aliases": [
         "Fruit Cordial"
       ],
-      "category": "Bebida de servicio directo",
-      "alcoholic": true,
-      "ingredients": [],
-      "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+      "category": "Cordial de fruta sin alcohol",
+      "alcoholic": false,
+      "ingredients": [
+        {
+          "name": "fruta roja congelada",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "azúcar",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 5,
+          "unit": "ml"
+        }
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
-      "recipe_status": "serving_only"
+      "steps": [
+        "Calienta fruta, azúcar y agua durante 5 minutos.",
+        "Cuela y añade el limón.",
+        "Enfría; mezcla 30 ml del concentrado con 150 ml de agua fría para servir."
+      ],
+      "glassware": "Vaso alto",
+      "recipe_note": "Versión contemporánea de la casa; no se atribuye al autor.",
+      "recipe_status": "house"
     },
     {
       "id": "te-rooibos",
@@ -35322,7 +35770,7 @@ export const content: PublicCatalog = {
     },
     {
       "id": "leche-o-leche-vegetal",
-      "name_es": "Leche o leche vegetal",
+      "name_es": "Leche o bebida vegetal (elige una)",
       "aliases": [
         "Milk (Or Plant-Based Milk)"
       ],
@@ -35330,10 +35778,12 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Elige leche o una bebida vegetal.",
+        "Sirve 250 ml entre 4 y 6 °C.",
+        "Bebe de inmediato."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso alto",
+      "recipe_note": "La alternativa original se conserva, pero debe declararse cuál se eligió.",
       "recipe_status": "serving_only"
     },
     {
@@ -35390,10 +35840,12 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [],
       "steps": [
-        "Sirve la bebida a la temperatura adecuada."
+        "Sirve 250 ml fríos en un vaso limpio.",
+        "Añade hielo sólo si lo deseas.",
+        "Bebe de inmediato."
       ],
-      "glassware": "Vaso de servicio",
-      "recipe_note": "Bebida servida directamente; el libro respalda el maridaje, no una receta.",
+      "glassware": "Vaso alto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
       "recipe_status": "serving_only"
     }
   ],
