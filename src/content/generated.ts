@@ -2,7 +2,7 @@
 import type { PublicCatalog } from '../../scripts/content-types'
 
 export const content: PublicCatalog = {
-  "generated_at": "2026-07-28",
+  "generated_at": "2026-07-29",
   "authors": [
     {
       "id": "dorothy-parker",
@@ -51,14 +51,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "appears_in_work",
           "headline_es": "Whisky escocés para Hazel Morse",
-          "explanation_es": "En Rubia grande, Whisky escocés entra en escena.",
+          "explanation_es": "En “Big Blonde,” Parker (a través de Hazel) le atribuye al alcohol atributos de un amigo. A lo largo de la historia, Hazel se consuela a sí misma con alcohol. El whisky es siempre su bebida de cabecera cuando se siente deprimida; en lugar de hablar con un amigo para desahogarse de su tristeza y dolor, recurre a la botella.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-parker-scotch"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch",
             "name_es": "Whisky escocés",
@@ -113,7 +113,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-sour",
           "relationship_type": "circulating_anecdote",
           "headline_es": "La acidez de un Whiskey Sour",
-          "explanation_es": "Whiskey Sour para Dorothy Parker: una historia que sigue acompañando su lectura.",
+          "explanation_es": "Dorothy Parker tenía afición por varios cócteles, pero su favorito era el Whiskey Sour. Este clásico lleva bourbon, jugo de limón fresco y jarabe simple, y se agita con hielo antes de servir. Es elegante, fuerte y ácido. Justo como ella.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-parker-whiskey-sour-tasting-table",
@@ -122,8 +122,8 @@ export const content: PublicCatalog = {
             "evidencia-parker-whiskey-sour-bustle"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-sour",
             "name_es": "Whiskey Sour",
@@ -247,7 +247,7 @@ export const content: PublicCatalog = {
           "drink_id": "martini-seco",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Dos Martinis, como máximo",
-          "explanation_es": "Martini seco para Dorothy Parker: una historia que sigue acompañando su lectura.",
+          "explanation_es": "Martini seco para Dorothy Parker, quien escribió: \"Me gusta tomar un martini, dos como máximo. Después de tres estoy bajo la mesa, después de cuatro estoy bajo mi anfitrión.\"",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-parker-martini-abv-project",
@@ -256,8 +256,8 @@ export const content: PublicCatalog = {
             "evidencia-parker-martini-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "martini-seco",
             "name_es": "Martini seco",
@@ -419,14 +419,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "appears_in_work",
           "headline_es": "Tres cervezas y una visita",
-          "explanation_es": "En Me visita un editor y un poeta, Cerveza entra en escena.",
+          "explanation_es": "En \"Me visita un editor y un poeta\", la Cerveza entra en escena. O en varias.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bukowski-cerveza"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza",
             "name_es": "Cerveza",
@@ -480,7 +480,7 @@ export const content: PublicCatalog = {
           "drink_id": "boilermaker",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Cerveza con un golpe de bourbon",
-          "explanation_es": "Boilermaker para Charles Bukowski: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El boilermaker era una de las bebidas preferidas de Charles Bukowski. Puedes verter un vaso de whisky (o bourbon) en un vaso de cerveza lager y beber un boilermaker de esa manera. Si solo quieres emborracharte, a lo Bukoswki, deja que tu estómago haga la mezcla.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bukowski-boilermaker-daily-meal",
@@ -490,8 +490,8 @@ export const content: PublicCatalog = {
             "evidencia-bukowski-boilermaker-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "boilermaker",
             "name_es": "Boilermaker",
@@ -629,14 +629,14 @@ export const content: PublicCatalog = {
           "drink_id": "boilermaker",
           "relationship_type": "author_documented",
           "headline_es": "Boilermaker atribuido a Bukowski",
-          "explanation_es": "Boilermaker acompaña una conexión documentada con Charles Bukowski.",
+          "explanation_es": "El boilermaker era una de las bebidas preferidas de Charles Bukowski. Puedes verter un vaso de whisky (o bourbon) en un vaso de cerveza lager y beber un boilermaker de esa manera. Si solo quieres emborracharte, a lo Bukoswki, deja que tu estómago haga la mezcla.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-charles-bukowski-boilermaker-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "boilermaker",
             "name_es": "Boilermaker",
@@ -737,14 +737,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "appears_in_work",
           "headline_es": "Cerveza para conversar",
-          "explanation_es": "En En el camino, Cerveza entra en escena.",
+          "explanation_es": "La cerveza aparece desde las primeras páginas de *En el camino* como parte del combustible barato de viajes, amistades y noches improvisadas. No necesita receta ni copa especial: una lager fría y común basta para acompañar una prosa que avanza por hambre de movimiento, incluso cuando el cuerpo ya pide detenerse.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-cerveza"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza",
             "name_es": "Cerveza",
@@ -797,7 +797,7 @@ export const content: PublicCatalog = {
           "drink_id": "margarita-mezcal",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Una Margarita para salir a la carretera",
-          "explanation_es": "Margarita de mezcal para Jack Kerouac: una historia que sigue acompañando su lectura.",
+          "explanation_es": "La Margarita de mezcal es una variación ahumada del clásico: mezcal, lima y licor de naranja, con sal en el borde. Su asociación con Kerouac pertenece a la mitología de sus viajes mexicanos más que a una fórmula documentada por el autor; aun así, el humo del agave y la acidez ofrecen una versión menos turística y más áspera de la carretera hacia el sur.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-margarita-tasting-table",
@@ -809,8 +809,8 @@ export const content: PublicCatalog = {
             "evidencia-kerouac-margarita-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "margarita-mezcal",
             "name_es": "Margarita de mezcal",
@@ -997,14 +997,14 @@ export const content: PublicCatalog = {
           "drink_id": "wine-spodiodi",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Oporto y whiskey en el camino",
-          "explanation_es": "Wine Spodiodi para Jack Kerouac: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Wine Spodiodi de *En el camino* consiste en whisky protegido por dos medidas de oporto: una “chaqueta dulce” alrededor del golpe áspero. La bebida procede también de una canción de rhythm and blues, de modo que reúne música, jerga y exceso en una sola copa, exactamente el ritmo que Kerouac quería trasladar a la página.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-wine-spodiodi-abebooks"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "wine-spodiodi",
             "name_es": "Wine Spodiodi",
@@ -1059,14 +1059,14 @@ export const content: PublicCatalog = {
           "drink_id": "wine-spodiodi",
           "relationship_type": "appears_in_work",
           "headline_es": "Wine Spodiodi en On the Road",
-          "explanation_es": "En En el camino, Wine Spodiodi entra en escena.",
+          "explanation_es": "En *En el camino*, Walter ordena Wine Spodiodi: oporto, whisky y otra capa de oporto para envolver el alcohol fuerte en dulzor. La mezcla es rudimentaria, musical y memorable; no pretende equilibrio de coctelería fina, sino producir energía suficiente para que la conversación siga corriendo al mismo ritmo que la novela.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-51-wine-spodiodi"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "wine-spodiodi",
             "name_es": "Wine Spodiodi",
@@ -1124,14 +1124,14 @@ export const content: PublicCatalog = {
           "drink_id": "anchor-steam-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Una Steam Beer para On the Road",
-          "explanation_es": "Para En el camino, Anchor Steam Beer: una compañía elegida para la lectura.",
+          "explanation_es": "Anchor Steam —hoy llamada técnicamente California Common— es una cerveza de San Francisco fermentada con levadura lager a temperaturas más cálidas. Como maridaje para *En el camino*, une ciudad, tradición obrera e improvisación técnica: una cerveza nacida de hacer lo posible con lo que había, bastante cercana al método vital de Dean Moriarty.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kerouac-anchor-steam-editorial"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "anchor-steam-beer",
             "name_es": "Anchor Steam Beer",
@@ -1181,14 +1181,14 @@ export const content: PublicCatalog = {
           "drink_id": "margarita",
           "relationship_type": "author_documented",
           "headline_es": "Margarita atribuida a Kerouac",
-          "explanation_es": "Margarita acompaña una conexión documentada con Jack Kerouac.",
+          "explanation_es": "La Margarita asociada a Kerouac combina tequila, licor de naranja y lima, normalmente con borde de sal. La conexión es biográfica y cultural más que literaria: una bebida de carretera entre México y Estados Unidos, ácida y rápida, que encaja con su búsqueda de intensidad aunque no deba confundirse con una receta creada por él.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-jack-kerouac-margarita-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "margarita",
             "name_es": "Margarita",
@@ -1292,15 +1292,15 @@ export const content: PublicCatalog = {
           "drink_id": "gin-rickey",
           "relationship_type": "appears_in_work",
           "headline_es": "Cuatro gin rickeys antes de la tensión",
-          "explanation_es": "En El gran Gatsby, Gin Rickey entra en escena.",
+          "explanation_es": "En el sofocante capítulo séptimo de *El gran Gatsby*, Daisy pide cuatro gin rickeys justo antes de que la tensión estalle. Ginebra, lima y soda producen una bebida seca, fría y casi sin azúcar; debería aliviar el calor, pero en la novela apenas consigue enfriar una habitación cargada de celos y decisiones irreversibles.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-fitzgerald-gin-rickey",
             "evidencia-fitzgerald-gin-rickey-sip"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gin-rickey",
             "name_es": "Gin Rickey",
@@ -1389,7 +1389,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Mint Julep para bajar la temperatura",
-          "explanation_es": "Mint Julep para F. Scott Fitzgerald: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Mint Julep está documentado dentro de *El gran Gatsby*, no sólo asociado retrospectivamente a Fitzgerald. Su mezcla de bourbon, menta, azúcar y hielo picado parece hospitalaria y refrescante, pero en la novela acompaña una jornada de calor insoportable y violencia emocional: una copa fría para una escena que está a punto de hervir.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-fitzgerald-mint-julep-lifestyle-asia",
@@ -1397,8 +1397,8 @@ export const content: PublicCatalog = {
             "evidencia-fitzgerald-mint-julep-read-and-co"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -1495,14 +1495,14 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "appears_in_work",
           "headline_es": "Mint Julep en The Great Gatsby",
-          "explanation_es": "En El gran Gatsby, Mint Julep entra en escena.",
+          "explanation_es": "En *El gran Gatsby*, el Mint Julep aparece durante el día abrasador que conduce al enfrentamiento del Plaza. Bourbon, menta, azúcar y hielo triturado prometen frescura sureña, pero la bebida no alcanza a suavizar el resentimiento entre Tom, Daisy y Gatsby; el hielo se derrite más rápido que sus máscaras sociales.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-28-mint-julep"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -1560,14 +1560,14 @@ export const content: PublicCatalog = {
           "drink_id": "bronx-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bronx Cocktail para The Great Gatsby",
-          "explanation_es": "Para El gran Gatsby, Bronx Cocktail: una compañía elegida para la lectura.",
+          "explanation_es": "El Bronx Cocktail no aparece en *El gran Gatsby*, pero pertenece de lleno a la coctelería de la era: ginebra, vermut dulce y seco, y jugo de naranja. Es brillante, urbano y ligeramente excesivo, una copa que podría circular sin esfuerzo por una fiesta de West Egg mientras los invitados inventan rumores sobre el anfitrión.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-f-scott-fitzgerald-bronx-cocktail-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-great-gatsby",
           "drink": {
             "id": "bronx-cocktail",
@@ -1630,14 +1630,14 @@ export const content: PublicCatalog = {
           "drink_id": "french-75",
           "relationship_type": "editorial_pairing",
           "headline_es": "F. Scott Fitzgerald y French 75 como maridaje editorial",
-          "explanation_es": "Para El gran Gatsby, French 75: una compañía elegida para la lectura.",
+          "explanation_es": "El French 75 es un maridaje editorial, no una bebida nombrada en *El gran Gatsby*. Combina ginebra, limón, azúcar y champaña, y debe su nombre a un cañón francés de la Primera Guerra Mundial: parece una copa de celebración, pero golpea con precisión militar, exactamente el tipo de elegancia peligrosa que conviene a las fiestas de Gatsby.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-128"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "french-75",
             "name_es": "French 75",
@@ -1736,14 +1736,14 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Un toddy para Caroline Compson",
-          "explanation_es": "En El ruido y la furia, Toddy caliente entra en escena.",
+          "explanation_es": "En *El ruido y la furia*, el toddy caliente aparece dentro del tejido doméstico y alcohólico de los Compson. Whiskey, agua caliente y azúcar prometen consuelo, pero en esa casa el ritual sólo administra temporalmente una decadencia que nadie consigue detener.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-faulkner-toddy"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "hot-toddy",
             "name_es": "Toddy caliente",
@@ -1813,7 +1813,7 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Julep sureño para Faulkner",
-          "explanation_es": "Mint Julep para William Faulkner: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Mint Julep circula como la bebida faulkneriana por excelencia: bourbon, menta, azúcar y hielo picado, servido con abundante escarcha. La imagen es verosímil y sureña, pero conviene no convertirla en caricatura; la copa puede acompañar Yoknapatawpha sin explicar por sí sola la complejidad de sus voces.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-faulkner-mint-julep-daily-meal",
@@ -1824,8 +1824,8 @@ export const content: PublicCatalog = {
             "evidencia-faulkner-mint-julep-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -1985,15 +1985,15 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "author_documented",
           "headline_es": "Toddy caliente documentado por la fuente",
-          "explanation_es": "Toddy caliente acompaña una conexión documentada con William Faulkner.",
+          "explanation_es": "La relación de Faulkner con el toddy caliente está mejor documentada que muchas leyendas de “tragos favoritos”. Whiskey, agua caliente, azúcar o miel y limón forman una bebida doméstica que él preparaba con frecuencia; simple, cálida y repetible, pertenece más a una rutina privada que a una pose de bar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-le-005",
             "evidencia-william-faulkner-hot-toddy-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "hot-toddy",
             "name_es": "Toddy caliente",
@@ -2088,14 +2088,14 @@ export const content: PublicCatalog = {
           "drink_id": "old-fashioned",
           "relationship_type": "editorial_pairing",
           "headline_es": "William Faulkner y Old-Fashioned como maridaje editorial",
-          "explanation_es": "Para El ruido y la furia, Old Fashioned: una compañía elegida para la lectura.",
+          "explanation_es": "El Old Fashioned mezcla bourbon o rye, azúcar, bitters y piel de naranja. Como maridaje para *El ruido y la furia*, su nombre ya propone una familia aferrada a un orden antiguo; la receta puede repetirse con precisión, mientras el tiempo de la novela se rompe en voces que no comparten la misma medida.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-129"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "old-fashioned",
             "name_es": "Old Fashioned",
@@ -2198,14 +2198,14 @@ export const content: PublicCatalog = {
           "drink_id": "manhattan",
           "relationship_type": "appears_in_work",
           "headline_es": "El Manhattan del escritorio de Sam Spade",
-          "explanation_es": "En El halcón maltés, Manhattan entra en escena.",
+          "explanation_es": "En \"El halcón maltés\", un Manhattan entra en escena. Este cóctel clásico sólo tiene tres ingredientes: whiskey (rye), vermouth dulce y amargos aromáticos. Corona un cereza marrasquino.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-hammett-manhattan"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "manhattan",
             "name_es": "Manhattan",
@@ -2269,14 +2269,14 @@ export const content: PublicCatalog = {
           "drink_id": "manhattan",
           "relationship_type": "appears_in_work",
           "headline_es": "Un Manhattan en The Glass Key",
-          "explanation_es": "En The Glass Key, Manhattan entra en escena.",
+          "explanation_es": "En \"The Glass Key\", Manhattan entra en escena. Este cóctel clásico sólo tiene tres ingredientes: whiskey (rye), vermouth dulce y amargos aromáticos. Corona un cereza marrasquino.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hammett-manhattan-glass-key"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "manhattan",
             "name_es": "Manhattan",
@@ -2341,14 +2341,14 @@ export const content: PublicCatalog = {
           "drink_id": "knickerbocker-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Knickerbocker Martini para The Thin Man",
-          "explanation_es": "Para La delgada línea, Knickerbocker Martini: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"La delgada línea\", un Knickerbocker Martini, martini de intensidad media, elaborado en base a gin y vermut, siendo el vermut aromático el sabor principal.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-dashiell-hammett-knickerbocker-martini-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-thin-man",
           "drink": {
             "id": "knickerbocker-martini",
@@ -2452,7 +2452,7 @@ export const content: PublicCatalog = {
           "drink_id": "gimlet",
           "relationship_type": "appears_in_work",
           "headline_es": "Gimlets en el bar Victor's",
-          "explanation_es": "En El largo adiós, Gimlet entra en escena.",
+          "explanation_es": "En *El largo adiós*, Terry Lennox explica que un verdadero Gimlet debe llevar mitad ginebra y mitad Rose’s Lime Juice. La proporción resulta hoy muy dulce, pero la escena convirtió al cóctel en emblema de la novela: una mezcla sencilla, nostálgica y obstinadamente específica para una amistad que tampoco admite sustitutos.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-chandler-gimlet",
@@ -2460,8 +2460,8 @@ export const content: PublicCatalog = {
             "evidencia-sip-and-sensibility-48-gimlet"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gimlet",
             "name_es": "Gimlet",
@@ -2567,14 +2567,14 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Brandy bajo una capa de champaña",
-          "explanation_es": "Champagne Cocktail para Raymond Chandler: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Champagne Cocktail aparece en *El sueño eterno* como parte del lujo y la corrupción que rodean a Marlowe. Champaña, azúcar y bitters producen una copa brillante, pero el detective sabe que las burbujas no vuelven respetable a nadie; en Chandler, hasta la bebida más elegante termina iluminando algo turbio.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chandler-champagne-cocktail-abebooks"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "champagne-cocktail",
             "name_es": "Champagne Cocktail",
@@ -2628,14 +2628,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Una cerveza con destino inesperado",
-          "explanation_es": "Cerveza para Raymond Chandler: una historia que sigue acompañando su lectura.",
+          "explanation_es": "La anécdota cuenta que Chandler prefería cerveza porque los Singapore Slings lo dejaban incapaz de trabajar, aunque la bebida tropical aparece asociada a su ambiente de bar. Ginebra, piña, cítricos, licor de cereza y hierbas forman una mezcla exuberante; una lager sencilla era, comparativamente, una decisión profesional.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chandler-beer-singapore-libro-bibliotopia"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza",
             "name_es": "Cerveza",
@@ -2691,14 +2691,14 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "appears_in_work",
           "headline_es": "Champagne Cocktail en The Big Sleep",
-          "explanation_es": "En El sueño eterno, Champagne Cocktail entra en escena.",
+          "explanation_es": "En *El sueño eterno*, el Champagne Cocktail no es un maridaje retrospectivo sino una bebida del propio mundo narrativo. El terrón de azúcar y los bitters hacen que la champaña burbujee con más violencia y adquiera un fondo amargo, una descripción bastante exacta de la riqueza que Marlowe encuentra en Los Ángeles.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-40-champagne-cocktail"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "champagne-cocktail",
             "name_es": "Champagne Cocktail",
@@ -2756,14 +2756,14 @@ export const content: PublicCatalog = {
           "drink_id": "gimlet",
           "relationship_type": "editorial_pairing",
           "headline_es": "Gimlet como maridaje editorial",
-          "explanation_es": "Para El sueño eterno, Gimlet: una compañía elegida para la lectura.",
+          "explanation_es": "El Gimlet —ginebra y cordial de lima, o ginebra, lima fresca y azúcar— se asocia habitualmente a Chandler por *El largo adiós*, no por *El sueño eterno*. Como maridaje editorial sigue funcionando: corto, ácido y sin adornos, una copa que Marlowe podría beber mientras decide cuál de las versiones de una historia es la menos falsa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-003-04"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gimlet",
             "name_es": "Gimlet",
@@ -2826,14 +2826,14 @@ export const content: PublicCatalog = {
           "drink_id": "gibson",
           "relationship_type": "appears_in_work",
           "headline_es": "Marlowe pide un Gibson en Playback",
-          "explanation_es": "En Playback, un Gibson entra en escena con el estilo seco de Marlowe.",
+          "explanation_es": "En *Playback*, el Gibson aparece como la variante seca del Martini terminada con una cebollita encurtida. Ginebra, vermut y salmuera discreta producen una copa fría y punzante; parece convencional hasta que la guarnición introduce una nota extraña, como casi todo lo que Marlowe encuentra detrás de una fachada respetable.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chandler-gibson-playback"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gibson",
             "name_es": "Gibson",
@@ -2936,14 +2936,14 @@ export const content: PublicCatalog = {
           "drink_id": "absenta-con-agua",
           "relationship_type": "appears_in_work",
           "headline_es": "Absenta en la última noche de fiesta",
-          "explanation_es": "En Fiesta, Absenta con agua entra en escena.",
+          "explanation_es": "En la última noche parisina de *Fiesta*, Jake y Brett beben absenta con agua antes de separarse. Al añadir agua fría, el licor verde de anís y hierbas se vuelve lechoso —el llamado *louche*—; esa transformación lenta acompaña una escena de cansancio, deseo y despedida, cuando la fiesta ya ha dejado de parecer una fiesta.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-hemingway-absenta"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "absenta-con-agua",
             "name_es": "Absenta con agua",
@@ -3003,7 +3003,7 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri-hemingway",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Daiquiri a la medida de Papa",
-          "explanation_es": "Daiquiri Hemingway para Ernest Hemingway: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Hemingway Daiquiri es una modificación del clásico habanero atribuida a la preferencia del escritor por una bebida menos dulce y mucho más cargada. Ron blanco, lima, pomelo y marrasquino producen un cóctel seco y cortante; el apodo Papa Doble recuerda que la parte verdaderamente hemingwayana no era el romanticismo, sino la doble medida de ron.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-daiquiri-tasting-table",
@@ -3013,8 +3013,8 @@ export const content: PublicCatalog = {
             "evidencia-hemingway-daiquiri-drinks-business"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "daiquiri-hemingway",
             "name_es": "Daiquiri Hemingway",
@@ -3164,7 +3164,7 @@ export const content: PublicCatalog = {
           "drink_id": "mojito",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El Mojito de La Bodeguita",
-          "explanation_es": "Mojito para Ernest Hemingway: una historia que sigue acompañando su lectura.",
+          "explanation_es": "La frase que atribuye a Hemingway el mojito de La Bodeguita del Medio es famosa, pero su autenticidad documental es discutida. La asociación persiste porque el cóctel —ron blanco, lima, azúcar, hierbabuena y soda— condensa una imagen irresistible de La Habana; conviene leerla como parte del mito turístico de Hemingway, no como un hecho tan sólido como su vínculo con el daiquiri.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-mojito-aoide",
@@ -3172,8 +3172,8 @@ export const content: PublicCatalog = {
             "evidencia-hemingway-mojito-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mojito",
             "name_es": "Mojito",
@@ -3280,7 +3280,7 @@ export const content: PublicCatalog = {
           "drink_id": "martini-seco",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Martini casi sin vermut",
-          "explanation_es": "Martini seco para Ernest Hemingway: una historia que sigue acompañando su lectura.",
+          "explanation_es": "A Hemingway se le atribuye un Martini extremadamente seco, a veces descrito con una proporción de quince partes de ginebra por una de vermut y bautizado Montgomery. Más que un cóctel equilibrado, es ginebra apenas perfumada por el vermut: frío, severo y sin ornamentos, como una frase a la que se le ha eliminado todo lo que el autor consideraría innecesario.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-martini-financial-times",
@@ -3288,8 +3288,8 @@ export const content: PublicCatalog = {
             "evidencia-hemingway-martini-drinks-business"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "martini-seco",
             "name_es": "Martini seco",
@@ -3388,7 +3388,7 @@ export const content: PublicCatalog = {
           "drink_id": "jack-rose",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Jack Rose mientras llega Brett",
-          "explanation_es": "Jack Rose para Ernest Hemingway: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Jack Rose aparece en *Fiesta* cuando Jake bebe mientras espera a Brett, por lo que aquí la conexión no depende sólo de la leyenda biográfica. Applejack, cítrico y granadina forman una copa rosada, viva y ligeramente áspera: una bebida de apariencia festiva para una novela donde casi todos brindan mientras intentan ocultar algo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-jack-rose-abv-project",
@@ -3397,8 +3397,8 @@ export const content: PublicCatalog = {
             "evidencia-hemingway-jack-rose-read-and-co"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "jack-rose",
             "name_es": "Jack Rose",
@@ -3519,15 +3519,15 @@ export const content: PublicCatalog = {
           "drink_id": "death-in-the-afternoon",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Absenta y burbujas para la tarde",
-          "explanation_es": "Death in the Afternoon para Ernest Hemingway: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El *Death in the Afternoon* es la contribución más célebre de Hemingway a la coctelería: absenta servida en una copa y cubierta con champaña muy fría hasta alcanzar una opalescencia lechosa. Su nombre procede del libro del autor sobre las corridas de toros, y la combinación es tan elegante como imprudente: burbujas festivas sobre una base intensa de anís y alcohol.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-death-in-afternoon-drinks-business",
             "evidencia-hemingway-death-in-afternoon-slosh-spot"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "death-in-the-afternoon",
             "name_es": "Death in the Afternoon",
@@ -3603,14 +3603,14 @@ export const content: PublicCatalog = {
           "drink_id": "cognac",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Una noche de cognac en el Ritz",
-          "explanation_es": "Cognac para Ernest Hemingway: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El coñac forma parte de las muchas historias de Hemingway en el Ritz de París, especialmente de la noche de la Liberación que la leyenda convirtió en una supuesta “liberación” del bar. Se bebe solo, a temperatura ambiente, para apreciar fruta seca, especias y madera; aquí importa menos una receta que el gesto de ocupar una barra histórica y convertir la sobremesa en episodio autobiográfico.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-cognac-financial-times"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cognac",
             "name_es": "Cognac",
@@ -3660,14 +3660,14 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri-hemingway",
           "relationship_type": "author_documented",
           "headline_es": "Daiquiri Hemingway documentado por la fuente",
-          "explanation_es": "Daiquiri Hemingway acompaña una conexión documentada con Ernest Hemingway.",
+          "explanation_es": "El daiquiri asociado a Hemingway nació en El Floridita de La Habana a partir de una petición muy concreta: más ron y nada de azúcar. La versión conocida como Papa Doble o Hemingway Daiquiri suele llevar ron blanco, lima, pomelo y licor de marrasquino; seco, ácido y de doble carga, parece diseñado para alguien que desconfiaba de las bebidas tímidas.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-le-010"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "daiquiri-hemingway",
             "name_es": "Daiquiri Hemingway",
@@ -3735,14 +3735,14 @@ export const content: PublicCatalog = {
           "drink_id": "jack-rose",
           "relationship_type": "appears_in_work",
           "headline_es": "Jack Rose en The Sun Also Rises",
-          "explanation_es": "En Fiesta, un Jack Rose entra en escena mientras la noche sigue su curso.",
+          "explanation_es": "En *Fiesta*, Jake pide un Jack Rose mientras espera la llegada de Brett. El cóctel mezcla applejack o brandy de manzana con limón o lima y granadina, y ofrece un color rosado engañosamente amable; dulce, ácido y fuerte, entra en la escena con la misma facilidad con que una noche social se convierte en tensión sentimental.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-31-jack-rose"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "jack-rose",
             "name_es": "Jack Rose",
@@ -3804,14 +3804,14 @@ export const content: PublicCatalog = {
           "drink_id": "bloody-mary",
           "relationship_type": "author_documented",
           "headline_es": "Una fórmula de Bloody Mary en su correspondencia",
-          "explanation_es": "Bloody Mary acompaña una conexión documentada con Ernest Hemingway.",
+          "explanation_es": "Hemingway dejó por escrito una fórmula de Bloody Mary pensada para preparar una jarra, no una copa prudente. Vodka y jugo de tomate se sazonan con lima, salsa Worcestershire, sal de apio, pimienta y picante; su consejo esencial era mezclar bien y corregir sobre la marcha, una receta doméstica, abundante y mucho menos misteriosa que su reputación.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hemingway-bloody-mary-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "bloody-mary",
             "name_es": "Bloody Mary",
@@ -3880,14 +3880,14 @@ export const content: PublicCatalog = {
           "drink_id": "absinthe-shaken",
           "relationship_type": "appears_in_work",
           "headline_es": "Absinthe Shaken",
-          "explanation_es": "En For Whom the Bell Tolls, Absinthe Shaken entra en escena.",
+          "explanation_es": "En *Por quién doblan las campanas*, Robert Jordan guarda absenta auténtica como una reserva preciosa en plena guerra. Agitada con agua y hielo, la bebida adquiere su turbidez característica y le devuelve por un instante recuerdos de París; no funciona como adorno exótico, sino como una cápsula de otro mundo en medio de la violencia española.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ernest-hemingway-absinthe-shaken-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "for-whom-the-bell-tolls",
           "drink": {
             "id": "absinthe-shaken",
@@ -3947,14 +3947,14 @@ export const content: PublicCatalog = {
           "drink_id": "frozen-daiquiri",
           "relationship_type": "appears_in_work",
           "headline_es": "Daiquiri helado en Islas en el golfo",
-          "explanation_es": "En Islands in the Stream, Daiquiri helado entra en escena.",
+          "explanation_es": "En *Islands in the Stream*, el daiquiri helado pertenece al paisaje cubano de bares, calor y jornadas que se alargan. La versión congelada combina ron blanco, jugo de lima y azúcar batidos con hielo; es más fría y ligera en apariencia que un daiquiri clásico, aunque en Hemingway rara vez una copa permanece sola mucho tiempo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ernest-hemingway-frozen-daiquiri-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "islands-in-the-stream",
           "drink": {
             "id": "frozen-daiquiri",
@@ -4016,14 +4016,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-coconut-water",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin con agua de coco en Islas en el golfo",
-          "explanation_es": "En Islands in the Stream, Gin con agua de coco entra en escena.",
+          "explanation_es": "En *Islands in the Stream*, la ginebra con agua de coco es exactamente lo que promete: un trago largo, tropical y sin ceremonia. El agua de coco suaviza el alcohol y aporta un dulzor mineral discreto; en el mundo de Thomas Hudson, donde el mar y la pérdida lo impregnan todo, la bebida parece refrescante sólo hasta que se termina el vaso.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ernest-hemingway-gin-coconut-water-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "islands-in-the-stream",
           "drink": {
             "id": "gin-coconut-water",
@@ -4085,14 +4085,14 @@ export const content: PublicCatalog = {
           "drink_id": "death-in-the-afternoon",
           "relationship_type": "author_documented",
           "headline_es": "Death in the Afternoon atribuido a Hemingway",
-          "explanation_es": "Death in the Afternoon acompaña una conexión documentada con Ernest Hemingway.",
+          "explanation_es": "Hemingway publicó la fórmula del *Death in the Afternoon* en un libro colectivo de recetas de escritores: absenta y champaña, vertida hasta que la mezcla adquiera un aspecto opalescente. El título enlaza directamente con su ensayo taurino y resume bien su estética de bar: una preparación breve, hermosa y con suficiente alcohol como para volver dudosa cualquier recomendación de repetirla.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-ernest-hemingway-death-in-the-afternoon-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "death-in-the-afternoon",
             "name_es": "Death in the Afternoon",
@@ -4150,14 +4150,14 @@ export const content: PublicCatalog = {
           "drink_id": "ribera-del-duero",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ernest Hemingway y Ribera del Duero como maridaje editorial",
-          "explanation_es": "Para For Whom the Bell Tolls, Ribera del Duero: una compañía elegida para la lectura.",
+          "explanation_es": "El Ribera del Duero no aparece como tal en *Por quién doblan las campanas*, pero es un maridaje geográfico razonable para una novela situada en España. Sus tintos, dominados por tempranillo y conocidos por su fruta oscura, estructura y crianza en madera, acompañan la aspereza de la sierra, la comida compartida y la gravedad de una misión que se sabe casi condenada.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-133"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ribera-del-duero",
             "name_es": "Ribera del Duero",
@@ -4252,14 +4252,14 @@ export const content: PublicCatalog = {
           "drink_id": "amontillado",
           "relationship_type": "appears_in_work",
           "headline_es": "El amontillado de la trampa",
-          "explanation_es": "En El barril de amontillado, Amontillado entra en escena.",
+          "explanation_es": "En \"El barril de amontillado\", el Amontillado entra en escena. Este es un tipo de vino de Jerez que recibe su nombre de la localidad de Montilla, en Andalucía, España, donde se originó en el siglo XVIII",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-poe-amontillado"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "amontillado",
             "name_es": "Amontillado",
@@ -4314,7 +4314,7 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-eggnog",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El Eggnog de la familia Poe",
-          "explanation_es": "Eggnog con brandy para Edgar Allan Poe: una historia que sigue acompañando su lectura.",
+          "explanation_es": "Edgar Allan Poe tenía la reputación de consumir grandes cantidades de alcohol. Su receta de eggnog, que estuvo en su familia desde 1790, no es para los débiles de corazón. Además de ron y brandy para dar esa vibra cálida y picante, requiere las yemas de siete huevos, junto con algo de azúcar, leche, crema para batir y nuez moscada.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-poe-brandy-eggnog-daily-meal",
@@ -4322,8 +4322,8 @@ export const content: PublicCatalog = {
             "evidencia-poe-brandy-eggnog-bustle"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "brandy-eggnog",
             "name_es": "Eggnog con brandy",
@@ -4431,14 +4431,14 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-eggnog",
           "relationship_type": "author_documented",
           "headline_es": "Eggnog con brandy atribuido a Poe",
-          "explanation_es": "Eggnog con brandy acompaña una conexión documentada con Edgar Allan Poe.",
+          "explanation_es": "Edgar Allan Poe tenía la reputación de consumir grandes cantidades de alcohol. Su receta de eggnog, que estuvo en su familia desde 1790, no es para los débiles de corazón. Además de ron y brandy para dar esa vibra cálida y picante, requiere las yemas de siete huevos, junto con algo de azúcar, leche, crema para batir y nuez moscada.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-edgar-allan-poe-brandy-eggnog-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "brandy-eggnog",
             "name_es": "Eggnog con brandy",
@@ -4550,14 +4550,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "appears_in_work",
           "headline_es": "La botella intacta de Hickey",
-          "explanation_es": "En El vendedor de hielo, Whisky escocés entra en escena.",
+          "explanation_es": "En *El vendedor de hielo*, el whisky no es decoración de época: es el combustible cotidiano de los habitantes del bar de Harry Hope. La botella de Hickey, llamativamente intacta, anuncia que algo ha cambiado antes de que él explique qué; un simple Scotch servido solo se convierte así en una señal dramática de abstinencia, amenaza y falsas redenciones.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-oneill-whiskey"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch",
             "name_es": "Whisky escocés",
@@ -4612,15 +4612,15 @@ export const content: PublicCatalog = {
           "drink_id": "gibson",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Gibson para O’Neill",
-          "explanation_es": "Gibson para Eugene O'Neill: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Gibson es un Martini de ginebra y vermut seco distinguido por una cebollita encurtida en lugar de aceituna o twist de limón. Su vínculo con Eugene O’Neill circula como anécdota de escritor y bebedor; la guarnición salina le da un aire austero, casi teatral, apropiado para un autor cuyas conversaciones de bar rara vez terminan en ligereza.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-oneill-gibson-aoide",
             "evidencia-oneill-gibson-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gibson",
             "name_es": "Gibson",
@@ -4739,14 +4739,14 @@ export const content: PublicCatalog = {
           "drink_id": "agua-mineral",
           "relationship_type": "author_documented",
           "headline_es": "Agua para el discurso del Cervantes",
-          "explanation_es": "Agua mineral acompaña una conexión documentada con Guillermo Cabrera Infante.",
+          "explanation_es": "Cuando Guillermo Cabrera Infante recibió el Premio Cervantes, pidió agua mineral para el discurso: una elección casi provocadora en un autor tan asociado a la noche, La Habana y sus bares. No hay cóctel que preparar; la gracia está en que, frente a una ceremonia cargada de literatura y celebración, el gran cronista del alcohol levantó un vaso perfectamente sobrio.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-cabrera-infante-agua"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "agua-mineral",
             "name_es": "Agua mineral",
@@ -4846,15 +4846,15 @@ export const content: PublicCatalog = {
           "drink_id": "singapore-sling",
           "relationship_type": "appears_in_work",
           "headline_es": "Singapore Slings en el Polo Lounge",
-          "explanation_es": "En Miedo y asco en Las Vegas, Singapore Sling entra en escena.",
+          "explanation_es": "En *Miedo y asco en Las Vegas*, Raoul Duke y su abogado beben Singapore Slings en el Polo Lounge, acompañados además por mezcal y cerveza. El Sling clásico ya es una mezcla barroca de ginebra, licor de cereza, Bénédictine, cítricos, piña y bitters; añadirle los acompañamientos de Thompson convierte una bebida tropical en una declaración de guerra contra la moderación.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thompson-singapore-sling",
             "evidencia-sip-and-sensibility-61-singapore-sling"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "singapore-sling",
             "name_es": "Singapore Sling",
@@ -4991,14 +4991,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
           "headline_es": "Un gin tonic entre piscinas",
-          "explanation_es": "En El nadador, Gin tonic entra en escena.",
+          "explanation_es": "En *El nadador*, el gin tonic acompaña la ruta de Neddy Merrill por piscinas, casas y una tarde que se descompone a medida que avanza. Ginebra, tónica, hielo y lima parecen el emblema de una vida suburbana limpia y próspera; al final, la copa resulta tan frágil como la cronología y el estatus que Neddy daba por seguros.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cheever-gin-tonic"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gin-tonic",
             "name_es": "Gin tonic",
@@ -5102,14 +5102,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "author_documented",
           "headline_es": "Whisky y una novela policial por leer",
-          "explanation_es": "Whisky escocés acompaña una conexión documentada con Juan Carlos Onetti.",
+          "explanation_es": "El whisky fue una presencia real y persistente en la vida de Juan Carlos Onetti, especialmente durante sus años de encierro voluntario en Madrid. Servido solo, sin ceremonia, acompaña mejor su mundo de habitaciones cerradas, humo y derrota que un cóctel vistoso; aquí la bebida no adorna la literatura, sino que pertenece a la imagen documentada del escritor.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-onetti-whisky"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch",
             "name_es": "Whisky escocés",
@@ -5210,14 +5210,14 @@ export const content: PublicCatalog = {
           "drink_id": "cafe-con-mate",
           "relationship_type": "appears_in_work",
           "headline_es": "Café y mate en la madrugada",
-          "explanation_es": "En Rayuela, Café con mate entra en escena.",
+          "explanation_es": "En *Rayuela*, café y mate aparecen como bebidas de conversación, vigilia y desplazamiento entre París y Buenos Aires. Combinarlos no significa necesariamente mezclarlos en una sola taza: son dos rituales paralelos, uno urbano y rápido, otro compartido y circular, para una novela que también propone leer en más de un orden.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cortazar-cafe-mate"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cafe-con-mate",
             "name_es": "Café con mate",
@@ -5321,14 +5321,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "Sancho reconoce el vino",
-          "explanation_es": "En Don Quijote de la Mancha, segunda parte, Vino tinto entra en escena.",
+          "explanation_es": "En la segunda parte de *Don Quijote*, el vino aparece como alimento, placer y motivo de comicidad, especialmente alrededor de Sancho. Un tinto manchego sencillo, servido con comida y sin ceremonia, resulta más fiel al mundo de ventas y caminos que una etiqueta aristocrática; aquí el vino pertenece al paisaje social de la novela.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-cervantes-vino"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vino-tinto",
             "name_es": "Vino tinto",
@@ -5427,14 +5427,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "El vino que inspira una oda",
-          "explanation_es": "En Odas elementales, Vino tinto entra en escena.",
+          "explanation_es": "En las *Odas elementales*, Neruda convierte el vino en materia, trabajo, tierra y celebración colectiva. Un tinto chileno sencillo —más mesa que ceremonia— acompaña mejor esos poemas que una botella de lujo: fruta, pan y conversación antes que puntuaciones o prestigio.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-neruda-vino"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vino-tinto",
             "name_es": "Vino tinto",
@@ -5488,14 +5488,14 @@ export const content: PublicCatalog = {
           "drink_id": "el-coquetelon",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El Coquetelón de Neruda",
-          "explanation_es": "El Coquetelón para Pablo Neruda: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Coquetelón fue una creación asociada a Pablo Neruda: una medida de coñac, una de Cointreau, dos de jugo de naranja, hielo y un remate de champaña. El nombre mezcla “cóctel grande” y coquetería, pero la receta no coquetea: es cítrica, cara y engañosamente festiva, con suficiente alcohol para justificar el aumentativo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-neruda-coquetelon-daily-meal"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "el-coquetelon",
             "name_es": "El Coquetelón",
@@ -5600,14 +5600,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-tinto",
           "relationship_type": "appears_in_work",
           "headline_es": "Morapio en la taberna de Pica Lagartos",
-          "explanation_es": "En Luces de bohemia, Vino tinto entra en escena.",
+          "explanation_es": "En *Luces de bohemia*, el “morapio” es vino barato, nombrado con una palabra popular y deliberadamente poco elegante. No corresponde buscarle notas de cata: forma parte del Madrid nocturno, hambriento y grotesco de Max Estrella, donde el alcohol calienta, embrutece y prolonga una conversación que ya camina hacia el desastre.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-valle-inclan-morapio"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vino-tinto",
             "name_es": "Vino tinto",
@@ -5706,14 +5706,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin y tónica para hablar de amor",
-          "explanation_es": "En De qué hablamos cuando hablamos de amor, Gin tonic entra en escena.",
+          "explanation_es": "En *De qué hablamos cuando hablamos de amor*, el gin tonic circula durante una conversación que se vuelve más larga, más íntima y menos segura a medida que baja la botella. Ginebra, tónica, hielo y lima parecen transparentes, pero el alcohol se acumula sin ruido; Carver usa esa claridad engañosa para mostrar cómo las definiciones se deshacen mientras los vasos se vacían.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-carver-gin-tonic"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gin-tonic",
             "name_es": "Gin tonic",
@@ -5817,14 +5817,14 @@ export const content: PublicCatalog = {
           "drink_id": "tonica-citricos-cero",
           "relationship_type": "abstinence_or_recovery",
           "headline_es": "Esta ronda va sin alcohol",
-          "explanation_es": "Una ronda sin alcohol para acompañar la lectura de Stephen King.",
+          "explanation_es": "Para Stephen King, una tónica de cítricos sin alcohol debe presentarse desde la recuperación, no como sustituto vergonzante. Tónica, limón, pomelo y hielo ofrecen amargor, aroma y ritual de copa sin alcohol; una bebida coherente con *Mientras escribo*, donde King cuenta que la sobriedad fue condición para conservar vida, familia y trabajo.",
           "confidence": "high",
           "evidence_ids": [
             "evidencia-king-recuperacion"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-21",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "tonica-citricos-cero",
             "name_es": "Tónica de cítricos sin alcohol",
@@ -5892,14 +5892,14 @@ export const content: PublicCatalog = {
           "drink_id": "boilermaker",
           "relationship_type": "editorial_pairing",
           "headline_es": "Boilermaker como maridaje editorial",
-          "explanation_es": "Para El resplandor, Boilermaker: una compañía elegida para la lectura.",
+          "explanation_es": "El Boilermaker —un shot de whiskey junto a una cerveza, bebidos por separado o juntos— acompaña a *El resplandor* por el pasado alcohólico de Jack Torrance. No es un trago celebrado por la novela, sino una señal de recaída y autoengaño; la combinación simple contiene exactamente la puerta que Jack insiste en creer cerrada.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-003-09"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "boilermaker",
             "name_es": "Boilermaker",
@@ -5998,15 +5998,15 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-martini",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Tres Martinis después del taller",
-          "explanation_es": "Vodka Martini para Sylvia Plath: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Vodka Martini se asocia a Sylvia Plath a través de anécdotas biográficas, aunque no debe convertirse en explicación de su obra. Vodka, poco vermut y una aceituna producen una copa helada y austera; la conexión interesa como detalle cultural, no como romantización de sufrimiento o alcohol.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-plath-vodka-martini-tasting-table",
             "evidencia-plath-vodka-martini-aoide"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vodka-martini",
             "name_es": "Vodka Martini",
@@ -6084,14 +6084,14 @@ export const content: PublicCatalog = {
           "drink_id": "american-vodka",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sylvia Plath y Vodka estadounidense como maridaje editorial",
-          "explanation_es": "Para La campana de cristal, Vodka estadounidense: una compañía elegida para la lectura.",
+          "explanation_es": "El vodka estadounidense es un maridaje deliberadamente neutro para *La campana de cristal*. Servido muy frío, casi no ofrece aroma ni dulzor, una claridad que puede sentirse limpia o vacía; esa ambigüedad acompaña mejor la percepción anestesiada de Esther que un cóctel alegre.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-140"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "american-vodka",
             "name_es": "Vodka estadounidense",
@@ -6184,7 +6184,7 @@ export const content: PublicCatalog = {
           "drink_id": "screwdriver",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El “orange drink” de Capote",
-          "explanation_es": "Screwdriver para Truman Capote: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Screwdriver fue una de las bebidas asociadas a Truman Capote: vodka y jugo de naranja, sin técnica más compleja que mezclar sobre hielo. Su inocente aspecto de desayuno vuelve fácil ignorar la cantidad de alcohol, una cualidad compatible con las largas jornadas sociales de Capote y mucho menos glamorosa que su nombre de cóctel literario sugiere.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-capote-screwdriver-tasting-table",
@@ -6195,8 +6195,8 @@ export const content: PublicCatalog = {
             "evidencia-capote-screwdriver-drinks-business"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "screwdriver",
             "name_es": "Screwdriver",
@@ -6358,7 +6358,7 @@ export const content: PublicCatalog = {
           "drink_id": "white-angel",
           "relationship_type": "circulating_anecdote",
           "headline_es": "El ángel nada inocente de Holly Golightly",
-          "explanation_es": "White Angel para Truman Capote: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El White Angel vinculado a Capote suele describirse como vodka y ginebra en partes iguales, servido muy frío. No tiene jugo, vermut ni dulzor que amortigüe la mezcla; el nombre parece celestial, pero la receta es una doble base alcohólica que explica por qué conviene tratar la anécdota con más cautela que admiración.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-capote-white-angel-abv-project",
@@ -6366,8 +6366,8 @@ export const content: PublicCatalog = {
             "evidencia-capote-white-angel-abebooks"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "white-angel",
             "name_es": "White Angel",
@@ -6464,14 +6464,14 @@ export const content: PublicCatalog = {
           "drink_id": "white-angel",
           "relationship_type": "appears_in_work",
           "headline_es": "White Angel en Breakfast at Tiffany's",
-          "explanation_es": "En Desayuno en Tiffany’s, White Angel entra en escena.",
+          "explanation_es": "En *Desayuno en Tiffany’s*, Holly Golightly habla del White Angel como una mezcla de vodka y ginebra. La bebida es transparente, glacial y casi sin sabor añadido: elegante en apariencia, brutal en graduación y tan peligrosa como confundir la ligereza social de Holly con una vida realmente libre.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-53-white-angel"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "white-angel",
             "name_es": "White Angel",
@@ -6528,14 +6528,14 @@ export const content: PublicCatalog = {
           "drink_id": "screwdriver",
           "relationship_type": "author_documented",
           "headline_es": "Screwdriver atribuido a Capote",
-          "explanation_es": "Screwdriver acompaña una conexión documentada con Truman Capote.",
+          "explanation_es": "La fuente documenta el Screwdriver como una de las elecciones habituales de Capote. Vodka y naranja forman una bebida simple, dulce y engañosamente fácil de beber; el interés no está en una receta creada por el escritor, sino en cómo un cóctel casi banal se convirtió en parte de su personaje público.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-truman-capote-screwdriver-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "screwdriver",
             "name_es": "Screwdriver",
@@ -6594,14 +6594,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "editorial_pairing",
           "headline_es": "Truman Capote y Cerveza como maridaje editorial",
-          "explanation_es": "Para A sangre fría, Cerveza: una compañía elegida para la lectura.",
+          "explanation_es": "Una cerveza fría es un maridaje deliberadamente ordinario para *A sangre fría*. No aparece como símbolo central ni necesita sofisticación: su cotidianeidad intensifica el método de Capote, que reconstruye una violencia extraordinaria dentro de cocinas, estaciones de servicio y hábitos perfectamente comunes.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-151"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza",
             "name_es": "Cerveza",
@@ -6699,7 +6699,7 @@ export const content: PublicCatalog = {
           "drink_id": "absenta-con-agua",
           "relationship_type": "circulating_anecdote",
           "headline_es": "La leyenda verde de Wilde",
-          "explanation_es": "Absenta con agua para Oscar Wilde: una historia que sigue acompañando su lectura.",
+          "explanation_es": "La absenta persigue la figura de Oscar Wilde en anécdotas famosas, muchas de autenticidad incierta, sobre visiones verdes y decadencia parisina. El licor de anís y hierbas se diluye lentamente con agua fría hasta volverse opalescente; más que “la bebida de Wilde”, es parte de la escenografía cultural que se construyó alrededor de él.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-wilde-absinthe-tasting-table",
@@ -6708,8 +6708,8 @@ export const content: PublicCatalog = {
             "evidencia-wilde-absinthe-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "absenta-con-agua",
             "name_es": "Absenta con agua",
@@ -6832,14 +6832,14 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-and-soda",
           "relationship_type": "editorial_pairing",
           "headline_es": "Brandy and Soda para Dorian Gray",
-          "explanation_es": "Para El retrato de Dorian Gray, Brandy and Soda: una compañía elegida para la lectura.",
+          "explanation_es": "Brandy con soda ofrece un highball victoriano sencillo para *El retrato de Dorian Gray*: coñac o brandy, hielo y agua con gas. Es elegante sin esfuerzo y diluye la fuerza sin eliminarla, una imagen apropiada para una sociedad que rebaja sus excesos con modales pero no los corrige.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-wilde-brandy-soda-editorial"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "brandy-and-soda",
             "name_es": "Brandy and Soda",
@@ -6942,7 +6942,7 @@ export const content: PublicCatalog = {
           "drink_id": "jerez",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Jerez en la habitación de escritura",
-          "explanation_es": "Jerez para Maya Angelou: una historia que sigue acompañando su lectura.",
+          "explanation_es": "Maya Angelou habló y escribió sobre el jerez como una bebida de conversación y cocina, más cercana a la hospitalidad que al exceso. Un fino seco sirve como aperitivo; un oloroso o cream sherry aporta nueces y dulzor. En su mesa, la copa parece una extensión del relato compartido, no un accesorio de celebridad.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-angelou-sherry-tasting-table",
@@ -6950,8 +6950,8 @@ export const content: PublicCatalog = {
             "evidencia-angelou-sherry-bustle"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "jerez",
             "name_es": "Jerez",
@@ -7086,7 +7086,7 @@ export const content: PublicCatalog = {
           "drink_id": "vesper-martini",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Tres de ginebra, una de vodka",
-          "explanation_es": "Vesper Martini para Ian Fleming: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Vesper no es una ocurrencia posterior: James Bond dicta su receta en *Casino Royale* y lo bautiza con el nombre de Vesper Lynd. Combina ginebra, vodka y Kina Lillet, agitados hasta quedar muy fríos y terminados con piel de limón; es más fuerte y seco que un Martini corriente, una seducción que ya contiene su propia traición.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-fleming-vesper-abv-project",
@@ -7097,8 +7097,8 @@ export const content: PublicCatalog = {
             "evidencia-fleming-vesper-abebooks"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vesper-martini",
             "name_es": "Vesper Martini",
@@ -7264,14 +7264,14 @@ export const content: PublicCatalog = {
           "drink_id": "vesper-martini",
           "relationship_type": "appears_in_work",
           "headline_es": "Vesper Martini en Casino Royale",
-          "explanation_es": "En Casino Royale, Vesper Martini entra en escena.",
+          "explanation_es": "En *Casino Royale*, Bond inventa el Vesper antes de saber cuánto significará ese nombre. La mezcla de ginebra, vodka y Kina Lillet, agitada y servida con limón, produce una copa potente y nítida; su fama sobrevivió al ingrediente original —Kina Lillet ya no existe con la misma fórmula— y a la relación que la inspiró.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-47-vesper-martini"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vesper-martini",
             "name_es": "Vesper Martini",
@@ -7335,14 +7335,14 @@ export const content: PublicCatalog = {
           "drink_id": "vesper-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vesper Martini como maridaje editorial",
-          "explanation_es": "Para Casino Royale, Vesper Martini: una compañía elegida para la lectura.",
+          "explanation_es": "Para *Casino Royale*, el Vesper es más que un maridaje editorial: nace dentro de la novela. Bond pide tres medidas de ginebra, una de vodka y media de Kina Lillet, muy frío y con piel de limón; la receta exhibe precisión, extravagancia y control, tres cualidades que la historia se encarga de poner en duda.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-003-05"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vesper-martini",
             "name_es": "Vesper Martini",
@@ -7447,7 +7447,7 @@ export const content: PublicCatalog = {
           "drink_id": "ramos-gin-fizz",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Ramos Gin Fizz de Nueva Orleans",
-          "explanation_es": "Ramos Gin Fizz para Tennessee Williams: una historia que sigue acompañando su lectura.",
+          "explanation_es": "La afinidad de Tennessee Williams con el Ramos Gin Fizz une al dramaturgo con Nueva Orleans y su tradición de bar. La bebida es floral, cremosa y efervescente, pero exige técnica y esfuerzo invisibles; una superficie blanca y elegante sostenida por una agitación casi violenta.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-williams-ramos-fizz-aoide",
@@ -7455,8 +7455,8 @@ export const content: PublicCatalog = {
             "evidencia-williams-ramos-fizz-writers-write"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ramos-gin-fizz",
             "name_es": "Ramos Gin Fizz",
@@ -7573,14 +7573,14 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Toddy para Brick Pollitt",
-          "explanation_es": "Toddy caliente para Tennessee Williams: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El toddy caliente aparece asociado a *La gata sobre el tejado de zinc* y al mundo sureño de Tennessee Williams: whiskey, agua caliente, miel y limón. Su promesa de consuelo contrasta con una familia donde el alcohol no cura nada; calienta la garganta, pero no vuelve decibles los secretos.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-williams-hot-toddy-abebooks"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "hot-toddy",
             "name_es": "Toddy caliente",
@@ -7649,14 +7649,14 @@ export const content: PublicCatalog = {
           "drink_id": "ramos-gin-fizz",
           "relationship_type": "author_documented",
           "headline_es": "Ramos Gin Fizz atribuido a Tennessee Williams",
-          "explanation_es": "Ramos Gin Fizz acompaña una conexión documentada con Tennessee Williams.",
+          "explanation_es": "El Ramos Gin Fizz asociado a Tennessee Williams es un clásico de Nueva Orleans con ginebra, cítricos, crema, clara de huevo, azúcar, agua de azahar y soda. Requiere una agitación agotadora para lograr su espuma alta y sedosa; teatral, sureño y frágil, parece construido para entrar a escena.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-tennessee-williams-ramos-gin-fizz-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ramos-gin-fizz",
             "name_es": "Ramos Gin Fizz",
@@ -7776,14 +7776,14 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Toddy para el Club Pickwick",
-          "explanation_es": "Toddy caliente para Charles Dickens: una historia que sigue acompañando su lectura.",
+          "explanation_es": "Charles Dickens es conocido por popularizar el hot toddy como una bebida sanadora, como en \"Martin Chuzzlewit\". El hot toddy típicamente incluye un licor como ron o whisky, agua caliente, miel y limón, convirtiéndolo en una bebida reconfortante durante los meses de invierno.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-whisky-toddy-read-and-co"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "hot-toddy",
             "name_es": "Toddy caliente",
@@ -7853,15 +7853,15 @@ export const content: PublicCatalog = {
           "drink_id": "smoking-bishop",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Smoking Bishop con Scrooge",
-          "explanation_es": "Smoking Bishop para Charles Dickens: una historia que sigue acompañando su lectura.",
+          "explanation_es": "Charles Dickens era conocido por su afición a los ponches, que eran bastante populares en aquella época. Una de esas preparaciones, un ponche de vino tibio conocido como Smoking Bishop, se menciona en el clásico \"A Christmas Carol\" cuando Scrooge le dice a Bob: \"Aumentaré tu salario y trataré de ayudar a tu familia que lucha, y discutiremos tus asuntos esta misma tarde, en un cuenco navideño de smoking bishop, ¡Bob!\"",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-smoking-bishop-slosh-spot",
             "evidencia-dickens-smoking-bishop-read-and-co"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "smoking-bishop",
             "name_es": "Smoking Bishop",
@@ -7948,14 +7948,14 @@ export const content: PublicCatalog = {
           "drink_id": "smoking-bishop",
           "relationship_type": "appears_in_work",
           "headline_es": "Smoking Bishop en A Christmas Carol",
-          "explanation_es": "En Cuento de Navidad, Smoking Bishop entra en escena.",
+          "explanation_es": "Charles Dickens era conocido por su afición a los ponches, que eran bastante populares en aquella época. Una de esas preparaciones, un ponche de vino tibio conocido como Smoking Bishop, se menciona en el clásico \"A Christmas Carol\" cuando Scrooge le dice a Bob: \"Aumentaré tu salario y trataré de ayudar a tu familia que lucha, y discutiremos tus asuntos esta misma tarde, en un cuenco navideño de smoking bishop, ¡Bob!\"",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-17-smoking-bishop"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "smoking-bishop",
             "name_es": "Smoking Bishop",
@@ -8024,14 +8024,14 @@ export const content: PublicCatalog = {
           "drink_id": "pineapple-rum",
           "relationship_type": "appears_in_work",
           "headline_es": "Pineapple Rum en The Pickwick Papers",
-          "explanation_es": "En Los papeles póstumos del Club Pickwick, Pineapple Rum entra en escena.",
+          "explanation_es": "En \"Los papeles póstumos del Club Pickwick\", el Pineapple Rum entra en escena. Contiene ron de piña, coñac, azúcar, limón y té negro.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-pineapple-rum-obra"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "pineapple-rum",
             "name_es": "Pineapple Rum",
@@ -8097,14 +8097,14 @@ export const content: PublicCatalog = {
           "drink_id": "rum-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Toddy de ron",
-          "explanation_es": "En Martin Chuzzlewit, Toddy de ron entra en escena.",
+          "explanation_es": "Charles Dickens es conocido por popularizar el hot toddy como una bebida sanadora, como en \"Martin Chuzzlewit\". El hot toddy típicamente incluye un licor como ron o whisky, agua caliente, miel y limón, convirtiéndolo en una bebida reconfortante durante los meses de invierno.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-charles-dickens-rum-toddy-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "martin-chuzzlewit",
           "drink": {
             "id": "rum-toddy",
@@ -8166,14 +8166,14 @@ export const content: PublicCatalog = {
           "drink_id": "ponche-de-ron-y-limon",
           "relationship_type": "appears_in_work",
           "headline_es": "Ponche de ron y limón",
-          "explanation_es": "En David Copperfield, Ponche de ron y limón entra en escena.",
+          "explanation_es": "En \"David Copperfield\", Ponche de ron y limón entra en escena. Otro de los ponches que preparaba Dickens.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-charles-dickens-ponche-de-ron-y-limon-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "david-copperfield",
           "drink": {
             "id": "ponche-de-ron-y-limon",
@@ -8236,14 +8236,14 @@ export const content: PublicCatalog = {
           "drink_id": "bordeaux",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bordeaux para Historia de dos ciudades",
-          "explanation_es": "Para A Tale of Two Cities, Bordeaux: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"A Tale of Two Cities\", Bordeaux: el vino francés. Según se sabe, Dickens alardeaba que en su bodega tenía los mejores vinos y licores de la época.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-116"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "bordeaux",
             "name_es": "Bordeaux",
@@ -8336,14 +8336,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-soda",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Scotch & Soda para parecer adulto",
-          "explanation_es": "Scotch & Soda para J. D. Salinger: una historia que sigue acompañando su lectura.",
+          "explanation_es": "El Scotch & Soda está dentro de *El guardián entre el centeno*, donde Holden lo pide mientras intenta moverse por bares y hoteles como si ya perteneciera a ellos. Es un highball austero de whisky, hielo y soda: parece una elección adulta, pero en sus manos funciona más como disfraz que como gusto adquirido.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-salinger-scotch-soda-lifestyle-asia"
           ],
           "editorial_status": "published",
-          "reviewed_by": "orquestador editorial",
-          "reviewed_at": "2026-07-26",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch-soda",
             "name_es": "Scotch & Soda",
@@ -8399,14 +8399,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-soda",
           "relationship_type": "appears_in_work",
           "headline_es": "Scotch & Soda en The Catcher in the Rye",
-          "explanation_es": "En El guardián entre el centeno, Scotch & Soda entra en escena.",
+          "explanation_es": "En *El guardián entre el centeno*, Holden pide Scotch con soda como parte de su actuación de adulto experimentado. La receta no puede ser más simple: whisky escocés, hielo y agua con gas; la bebida rebaja el alcohol, pero no consigue volver convincente la madurez que él trata de representar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sip-and-sensibility-46-scotch-soda"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch-soda",
             "name_es": "Scotch & Soda",
@@ -8464,14 +8464,14 @@ export const content: PublicCatalog = {
           "drink_id": "manhattan",
           "relationship_type": "editorial_pairing",
           "headline_es": "Manhattan como maridaje editorial",
-          "explanation_es": "Para El guardián entre el centeno, Manhattan: una compañía elegida para la lectura.",
+          "explanation_es": "El Manhattan —whisky de centeno o bourbon, vermut dulce y bitters— ofrece una copa urbana, adulta y perfectamente compuesta para *El guardián entre el centeno*. No es la bebida característica de Holden, precisamente: el contraste entre el cóctel sofisticado y un adolescente que intenta pasar por mayor subraya cuánto desea entrar en un mundo que al mismo tiempo desprecia.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-salinger-manhattan-literary-libations"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia editorial de tres libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "manhattan",
             "name_es": "Manhattan",
@@ -8537,14 +8537,14 @@ export const content: PublicCatalog = {
           "drink_id": "very-dry-martini",
           "relationship_type": "appears_in_work",
           "headline_es": "Un martini muy seco en The Catcher in the Rye",
-          "explanation_es": "En El guardián entre el centeno, Very Dry Martini entra en escena.",
+          "explanation_es": "El Very Dry Martini aparece en *El guardián entre el centeno* dentro del mundo adulto que Holden observa, imita y juzga. Cuanto más “seco” es un Martini, menos vermut lleva: queda casi sólo ginebra helada, una bebida de control impecable que contrasta con el narrador, incapaz de controlar su duelo o su deriva nocturna.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-salinger-very-dry-martini-obra"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "very-dry-martini",
             "name_es": "Very Dry Martini",
@@ -8645,14 +8645,14 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Un Mint Julep conservado en archivo",
-          "explanation_es": "Mint Julep acompaña una conexión documentada con Eudora Welty.",
+          "explanation_es": "La asociación de Eudora Welty con el Mint Julep pertenece al archivo culinario y cultural del sur estadounidense que rodea su obra. Bourbon, azúcar, menta y abundante hielo picado forman una bebida fragante y muy fría; parece delicada en la superficie, pero debajo de la escarcha conserva toda la fuerza del whisky, una dualidad bastante weltyana.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-welty-mint-julep-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -8749,14 +8749,14 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Mint Julep en La Cuisine Creole",
-          "explanation_es": "Mint Julep acompaña una conexión documentada con Lafcadio Hearn.",
+          "explanation_es": "Lafcadio Hearn quedó asociado al Mint Julep durante su vida en Nueva Orleans, ciudad cuya cultura culinaria y folclórica ayudó a difundir. Bourbon, menta, azúcar y hielo picado forman una bebida sureña de superficie fresca y fondo poderoso, tan sensorial como las crónicas con que Hearn convirtió lo cotidiano en extrañeza.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-hearn-mint-julep-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -8853,14 +8853,14 @@ export const content: PublicCatalog = {
           "drink_id": "martini-a-la-devoto",
           "relationship_type": "author_documented",
           "headline_es": "Martini à la DeVoto",
-          "explanation_es": "Martini à la DeVoto acompaña una conexión documentada con Bernard DeVoto.",
+          "explanation_es": "Martini à la DeVoto. Bernard DeVoto escribió: \"La unión adecuada del gin y el vermouth es una gran gloria repentina; es uno de los matrimonios más felices de la tierra, y uno de los que dura menos.\"",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bernard-devoto-martini-a-la-devoto-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "martini-a-la-devoto",
             "name_es": "Martini à la DeVoto",
@@ -8952,14 +8952,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-grosella",
           "relationship_type": "author_documented",
           "headline_es": "Vino de grosella",
-          "explanation_es": "Vino de grosella acompaña una conexión documentada con Lydia Maria Child.",
+          "explanation_es": "El vino de grosella asociado a Lydia Maria Child pertenece a la tradición doméstica del siglo XIX: fruta, azúcar, agua y fermentación lenta. Su acidez intensa obliga a equilibrarlo con dulzor; es una preparación de despensa, paciencia y aprovechamiento estacional, coherente con una autora que también escribió sobre economía del hogar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-lydia-maria-child-vino-de-grosella-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vino-de-grosella",
             "name_es": "Vino de grosella",
@@ -9049,14 +9049,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-diente-de-leon",
           "relationship_type": "author_documented",
           "headline_es": "Vino de diente de león",
-          "explanation_es": "Vino de diente de león acompaña una conexión documentada con Oliver Bell Bunce.",
+          "explanation_es": "El vino de diente de león utiliza pétalos amarillos, azúcar, agua, cítricos y levadura para transformar una maleza común en una bebida floral. La receta asociada a Oliver Bell Bunce celebra exactamente esa alquimia doméstica: recoger lo que crece gratis y esperar meses hasta obtener algo digno de una copa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-oliver-bell-bunce-vino-de-diente-de-leon-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vino-de-diente-de-leon",
             "name_es": "Vino de diente de león",
@@ -9146,14 +9146,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza-con-esencia-de-abeto",
           "relationship_type": "author_documented",
           "headline_es": "Cerveza con esencia de abeto",
-          "explanation_es": "Cerveza con esencia de abeto acompaña una conexión documentada con Benjamin Franklin.",
+          "explanation_es": "La cerveza de abeto es una bebida aromatizada con capullos, agujas o esencia de abetos. Hay un bar en Philadelphia que dice preparar una variación hecha por el mismísimo Benjamin Franklin.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-benjamin-franklin-cerveza-con-esencia-de-abeto-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza-con-esencia-de-abeto",
             "name_es": "Cerveza con esencia de abeto",
@@ -9203,14 +9203,14 @@ export const content: PublicCatalog = {
           "drink_id": "orange-shrub",
           "relationship_type": "author_documented",
           "headline_es": "Orange Shrub",
-          "explanation_es": "Orange Shrub acompaña una conexión documentada con Benjamin Franklin.",
+          "explanation_es": "El arbusto de la naranja (Orange Shrub) es una bebida hecha con naranjas frescas, azúcar y vinagre. La receta personal de Benjamin Franklin se encontró entre sus apuntes y papeles, y data de 1750.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-benjamin-franklin-orange-shrub-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "orange-shrub",
             "name_es": "Orange Shrub",
@@ -9304,14 +9304,14 @@ export const content: PublicCatalog = {
           "drink_id": "case-of-the-caretakers-cat-cocktail",
           "relationship_type": "author_documented",
           "headline_es": "Case of the Caretaker’s Cat Cocktail",
-          "explanation_es": "Case of the Caretaker’s Cat Cocktail acompaña una conexión documentada con Erle Stanley Gardner.",
+          "explanation_es": "No es un nombre inventado después de la fama de Perry Mason: Erle Stanley Gardner aportó este cóctel a *So Red the Nose* en 1935, el mismo año en que publicó *The Case of the Caretaker’s Cat*. La receta combina ron Bacardí, vermut francés e italiano, brandy de albaricoque, lima, granadina y más ron; el libro remata la preparación con una broma felina tan desmedida como la mezcla.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-erle-stanley-gardner-case-of-the-caretakers-cat-cocktail-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "case-of-the-caretakers-cat-cocktail",
             "name_es": "Case of the Caretaker’s Cat Cocktail",
@@ -9403,14 +9403,14 @@ export const content: PublicCatalog = {
           "drink_id": "apple-toddy",
           "relationship_type": "author_documented",
           "headline_es": "Apple Toddy",
-          "explanation_es": "Apple Toddy acompaña una conexión documentada con Thomas Jefferson.",
+          "explanation_es": "El Apple Toddy asociado a Thomas Jefferson pertenece a la tradición colonial de calentar brandy de manzana con agua, azúcar y especias. Es una bebida de invierno, doméstica y agrícola; conviene recordar que las cocinas y cervecerías de Monticello dependían del trabajo especializado de personas esclavizadas, no sólo del gusto del dueño de la plantación.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-jefferson-apple-toddy-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "apple-toddy",
             "name_es": "Apple Toddy",
@@ -9464,14 +9464,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza-de-caqui",
           "relationship_type": "author_documented",
           "headline_es": "Cerveza de caqui",
-          "explanation_es": "Cerveza de caqui acompaña una conexión documentada con Thomas Jefferson.",
+          "explanation_es": "Jefferson transmitió en una carta de 1805 una receta de cerveza de caqui que atribuía a una tradición anterior: frutos muy maduros amasados con salvado, horneados en panes secos y luego infusionados y fermentados con agua y lúpulo. La fórmula es histórica, pero su producción en Monticello debe situarse dentro del conocimiento y trabajo de cocineros y cerveceros esclavizados.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-jefferson-cerveza-de-caqui-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza-de-caqui",
             "name_es": "Cerveza de caqui",
@@ -9561,14 +9561,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-ruibarbo",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino de ruibarbo",
-          "explanation_es": "En How to Make Rhubarb Wine, Vino de ruibarbo entra en escena.",
+          "explanation_es": "En *How to Make Rhubarb Wine*, Ted Kooser convierte una receta doméstica en poema: ruibarbo, azúcar, agua y tiempo de fermentación. La bebida conserva la acidez vegetal del tallo bajo una dulzura paciente; más que un acompañamiento, es el procedimiento mismo transformado en memoria.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ted-kooser-vino-de-ruibarbo-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vino-de-ruibarbo",
             "name_es": "Vino de ruibarbo",
@@ -9662,14 +9662,14 @@ export const content: PublicCatalog = {
           "drink_id": "martini-seco",
           "relationship_type": "appears_in_work",
           "headline_es": "Martini seco",
-          "explanation_es": "Martini seco entra en escena junto a Ring Lardner.",
+          "explanation_es": "El Martini seco asociado a Ring Lardner pertenece al mundo de periodistas, deportistas y conversaciones rápidas que frecuentó. Ginebra muy fría, poco vermut y una aceituna producen una bebida de frases cortas: seca, aguda y sin el sentimentalismo que sus personajes suelen reservar para cuando ya han bebido demasiado.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-ring-lardner-martini-seco-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "martini-seco",
             "name_es": "Martini seco",
@@ -9766,14 +9766,14 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Walker Percy y un Mint Julep atribuido a su tío Will",
-          "explanation_es": "Mint Julep acompaña una conexión documentada con Walker Percy.",
+          "explanation_es": "El Mint Julep asociado a Walker Percy reúne bourbon, menta, azúcar y hielo triturado, una forma clásica de hospitalidad sureña. En su caso, la bebida acompaña una literatura que observa el sur con pertenencia y distancia crítica: fresca en la superficie, histórica y alcohólica debajo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-walker-percy-mint-julep-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -9830,14 +9830,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-fizz",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin Fizz en Love in the Ruins",
-          "explanation_es": "En Love in the Ruins, Gin Fizz entra en escena.",
+          "explanation_es": "En *Love in the Ruins*, el Gin Fizz aparece descrito como una mezcla sedosa con huevo poco antes de una reacción alérgica. Ginebra, limón, azúcar, clara y soda producen una bebida blanca y benigna en apariencia; Percy convierte esa suavidad en una broma médica de consecuencias inmediatas.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-walker-percy-gin-fizz-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "love-in-the-ruins",
           "drink": {
             "id": "gin-fizz",
@@ -9937,14 +9937,14 @@ export const content: PublicCatalog = {
           "drink_id": "hot-buttered-rum",
           "relationship_type": "author_documented",
           "headline_es": "Kenneth Roberts y el ron caliente con mantequilla",
-          "explanation_es": "Ron caliente con mantequilla acompaña una conexión documentada con Kenneth Roberts.",
+          "explanation_es": "El ron caliente con mantequilla asociado a Kenneth Roberts es una bebida colonial de clima frío: ron oscuro, mantequilla, azúcar morena, agua caliente y especias. Es rico, aromático y casi alimenticio, apropiado para un novelista histórico de Nueva Inglaterra y para noches en que una taza parece más sensata que una copa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kenneth-roberts-hot-buttered-rum-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "hot-buttered-rum",
             "name_es": "Ron caliente con mantequilla",
@@ -10038,14 +10038,14 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "author_documented",
           "headline_es": "Theodore Roosevelt y una prueba parcial de Mint Julep",
-          "explanation_es": "Mint Julep acompaña una conexión documentada con Theodore Roosevelt.",
+          "explanation_es": "Theodore Roosevelt servía Mint Juleps en la Casa Blanca y, según la tradición, los utilizaba para atraer a miembros del gabinete a partidos de tenis. Bourbon, menta, azúcar y hielo picado convierten la diplomacia en hospitalidad sureña; una receta más útil para negociar que el famoso garrote, aunque no necesariamente más suave.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-theodore-roosevelt-mint-julep-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -10142,14 +10142,14 @@ export const content: PublicCatalog = {
           "drink_id": "cordiales-caseros",
           "relationship_type": "author_documented",
           "headline_es": "Lydia Sigourney y los cordiales caseros",
-          "explanation_es": "Cordiales caseros acompaña una conexión documentada con Lydia Sigourney.",
+          "explanation_es": "Los cordiales caseros vinculados a Lydia Sigourney eran licores dulces obtenidos al macerar frutas, especias o hierbas en alcohol y azúcar. Más que un cóctel individual, son una biblioteca de sabores embotellados para visitas, convalecencias y celebraciones: literatura doméstica en forma líquida.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-lydia-sigourney-cordiales-caseros-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cordiales-caseros",
             "name_es": "Cordiales caseros",
@@ -10243,14 +10243,14 @@ export const content: PublicCatalog = {
           "drink_id": "gothic-punch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bayard Taylor y un Ponche gótico editorial",
-          "explanation_es": "Ponche gótico: una compañía elegida para la lectura de Bayard Taylor.",
+          "explanation_es": "Para la lectura de Bayard Taylor, un Gothic Punch, cóctel lleno de historia y elegancia que recuerda a grandes encuentros y fiestas lujosas. Con raíces que se remontan al siglo XIX, esta bebida combina vino Catawba, clarete y champán.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-bayard-taylor-gothic-punch-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gothic-punch",
             "name_es": "Ponche gótico",
@@ -10345,14 +10345,14 @@ export const content: PublicCatalog = {
           "drink_id": "cafe-aleman",
           "relationship_type": "appears_in_work",
           "headline_es": "Mark Twain y el café alemán de A Tramp Abroad",
-          "explanation_es": "En A Tramp Abroad, Café alemán entra en escena.",
+          "explanation_es": "En *A Tramp Abroad*, el café alemán pertenece a la experiencia de viaje que Twain observa con curiosidad y desconfianza cómica. Preparado fuerte y servido con crema —o reforzado con brandy en versiones festivas—, es menos una receta fija que una pausa caliente entre hoteles, trenes y costumbres europeas sometidas a examen.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-cafe-aleman-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cafe-aleman",
             "name_es": "Café alemán",
@@ -10406,14 +10406,14 @@ export const content: PublicCatalog = {
           "drink_id": "whisky-y-bitters",
           "relationship_type": "author_documented",
           "headline_es": "Mark Twain y un cóctel de whisky y bitters",
-          "explanation_es": "Whisky y bitters acompaña una conexión documentada con Mark Twain.",
+          "explanation_es": "Whisky con bitters es una fórmula elemental que Twain conocía bien: destilado, unas gotas aromáticas y, según el gusto, azúcar o agua. Está a un paso del Old Fashioned, pero conserva la sequedad de una medicina de bar; una bebida útil para un escritor que prefería que el chiste llegara antes que la decoración.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-whisky-y-bitters-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whisky-y-bitters",
             "name_es": "Whisky y bitters",
@@ -10467,14 +10467,14 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "appears_in_work",
           "headline_es": "Champagne Cocktail",
-          "explanation_es": "En The Innocents Abroad, Champagne Cocktail entra en escena.",
+          "explanation_es": "En *The Innocents Abroad*, los viajeros piden un Champagne Cocktail para poner a prueba a un cantinero francés que anuncia bebidas estadounidenses. La receta clásica vierte champaña sobre azúcar y bitters, a veces con coñac; la ironía es perfecta: un producto francés convertido en prueba de autenticidad americana.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-champagne-cocktail-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-innocents-abroad",
           "drink": {
             "id": "champagne-cocktail",
@@ -10532,14 +10532,14 @@ export const content: PublicCatalog = {
           "drink_id": "sherry-cobbler",
           "relationship_type": "appears_in_work",
           "headline_es": "Sherry Cobbler",
-          "explanation_es": "En The Innocents Abroad, Sherry Cobbler entra en escena.",
+          "explanation_es": "En *The Innocents Abroad*, el Sherry Cobbler es otra orden imposible para el cantinero francés. Jerez, azúcar, cítricos y abundante hielo picado se beben con pajita; fue una de las bebidas estadounidenses más famosas del siglo XIX, por lo que no reconocerla bastaba, para Twain, como prueba de fraude profesional.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-sherry-cobbler-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-innocents-abroad",
           "drink": {
             "id": "sherry-cobbler",
@@ -10599,14 +10599,14 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-smash",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy Smash",
-          "explanation_es": "En The Innocents Abroad, Brandy Smash entra en escena.",
+          "explanation_es": "En *The Innocents Abroad*, Mark Twain menciona el Brandy Smash entre los placeres y excesos del viaje. Brandy, azúcar, menta y hielo forman un pariente del julep, fragante y fácil de beber; la bebida parece civilizada hasta que la repetición convierte al turista observador en parte del espectáculo que satiriza.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-brandy-smash-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-innocents-abroad",
           "drink": {
             "id": "brandy-smash",
@@ -10666,14 +10666,14 @@ export const content: PublicCatalog = {
           "drink_id": "eye-opener",
           "relationship_type": "appears_in_work",
           "headline_es": "Eye-Opener",
-          "explanation_es": "En The Innocents Abroad, Eye-Opener entra en escena.",
+          "explanation_es": "Twain menciona el Eye-Opener en *The Innocents Abroad* como otra contraseña de la barra americana que desconcierta al cantinero. Las recetas antiguas mezclan ron, curaçao, licor de almendra, absenta, azúcar y yema de huevo: un desayuno alcohólico tan excesivo que su nombre describe una amenaza más que una promesa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-eye-opener-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-innocents-abroad",
           "drink": {
             "id": "eye-opener",
@@ -10733,14 +10733,14 @@ export const content: PublicCatalog = {
           "drink_id": "earthquake",
           "relationship_type": "appears_in_work",
           "headline_es": "Earthquake",
-          "explanation_es": "En The Innocents Abroad, Earthquake entra en escena.",
+          "explanation_es": "El Earthquake aparece en *The Innocents Abroad* como uno de los nombres que el falso especialista en tragos estadounidenses no reconoce. Históricamente el nombre se aplicó a mezclas potentísimas —coñac con absenta o, en otra versión, ginebra, whisky y absenta—, de modo que la gracia no está en el refinamiento sino en sobrevivir al movimiento telúrico del vaso.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-mark-twain-earthquake-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-innocents-abroad",
           "drink": {
             "id": "earthquake",
@@ -10800,14 +10800,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-cock-tail",
           "relationship_type": "author_documented",
           "headline_es": "Whiskey Cock-Tail atribuido a Mark Twain",
-          "explanation_es": "Whiskey Cock-Tail acompaña una conexión documentada con Mark Twain.",
+          "explanation_es": "El Whiskey Cock-Tail de la época de Twain era la fórmula matriz del Old Fashioned: whisky, azúcar, bitters y agua. La conexión documentada con el autor importa porque conserva el sentido original de “cocktail”, antes de que la palabra llegara a designar cualquier mezcla; austero, fuerte y sin fruta triturada.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-mark-twain-whiskey-cock-tail-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-cock-tail",
             "name_es": "Whiskey Cock-Tail",
@@ -10869,14 +10869,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-fizz",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey Fizz para Las aventuras de Huckleberry Finn",
-          "explanation_es": "Para The Adventures of Huckleberry Finn, Whiskey Fizz: una compañía elegida para la lectura.",
+          "explanation_es": "El Whiskey Fizz mezcla whiskey, limón, azúcar y soda, convirtiendo un sour en una bebida más larga y burbujeante. Como maridaje para *Huckleberry Finn*, tiene algo de río: comienza concentrado, se alarga con agua y sigue avanzando, aunque no conviene confundir su ligereza aparente con inocencia.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-127"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-fizz",
             "name_es": "Whiskey Fizz",
@@ -10969,14 +10969,14 @@ export const content: PublicCatalog = {
           "drink_id": "ponche-insidioso",
           "relationship_type": "author_documented",
           "headline_es": "Robert Penn Warren y el Ponche insidioso",
-          "explanation_es": "Ponche insidioso acompaña una conexión documentada con Robert Penn Warren.",
+          "explanation_es": "Robert Penn Warren preparó su “ponche insidioso” para celebrar en 1943 que, al cumplir treinta y ocho años, ya no podía ser reclutado. La receta mezcla Sauternes, ginebra, ron, jerez, pomelo y piña sobre un gran bloque de hielo; sabe suave, pero la proporción de alcohol explica perfectamente el adjetivo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-robert-penn-warren-ponche-insidioso-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ponche-insidioso",
             "name_es": "Ponche insidioso",
@@ -11070,14 +11070,14 @@ export const content: PublicCatalog = {
           "drink_id": "small-beer",
           "relationship_type": "author_documented",
           "headline_es": "George Washington y una receta de cerveza ligera",
-          "explanation_es": "Cerveza ligera acompaña una conexión documentada con George Washington.",
+          "explanation_es": "La receta de “small beer” copiada por George Washington en 1757 era una cerveza doméstica de baja graduación hecha con salvado, lúpulo y melaza, pensada para beber pronto. No tiene la solemnidad de un brindis presidencial: es una fórmula práctica de campamento y hacienda, más cercana a la hidratación cotidiana que a la cerveza artesanal moderna.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-george-washington-small-beer-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "small-beer",
             "name_es": "Cerveza ligera",
@@ -11170,14 +11170,14 @@ export const content: PublicCatalog = {
           "drink_id": "natilla-hervida",
           "relationship_type": "author_documented",
           "headline_es": "Bobbie Ann Mason y la natilla hervida familiar",
-          "explanation_es": "Natilla hervida acompaña una conexión documentada con Bobbie Ann Mason.",
+          "explanation_es": "Bobbie Ann Mason es una escritora celebrada por sus vívidos relatos de la vida de la clase trabajadora en el rural oeste de Kentucky. Uno de sus platos favoritos: la natilla hervida, postre clásico preparado con huevos, leche y azúcar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-bobbie-ann-mason-natilla-hervida-literary-eats"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "natilla-hervida",
             "name_es": "Natilla hervida",
@@ -11244,14 +11244,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-con-menta-tomillo-y-salvia",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino con menta, tomillo y salvia",
-          "explanation_es": "En From the Tomb of Scorpion I, Vino con menta, tomillo y salvia entra en escena.",
+          "explanation_es": "En \"From the Tomb of Scorpion I\" el vino con menta, tomillo y salvia entra en escena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-autor-no-identificado-vino-con-menta-tomillo-y-salvia-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "from-the-tomb-of-scorpion-i",
           "drink": {
             "id": "vino-con-menta-tomillo-y-salvia",
@@ -11326,14 +11326,14 @@ export const content: PublicCatalog = {
           "drink_id": "conditum-paradoxum",
           "relationship_type": "appears_in_work",
           "headline_es": "Conditum paradoxum",
-          "explanation_es": "En Apicius, Conditum paradoxum entra en escena.",
+          "explanation_es": "El Conditum Paradoxum es una bebida romana antigua elaborada con miel, vino tinto, especias y hierbas. Conocida por su sabor dulce y picante, esta bebida se disfrutaba durante banquetes y ocasiones especiales.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-anonimo-conditum-paradoxum-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "apicius",
           "drink": {
             "id": "conditum-paradoxum",
@@ -11395,14 +11395,14 @@ export const content: PublicCatalog = {
           "drink_id": "vino-de-petalos-de-rosa",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino de pétalos de rosa",
-          "explanation_es": "En Apicius, Vino de pétalos de rosa entra en escena.",
+          "explanation_es": "En Apicius, el vino de pétalos de rosa entra en escena. Se puede preparar con los pétalos de cualquier rosa fragante, incluida la rosa de té común o la rosa mosqueta.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-anonimo-vino-de-petalos-de-rosa-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "apicius",
           "drink": {
             "id": "vino-de-petalos-de-rosa",
@@ -11464,14 +11464,14 @@ export const content: PublicCatalog = {
           "drink_id": "hippocras",
           "relationship_type": "appears_in_work",
           "headline_es": "Hipocrás",
-          "explanation_es": "En This Is the Boke of Cokery, Hipocrás entra en escena.",
+          "explanation_es": "Hipocrás: un vino especiado y azucarado elaborado remojando especias como canela, jengibre y clavo de olor en vino con azúcar, y luego filtrándolo a través de una tela llamada manga hipocrática. Popular en la Europa medieval. Se podía servir caliente o frío.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-anonimo-hippocras-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "this-is-the-boke-of-cokery",
           "drink": {
             "id": "hippocras",
@@ -11572,14 +11572,14 @@ export const content: PublicCatalog = {
           "drink_id": "piment",
           "relationship_type": "appears_in_work",
           "headline_es": "Piment",
-          "explanation_es": "En Perceval, the Story of the Grail, Piment entra en escena.",
+          "explanation_es": "En \"Perceval, the Story of the Grail\", el Piment entra en escena. Se trata de una bebida medieval que consiste en vino endulzado con miel e infusionado con especias (canela, jengibre, pimienta), filtrado a través de una tela llamada \"manga de Hipócrates\".",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-chretien-de-troyes-piment-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "perceval-the-story-of-the-grail",
           "drink": {
             "id": "piment",
@@ -11679,14 +11679,14 @@ export const content: PublicCatalog = {
           "drink_id": "lambs-wool",
           "relationship_type": "appears_in_work",
           "headline_es": "Lamb’s Wool",
-          "explanation_es": "En The Diary of Samuel Pepys, Lamb’s Wool entra en escena.",
+          "explanation_es": "Pepys registró el Lamb’s Wool, una bebida festiva de ale caliente, azúcar, nuez moscada, jengibre y pulpa de manzanas asadas. La fruta deshecha flota como lana sobre la cerveza, de ahí el nombre; es un antepasado del wassail, espeso y comunitario, pensado para una jarra antes que para una copa individual.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-samuel-pepys-lambs-wool-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-diary-of-samuel-pepys",
           "drink": {
             "id": "lambs-wool",
@@ -11784,14 +11784,14 @@ export const content: PublicCatalog = {
           "drink_id": "stone-fence",
           "relationship_type": "appears_in_work",
           "headline_es": "Stone-Fence",
-          "explanation_es": "En A History of New York, Stone-Fence entra en escena.",
+          "explanation_es": "En *A History of New York*, el Stone-Fence encaja con la taberna colonial: whiskey o ron mezclado con sidra de manzana. La bebida es rústica, fuerte y peligrosamente fácil de beber; su nombre sugiere una barrera sólida, aunque varias copas tienden a derribarla.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-washington-irving-stone-fence-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "a-history-of-new-york",
           "drink": {
             "id": "stone-fence",
@@ -11889,14 +11889,14 @@ export const content: PublicCatalog = {
           "drink_id": "negus",
           "relationship_type": "appears_in_work",
           "headline_es": "Negus",
-          "explanation_es": "En Mansfield Park, Negus entra en escena.",
+          "explanation_es": "En *Mansfield Park*, el negus pertenece a bailes y reuniones sociales, donde beber también forma parte del código de conducta. Se prepara con vino —tradicionalmente oporto—, agua caliente, azúcar, limón y nuez moscada; suave y aromático, permite brindar sin perder la compostura, requisito central en el universo de Austen.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-jane-austen-negus-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "mansfield-park",
           "drink": {
             "id": "negus",
@@ -11957,14 +11957,14 @@ export const content: PublicCatalog = {
           "drink_id": "rum-punch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ponche de ron para Pride and Prejudice",
-          "explanation_es": "Para Pride and Prejudice, Ponche de ron: una compañía elegida para la lectura.",
+          "explanation_es": "El ponche de ron no aparece como bebida emblemática de *Orgullo y prejuicio*, pero su formato colectivo conviene a una novela gobernada por visitas, bailes y conversaciones vigiladas. Ron, cítricos, azúcar, agua y especias se sirven en un cuenco: una preparación sociable que puede aflojar lenguas, aunque ni siquiera un buen ponche garantiza que Darcy diga lo correcto.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-199"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "rum-punch",
             "name_es": "Ponche de ron",
@@ -12057,14 +12057,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-twist",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin Twist",
-          "explanation_es": "En Saint Ronan’s Well, Gin Twist entra en escena.",
+          "explanation_es": "En *Saint Ronan’s Well*, el Gin Twist pertenece a la coctelería temprana del siglo XIX: ginebra, azúcar, agua y limón, a veces con un poco de hielo. Es un antepasado sencillo del gin sour, servido en un mundo de balnearios y apariencias sociales donde incluso una bebida moderna podía parecer una novedad sospechosa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-sir-walter-scott-gin-twist-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "saint-ronans-well",
           "drink": {
             "id": "gin-twist",
@@ -12162,14 +12162,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-and-soda",
           "relationship_type": "appears_in_work",
           "headline_es": "Whiskey and Soda",
-          "explanation_es": "En The Aunt and the Sluggard, Whiskey and Soda entra en escena.",
+          "explanation_es": "En *The Aunt and the Sluggard*, whisky con soda es la solución rápida y respetable para nervios que nunca deberían haberse alterado tanto. El highball diluye el whisky sin borrar su carácter; en Wodehouse, cumple la misma función que Jeeves: restaurar un mínimo de orden después de que Bertie haya complicado lo obvio.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-whiskey-and-soda-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-aunt-and-the-sluggard",
           "drink": {
             "id": "whiskey-and-soda",
@@ -12232,14 +12232,14 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-and-soda",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy and Soda",
-          "explanation_es": "En The Inimitable Jeeves, Brandy and Soda entra en escena.",
+          "explanation_es": "En *The Inimitable Jeeves*, brandy con soda pertenece al botiquín social de Bertie Wooster: una mezcla rápida para recuperar el ánimo después de una crisis absurda. El brandy aporta calor y la soda ligereza; Jeeves probablemente mediría ambos con más juicio que su empleador.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-brandy-and-soda-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-inimitable-jeeves",
           "drink": {
             "id": "brandy-and-soda",
@@ -12302,14 +12302,14 @@ export const content: PublicCatalog = {
           "drink_id": "green-swizzle",
           "relationship_type": "appears_in_work",
           "headline_es": "Green Swizzle",
-          "explanation_es": "En The Rummy Affair of Old Biffy, Green Swizzle entra en escena.",
+          "explanation_es": "En *The Rummy Affair of Old Biffy*, Bertie descubre el Green Swizzle y queda tan impresionado que imagina bautizar así a un futuro hijo. La bebida caribeña histórica combinaba ron o ginebra, falernum, bitters de ajenjo, lima, azúcar y hielo; compleja, verde y peligrosamente refrescante, explica el entusiasmo sin necesidad de inventarla.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-green-swizzle-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-rummy-affair-of-old-biffy",
           "drink": {
             "id": "green-swizzle",
@@ -12369,14 +12369,14 @@ export const content: PublicCatalog = {
           "drink_id": "may-queen",
           "relationship_type": "appears_in_work",
           "headline_es": "May Queen",
-          "explanation_es": "En Uncle Fred in the Springtime, May Queen entra en escena.",
+          "explanation_es": "En *Uncle Fred in the Springtime*, el May Queen tiene un nombre mucho más largo y una receta conscientemente demencial: champaña seca, brandy, Armagnac, kümmel, Chartreuse amarilla y stout. Es una parodia líquida de la mezcla aristocrática: refinamiento, cerveza negra y demasiados parientes distinguidos en la misma habitación.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-p-g-wodehouse-may-queen-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "uncle-fred-in-the-springtime",
           "drink": {
             "id": "may-queen",
@@ -12474,14 +12474,14 @@ export const content: PublicCatalog = {
           "drink_id": "hangmans-blood",
           "relationship_type": "appears_in_work",
           "headline_es": "Hangman's Blood",
-          "explanation_es": "En A High Wind in Jamaica, Hangman's Blood entra en escena.",
+          "explanation_es": "*A High Wind in Jamaica* contiene la primera descripción conocida del Hangman’s Blood: ron, ginebra, brandy y porter, una mezcla que parece cerveza pero aumenta la sed. Versiones posteriores añadieron whisky, oporto, stout y champaña; el resultado es tan suave en apariencia como destructivo en efecto, exactamente la trampa que la novela advierte.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-richard-hughes-hangmans-blood-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "a-high-wind-in-jamaica",
           "drink": {
             "id": "hangmans-blood",
@@ -12581,14 +12581,14 @@ export const content: PublicCatalog = {
           "drink_id": "satans-whisker",
           "relationship_type": "appears_in_work",
           "headline_es": "Satan's Whisker",
-          "explanation_es": "En Black Coffee, Satan's Whisker entra en escena.",
+          "explanation_es": "En \"Black Coffee\" el personaje de Bárbara describe la receta del Satan's Whisker como \"partes iguales de brandy y créme de menthe, sin olvidar una pizca de pimienta roja.\" La receta tradicional, no obstante, es ginebra, vermut dulce, vermut seco, Grand Marnier, jugo de naranja y amargo de naranja.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-agatha-christie-satans-whisker-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "black-coffee",
           "drink": {
             "id": "satans-whisker",
@@ -12650,14 +12650,14 @@ export const content: PublicCatalog = {
           "drink_id": "pink-gin",
           "relationship_type": "appears_in_work",
           "headline_es": "Pink Gin",
-          "explanation_es": "En Three Act Tragedy, Pink Gin entra en escena.",
+          "explanation_es": "En \"Three Act Tragedy\" algunos de los personajes beben Pink Gin, una bebida que sirve de medio para servir un veneno mortal. El Pink Gin consiste en ginebra Plymouth y una pizca de amargo de Angostura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-agatha-christie-pink-gin-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "three-act-tragedy",
           "drink": {
             "id": "pink-gin",
@@ -12718,14 +12718,14 @@ export const content: PublicCatalog = {
           "drink_id": "fino-sherry",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agatha Christie y Fino de Jerez como maridaje editorial",
-          "explanation_es": "Para And Then There Were None, Fino de Jerez: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"And Then There Were None\", Fino de Jerez, una variedad de vino español que proviene de la región soleada de Jerez de la Frontera. El sabor del Fino es fresco, con notas de almendras, manzanas verdes y un toque de sal.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-146"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "fino-sherry",
             "name_es": "Fino de Jerez",
@@ -12814,14 +12814,14 @@ export const content: PublicCatalog = {
           "drink_id": "bourbon-and-coke",
           "relationship_type": "appears_in_work",
           "headline_es": "Bourbon and Coke",
-          "explanation_es": "En The Postman Always Rings Twice, Bourbon and Coke entra en escena.",
+          "explanation_es": "En *El cartero siempre llama dos veces*, bourbon con cola entra en un mundo de deseo inmediato y malas decisiones. El dulzor de la cola oculta parte del alcohol y vuelve la mezcla peligrosamente fácil de beber, una buena metáfora líquida para una trama donde lo sencillo y placentero se complica muy rápido.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-james-m-cain-bourbon-and-coke-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-postman-always-rings-twice",
           "drink": {
             "id": "bourbon-and-coke",
@@ -12921,14 +12921,14 @@ export const content: PublicCatalog = {
           "drink_id": "sidecar",
           "relationship_type": "appears_in_work",
           "headline_es": "Sidecar",
-          "explanation_es": "En Trinity Town, Sidecar entra en escena.",
+          "explanation_es": "En *Trinity Town*, el Sidecar introduce un clásico de entreguerras hecho con coñac, licor de naranja y limón. La receta depende de un equilibrio exacto entre alcohol, dulzor y acidez; un cóctel cosmopolita para una novela interesada en la ciudad, la clase y las vidas que intentan mantener la compostura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-norman-collins-sidecar-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "trinity-town",
           "drink": {
             "id": "sidecar",
@@ -13026,14 +13026,14 @@ export const content: PublicCatalog = {
           "drink_id": "hock-and-seltzer",
           "relationship_type": "appears_in_work",
           "headline_es": "Hock and Seltzer",
-          "explanation_es": "En The Arrest of Oscar Wilde at the Cadogan Hotel, Hock and Seltzer entra en escena.",
+          "explanation_es": "En el poema sobre el arresto de Oscar Wilde en el Cadogan Hotel aparece hock con seltzer: vino blanco alemán —“hock” era el término británico tradicional— aligerado con agua con gas. Es una bebida civilizada y algo pasada de moda, servida justo cuando la respetabilidad victoriana está a punto de convertirse en escándalo público.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-betjeman-hock-and-seltzer-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-arrest-of-oscar-wilde-at-the-cadogan-hotel",
           "drink": {
             "id": "hock-and-seltzer",
@@ -13133,14 +13133,14 @@ export const content: PublicCatalog = {
           "drink_id": "alexandra",
           "relationship_type": "appears_in_work",
           "headline_es": "Alexandra",
-          "explanation_es": "En Brideshead Revisited, Alexandra entra en escena.",
+          "explanation_es": "En *Brideshead Revisited* aparece el Alexandra, nombre antiguo de la familia del Alexander. Se prepara con ginebra —o, en versiones posteriores, brandy—, crema de cacao y crema: un cóctel espeso, dulce y pulido que encaja con el lujo de Brideshead, aunque su suavidad también anticipa la decadencia que se esconde bajo las buenas maneras.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-evelyn-waugh-alexandra-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "brideshead-revisited",
           "drink": {
             "id": "alexandra",
@@ -13238,14 +13238,14 @@ export const content: PublicCatalog = {
           "drink_id": "beer-milkshake",
           "relationship_type": "appears_in_work",
           "headline_es": "Beer Milkshake",
-          "explanation_es": "En Cannery Row, Beer Milkshake entra en escena.",
+          "explanation_es": "En *Cannery Row*, Doc no consigue sacarse de la cabeza la idea absurda de un batido de cerveza y finalmente lo pide lejos de casa, donde nadie lo conozca. Su versión mezcla leche con media botella de cerveza —sin azúcar— y sabe, según la propia novela, a cerveza y leche pasadas; el interés está menos en el placer que en la necesidad científica de comprobar una mala idea.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-steinbeck-beer-milkshake-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "cannery-row",
           "drink": {
             "id": "beer-milkshake",
@@ -13305,14 +13305,14 @@ export const content: PublicCatalog = {
           "drink_id": "webster-f-street-lay-away-plan",
           "relationship_type": "appears_in_work",
           "headline_es": "Webster F. Street Lay-Away Plan",
-          "explanation_es": "En Sweet Thursday, Webster F. Street Lay-Away Plan entra en escena.",
+          "explanation_es": "En *Sweet Thursday*, Doc describe el Webster F. Street Lay-Away Plan como un Martini en que la Chartreuse reemplaza al vermut. El resultado es ginebra con un licor intensamente herbal y monástico, bautizado en broma por un amigo de Steinbeck; una mezcla privada, excéntrica y mucho menos inocente de lo que su nombre administrativo sugiere.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-steinbeck-webster-f-street-lay-away-plan-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "sweet-thursday",
           "drink": {
             "id": "webster-f-street-lay-away-plan",
@@ -13373,14 +13373,14 @@ export const content: PublicCatalog = {
           "drink_id": "california-old-vine-zinfandel",
           "relationship_type": "editorial_pairing",
           "headline_es": "John Steinbeck y Zinfandel de viñas viejas de California como maridaje editorial",
-          "explanation_es": "Para The Grapes of Wrath, Zinfandel de viñas viejas de California: una compañía elegida para la lectura.",
+          "explanation_es": "Un Zinfandel de viñas viejas de California puede ser oscuro, maduro y especiado, con cepas que sobrevivieron a décadas de sequía y cambios de mercado. Como maridaje para *Las uvas de la ira*, la relación está en la tierra y la resistencia: fruta abundante nacida de plantas retorcidas que han aprendido a soportar condiciones duras.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-130"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "california-old-vine-zinfandel",
             "name_es": "Zinfandel de viñas viejas de California",
@@ -13469,14 +13469,14 @@ export const content: PublicCatalog = {
           "drink_id": "pin",
           "relationship_type": "appears_in_work",
           "headline_es": "Un Pin en Lolita",
-          "explanation_es": "En Lolita, un Pin entra en escena como detalle de la travesía.",
+          "explanation_es": "En *Lolita*, Humbert llama “pin” a su bebida favorita, una contracción privada de pineapple y gin: ginebra con jugo de piña. Charlotte se la prohíbe, y esa minúscula palabra inventada revela tanto su gusto como su necesidad de rebautizar el mundo; una mezcla tropical sencilla convertida por el narrador en contraseña íntima.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-vladimir-nabokov-pin-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "lolita",
           "drink": {
             "id": "pin",
@@ -13537,14 +13537,14 @@ export const content: PublicCatalog = {
           "drink_id": "moscow-mule",
           "relationship_type": "editorial_pairing",
           "headline_es": "Moscow Mule para Lolita",
-          "explanation_es": "Para Lolita, Moscow Mule: una compañía elegida para la lectura.",
+          "explanation_es": "El Moscow Mule mezcla vodka, lima y ginger beer en una taza de cobre. No aparece en *Lolita*, pero su identidad es una construcción publicitaria estadounidense con nombre ruso y recipiente convertido en fetiche; un maridaje pertinente para una novela obsesionada con nombres, carreteras, consumo y falsas superficies seductoras.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-125"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "moscow-mule",
             "name_es": "Moscow Mule",
@@ -13635,14 +13635,14 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri",
           "relationship_type": "appears_in_work",
           "headline_es": "Un Daiquiri en Nuestro hombre en La Habana",
-          "explanation_es": "En Our Man in Havana, Daiquiri entra en escena.",
+          "explanation_es": "En *Nuestro hombre en La Habana*, el daiquiri pertenece al decorado real de una ciudad de espionaje improvisado, bares y calor tropical. Ron blanco, lima y azúcar producen una mezcla breve y precisa; en manos de Greene, una bebida auténticamente cubana acompaña una trama donde casi todo lo demás —informes, agentes y amenazas— ha sido inventado.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-graham-greene-daiquiri-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "our-man-in-havana",
           "drink": {
             "id": "daiquiri",
@@ -13739,14 +13739,14 @@ export const content: PublicCatalog = {
           "drink_id": "tom-collins",
           "relationship_type": "appears_in_work",
           "headline_es": "Tom Collins en The Small Rain",
-          "explanation_es": "En The Small Rain, Tom Collins entra en escena.",
+          "explanation_es": "En *The Small Rain*, el Tom Collins aparece como un highball clásico de ginebra, limón, azúcar y soda. Es frío, largo y civilizado, pero su nombre arrastra además una antigua broma de identidad falsa; una bebida apropiada para Pynchon, que siempre sospecha que detrás de un nombre corriente hay otra historia.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-pynchon-tom-collins-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-small-rain",
           "drink": {
             "id": "tom-collins",
@@ -13806,14 +13806,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-sour",
           "relationship_type": "appears_in_work",
           "headline_es": "Whiskey Sour en La subasta del lote 49",
-          "explanation_es": "En The Crying of Lot 49, Whiskey Sour entra en escena.",
+          "explanation_es": "En *The Crying of Lot 49*, el Whiskey Sour pertenece a un mundo de bares, señales y significados que quizá formen un sistema o quizá no. Whiskey, limón y azúcar logran un equilibrio verificable; frente a la paranoia creciente de Oedipa, es una de las pocas estructuras de la novela cuya lógica puede probarse en una coctelera.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-pynchon-whiskey-sour-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "the-crying-of-lot-49",
           "drink": {
             "id": "whiskey-sour",
@@ -13877,14 +13877,14 @@ export const content: PublicCatalog = {
           "drink_id": "tequila-sunrise",
           "relationship_type": "appears_in_work",
           "headline_es": "Tequila Sunrise en Al límite",
-          "explanation_es": "En Bleeding Edge, Tequila Sunrise entra en escena.",
+          "explanation_es": "En *Bleeding Edge*, el Tequila Sunrise aporta una reliquia colorida de otra época: tequila, naranja y granadina, vertida para formar un amanecer en capas. Su aspecto ordenado dura poco al mezclarlo, una imagen adecuada para una novela donde la superficie brillante de la tecnología neoyorquina oculta redes cada vez más oscuras.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-thomas-pynchon-tequila-sunrise-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "bleeding-edge",
           "drink": {
             "id": "tequila-sunrise",
@@ -13982,14 +13982,14 @@ export const content: PublicCatalog = {
           "drink_id": "old-fashioned",
           "relationship_type": "appears_in_work",
           "headline_es": "Old Fashioned en Rabbit, Run",
-          "explanation_es": "En Rabbit, Run, Old Fashioned entra en escena.",
+          "explanation_es": "En *Rabbit, Run*, el Old Fashioned pertenece al mundo adulto de bares, matrimonios y rutinas que Harry Angstrom intenta abandonar sin saber adónde ir. Whiskey, azúcar, bitters y piel de naranja forman una bebida deliberadamente antigua: estable, repetible y exactamente lo contrario de la fuga impulsiva de Rabbit.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-updike-old-fashioned-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "rabbit-run",
           "drink": {
             "id": "old-fashioned",
@@ -14049,14 +14049,14 @@ export const content: PublicCatalog = {
           "drink_id": "stinger",
           "relationship_type": "appears_in_work",
           "headline_es": "Stinger en Rabbit Is Rich",
-          "explanation_es": "En Rabbit Is Rich, Stinger entra en escena.",
+          "explanation_es": "En *Rabbit Is Rich*, el Stinger —brandy y crème de menthe blanca— ofrece una mezcla fría, dulce y mentolada, tradicionalmente servida después de cenar. Su elegancia algo anticuada encaja con un Rabbit ya próspero: el hombre que antes corría ahora puede permitirse digestivos, aunque el confort no haya resuelto su inquietud.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-john-updike-stinger-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "rabbit-is-rich",
           "drink": {
             "id": "stinger",
@@ -14154,14 +14154,14 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-alexander",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy Alexander en ¿Quién teme a Virginia Woolf?",
-          "explanation_es": "En Who’s Afraid of Virginia Woolf?, Brandy Alexander entra en escena.",
+          "explanation_es": "George pide un Brandy Alexander en el bar de “Who’s Afraid of Virginia Woolf?” Esta bebida, hecha con brandy, crema de cacao y crema, refleja el contexto social y la dinámica de los personajes en la obra.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-edward-albee-brandy-alexander-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "whos-afraid-of-virginia-woolf",
           "drink": {
             "id": "brandy-alexander",
@@ -14259,14 +14259,14 @@ export const content: PublicCatalog = {
           "drink_id": "house-of-lords-martini",
           "relationship_type": "appears_in_work",
           "headline_es": "Martini House of Lords en Desayuno de campeones",
-          "explanation_es": "En Breakfast of Champions, Martini House of Lords entra en escena.",
+          "explanation_es": "En *Breakfast of Champions*, el House of Lords Martini es la bebida de Dwayne Hoover: ginebra House of Lords y un twist de limón. La receta es casi brutalmente simple, y la marca importa porque el cóctel forma parte de un mundo comercial saturado de nombres y productos; hasta un Martini llega con etiqueta.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kurt-vonnegut-house-of-lords-martini-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "breakfast-of-champions",
           "drink": {
             "id": "house-of-lords-martini",
@@ -14328,14 +14328,14 @@ export const content: PublicCatalog = {
           "drink_id": "sweet-rob-roy",
           "relationship_type": "appears_in_work",
           "headline_es": "Sweet Rob Roy en Hocus Pocus",
-          "explanation_es": "En Hocus Pocus, Sweet Rob Roy entra en escena.",
+          "explanation_es": "En *Hocus Pocus* aparece un Sweet Rob Roy, versión escocesa del Manhattan. Combina whisky escocés, vermut dulce y bitters, produciendo una copa maltosa y especiada; su nombre elegante contrasta con el caos institucional y la historia de fracasos que Vonnegut cuenta sin dejar de bromear.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-kurt-vonnegut-sweet-rob-roy-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "hocus-pocus",
           "drink": {
             "id": "sweet-rob-roy",
@@ -14396,14 +14396,14 @@ export const content: PublicCatalog = {
           "drink_id": "death-in-the-afternoon",
           "relationship_type": "editorial_pairing",
           "headline_es": "Kurt Vonnegut y Death in the Afternoon como maridaje editorial",
-          "explanation_es": "Para Slaughterhouse-Five, Death in the Afternoon: una compañía elegida para la lectura.",
+          "explanation_es": "El *Death in the Afternoon* —absenta y champaña— no aparece en *Matadero cinco*, pero su nombre y su aspecto opalescente parecen hechos para una novela que mezcla muerte masiva, humor negro y tiempos superpuestos. Las burbujas vuelven festiva una bebida inquietante; Vonnegut hace algo parecido cuando obliga a la ironía a convivir con Dresde.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-141"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "death-in-the-afternoon",
             "name_es": "Death in the Afternoon",
@@ -14498,14 +14498,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-tonic",
           "relationship_type": "appears_in_work",
           "headline_es": "Gin tonic en Sympathy in White Major",
-          "explanation_es": "En Sympathy in White Major, Gin tonic entra en escena.",
+          "explanation_es": "En *Sympathy in White Major*, el gin tonic aparece dentro de la observación precisa y ligeramente incómoda de Larkin. Ginebra, tónica, hielo y limón forman una bebida cotidiana de clase media británica; su amargor limpio acompaña bien una poesía que rara vez confunde claridad con consuelo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-philip-larkin-gin-tonic-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "sympathy-in-white-major",
           "drink": {
             "id": "gin-tonic",
@@ -14607,14 +14607,14 @@ export const content: PublicCatalog = {
           "drink_id": "berlin-station-chief",
           "relationship_type": "appears_in_work",
           "headline_es": "Berlin Station Chief en El fantasma de Harlot",
-          "explanation_es": "En Harlot’s Ghost, Berlin Station Chief entra en escena.",
+          "explanation_es": "En *Harlot’s Ghost*, una preparación de ginebra tocada por whisky escocés terminó conocida como Berlin Station Chief. Es, en esencia, un Martini ahumado: el Scotch introduce turba y secreto dentro de la claridad botánica de la ginebra, una copa de Guerra Fría donde una pequeña infiltración cambia todo el sistema.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-norman-mailer-berlin-station-chief-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "work_id": "harlots-ghost",
           "drink": {
             "id": "berlin-station-chief",
@@ -14712,14 +14712,14 @@ export const content: PublicCatalog = {
           "drink_id": "caudle",
           "relationship_type": "editorial_pairing",
           "headline_es": "Caudle según Sip and Sensibility",
-          "explanation_es": "Caudle: una compañía elegida para la lectura de William Shakespeare.",
+          "explanation_es": "El caudle era una bebida caliente y nutritiva de vino o ale, huevos, azúcar, pan o avena y especias, administrada a enfermos y mujeres después del parto. No pertenece a una sola obra de Shakespeare, pero sí a su mundo doméstico: un antepasado espeso del eggnog, mitad alimento y mitad medicina.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-william-shakespeare-caudle-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "caudle",
             "name_es": "Caudle",
@@ -14779,14 +14779,14 @@ export const content: PublicCatalog = {
           "drink_id": "mulled-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino caliente especiado para Hamlet",
-          "explanation_es": "Para Hamlet, Vino caliente especiado: una compañía elegida para la lectura.",
+          "explanation_es": "El vino caliente especiado mezcla tinto, azúcar, cítricos, canela, clavo y otras especias. Como maridaje para *Hamlet*, aporta el calor de un salón contra el frío de Elsinor, pero también un aroma que intenta cubrir la aspereza del vino; apropiado para una corte que perfuma la corrupción sin eliminarla.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-109"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mulled-wine",
             "name_es": "Vino caliente especiado",
@@ -14842,14 +14842,14 @@ export const content: PublicCatalog = {
           "drink_id": "recioto-della-valpolicella",
           "relationship_type": "editorial_pairing",
           "headline_es": "Recioto della Valpolicella para Romeo and Juliet",
-          "explanation_es": "Para Romeo and Juliet, Recioto della Valpolicella: una compañía elegida para la lectura.",
+          "explanation_es": "Recioto della Valpolicella es un tinto dulce del Véneto elaborado con uvas secadas después de la cosecha, concentradas en pasas, cereza y especias. Para *Romeo y Julieta*, ofrece dulzura italiana obtenida mediante pérdida de agua: romántico en la copa, aunque mucho menos fatal que la concentración emocional de Verona.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-198"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "recioto-della-valpolicella",
             "name_es": "Recioto della Valpolicella",
@@ -14938,14 +14938,14 @@ export const content: PublicCatalog = {
           "drink_id": "apple-hot-toddy",
           "relationship_type": "author_documented",
           "headline_es": "Toddy caliente de manzana atribuido a Flaubert",
-          "explanation_es": "Toddy caliente de manzana acompaña una conexión documentada con Gustave Flaubert.",
+          "explanation_es": "Este toddy de manzana se asocia editorialmente a Flaubert más que a una escena concreta de su obra. Combina brandy de manzana o Calvados con agua caliente, miel, limón y especias; es una bebida normanda y reconfortante, adecuada para leer a un autor que podía pasar días puliendo una frase, aunque el vaso se enfríe mucho antes.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-gustave-flaubert-apple-hot-toddy-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "apple-hot-toddy",
             "name_es": "Toddy caliente de manzana",
@@ -15007,14 +15007,14 @@ export const content: PublicCatalog = {
           "drink_id": "calvados-pays-dauge",
           "relationship_type": "editorial_pairing",
           "headline_es": "Calvados para Madame Bovary",
-          "explanation_es": "Para Madame Bovary, Calvados, Pays d’Auge: una compañía elegida para la lectura.",
+          "explanation_es": "El Calvados Pays d’Auge es un brandy normando destilado de sidra de manzana y envejecido en madera. No aparece en *Madame Bovary*, pero enlaza con la provincia francesa que Emma considera demasiado estrecha para sus fantasías: rústico en origen, refinado después de años de barrica, promete una sofisticación que sigue oliendo a campo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-115"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "calvados-pays-dauge",
             "name_es": "Calvados, Pays d’Auge",
@@ -15101,14 +15101,14 @@ export const content: PublicCatalog = {
           "drink_id": "clover-club",
           "relationship_type": "author_documented",
           "headline_es": "Clover Club atribuido a Yeats",
-          "explanation_es": "Clover Club acompaña una conexión documentada con William Butler Yeats.",
+          "explanation_es": "El Clover Club asociado a Yeats combina ginebra, frambuesa, limón y clara de huevo, creando una espuma rosada y una acidez elegante. La conexión es documental más que autoral: no fue inventado por el poeta, pero su mezcla de forma refinada, color simbólico y fondo ácido no resulta un mal acompañamiento para su obra.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-william-butler-yeats-clover-club-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "clover-club",
             "name_es": "Clover Club",
@@ -15205,14 +15205,14 @@ export const content: PublicCatalog = {
           "drink_id": "horses-neck",
           "relationship_type": "author_documented",
           "headline_es": "Horse's Neck atribuido a Jack London",
-          "explanation_es": "Horse's Neck acompaña una conexión documentada con Jack London.",
+          "explanation_es": "El Horse’s Neck es un highball de brandy o bourbon con ginger ale, reconocido por una larguísima espiral de piel de limón que cuelga dentro del vaso. La asociación con Jack London tiene el aire de una bebida de club y aventura: sencilla, fuerte y decorada con algo que parece una cuerda náutica.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-jack-london-horses-neck-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "horses-neck",
             "name_es": "Horse's Neck",
@@ -15274,14 +15274,14 @@ export const content: PublicCatalog = {
           "drink_id": "nieve-raspada",
           "relationship_type": "editorial_pairing",
           "headline_es": "Nieve raspada para The Call of the Wild",
-          "explanation_es": "Para The Call of the Wild, Nieve raspada: una compañía elegida para la lectura.",
+          "explanation_es": "La nieve raspada es un maridaje sin alcohol para *La llamada de lo salvaje*: hielo triturado cubierto con jarabe de fruta. El chiste funciona por inversión, porque para Buck la nieve no es postre sino territorio, hambre y supervivencia; convertirla en granizado permite leer el Yukón desde una distancia considerablemente más cómoda.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-234"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "nieve-raspada",
             "name_es": "Nieve raspada",
@@ -15374,14 +15374,14 @@ export const content: PublicCatalog = {
           "drink_id": "pompier",
           "relationship_type": "author_documented",
           "headline_es": "Pompier atribuido a E. B. White",
-          "explanation_es": "Pompier acompaña una conexión documentada con E. B. White.",
+          "explanation_es": "Pompier o lo que E.B. White acuñó como \"la bebida del taxista francés\". Este refrescante trago de bajo contenido alcohólico con vermut, crème de cassis y agua con gas despejará las telarañas proverbiales y añadirá un poco de chispa a tu camino.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-e-b-white-pompier-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "pompier",
             "name_es": "Pompier",
@@ -15441,14 +15441,14 @@ export const content: PublicCatalog = {
           "drink_id": "leche-vegetal",
           "relationship_type": "editorial_pairing",
           "headline_es": "Leche vegetal para Charlotte’s Web",
-          "explanation_es": "Para Charlotte’s Web, Leche vegetal: una compañía elegida para la lectura.",
+          "explanation_es": "Para la lectura de \"Charlotte’s Web\", Leche vegetal. Es un libro para niños, después de todo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-259"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "leche-vegetal",
             "name_es": "Leche vegetal",
@@ -15537,14 +15537,14 @@ export const content: PublicCatalog = {
           "drink_id": "spiked-lemonade",
           "relationship_type": "author_documented",
           "headline_es": "Limonada con alcohol atribuida a Zelda Fitzgerald",
-          "explanation_es": "Limonada con alcohol acompaña una conexión documentada con Zelda Fitzgerald.",
+          "explanation_es": "La limonada con alcohol asociada a Zelda Fitzgerald mezcla limón, azúcar, agua y ginebra o vodka. Parece una bebida de jardín, clara y juvenil, pero el destilado cambia silenciosamente su efecto; una imagen adecuada para la brillantez social de los Fitzgerald y para todo lo que esa superficie ocultaba.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-zelda-fitzgerald-spiked-lemonade-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "spiked-lemonade",
             "name_es": "Limonada con alcohol",
@@ -15643,14 +15643,14 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-coke",
           "relationship_type": "author_documented",
           "headline_es": "Vodka con cola atribuido a Burroughs",
-          "explanation_es": "Vodka con cola acompaña una conexión documentada con William S. Burroughs.",
+          "explanation_es": "Vodka con cola fue una elección documentada de William S. Burroughs: una mezcla funcional, dulce y fuerte, sin interés por la elegancia. La cola cubre el alcohol y la cafeína prolonga la noche; más que maridaje romántico, es un detalle coherente con una vida y una obra donde las sustancias aparecen como sistemas de control.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-william-s-burroughs-vodka-coke-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vodka-coke",
             "name_es": "Vodka con cola",
@@ -15749,14 +15749,14 @@ export const content: PublicCatalog = {
           "drink_id": "sonnie-boy",
           "relationship_type": "author_documented",
           "headline_es": "Sonnie Boy atribuido a Carson McCullers",
-          "explanation_es": "Sonnie Boy acompaña una conexión documentada con Carson McCullers.",
+          "explanation_es": "Carson McCullers no tenía recetas de comidas pero sí tenía su bebida preferida: una mezcla de té caliente y jerez, a la que llamaba “sonnie boy” y que guardaba en un termito. Ella y su termo se volvieron inseparables.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-carson-mccullers-sonnie-boy-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sonnie-boy",
             "name_es": "Sonnie Boy",
@@ -15852,14 +15852,14 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-tonic",
           "relationship_type": "author_documented",
           "headline_es": "Vodka tonic atribuido a Rushdie",
-          "explanation_es": "Vodka tonic acompaña una conexión documentada con Salman Rushdie.",
+          "explanation_es": "El vodka tonic asociado a Salman Rushdie es un highball de vodka, tónica, hielo y cítrico. Más neutral que un gin tonic, deja que el amargor de la quinina domine; una bebida clara y directa para un autor cuya prosa, por contraste, rara vez se conforma con una sola capa.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-salman-rushdie-vodka-tonic-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vodka-tonic",
             "name_es": "Vodka tonic",
@@ -15957,14 +15957,14 @@ export const content: PublicCatalog = {
           "drink_id": "cosmopolitan",
           "relationship_type": "author_documented",
           "headline_es": "Cosmopolitan atribuido a Bushnell",
-          "explanation_es": "Cosmopolitan acompaña una conexión documentada con Candace Bushnell.",
+          "explanation_es": "La creadora de \"Sex and the City\", Candace Bushnell, confesó una vez que el Cosmopolitan era su cóctel de cabecera en ese momento y, como Carrie Bradshaw era su alter ego, tenía sentido que se convirtiera también en su trago preferido.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-candice-bushnell-cosmopolitan-sip-and-sensibility"
           ],
           "editorial_status": "published",
-          "reviewed_by": "convergencia-tres-libros",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cosmopolitan",
             "name_es": "Cosmopolitan",
@@ -16060,14 +16060,14 @@ export const content: PublicCatalog = {
           "drink_id": "greek-red-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino tinto griego para La Odisea",
-          "explanation_es": "Para The Odyssey, Vino tinto griego: una compañía elegida para la lectura.",
+          "explanation_es": "El vino en *La Odisea* sí tiene peso narrativo, aunque esta recomendación no identifica una etiqueta moderna: los griegos lo bebían normalmente mezclado con agua. Un tinto griego actual —por ejemplo, de agiorgitiko o xinomavro— permite acompañar banquetes, hospitalidad y engaños homéricos sin imitar el vino extraordinariamente fuerte con que Odiseo deja indefenso al cíclope.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-108"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "greek-red-wine",
             "name_es": "Vino tinto griego",
@@ -16157,14 +16157,14 @@ export const content: PublicCatalog = {
           "drink_id": "brandy-de-jerez-solera",
           "relationship_type": "editorial_pairing",
           "headline_es": "Brandy de Jerez Solera para Don Quijote",
-          "explanation_es": "Para The Ingenious Gentleman Don Quixote of La Mancha, Brandy de Jerez Solera: una compañía elegida para la lectura.",
+          "explanation_es": "El brandy de Jerez Solera se envejece en botas mediante un sistema de mezclas sucesivas que reúne distintas edades. Como maridaje para *Don Quijote*, tiene una lógica cervantina: cada generación de líquido contiene algo de las anteriores, y el resultado es español, añejo y más complejo que la edad declarada de cualquier botella.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-110"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "brandy-de-jerez-solera",
             "name_es": "Brandy de Jerez Solera",
@@ -16254,14 +16254,14 @@ export const content: PublicCatalog = {
           "drink_id": "navy-grog",
           "relationship_type": "editorial_pairing",
           "headline_es": "Navy Grog para Los viajes de Gulliver",
-          "explanation_es": "Para Gulliver’s Travels, Navy Grog: una compañía elegida para la lectura.",
+          "explanation_es": "El Navy Grog es un cóctel tiki de varios rones, cítricos, miel y, según la versión, soda o hielo moldeado. No aparece en *Los viajes de Gulliver*, pero lleva navegación, imperio y exageración dentro del vaso: una bebida de fantasía marítima para un libro que utiliza viajes imposibles para burlarse de sociedades muy reales.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-111"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "navy-grog",
             "name_es": "Navy Grog",
@@ -16353,14 +16353,14 @@ export const content: PublicCatalog = {
           "drink_id": "volnay",
           "relationship_type": "editorial_pairing",
           "headline_es": "Volnay para Cándido",
-          "explanation_es": "Para Candide, Volnay: una compañía elegida para la lectura.",
+          "explanation_es": "Volnay es un Pinot Noir de Borgoña conocido por su perfume, textura fina y relativa delicadeza. Como maridaje para *Cándido*, ofrece una copa elegante procedente de un territorio minuciosamente jerarquizado; suficiente para brindar por el mejor de los mundos posibles antes de volver, prudentemente, a cultivar el jardín.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-112"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "volnay",
             "name_es": "Volnay",
@@ -16448,14 +16448,14 @@ export const content: PublicCatalog = {
           "drink_id": "banyuls-vin-doux-naturel",
           "relationship_type": "editorial_pairing",
           "headline_es": "Banyuls para El conde de Montecristo",
-          "explanation_es": "Para The Count of Monte Cristo, Banyuls, vin doux naturel: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Count of Monte Cristo\", Banyuls, un delicioso vino de Oporto fortificado (o Vin Doux Naturel), producido en el sureste de Roussillon, Francia. Es el único vino dulce francés que puede etiquetarse como Grand Cru.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-113"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "banyuls-vin-doux-naturel",
             "name_es": "Banyuls, vin doux naturel",
@@ -16543,14 +16543,14 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Toddy caliente en Cumbres borrascosas",
-          "explanation_es": "En Wuthering Heights, Toddy caliente entra en escena.",
+          "explanation_es": "En \"Cumbres Borrascosas\" los personajes son fríos, el lugar es frío, y hay algo que recuerda uno de esos días grises de invierno. Nada mejor que un hot toddy: whisky o bourbon, miel y té caliente.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-114"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "hot-toddy",
             "name_es": "Toddy caliente",
@@ -16661,14 +16661,14 @@ export const content: PublicCatalog = {
           "drink_id": "cru-beaujolais",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cru Beaujolais para Los miserables",
-          "explanation_es": "Para Les Miserables, Cru Beaujolais: una compañía elegida para la lectura.",
+          "explanation_es": "Un cru de Beaujolais es un tinto de gamay procedente de una de las denominaciones superiores de la región, más serio y estructurado que el Beaujolais Nouveau. Para *Los miserables*, ofrece origen popular con capacidad de profundidad: fruta viva, tierra granítica y una jerarquía interna que recuerda que incluso lo llamado sencillo contiene muchas clases.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-117"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cru-beaujolais",
             "name_es": "Cru Beaujolais",
@@ -16758,14 +16758,14 @@ export const content: PublicCatalog = {
           "drink_id": "imperial-russian-stout",
           "relationship_type": "editorial_pairing",
           "headline_es": "Imperial Russian Stout para Guerra y paz",
-          "explanation_es": "Para War and Peace, Imperial Russian Stout: una compañía elegida para la lectura.",
+          "explanation_es": "Una Imperial Russian Stout es negra, densa, alcohólica y cargada de café, cacao y malta tostada. Como maridaje para *Guerra y paz*, comparte escala y origen nominal: fue un estilo británico fortalecido para viajar hacia la corte rusa, una cerveza monumental para una novela que tampoco teme el exceso de volumen.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-118"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "imperial-russian-stout",
             "name_es": "Imperial Russian Stout",
@@ -16815,14 +16815,14 @@ export const content: PublicCatalog = {
           "drink_id": "sauternes",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sauternes para Anna Karenina",
-          "explanation_es": "Para Anna Karenina, Sauternes: una compañía elegida para la lectura.",
+          "explanation_es": "Sauternes es un vino dulce de Burdeos elaborado con uvas concentradas por podredumbre noble, con aromas de miel, damasco y azafrán equilibrados por acidez. Para *Anna Karenina*, ofrece lujo y decadencia sin tosquedad; su dulzor proviene de una transformación biológica que parece corrupción y, sin embargo, produce belleza.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-201"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sauternes",
             "name_es": "Sauternes",
@@ -16912,14 +16912,14 @@ export const content: PublicCatalog = {
           "drink_id": "petite-sirah",
           "relationship_type": "editorial_pairing",
           "headline_es": "Petite Sirah para El corazón de las tinieblas",
-          "explanation_es": "Para Heart of Darkness, Petite Sirah: una compañía elegida para la lectura.",
+          "explanation_es": "La Petite Sirah produce tintos casi opacos, tánicos y cargados de fruta negra. Como maridaje para *El corazón de las tinieblas*, ofrece una oscuridad literal y una estructura que puede resultar abrumadora; conviene recordar, sin embargo, que el vino acompaña la lectura y no debe simplificar la complejidad colonial de la novela a un mero color.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-119"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "petite-sirah",
             "name_es": "Petite Sirah",
@@ -17007,14 +17007,14 @@ export const content: PublicCatalog = {
           "drink_id": "tokaji-aszu",
           "relationship_type": "editorial_pairing",
           "headline_es": "Tokaji Aszú para Los hermanos Karamázov",
-          "explanation_es": "Para The Brothers Karamazov, Tokaji Aszú: una compañía elegida para la lectura.",
+          "explanation_es": "El Tokaji Aszú es un vino húngaro dulce elaborado con uvas afectadas por podredumbre noble, concentradas en miel, damasco y acidez. No aparece en *Los hermanos Karamázov*, pero su antigua fama de “vino de reyes” y su equilibrio entre corrupción y dulzura forman un maridaje sugerente para una novela donde lo espiritual y lo degradado fermentan en la misma familia.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-120"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "tokaji-aszu",
             "name_es": "Tokaji Aszú",
@@ -17066,14 +17066,14 @@ export const content: PublicCatalog = {
           "drink_id": "russian-vodka",
           "relationship_type": "editorial_pairing",
           "headline_es": "Fyodor Dostoyevsky y Vodka ruso como maridaje editorial",
-          "explanation_es": "Para Crime and Punishment, Vodka ruso: una compañía elegida para la lectura.",
+          "explanation_es": "El vodka ruso no aparece como recomendación específica de Raskólnikov: es un maridaje cultural para *Crimen y castigo*. Servido muy frío y sin mezcla, es directo, austero y sin dulzor; acompaña mejor la fiebre, el invierno moral y las habitaciones sofocantes de la novela que cualquier cóctel cuidadosamente ornamentado.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-144"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "russian-vodka",
             "name_es": "Vodka ruso",
@@ -17163,14 +17163,14 @@ export const content: PublicCatalog = {
           "drink_id": "absenta-con-agua",
           "relationship_type": "editorial_pairing",
           "headline_es": "Absenta con agua para La metamorfosis",
-          "explanation_es": "Para The Metamorphosis, Absenta con agua: una compañía elegida para la lectura.",
+          "explanation_es": "La absenta con agua es un maridaje editorial para *La metamorfosis*, no una bebida de Gregor Samsa. El licor verde, intenso en anís y hierbas, se vuelve opaco al diluirlo; esa súbita pérdida de transparencia ofrece una analogía visual demasiado tentadora con un mundo doméstico que amanece irreconocible.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-122"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "absenta-con-agua",
             "name_es": "Absenta con agua",
@@ -17271,14 +17271,14 @@ export const content: PublicCatalog = {
           "drink_id": "irish-whiskey-neat",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey irlandés para Ulises",
-          "explanation_es": "Para Ulysses, Whiskey irlandés solo: una compañía elegida para la lectura.",
+          "explanation_es": "Un whiskey irlandés solo acompaña a *Ulises* sin intentar competir con sus capas de lenguaje. Más suave y frutal que muchos Scotch, se sirve sin hielo para conservar aroma y temperatura; es una copa dublinesa directa para una novela que transforma un día ordinario en una odisea verbal extraordinaria.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-123"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "irish-whiskey-neat",
             "name_es": "Whiskey irlandés solo",
@@ -17368,14 +17368,14 @@ export const content: PublicCatalog = {
           "drink_id": "amontillado-sherry",
           "relationship_type": "editorial_pairing",
           "headline_es": "Jerez amontillado para La señora Dalloway",
-          "explanation_es": "Para Mrs. Dalloway, Jerez amontillado: una compañía elegida para la lectura.",
+          "explanation_es": "El amontillado es un jerez seco que comienza bajo velo de flor y continúa con crianza oxidativa, combinando finura salina con nueces y madera. Para *Mrs Dalloway*, esa doble vida resulta sugerente: una superficie social precisa y luminosa sobre capas de tiempo, pérdida y envejecimiento que siguen actuando debajo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-124"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "amontillado-sherry",
             "name_es": "Jerez amontillado",
@@ -17465,14 +17465,14 @@ export const content: PublicCatalog = {
           "drink_id": "napa-valley-cabernet-sauvignon",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cabernet Sauvignon de Napa para Moby-Dick",
-          "explanation_es": "Para Moby-Dick, Cabernet Sauvignon de Napa Valley: una compañía elegida para la lectura.",
+          "explanation_es": "Un Cabernet Sauvignon de Napa es denso, tánico y cargado de fruta negra, una copa que exige tiempo y comida. No aparece en *Moby-Dick*, pero sirve como maridaje de escala: tan concentrado y ambicioso como la persecución de Ahab, aunque sería prudente beberlo en tierra firme y lejos de cualquier capitán monomaníaco.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-126"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "napa-valley-cabernet-sauvignon",
             "name_es": "Cabernet Sauvignon de Napa Valley",
@@ -17562,14 +17562,14 @@ export const content: PublicCatalog = {
           "drink_id": "citrus-shandy-radler",
           "relationship_type": "editorial_pairing",
           "headline_es": "Zora Neale Hurston y Shandy cítrico (Radler) como maridaje editorial",
-          "explanation_es": "Para Their Eyes Were Watching God, Shandy cítrico (Radler): una compañía elegida para la lectura.",
+          "explanation_es": "El Radler mezcla cerveza clara y limonada o soda cítrica en proporciones cercanas a partes iguales. Para *Their Eyes Were Watching God*, ofrece una bebida sureña de calor, trabajo y conversación: ligera, refrescante y con suficiente amargor para que la dulzura no simplifique la historia de Janie.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-131"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "citrus-shandy-radler",
             "name_es": "Shandy cítrico (Radler)",
@@ -17663,14 +17663,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-smash",
           "relationship_type": "editorial_pairing",
           "headline_es": "Margaret Mitchell y Whiskey Smash como maridaje editorial",
-          "explanation_es": "Para Gone with the Wind, Whiskey Smash: una compañía elegida para la lectura.",
+          "explanation_es": "El Whiskey Smash combina bourbon, limón, azúcar y menta machacada, a medio camino entre un sour y un julep. Como maridaje para *Lo que el viento se llevó*, aporta sur estadounidense, hielo y una fuerza apenas disimulada por hierbas frescas; una bebida que parece hospitalaria hasta que el whiskey toma el control.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-132"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-smash",
             "name_es": "Whiskey Smash",
@@ -17764,14 +17764,14 @@ export const content: PublicCatalog = {
           "drink_id": "mint-julep",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ralph Ellison y Mint Julep como maridaje editorial",
-          "explanation_es": "Para Invisible Man, Mint Julep: una compañía elegida para la lectura.",
+          "explanation_es": "El Mint Julep —bourbon, menta, azúcar y hielo picado— es un maridaje deliberadamente sureño para *Invisible Man*. Su superficie fresca y hospitalaria oculta una base fuerte y una historia social complicada; sirve mejor si se entiende esa tensión, no como simple decoración de plantación.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-135"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mint-julep",
             "name_es": "Mint Julep",
@@ -17868,14 +17868,14 @@ export const content: PublicCatalog = {
           "drink_id": "flaming-b-52-shot",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ray Bradbury y Shot B-52 flameado como maridaje editorial",
-          "explanation_es": "Para Fahrenheit 451, Shot B-52 flameado: una compañía elegida para la lectura.",
+          "explanation_es": "El B-52 flameado superpone licor de café, crema irlandesa y licor de naranja, y prende fuego a la capa superior. No aparece en *Fahrenheit 451*, pero el maridaje es visualmente inevitable: un pequeño incendio comestible para una novela sobre bomberos que queman libros, aunque conviene apagar la llama antes de beber y dejar la pirotecnia a la ficción.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-136"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "flaming-b-52-shot",
             "name_es": "Shot B-52 flameado",
@@ -17969,14 +17969,14 @@ export const content: PublicCatalog = {
           "drink_id": "muscadine-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Harper Lee y Vino muscadino como maridaje editorial",
-          "explanation_es": "Para To Kill a Mockingbird, Vino muscadino: una compañía elegida para la lectura.",
+          "explanation_es": "El vino de muscadina se elabora con uvas nativas del sudeste de Estados Unidos, de piel gruesa y aromas intensos; suele ser dulce, aunque también existen versiones secas. Como maridaje para *Matar a un ruiseñor*, aporta territorio antes que elegancia: calor sureño, parras domésticas y una dulzura que no alcanza a ocultar la aspereza social de Maycomb.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-138"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "muscadine-wine",
             "name_es": "Vino muscadino",
@@ -18066,14 +18066,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-sour",
           "relationship_type": "editorial_pairing",
           "headline_es": "Joseph Heller y Whiskey Sour como maridaje editorial",
-          "explanation_es": "Para Catch-22, Whiskey Sour: una compañía elegida para la lectura.",
+          "explanation_es": "El Whiskey Sour mezcla whiskey, limón y azúcar, con clara de huevo opcional para darle espuma. No aparece en *Catch-22*, pero su equilibrio depende de sostener elementos incompatibles: fuerte, ácido y dulce al mismo tiempo, una lógica líquida bastante apropiada para una novela donde cualquier salida confirma la trampa.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-139"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-sour",
             "name_es": "Whiskey Sour",
@@ -18175,14 +18175,14 @@ export const content: PublicCatalog = {
           "drink_id": "chamomile-tea-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Toni Morrison y Cóctel de té de manzanilla como maridaje editorial",
-          "explanation_es": "Para Beloved, Cóctel de té de manzanilla: una compañía elegida para la lectura.",
+          "explanation_es": "Un cóctel de té de manzanilla puede combinar infusión fría, miel, limón y bourbon o ginebra. Para *Beloved*, la manzanilla aporta un aroma doméstico y calmante que no pretende “curar” el trauma de la novela; funciona mejor como contrapunto: una bebida suave frente a recuerdos que se niegan a permanecer enterrados.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-142"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "chamomile-tea-cocktail",
             "name_es": "Cóctel de té de manzanilla",
@@ -18276,14 +18276,14 @@ export const content: PublicCatalog = {
           "drink_id": "budweiser",
           "relationship_type": "editorial_pairing",
           "headline_es": "John Kennedy Toole y Budweiser como maridaje editorial",
-          "explanation_es": "Para A Confederacy of Dunces, Budweiser: una compañía elegida para la lectura.",
+          "explanation_es": "Una Budweiser fría acompaña a *La conjura de los necios* sin pretensión alguna. Es una lager masiva, ligera y reconocible, el tipo de cerveza que Ignatius despreciaría por vulgar mientras probablemente formula una teoría interminable sobre la decadencia moderna; precisamente por eso resulta un maridaje tan eficaz.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-143"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "budweiser",
             "name_es": "Budweiser",
@@ -18373,14 +18373,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-and-soda",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sir Arthur Conan Doyle y Whisky con soda como maridaje editorial",
-          "explanation_es": "Para A Study in Scarlet, Whiskey and Soda: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"A Study in Scarlet\", Whiskey y Soda.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-145"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-and-soda",
             "name_es": "Whiskey and Soda",
@@ -18481,14 +18481,14 @@ export const content: PublicCatalog = {
           "drink_id": "carpano-antica-formula",
           "relationship_type": "editorial_pairing",
           "headline_es": "Patricia Highsmith y Carpano Antica Formula como maridaje editorial",
-          "explanation_es": "Para The Talented Mr. Ripley, Carpano Antica Formula: una compañía elegida para la lectura.",
+          "explanation_es": "Carpano Antica Formula es un vermut rojo italiano de vainilla, especias y hierbas, normalmente usado en Manhattan o Negroni. Para *El talento de Mr. Ripley*, funciona como maridaje de apariencia: sofisticado, europeo y pulido, pero construido sobre vino fortificado y botánicos que esconden su origen bajo una identidad cuidadosamente elaborada.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-149"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "carpano-antica-formula",
             "name_es": "Carpano Antica Formula",
@@ -18578,14 +18578,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-and-tonic-with-english-gin",
           "relationship_type": "editorial_pairing",
           "headline_es": "John Le Carre y Gin tonic con ginebra inglesa como maridaje editorial",
-          "explanation_es": "Para The Spy Who Came in from the Cold, Gin tonic con ginebra inglesa: una compañía elegida para la lectura.",
+          "explanation_es": "El gin tonic con ginebra inglesa ofrece una bebida clara, fría y aparentemente transparente para *El espía que surgió del frío*. Ginebra, tónica y limón forman un highball sobrio, pero el amargor de la quinina permanece debajo: una buena compañía para una novela donde la superficie profesional oculta lealtades contaminadas.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-150"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gin-and-tonic-with-english-gin",
             "name_es": "Gin tonic con ginebra inglesa",
@@ -18678,14 +18678,14 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri",
           "relationship_type": "editorial_pairing",
           "headline_es": "Daiquiri para The Key to Rebecca",
-          "explanation_es": "Para The Key to Rebecca, Daiquiri: una compañía elegida para la lectura.",
+          "explanation_es": "El daiquiri clásico —ron blanco, lima y azúcar— es un maridaje geográfico para *La clave está en Rebeca*, thriller cuyo título alude a otra novela y cuya intriga se desplaza por el norte de África. Fresco, preciso y aparentemente sencillo, funciona para una trama de espionaje donde la clave real está en lo que se oculta bajo una forma familiar.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-153"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "daiquiri",
             "name_es": "Daiquiri",
@@ -18782,14 +18782,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-soda",
           "relationship_type": "editorial_pairing",
           "headline_es": "Scotch & Soda para Red Dragon",
-          "explanation_es": "Para Red Dragon, Scotch & Soda: una compañía elegida para la lectura.",
+          "explanation_es": "Scotch & Soda es una mezcla austera de whisky escocés, hielo y agua con gas. Como maridaje para *Red Dragon*, su claridad y moderación aparente encajan con una investigación controlada en la superficie; debajo quedan humo, alcohol y el tipo de amargor que no desaparece al diluirlo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-154"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch-soda",
             "name_es": "Scotch & Soda",
@@ -18884,14 +18884,14 @@ export const content: PublicCatalog = {
           "drink_id": "inside-job",
           "relationship_type": "editorial_pairing",
           "headline_es": "Inside Job para Along Came a Spider",
-          "explanation_es": "Para Along Came a Spider, Inside Job: una compañía elegida para la lectura.",
+          "explanation_es": "El Inside Job es un giro oscuro del Old Fashioned: bourbon, marrasquino, jarabe, Angostura y un toque de absenta. No aparece en *Along Came a Spider*, pero el nombre y la estructura funcionan para un thriller de engaños internos: parece un whisky familiar hasta que la cereza, el anís y las pistas secundarias cambian por completo el caso.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-155"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "inside-job",
             "name_es": "Inside Job",
@@ -18982,14 +18982,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey-buck",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey Buck para Killing Floor",
-          "explanation_es": "Para Killing Floor, Whiskey Buck: una compañía elegida para la lectura.",
+          "explanation_es": "El Whiskey Buck mezcla whiskey, lima y ginger beer en un vaso alto con hielo. No aparece en *Killing Floor*, pero es directo, portátil y tiene el golpe seco del jengibre; una bebida para Jack Reacher porque requiere pocos ingredientes, ninguna decoración innecesaria y puede pedirse en casi cualquier bar sin explicar demasiado.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-156"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey-buck",
             "name_es": "Whiskey Buck",
@@ -19080,14 +19080,14 @@ export const content: PublicCatalog = {
           "drink_id": "rolling-rock",
           "relationship_type": "editorial_pairing",
           "headline_es": "Rolling Rock para Tell No One",
-          "explanation_es": "Para Tell No One, Rolling Rock: una compañía elegida para la lectura.",
+          "explanation_es": "Rolling Rock es una lager estadounidense ligera, limpia y sin demasiadas complicaciones. No aparece en *Tell No One*, pero su botella verde y su carácter directo ofrecen una compañía deliberadamente poco sofisticada para un thriller que necesita avanzar rápido: se abre, se bebe fría y no interrumpe la persecución con notas de cata.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-157"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "rolling-rock",
             "name_es": "Rolling Rock",
@@ -19174,14 +19174,14 @@ export const content: PublicCatalog = {
           "drink_id": "blood-and-sand",
           "relationship_type": "editorial_pairing",
           "headline_es": "Blood and Sand para The Lovely Bones",
-          "explanation_es": "Para The Lovely Bones, Blood and Sand: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Lovely Bones\", Blood and Sand: un clásico que contiene jugo de naranja, vermut dulce, brandy de cereza y whisky escocés. Esta bebida, con sus notas afrutadas y dulces, es más que un trago; es un momento en el tiempo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-158"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "blood-and-sand",
             "name_es": "Blood and Sand",
@@ -19274,14 +19274,14 @@ export const content: PublicCatalog = {
           "drink_id": "white-zinfandel",
           "relationship_type": "editorial_pairing",
           "headline_es": "Zinfandel blanco para The Da Vinci Code",
-          "explanation_es": "Para The Da Vinci Code, Zinfandel blanco: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Da Vinci Code\", Zinfandel blanco. La Zinfandel fue conocida alguna vez como la “uva misteriosa” de California porque sus orígenes eran desconocidos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-159"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "white-zinfandel",
             "name_es": "Zinfandel blanco",
@@ -19371,14 +19371,14 @@ export const content: PublicCatalog = {
           "drink_id": "akavit",
           "relationship_type": "editorial_pairing",
           "headline_es": "Akavit para The Girl with the Dragon Tattoo",
-          "explanation_es": "Para The Girl with the Dragon Tattoo, Akavit: una compañía elegida para la lectura.",
+          "explanation_es": "El akvavit es un destilado escandinavo aromatizado principalmente con alcaravea o eneldo, servido muy frío en pequeños vasos. Para *Los hombres que no amaban a las mujeres*, aporta una bebida regional seca y penetrante; parece transparente, pero deja un rastro especiado tan persistente como una investigación de Mikael Blomkvist.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-160"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "akavit",
             "name_es": "Akavit",
@@ -19467,14 +19467,14 @@ export const content: PublicCatalog = {
           "drink_id": "last-word",
           "relationship_type": "editorial_pairing",
           "headline_es": "Last Word para Gone Girl",
-          "explanation_es": "Para Gone Girl, Last Word: una compañía elegida para la lectura.",
+          "explanation_es": "El Last Word es un clásico de partes iguales: ginebra, Chartreuse verde, marrasquino y jugo de lima. No aparece en *Gone Girl*, pero el nombre es demasiado apropiado para una novela construida como una disputa por controlar el relato: dulce, herbal y ácido, cada ingrediente intenta quedarse —literalmente— con la última palabra.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-161"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "last-word",
             "name_es": "Last Word",
@@ -19566,14 +19566,14 @@ export const content: PublicCatalog = {
           "drink_id": "corpse-reviver",
           "relationship_type": "editorial_pairing",
           "headline_es": "Corpse Reviver para Frankenstein",
-          "explanation_es": "Para Frankenstein, Corpse Reviver: una compañía elegida para la lectura.",
+          "explanation_es": "El Corpse Reviver es una familia de cócteles concebidos como remedio para resucitar al bebedor después de una mala noche. Para *Frankenstein*, la asociación es obvia pero eficaz: ginebra, cítricos, vino aperitivo y un toque de absenta intentan devolver vida a un cuerpo, con resultados probablemente menos catastróficos que los de Victor Frankenstein.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-162"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "corpse-reviver",
             "name_es": "Corpse Reviver",
@@ -19665,14 +19665,14 @@ export const content: PublicCatalog = {
           "drink_id": "irish-car-bomb",
           "relationship_type": "editorial_pairing",
           "headline_es": "Irish Car Bomb para The Strange Case of Dr. Jekyll and Mr. Hyde",
-          "explanation_es": "Para The Strange Case of Dr. Jekyll and Mr. Hyde, Irish Car Bomb: una compañía elegida para la lectura.",
+          "explanation_es": "El llamado Irish Car Bomb combina stout irlandesa con un vaso de whiskey irlandés y crema irlandesa que se deja caer dentro. El nombre es ofensivo para muchas personas por trivializar la violencia de Irlanda del Norte; como maridaje para *Jekyll y Hyde* funciona la transformación súbita de dos bebidas, pero sería mejor presentarlo como Irish Slammer y explicar la carga histórica del nombre.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-163"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "irish-car-bomb",
             "name_es": "Irish Car Bomb",
@@ -19764,14 +19764,14 @@ export const content: PublicCatalog = {
           "drink_id": "lillet-blanc",
           "relationship_type": "editorial_pairing",
           "headline_es": "Lillet Blanc para The Time Machine",
-          "explanation_es": "Para The Time Machine, Lillet Blanc: una compañía elegida para la lectura.",
+          "explanation_es": "Lillet Blanc es un aperitivo bordelés elaborado con vino y licores de cítricos, floral, ligeramente dulce y pensado para beber frío. En *La máquina del tiempo* funciona como maridaje retrofuturista: una botella nacida a fines del siglo XIX que todavía parece moderna, exactamente como la novela de Wells.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-164"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "lillet-blanc",
             "name_es": "Lillet Blanc",
@@ -19859,14 +19859,14 @@ export const content: PublicCatalog = {
           "drink_id": "trippy-gin-julep",
           "relationship_type": "editorial_pairing",
           "headline_es": "Trippy Gin Julep para Brave New World",
-          "explanation_es": "Para Brave New World, Trippy Gin Julep: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Brave New World\" desconéctate en serio con un cóctel realmente potente, el Trippy Gin Julep. Esta refrescante bebida se prepara con ginebra, ¡absenta!, licor de jengibre, menta fresca y limones frescos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-165"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "trippy-gin-julep",
             "name_es": "Trippy Gin Julep",
@@ -19958,14 +19958,14 @@ export const content: PublicCatalog = {
           "drink_id": "the-obituary",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Obituary para 1984",
-          "explanation_es": "Para 1984, The Obituary: una compañía elegida para la lectura.",
+          "explanation_es": "The Obituary es un Martini de Nueva Orleans: ginebra, vermut seco y una medida o enjuague de absenta. No aparece en *1984*, pero su nombre funerario y el perfume invasivo del anís encajan con un mundo donde las personas pueden ser borradas de los registros y convertidas, literalmente, en no-personas.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-166"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "the-obituary",
             "name_es": "The Obituary",
@@ -20057,14 +20057,14 @@ export const content: PublicCatalog = {
           "drink_id": "india-pale-ale",
           "relationship_type": "editorial_pairing",
           "headline_es": "India Pale Ale para I, Robot",
-          "explanation_es": "Para I, Robot, India Pale Ale: una compañía elegida para la lectura.",
+          "explanation_es": "Una India Pale Ale aporta amargor de lúpulo, aromas cítricos o resinosos y una historia ligada a la conservación durante viajes largos. No aparece en *Yo, robot*, pero funciona como maridaje irónico: una cerveza cuyo nombre conserva una tecnología del imperio para relatos donde las tecnologías también sobreviven a las intenciones de sus creadores.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-167"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "india-pale-ale",
             "name_es": "India Pale Ale",
@@ -20154,14 +20154,14 @@ export const content: PublicCatalog = {
           "drink_id": "saison-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza saison para Childhood’s End",
-          "explanation_es": "Para Childhood’s End, Cerveza saison: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Childhood’s End\", cerveza saison, la birra de los granjeros belgas antiguos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-168"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "saison-beer",
             "name_es": "Cerveza saison",
@@ -20251,14 +20251,14 @@ export const content: PublicCatalog = {
           "drink_id": "red-sangria",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sangría roja para Stranger in a Strange Land",
-          "explanation_es": "Para Stranger in a Strange Land, Sangría roja: una compañía elegida para la lectura.",
+          "explanation_es": "La sangría roja mezcla vino, fruta, cítricos y, según la receta, brandy o soda. Como maridaje para *Forastero en tierra extraña*, toma algo familiar y lo transforma por convivencia con elementos ajenos; una bebida colectiva y mutable para una novela que pregunta qué significa realmente pertenecer a una especie o cultura.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-169"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "red-sangria",
             "name_es": "Sangría roja",
@@ -20352,14 +20352,14 @@ export const content: PublicCatalog = {
           "drink_id": "knifey-moloko-milk-punch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Knifey Moloko para A Clockwork Orange",
-          "explanation_es": "Para A Clockwork Orange, Knifey Moloko (Milk Punch): una compañía elegida para la lectura.",
+          "explanation_es": "Moloko Plus o Knifey Moloko, derivado de la palabra rusa para leche, es la leche con barbitúricos servida en el Korova Milk Bar. En \"A Clockwork Orange\" aparece cuando Alex y sus droogs beben drencrom para prepararse para una noche de violencia.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-170"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "knifey-moloko-milk-punch",
             "name_es": "Knifey Moloko (Milk Punch)",
@@ -20451,14 +20451,14 @@ export const content: PublicCatalog = {
           "drink_id": "arak",
           "relationship_type": "editorial_pairing",
           "headline_es": "Arak para Dune",
-          "explanation_es": "Para Dune, Arak: una compañía elegida para la lectura.",
+          "explanation_es": "El arak no aparece en *Dune*, pero su origen levantino y su carácter anisado lo convierten en una compañía plausible para Arrakis. Se destila de uvas y anís y, al mezclarse con agua, pasa de transparente a blanco lechoso: una pequeña transformación química que parece ritual y que exige, a diferencia del desierto, gastar agua sin culpa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-171"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "arak",
             "name_es": "Arak",
@@ -20546,14 +20546,14 @@ export const content: PublicCatalog = {
           "drink_id": "eiswein",
           "relationship_type": "editorial_pairing",
           "headline_es": "Eiswein para The Left Hand of Darkness",
-          "explanation_es": "Para The Left Hand of Darkness, Eiswein: una compañía elegida para la lectura.",
+          "explanation_es": "El Eiswein se produce con uvas que se congelan naturalmente en la vid y se prensan aún heladas, concentrando azúcar y acidez. Para *La mano izquierda de la oscuridad*, es un maridaje casi literal: el frío extremo no destruye la materia prima, sino que revela una dulzura intensa que sólo existe gracias al invierno.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-172"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "eiswein",
             "name_es": "Eiswein",
@@ -20643,14 +20643,14 @@ export const content: PublicCatalog = {
           "drink_id": "olive-oil-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Martini de aceite de oliva para A Scanner Darkly",
-          "explanation_es": "Para A Scanner Darkly, Martini de aceite de oliva: una compañía elegida para la lectura.",
+          "explanation_es": "Un Martini con aceite de oliva lleva la lógica del “dirty Martini” un paso más allá: ginebra o vodka, vermut y unas gotas de aceite que flotan o emulsionan sobre la superficie. Para *A Scanner Darkly*, la textura inestable y la separación de fases sirven de metáfora visual para identidades que ya no logran mantenerse unidas.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-173"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "olive-oil-martini",
             "name_es": "Martini de aceite de oliva",
@@ -20744,14 +20744,14 @@ export const content: PublicCatalog = {
           "drink_id": "pan-galactic-gargle-blaster",
           "relationship_type": "editorial_pairing",
           "headline_es": "Pan-Galactic Gargle Blaster para A Hitchhiker’s Guide to the Galaxy",
-          "explanation_es": "Para A Hitchhiker’s Guide to the Galaxy, Pan-Galactic Gargle Blaster: una compañía elegida para la lectura.",
+          "explanation_es": "El Pan-Galactic Gargle Blaster es ficticio y, según *The Hitchhiker’s Guide to the Galaxy*, produce una sensación comparable a un lingote de oro envuelto en limón golpeando el cerebro. Las recreaciones mezclan destilados, licores cítricos y burbujas, pero ninguna puede ser canónica porque varios ingredientes no existen en la Tierra; lo más fiel es conservar el absurdo y reducir prudentemente la graduación.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-174"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "pan-galactic-gargle-blaster",
             "name_es": "Pan-Galactic Gargle Blaster",
@@ -20844,14 +20844,14 @@ export const content: PublicCatalog = {
           "drink_id": "vodka-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vodka Martini para Neuromancer",
-          "explanation_es": "Para Neuromancer, Vodka Martini: una compañía elegida para la lectura.",
+          "explanation_es": "Un Vodka Martini ofrece para *Neuromancer* una copa fría, transparente y casi clínica: vodka, poco vermut y limón o aceituna. No aparece como emblema de la novela, pero su estética minimalista y despersonalizada encaja con hoteles, corporaciones y cuerpos tratados como interfaces.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-175"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vodka-martini",
             "name_es": "Vodka Martini",
@@ -20947,14 +20947,14 @@ export const content: PublicCatalog = {
           "drink_id": "classic-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Martini clásico para Ender’s Game",
-          "explanation_es": "Para Ender’s Game, Martini clásico: una compañía elegida para la lectura.",
+          "explanation_es": "Un Martini clásico —ginebra, vermut seco y aceituna o limón— acompaña a *El juego de Ender* por su disciplina geométrica. Frío, transparente y reducido a pocos elementos, parece diseñado por una escuela militar; el problema, como en la novela, es que una estructura impecable puede ocultar decisiones morales mucho más turbias.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-176"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "classic-martini",
             "name_es": "Martini clásico",
@@ -21048,14 +21048,14 @@ export const content: PublicCatalog = {
           "drink_id": "wine-dealers-choice",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino a elección para Children of Men",
-          "explanation_es": "Para Children of Men, Vino a elección (especificar estilo): una compañía elegida para la lectura.",
+          "explanation_es": "Para *Children of Men*, la instrucción “vino a elección” necesita concretarse: un tinto inglés sería improbable en la época de la novela, pero un claret bordelés envejecido encaja con el gusto conservador y melancólico de Theo. Seco, estructurado y algo austero, acompaña un mundo que ha dejado de producir niños y vive de reservas del pasado.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-177"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "wine-dealers-choice",
             "name_es": "Vino a elección (especificar estilo)",
@@ -21144,14 +21144,14 @@ export const content: PublicCatalog = {
           "drink_id": "ramos-gin-fizz",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ramos Gin Fizz para Snow Crash",
-          "explanation_es": "Para Snow Crash, Ramos Gin Fizz: una compañía elegida para la lectura.",
+          "explanation_es": "El Ramos Gin Fizz exige ginebra, limón, lima, azúcar, crema, clara de huevo, agua de azahar y soda, además de una agitación prolongada. Como maridaje para *Snow Crash*, es una tecnología barroca dentro de un vaso: muchas capas incompatibles estabilizadas por técnica, con una espuma blanca tan improbable como el metaverso de Stephenson.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-178"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ramos-gin-fizz",
             "name_es": "Ramos Gin Fizz",
@@ -21266,14 +21266,14 @@ export const content: PublicCatalog = {
           "drink_id": "corpse-reviver-no-blue",
           "relationship_type": "editorial_pairing",
           "headline_es": "Corpse Reviver No. Blue para Ready Player One",
-          "explanation_es": "Para Ready Player One, Corpse Reviver No. Blue: una compañía elegida para la lectura.",
+          "explanation_es": "El Corpse Reviver No. Blue no aparece en *Ready Player One*: es un maridaje editorial para una novela saturada de neón, avatares y nostalgia digital. Mezcla ginebra, Lillet Blanc, curaçao azul y limón en una copa enjuagada con absenta; nació en 2007 como una parodia de los cócteles azules despreciados por la coctelería seria, de modo que su color deliberadamente artificial encaja muy bien con el espectáculo virtual del OASIS.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-179"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "corpse-reviver-no-blue",
             "name_es": "Corpse Reviver No. Blue",
@@ -21367,14 +21367,14 @@ export const content: PublicCatalog = {
           "drink_id": "bloody-mary",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bloody Mary para Dracula",
-          "explanation_es": "Para Dracula, Bloody Mary: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Dracula\" un Bloody Mary, hecho con vodka, jugo de tomate y especias.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-180"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "bloody-mary",
             "name_es": "Bloody Mary",
@@ -21483,14 +21483,14 @@ export const content: PublicCatalog = {
           "drink_id": "english-ale",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ale inglesa para The Fellowship of the Ring",
-          "explanation_es": "Para The Fellowship of the Ring, Ale inglesa: una compañía elegida para la lectura.",
+          "explanation_es": "Una ale inglesa parece el acompañamiento natural de *La comunidad del anillo*, aunque esta ficha funciona como maridaje y no como identificación de una cerveza concreta del libro. Maltosa, poco carbonatada y servida en pinta, pertenece al universo de posadas, canciones y conversaciones largas; es la bebida que uno espera encontrar en El Póney Pisador antes de que entren los Nazgûl.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-181"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "english-ale",
             "name_es": "Ale inglesa",
@@ -21580,14 +21580,14 @@ export const content: PublicCatalog = {
           "drink_id": "cotes-du-rhone",
           "relationship_type": "editorial_pairing",
           "headline_es": "Côtes du Rhône para The Once and Future King",
-          "explanation_es": "Para The Once and Future King, Côtes du Rhône: una compañía elegida para la lectura.",
+          "explanation_es": "Un Côtes du Rhône tinto mezcla normalmente garnacha, syrah y otras variedades para dar fruta, hierbas y especias. Como maridaje para *The Once and Future King*, ofrece una bebida medievalizante sin fingir autenticidad artúrica: rústica, generosa y adecuada para una mesa larga donde la caballería será discutida antes de fracasar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-182"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cotes-du-rhone",
             "name_es": "Côtes du Rhône",
@@ -21677,14 +21677,14 @@ export const content: PublicCatalog = {
           "drink_id": "klahktail",
           "relationship_type": "appears_in_work",
           "headline_es": "Klahktail para Dragonflight",
-          "explanation_es": "En Dragonflight, Klahktail entra en escena.",
+          "explanation_es": "La bebida Klahktail está inspirada en la ficticia bebida klah que aparece en \"Dragonflight\" de Anne McCaffrey.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-183"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "klahktail",
             "name_es": "Klahktail",
@@ -21778,14 +21778,14 @@ export const content: PublicCatalog = {
           "drink_id": "sidecar",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sidecar para Interview with the Vampire",
-          "explanation_es": "Para Interview with the Vampire, Sidecar: una compañía elegida para la lectura.",
+          "explanation_es": "En la novela debut de Anne Rice, \"Entrevista con el vampiro\", ella crea un tipo de vampiro como ningún otro, uno que necesita beber sangre para mantenerse con vida pero odia hacerlo. Aquí nos conformamos con el Sidecar, un delicado equilibrio de brandy, licor de naranja y un toque de dulce.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-184"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sidecar",
             "name_es": "Sidecar",
@@ -21882,14 +21882,14 @@ export const content: PublicCatalog = {
           "drink_id": "sour-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza ácida para The Sword of Shannara",
-          "explanation_es": "Para The Sword of Shannara, Cerveza ácida: una compañía elegida para la lectura.",
+          "explanation_es": "Una cerveza ácida —sour ale— utiliza bacterias o levaduras especiales para producir notas de limón, yogur o fruta fermentada. Para *The Sword of Shannara*, ofrece una alternativa a la ale medieval previsible: extraña, viva y algo salvaje, como un mundo fantástico construido sobre las ruinas de otro.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-185"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sour-beer",
             "name_es": "Cerveza ácida",
@@ -21979,14 +21979,14 @@ export const content: PublicCatalog = {
           "drink_id": "mead",
           "relationship_type": "editorial_pairing",
           "headline_es": "Hidromiel para The Mists of Avalon",
-          "explanation_es": "Para The Mists of Avalon, Hidromiel: una compañía elegida para la lectura.",
+          "explanation_es": "La hidromiel —miel fermentada con agua— es un maridaje natural para *Las nieblas de Avalón*. Puede ser seca o dulce, tranquila o espumosa, y arrastra una antigüedad casi mítica; no necesita fingir que procede de Camelot para acompañar una novela de poder, ritual y memoria precristiana.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-186"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mead",
             "name_es": "Hidromiel",
@@ -22076,14 +22076,14 @@ export const content: PublicCatalog = {
           "drink_id": "porter-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza porter para Mort",
-          "explanation_es": "Para Mort, Cerveza porter: una compañía elegida para la lectura.",
+          "explanation_es": "La porter es oscura, maltosa y tostada, con menos peso que muchas stout. Para *Mort*, su color funerario hace el chiste evidente, pero su origen en tabernas londinenses aporta algo mejor: una cerveza cotidiana para leer sobre la Muerte cuando termina su turno y quiere entender a los humanos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-187"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "porter-beer",
             "name_es": "Cerveza porter",
@@ -22173,14 +22173,14 @@ export const content: PublicCatalog = {
           "drink_id": "loire-valley-chenin-blanc",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chenin Blanc del Valle del Loira para The Eye of the World",
-          "explanation_es": "Para The Eye of the World, Chenin Blanc del Valle del Loira: una compañía elegida para la lectura.",
+          "explanation_es": "Un Chenin Blanc del Loira puede ir de seco y mineral a intensamente dulce, siempre sostenido por una acidez notable. Para *El ojo del mundo*, esa capacidad de cambiar de estilo sin perder identidad resulta apropiada: una misma uva atraviesa muchos reinos, igual que los personajes empiezan como aldeanos y descubren posibilidades mucho mayores.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-188"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "loire-valley-chenin-blanc",
             "name_es": "Chenin Blanc del Valle del Loira",
@@ -22269,14 +22269,14 @@ export const content: PublicCatalog = {
           "drink_id": "chocolate-stout",
           "relationship_type": "editorial_pairing",
           "headline_es": "Stout de chocolate para Assassin’s Apprentice",
-          "explanation_es": "Para Assassin’s Apprentice, Stout de chocolate: una compañía elegida para la lectura.",
+          "explanation_es": "Una stout de chocolate combina malta tostada con cacao real o aromas naturales de chocolate, produciendo café, amargor y dulzor oscuro. Para *Assassin’s Apprentice*, ofrece una bebida de castillo que parece postre pero conserva una base severa; adecuada para Fitz, cuya formación también mezcla privilegio, veneno y oscuridad.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-189"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "chocolate-stout",
             "name_es": "Stout de chocolate",
@@ -22365,14 +22365,14 @@ export const content: PublicCatalog = {
           "drink_id": "barolo-or-barbaresco",
           "relationship_type": "editorial_pairing",
           "headline_es": "Barolo o Barbaresco para A Game of Thrones",
-          "explanation_es": "Para A Game of Thrones, Barolo o Barbaresco (elige uno): una compañía elegida para la lectura.",
+          "explanation_es": "Para *A Game of Thrones*, Barolo y Barbaresco ofrecen dos interpretaciones de la uva nebbiolo: ambos son tintos piamonteses de taninos firmes, perfume de rosas y notas terrosas, aunque Barolo suele ser más poderoso y Barbaresco algo más accesible. Elegir entre ellos es casi escoger una casa noble: comparten sangre, territorio y una larga rivalidad de estilo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-190"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "barolo-or-barbaresco",
             "name_es": "Barolo o Barbaresco (elige uno)",
@@ -22463,14 +22463,14 @@ export const content: PublicCatalog = {
           "drink_id": "blue-cosmopolitan",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cosmopolitan azul para Storm Front",
-          "explanation_es": "Para Storm Front, Cosmopolitan azul: una compañía elegida para la lectura.",
+          "explanation_es": "El Cosmopolitan azul cambia el licor de arándano y naranja por curaçao azul, conservando vodka y cítrico. No aparece en *Storm Front*, pero su color eléctrico parece magia de utilería y tormenta embotellada; una bebida vistosa para Harry Dresden, que probablemente preferiría que nadie la confundiera con una poción seria.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-191"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "blue-cosmopolitan",
             "name_es": "Cosmopolitan azul",
@@ -22563,14 +22563,14 @@ export const content: PublicCatalog = {
           "drink_id": "jack-daniels-and-coffee",
           "relationship_type": "editorial_pairing",
           "headline_es": "Jack Daniel’s y café para American Gods",
-          "explanation_es": "Para American Gods, Jack Daniel’s y café: una compañía elegida para la lectura.",
+          "explanation_es": "Jack Daniel’s con café es una mezcla directa de whiskey de Tennessee y café caliente, con azúcar o crema opcionales. Para *American Gods*, funciona como bebida de carretera, motel y madrugada: combustible estadounidense de marca reconocible, suficientemente ordinario para que un dios antiguo pueda pasar desapercibido junto a la máquina expendedora.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-192"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "jack-daniels-and-coffee",
             "name_es": "Jack Daniel’s y café",
@@ -22663,14 +22663,14 @@ export const content: PublicCatalog = {
           "drink_id": "magical-martini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Martini mágico para Jonathan Strange and Mr. Norell",
-          "explanation_es": "Para Jonathan Strange and Mr. Norell, Martini mágico: una compañía elegida para la lectura.",
+          "explanation_es": "Un “Martini mágico” para *Jonathan Strange y el señor Norrell* puede partir de ginebra, vermut seco y una gota de Chartreuse o absenta. La copa parece clásica hasta que el licor herbal altera aroma y color; magia inglesa respetable en apariencia, con una intervención mínima que nadie controla del todo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-193"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "magical-martini",
             "name_es": "Martini mágico",
@@ -22763,14 +22763,14 @@ export const content: PublicCatalog = {
           "drink_id": "barleywine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Barleywine para The Name of the Wind",
-          "explanation_es": "Para The Name of the Wind, Barleywine: una compañía elegida para la lectura.",
+          "explanation_es": "El barleywine es una cerveza de fuerza cercana al vino, maltosa, oscura y capaz de mejorar con guarda. Para *El nombre del viento*, ofrece una bebida de taberna que también exige paciencia y relato: cada sorbo parece contener más años, más alcohol y más historia de la que anuncia la espuma.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-194"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "barleywine",
             "name_es": "Barleywine",
@@ -22859,14 +22859,14 @@ export const content: PublicCatalog = {
           "drink_id": "german-riesling",
           "relationship_type": "editorial_pairing",
           "headline_es": "Riesling alemán para The Way of Kings",
-          "explanation_es": "Para The Way of Kings, Riesling alemán: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Way of Kings\", un Riesling alemán. El Riesling es una variedad de vino cuyo carácter está fuertemente influenciado por su lugar de origen.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-195"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "german-riesling",
             "name_es": "Riesling alemán",
@@ -22955,14 +22955,14 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-blanc-de-noirs",
           "relationship_type": "editorial_pairing",
           "headline_es": "Champaña Blanc de Noirs para A Discovery of Witches",
-          "explanation_es": "Para A Discovery of Witches, Champaña Blanc de Noirs: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"A Discovery of Witches\", Champaña Blanc de Noirs. El nombre \"Blanc de Noirs\" se refiere a un Champagne elaborado únicamente con variedades de uva negra, como Pinot Noir y/o Meunier.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-196"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "champagne-blanc-de-noirs",
             "name_es": "Champaña Blanc de Noirs",
@@ -23051,14 +23051,14 @@ export const content: PublicCatalog = {
           "drink_id": "champagne-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cóctel de champaña para The Night Circus",
-          "explanation_es": "Para The Night Circus, Champagne Cocktail: una compañía elegida para la lectura.",
+          "explanation_es": "El Champagne Cocktail acompaña a *The Night Circus* por puro efecto escénico: una copa de champaña vertida sobre un terrón de azúcar empapado en amargo de Angostura, a veces reforzada con coñac. Las burbujas, el azúcar que se deshace lentamente y el brillo dorado parecen un pequeño acto de ilusionismo, apropiado para un circo nocturno donde nada es exactamente lo que parece.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-197"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "champagne-cocktail",
             "name_es": "Champagne Cocktail",
@@ -23154,14 +23154,14 @@ export const content: PublicCatalog = {
           "drink_id": "tawny-port",
           "relationship_type": "editorial_pairing",
           "headline_es": "Oporto tawny para Jane Eyre",
-          "explanation_es": "Para Jane Eyre, Oporto tawny: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Jane Eyre\", Vino de Oporto, o simplemente oporto, un vino fortificado producido en el valle del Duero, en el norte de Portugal. Por lo general es un vino tinto dulce, a menudo servido con el postre.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-200"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "tawny-port",
             "name_es": "Oporto tawny",
@@ -23251,14 +23251,14 @@ export const content: PublicCatalog = {
           "drink_id": "oregon-chardonnay",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chardonnay de Oregón para Lady Chatterley’s Lover",
-          "explanation_es": "Para Lady Chatterley’s Lover, Chardonnay de Oregón: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Lady Chatterley’s Lover\", Chardonnay de Oregón.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-202"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "oregon-chardonnay",
             "name_es": "Chardonnay de Oregón",
@@ -23348,14 +23348,14 @@ export const content: PublicCatalog = {
           "drink_id": "the-jasmine",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Jasmine para Rebecca",
-          "explanation_es": "Para Rebecca, The Jasmine: una compañía elegida para la lectura.",
+          "explanation_es": "Para la lectura de \"Rebecca\", un Jasmine, que combina gin, Grand Marnier, Campari, y jugo de limón fresco.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-203"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "the-jasmine",
             "name_es": "The Jasmine",
@@ -23449,14 +23449,14 @@ export const content: PublicCatalog = {
           "drink_id": "white-russian",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ruso blanco para Doctor Zhivago",
-          "explanation_es": "Para Doctor Zhivago, Ruso blanco: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Doctor Zhivago\" un Ruso blanco: un cóctel clásico que combina vodka, Kahlúa y crema. Básicamente un postre en un vaso.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-204"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "white-russian",
             "name_es": "Ruso blanco",
@@ -23550,14 +23550,14 @@ export const content: PublicCatalog = {
           "drink_id": "chianti-classico",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chianti Classico para The Princess Bride",
-          "explanation_es": "Para The Princess Bride, Chianti Classico: una compañía elegida para la lectura.",
+          "explanation_es": "Un Chianti Classico, elaborado principalmente con sangiovese, combina cereza ácida, hierbas y taninos. Para *La princesa prometida*, aporta una copa italiana vivaz y teatral, adecuada para duelos, venenos y declaraciones de amor; afortunadamente, no requiere decidir cuál de dos cálices contiene iocano.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-205"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "chianti-classico",
             "name_es": "Chianti Classico",
@@ -23646,14 +23646,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch-the-older-the-better",
           "relationship_type": "editorial_pairing",
           "headline_es": "Scotch añejo para Outlander",
-          "explanation_es": "Para Outlander, Scotch añejo: una compañía elegida para la lectura.",
+          "explanation_es": "El Scotch añejo —whisky de malta madurado en barrica— acompaña *Outlander* como maridaje cálido y paciente, apropiado para una historia atravesada por el tiempo, el paisaje escocés y la memoria.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-206"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch-the-older-the-better",
             "name_es": "Scotch añejo",
@@ -23742,14 +23742,14 @@ export const content: PublicCatalog = {
           "drink_id": "chocolatini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Chocolatini para Bridget Jones’s Diary",
-          "explanation_es": "Para Bridget Jones’s Diary, Chocolatini: una compañía elegida para la lectura.",
+          "explanation_es": "El Chocolatini pertenece a la familia de los cócteles-postre: vodka, licor de chocolate o crème de cacao y crema, a menudo decorados con cacao. No aparece en *Bridget Jones’s Diary*, pero su mezcla de indulgencia, exceso y apariencia elegante encaja con una protagonista que cuenta calorías mientras abre otra botella y toma decisiones sentimentales discutibles.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-207"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "chocolatini",
             "name_es": "Chocolatini",
@@ -23842,14 +23842,14 @@ export const content: PublicCatalog = {
           "drink_id": "provencal-rose",
           "relationship_type": "editorial_pairing",
           "headline_es": "Rosado provenzal para The Notebook",
-          "explanation_es": "Para The Notebook, Rosado provenzal: una compañía elegida para la lectura.",
+          "explanation_es": "Un rosado provenzal, pálido, seco y de fruta delicada, acompaña a *The Notebook* como maridaje romántico deliberadamente clásico. Se bebe frío y parece liviano, pero conserva acidez suficiente para no volverse almíbar; una copa para una historia sentimental que funciona mejor cuando evita la dulzura absoluta.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-208"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "provencal-rose",
             "name_es": "Rosado provenzal",
@@ -23938,14 +23938,14 @@ export const content: PublicCatalog = {
           "drink_id": "peach-tea-cocktail",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cóctel de té con durazno para Carolina Moon",
-          "explanation_es": "Para Carolina Moon, Cóctel de té con durazno: una compañía elegida para la lectura.",
+          "explanation_es": "El cóctel de té con durazno mezcla té frío, fruta o licor de durazno, cítrico y, según la versión, bourbon o vodka. Para *Carolina Moon*, aporta calor sureño, porches y perfume de verano, pero también una sombra de dulzor demasiado maduro: adecuado para una novela donde el regreso al hogar despierta recuerdos nada refrescantes.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-209"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "peach-tea-cocktail",
             "name_es": "Cóctel de té con durazno",
@@ -24038,14 +24038,14 @@ export const content: PublicCatalog = {
           "drink_id": "the-chicago",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Chicago para The Time Traveler’s Wife",
-          "explanation_es": "Para The Time Traveler’s Wife, The Chicago: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Time Traveler’s Wife\", The Chicago, un cóctel a base de brandy que incluye licor de naranja, amargos y, a menudo, champagne como remate. Puede servirse con hielo o “straight up” en una copa.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-210"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "the-chicago",
             "name_es": "The Chicago",
@@ -24138,14 +24138,14 @@ export const content: PublicCatalog = {
           "drink_id": "washington-syrah",
           "relationship_type": "editorial_pairing",
           "headline_es": "Syrah de Washington para Twilight",
-          "explanation_es": "Para Twilight, Syrah de Washington: una compañía elegida para la lectura.",
+          "explanation_es": "Un Syrah del estado de Washington suele reunir fruta negra madura, pimienta y una acidez más fresca que muchas versiones cálidas. Para *Twilight*, el maridaje aporta territorio del noroeste, lluvia y color oscuro; sofisticado y nocturno, pero afortunadamente elaborado con uvas y no con la sangre de los vecinos.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-211"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "washington-syrah",
             "name_es": "Syrah de Washington",
@@ -24234,14 +24234,14 @@ export const content: PublicCatalog = {
           "drink_id": "oregon-pinot-gris",
           "relationship_type": "editorial_pairing",
           "headline_es": "Pinot gris de Oregón para If I Stay",
-          "explanation_es": "Para If I Stay, Pinot gris de Oregón: una compañía elegida para la lectura.",
+          "explanation_es": "Un Pinot Gris de Oregón es un maridaje editorial para *If I Stay*, cuya historia también está profundamente ligada al paisaje del noroeste estadounidense. Suele ser seco, fresco y de fruta blanca, con más textura que dulzor; una copa contenida para una novela que enfrenta a Mia con una decisión enorme y dolorosa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-212"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "oregon-pinot-gris",
             "name_es": "Pinot gris de Oregón",
@@ -24330,14 +24330,14 @@ export const content: PublicCatalog = {
           "drink_id": "gin-and-ginger-ale",
           "relationship_type": "editorial_pairing",
           "headline_es": "Gin con ginger ale para Water for Elephants",
-          "explanation_es": "Para Water for Elephants, Gin con ginger ale: una compañía elegida para la lectura.",
+          "explanation_es": "Ginebra con ginger ale es un highball fácil, fresco y ligeramente picante. Como maridaje para *Water for Elephants*, su burbujeo y dulzor recuerdan una bebida de feria, pero la ginebra introduce un borde adulto; una mezcla atractiva para un circo cuya fachada brillante esconde explotación y peligro.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-213"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gin-and-ginger-ale",
             "name_es": "Gin con ginger ale",
@@ -24430,14 +24430,14 @@ export const content: PublicCatalog = {
           "drink_id": "merlot",
           "relationship_type": "editorial_pairing",
           "headline_es": "Merlot para Fifty Shades of Grey",
-          "explanation_es": "Para Fifty Shades of Grey, Merlot: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Fifty Shades of Grey\", Merlot. A temperatura ambiente. O un poco más caliente.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-214"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "merlot",
             "name_es": "Merlot",
@@ -24524,14 +24524,14 @@ export const content: PublicCatalog = {
           "drink_id": "champagne",
           "relationship_type": "editorial_pairing",
           "headline_es": "Champaña para The Fault in Our Stars",
-          "explanation_es": "Para The Fault in Our Stars, Champaña: una compañía elegida para la lectura.",
+          "explanation_es": "La champaña no aparece como una clave específica de *The Fault in Our Stars*, pero funciona como maridaje de celebración frágil. Sus burbujas, acidez y carácter efímero acompañan una historia que insiste en que la felicidad puede ser real aunque dure poco; conviene una copa pequeña, no porque el libro sea menor, sino porque ya contiene suficiente intensidad.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-215"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "champagne",
             "name_es": "Champaña",
@@ -24621,14 +24621,14 @@ export const content: PublicCatalog = {
           "drink_id": "aguardiente",
           "relationship_type": "editorial_pairing",
           "headline_es": "Aguardiente para One Hundred Years of Solitude",
-          "explanation_es": "Para One Hundred Years of Solitude, Aguardiente: una compañía elegida para la lectura.",
+          "explanation_es": "El aguardiente anisado es un maridaje colombiano para *Cien años de soledad*, no una receta extraída de la novela. Transparente, dulce y ardiente, suele beberse en pequeños vasos durante celebraciones colectivas; combina bien con Macondo porque puede acompañar por igual una fiesta, un duelo o una historia repetida hasta volverse leyenda.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-216"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "aguardiente",
             "name_es": "Aguardiente",
@@ -24716,14 +24716,14 @@ export const content: PublicCatalog = {
           "drink_id": "trappist-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza trapense para The Name of the Rose",
-          "explanation_es": "Para The Name of the Rose, Cerveza trapense: una compañía elegida para la lectura.",
+          "explanation_es": "Una cerveza trapense es elaborada dentro o bajo supervisión de una abadía trapense y suele ofrecer maltas profundas, fruta fermentada y alta graduación. Para *El nombre de la rosa*, el vínculo monástico es evidente, aunque Eco probablemente exigiría la precisión: no toda cerveza de abadía es trapense, y ninguna resuelve por sí sola el misterio de la biblioteca.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-217"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "trappist-beer",
             "name_es": "Cerveza trapense",
@@ -24813,14 +24813,14 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey para Blood Meridian",
-          "explanation_es": "Para Blood Meridian, Whiskey: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Blood Meridian\", Whiskey. Solo o con hielo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-218"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "whiskey",
             "name_es": "Whiskey",
@@ -24907,14 +24907,14 @@ export const content: PublicCatalog = {
           "drink_id": "sidra-de-manzana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sidra de manzana para The Cider House Rules",
-          "explanation_es": "Para The Cider House Rules, Sidra de manzana: una compañía elegida para la lectura.",
+          "explanation_es": "La sidra de manzana es el maridaje inevitable para *The Cider House Rules*. Puede ser dulce o seca, tranquila o espumosa, pero siempre conserva la fruta y el territorio del huerto; en la novela, esa aparente sencillez rural convive con decisiones morales mucho menos fáciles de fermentar.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-219"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sidra-de-manzana",
             "name_es": "Sidra de manzana",
@@ -25004,14 +25004,14 @@ export const content: PublicCatalog = {
           "drink_id": "the-liberator",
           "relationship_type": "editorial_pairing",
           "headline_es": "The Liberator para The Handmaid’s Tale",
-          "explanation_es": "Para The Handmaid’s Tale, The Liberator: una compañía elegida para la lectura.",
+          "explanation_es": "The Liberator funciona como nombre antes que como receta canónica: una mezcla de ron, lima, azúcar y tónica ofrece frescura con amargor persistente. Para *El cuento de la criada*, la ironía es deliberada: una bebida llamada “liberadora” frente a una sociedad que convierte incluso el cuerpo y el lenguaje en propiedad estatal.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-220"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "the-liberator",
             "name_es": "The Liberator",
@@ -25102,14 +25102,14 @@ export const content: PublicCatalog = {
           "drink_id": "sparkling-wine",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vino espumoso para Strong Motion",
-          "explanation_es": "Para Strong Motion, Vino espumoso: una compañía elegida para la lectura.",
+          "explanation_es": "El vino espumoso acompaña a *Strong Motion* por contraste y presión. Las burbujas están atrapadas en la botella hasta que el corcho cede; una imagen adecuada para una novela de fallas geológicas, fuerzas corporativas y relaciones que parecen estables sólo porque todavía no han estallado.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-221"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sparkling-wine",
             "name_es": "Vino espumoso",
@@ -25198,14 +25198,14 @@ export const content: PublicCatalog = {
           "drink_id": "vin-jaune",
           "relationship_type": "editorial_pairing",
           "headline_es": "Vin jaune para The Secret History",
-          "explanation_es": "Para The Secret History, Vin jaune: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Secret History\", Vin jaune, un tipo especial de vino blanco elaborado en la región de Jura, en el este de Francia. Es similar al fino seco de Jerez y obtiene su carácter al envejecerse en una bodega bajo una película de levadura, conocida como la voile, en la superficie del vino.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-222"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "vin-jaune",
             "name_es": "Vin jaune",
@@ -25295,14 +25295,14 @@ export const content: PublicCatalog = {
           "drink_id": "american-pinot-noir",
           "relationship_type": "editorial_pairing",
           "headline_es": "Pinot noir estadounidense para Infinite Jest",
-          "explanation_es": "Para Infinite Jest, Pinot noir estadounidense: una compañía elegida para la lectura.",
+          "explanation_es": "Para Infinite Jest, Pinot noir estadounidense. Bien norteamericano.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-223"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "american-pinot-noir",
             "name_es": "Pinot noir estadounidense",
@@ -25391,14 +25391,14 @@ export const content: PublicCatalog = {
           "drink_id": "lager-local-en-jarra",
           "relationship_type": "editorial_pairing",
           "headline_es": "Lager local en jarra para Fight Club",
-          "explanation_es": "Para Fight Club, Lager local en jarra: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Fight Club\", Lager local en jarra. A lo macho.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-224"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "lager-local-en-jarra",
             "name_es": "Lager local en jarra",
@@ -25487,14 +25487,14 @@ export const content: PublicCatalog = {
           "drink_id": "levantine-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza levantina para The Red Tent",
-          "explanation_es": "Para The Red Tent, Cerveza levantina: una compañía elegida para la lectura.",
+          "explanation_es": "Para The Red Tent, Cerveza levantina, variedad española preparada con avena y soja.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-225"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "levantine-beer",
             "name_es": "Cerveza levantina",
@@ -25583,14 +25583,14 @@ export const content: PublicCatalog = {
           "drink_id": "long-island-iced-tea",
           "relationship_type": "editorial_pairing",
           "headline_es": "Long Island Iced Tea para Underworld",
-          "explanation_es": "Para Underworld, Long Island Iced Tea: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"Underworld\", Long Island Iced Tea: vodka, gin, tequila, ron blanco, jugo de limón y dulce en un vaso con hielo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-226"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "long-island-iced-tea",
             "name_es": "Long Island Iced Tea",
@@ -25681,14 +25681,14 @@ export const content: PublicCatalog = {
           "drink_id": "tap-water",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agua de grifo para The Poisonwood Bible",
-          "explanation_es": "Para The Poisonwood Bible, Agua de grifo: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Poisonwood Bible\", Agua de grifo. Nada más para ti, pecador.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-227"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "tap-water",
             "name_es": "Agua de grifo",
@@ -25777,14 +25777,14 @@ export const content: PublicCatalog = {
           "drink_id": "bengali-tiger",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bengali Tiger para Life of Pi",
-          "explanation_es": "Para Life of Pi, Bengali Tiger: una compañía elegida para la lectura.",
+          "explanation_es": "El Bengali Tiger es un cóctel cítrico de ginebra, Campari, naranja, lima y granadina. No aparece en *Life of Pi*, pero el nombre conecta directamente con Richard Parker; el color anaranjado y el amargor recuerdan que el tigre puede ser hermoso, visible y absolutamente incapaz de convertirse en mascota.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-228"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "bengali-tiger",
             "name_es": "Bengali Tiger",
@@ -25875,14 +25875,14 @@ export const content: PublicCatalog = {
           "drink_id": "arabic-coffee",
           "relationship_type": "editorial_pairing",
           "headline_es": "Café árabe para The Kite Runner",
-          "explanation_es": "Para The Kite Runner, Café árabe: una compañía elegida para la lectura.",
+          "explanation_es": "El café árabe se prepara fuerte, sin filtrar y perfumado con cardamomo, servido en pequeñas tazas como gesto de hospitalidad. Como maridaje para *Cometas en el cielo*, importa tanto el ritual compartido como el sabor: una bebida que acompaña conversaciones familiares, memoria y pertenencia, incluso cuando la casa ya no existe.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-229"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "arabic-coffee",
             "name_es": "Café árabe",
@@ -25975,14 +25975,14 @@ export const content: PublicCatalog = {
           "drink_id": "masala-sour",
           "relationship_type": "editorial_pairing",
           "headline_es": "Masala Sour para The Namesake",
-          "explanation_es": "Para The Namesake, Masala Sour: una compañía elegida para la lectura.",
+          "explanation_es": "El Masala Sour adapta la estructura de un sour —destilado, limón, dulzor y, a veces, clara de huevo— con un jarabe de chai cargado de cardamomo, canela, jengibre y clavo. Como maridaje para *The Namesake*, no pretende representar toda la cocina bengalí: trabaja con la misma tensión entre una forma estadounidense reconocible y un repertorio de aromas heredados.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-230"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "masala-sour",
             "name_es": "Masala Sour",
@@ -26073,14 +26073,14 @@ export const content: PublicCatalog = {
           "drink_id": "baijiu",
           "relationship_type": "editorial_pairing",
           "headline_es": "Baijiu para Snow Flower and the Secret Fan",
-          "explanation_es": "Para Snow Flower and the Secret Fan, Baijiu: una compañía elegida para la lectura.",
+          "explanation_es": "El baijiu es un destilado chino de sorgo, potente y aromáticamente intenso, con estilos que pueden resultar frutales, fermentados o casi salinos. Como maridaje para *El abanico de seda*, aporta contexto cultural y ritual; se bebe en pequeños vasos durante brindis, donde la relación social importa tanto como el sabor.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-231"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "baijiu",
             "name_es": "Baijiu",
@@ -26173,14 +26173,14 @@ export const content: PublicCatalog = {
           "drink_id": "mamajuana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Mamajuana para The Brief Wondrous Life of Oscar Wao",
-          "explanation_es": "Para The Brief Wondrous Life of Oscar Wao, Mamajuana: una compañía elegida para la lectura.",
+          "explanation_es": "La mamajuana dominicana se prepara macerando ron, vino tinto y miel con cortezas, raíces y hierbas. Como maridaje para *La maravillosa vida breve de Óscar Wao*, aporta territorio, medicina popular y mito; es una botella donde historia, migración y superstición permanecen mezcladas, igual que en la familia de Óscar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-232"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "mamajuana",
             "name_es": "Mamajuana",
@@ -26273,14 +26273,14 @@ export const content: PublicCatalog = {
           "drink_id": "scotch",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whisky escocés para 1Q84",
-          "explanation_es": "Para 1Q84, Whisky escocés: una compañía elegida para la lectura.",
+          "explanation_es": "Un whisky escocés servido solo acompaña bien la arquitectura lenta y nocturna de *1Q84*. No se trata de una bebida extraída necesariamente de la novela, sino de un maridaje de atmósfera: malta, humo, madera y tiempo en una copa, para un libro donde dos lunas obligan a desconfiar incluso de lo cotidiano.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-233"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "scotch",
             "name_es": "Whisky escocés",
@@ -26376,14 +26376,14 @@ export const content: PublicCatalog = {
           "drink_id": "cafe",
           "relationship_type": "editorial_pairing",
           "headline_es": "Café para Johnny Tremain",
-          "explanation_es": "Para Johnny Tremain, Café: una compañía elegida para la lectura.",
+          "explanation_es": "El café es un acompañamiento sencillo para *Johnny Tremain*, novela de aprendizaje situada en el Boston revolucionario. Más que por una escena concreta, funciona por contraste histórico: mientras el té estaba cargado de significado político, una taza de café oscuro y caliente sugiere talleres, madrugadas y conspiraciones en una ciudad que empieza a cambiar.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-235"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cafe",
             "name_es": "Café",
@@ -26473,14 +26473,14 @@ export const content: PublicCatalog = {
           "drink_id": "cafe-de-achicoria",
           "relationship_type": "editorial_pairing",
           "headline_es": "Café de achicoria para A Tree Grows in Brooklyn",
-          "explanation_es": "Para A Tree Grows in Brooklyn, Café de achicoria: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"A Tree Grows in Brooklyn\", Café de achicoria, la alternativa sin cafeína.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-236"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cafe-de-achicoria",
             "name_es": "Café de achicoria",
@@ -26586,14 +26586,14 @@ export const content: PublicCatalog = {
           "drink_id": "agua-de-coco",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agua de coco para Lord of the Flies",
-          "explanation_es": "Para Lord of the Flies, Agua de coco: una compañía elegida para la lectura.",
+          "explanation_es": "El agua de coco es un maridaje sin alcohol para *El señor de las moscas*: dulce, mineral y encerrada dentro de un fruto que exige trabajo para abrirse. En una isla real sería recurso antes que capricho; la recomendación funciona mejor si recuerda esa materialidad y no convierte la supervivencia en decoración tropical.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-237"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "agua-de-coco",
             "name_es": "Agua de coco",
@@ -26683,14 +26683,14 @@ export const content: PublicCatalog = {
           "drink_id": "tea-zerac",
           "relationship_type": "editorial_pairing",
           "headline_es": "Tea-Zerac para A Wrinkle in Time",
-          "explanation_es": "Para A Wrinkle in Time, Tea-Zerac: una compañía elegida para la lectura.",
+          "explanation_es": "El Tea-Zerac mezcla la estructura del Sazerac con té dulce: whisky de centeno, bitters, azúcar o jarabe, té frío y un enjuague de absenta o Herbsaint. Como maridaje para *Una arruga en el tiempo*, toma una receta clásica y la pliega sobre otra bebida hasta volverla reconocible y extraña a la vez.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-238"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "tea-zerac",
             "name_es": "Tea-Zerac",
@@ -26784,14 +26784,14 @@ export const content: PublicCatalog = {
           "drink_id": "kombucha",
           "relationship_type": "editorial_pairing",
           "headline_es": "Kombucha para Go Ask Alice",
-          "explanation_es": "Para Go Ask Alice, Kombucha: una compañía elegida para la lectura.",
+          "explanation_es": "Para *Go Ask Alice*, la Kombucha ofrece un contraste sin alcohol: ácida, efervescente y sobria para una lectura que trata con crudeza la fragilidad adolescente.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-239"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "kombucha",
             "name_es": "Kombucha",
@@ -26884,14 +26884,14 @@ export const content: PublicCatalog = {
           "drink_id": "doogh",
           "relationship_type": "editorial_pairing",
           "headline_es": "Doogh para The Blue Sword",
-          "explanation_es": "Para The Blue Sword, Doogh: una compañía elegida para la lectura.",
+          "explanation_es": "El doogh es una bebida de yogur diluido con agua, sal y, a menudo, menta, servida muy fría. Como maridaje para *The Blue Sword*, aporta un perfil persa y centroasiático más pertinente que una cerveza fantástica genérica: ácido, refrescante y preparado para un clima donde el calor vuelve la hidratación parte de la aventura.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-literary-libations-240"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "doogh",
             "name_es": "Doogh",
@@ -26985,14 +26985,14 @@ export const content: PublicCatalog = {
           "drink_id": "cordial-de-frutilla",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cordial de frutilla para Redwall",
-          "explanation_es": "Para Redwall, Cordial de frutilla: una compañía elegida para la lectura.",
+          "explanation_es": "Para Redwall, Cordial de frutilla, un licor dulce que se elabora a partir de fresas y que se puede disfrutar solo, en postres o como ingrediente de otras bebidas.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-241"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cordial-de-frutilla",
             "name_es": "Cordial de frutilla",
@@ -27085,14 +27085,14 @@ export const content: PublicCatalog = {
           "drink_id": "jugo-de-naranja",
           "relationship_type": "editorial_pairing",
           "headline_es": "Jugo de naranja para The Giver",
-          "explanation_es": "Para The Giver, Jugo de naranja: una compañía elegida para la lectura.",
+          "explanation_es": "El jugo de naranja parece una elección demasiado común para *The Giver*, y justamente ahí está la idea. Su color, acidez y variación natural representan sensaciones que una sociedad obsesionada con la uniformidad intentaría reducir; una bebida cotidiana puede volverse extraordinaria cuando se recupera la capacidad de percibir diferencias.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-242"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "jugo-de-naranja",
             "name_es": "Jugo de naranja",
@@ -27186,14 +27186,14 @@ export const content: PublicCatalog = {
           "drink_id": "spritzer-de-granada",
           "relationship_type": "editorial_pairing",
           "headline_es": "Spritzer de granada para Parable of the Sower",
-          "explanation_es": "Para Parable of the Sower, Spritzer de granada: una compañía elegida para la lectura.",
+          "explanation_es": "Un spritzer de granada combina jugo de granada, soda y, en la versión adulta, vino blanco o un destilado. Para *Parable of the Sower*, la fruta aporta semillas, supervivencia y futuro, mientras el agua con gas introduce una ironía incómoda: refrescarse con abundancia líquida en un mundo donde el agua se ha vuelto poder.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-243"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "spritzer-de-granada",
             "name_es": "Spritzer de granada",
@@ -27286,14 +27286,14 @@ export const content: PublicCatalog = {
           "drink_id": "root-beer",
           "relationship_type": "editorial_pairing",
           "headline_es": "Root beer para Sabriel",
-          "explanation_es": "Para Sabriel, Root beer: una compañía elegida para la lectura.",
+          "explanation_es": "La root beer acompaña a *Sabriel* como alternativa juvenil y sin alcohol. Es una bebida gaseosa de raíces, cortezas y especias —hoy normalmente saborizada con vainilla, sasafrás artificial y gaulteria— cuyo perfil oscuro y medicinal parece una poción doméstica: suficientemente extraña para cruzar el Muro, pero no para despertar a los muertos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-244"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "root-beer",
             "name_es": "Root beer",
@@ -27382,14 +27382,14 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza-de-mantequilla",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cerveza de mantequilla para Harry Potter and the Sorcerer’s Stone",
-          "explanation_es": "Para Harry Potter and the Sorcerer’s Stone, Cerveza de mantequilla: una compañía elegida para la lectura.",
+          "explanation_es": "La cerveza de mantequilla sí pertenece al mundo de Harry Potter, aunque las versiones reales son recreaciones. Puede prepararse sin alcohol con soda de crema, caramelo, mantequilla y una espuma dulce; el resultado es más parecido a un postre líquido que a una cerveza, exactamente lo que uno espera pedir en Las Tres Escobas después de caminar bajo la nieve de Hogsmeade.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-245"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cerveza-de-mantequilla",
             "name_es": "Cerveza de mantequilla",
@@ -27495,14 +27495,14 @@ export const content: PublicCatalog = {
           "drink_id": "sploosh-bellini",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sploosh (Bellini) para Holes",
-          "explanation_es": "Para Holes, Sploosh (Bellini): una compañía elegida para la lectura.",
+          "explanation_es": "En *Holes*, Sploosh es en realidad durazno fermentado conservado durante décadas en frascos; llamarlo Bellini es una adaptación amable para la mesa. Puré de durazno y prosecco reproducen el perfil frutal y burbujeante sin exigir beber algo encontrado bajo tierra, aunque conservan la sensación de un tesoro inesperado en el desierto.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-246"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sploosh-bellini",
             "name_es": "Sploosh (Bellini)",
@@ -27595,14 +27595,14 @@ export const content: PublicCatalog = {
           "drink_id": "bebida-sin-alcohol-de-inicio",
           "relationship_type": "editorial_pairing",
           "headline_es": "Bebida sin alcohol de inicio para The Perks of Being a Wallflower",
-          "explanation_es": "Para The Perks of Being a Wallflower, Bebida sin alcohol de inicio: una compañía elegida para la lectura.",
+          "explanation_es": "Una bebida de iniciación sin alcohol para *The Perks of Being a Wallflower* puede mezclar ginger ale, granadina y limón: parece un cóctel de fiesta, pero no exige beber para pertenecer. La elección importa en una novela sobre adolescentes vulnerables, donde la sensación de inclusión no debería depender de perder control.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-247"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "bebida-sin-alcohol-de-inicio",
             "name_es": "Bebida sin alcohol de inicio",
@@ -27695,14 +27695,14 @@ export const content: PublicCatalog = {
           "drink_id": "batido-de-chocolate-y-palta",
           "relationship_type": "editorial_pairing",
           "headline_es": "Batido de chocolate y palta para Speak",
-          "explanation_es": "Para Speak, Batido de chocolate y palta: una compañía elegida para la lectura.",
+          "explanation_es": "El batido de chocolate y palta es cremoso, oscuro y más nutritivo de lo que su apariencia de postre sugiere. Como maridaje para *Speak*, evita el alcohol y ofrece una bebida que puede tomarse lentamente: la palta suaviza el cacao sin borrarlo, una imagen adecuada para una novela sobre encontrar palabras sin fingir que el trauma desaparece.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-248"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "batido-de-chocolate-y-palta",
             "name_es": "Batido de chocolate y palta",
@@ -27795,14 +27795,14 @@ export const content: PublicCatalog = {
           "drink_id": "gatorade-te-dulce-pellegrino-o-granizado",
           "relationship_type": "editorial_pairing",
           "headline_es": "Gatorade, té dulce, Pellegrino o granizado para The Sisterhood of the Traveling Pants",
-          "explanation_es": "Para The Sisterhood of the Traveling Pants, Gatorade, té dulce, Pellegrino o granizado: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Sisterhood of the Traveling Pants\" elige entre Gatorade, té dulce, Pellegrino o granizado. Eres menor de edad así que cero alcohol.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-249"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "gatorade-te-dulce-pellegrino-o-granizado",
             "name_es": "Gatorade, té dulce, Pellegrino o granizado",
@@ -27895,14 +27895,14 @@ export const content: PublicCatalog = {
           "drink_id": "moca-helado",
           "relationship_type": "editorial_pairing",
           "headline_es": "Moca helado para The Truth About Forever",
-          "explanation_es": "Para The Truth About Forever, Moca helado: una compañía elegida para la lectura.",
+          "explanation_es": "El moca helado mezcla café, chocolate, leche y hielo, con crema opcional. Para *The Truth About Forever*, ofrece una bebida juvenil que combina energía y consuelo: dulce, fría y suficientemente cafeinada para atravesar un verano de trabajo, duelo y relaciones que no siguen el plan.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-250"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "moca-helado",
             "name_es": "Moca helado",
@@ -27995,14 +27995,14 @@ export const content: PublicCatalog = {
           "drink_id": "daiquiri-de-arandanos",
           "relationship_type": "editorial_pairing",
           "headline_es": "Daiquiri de arándanos para The Hunger Games",
-          "explanation_es": "Para The Hunger Games, Daiquiri de arándanos: una compañía elegida para la lectura.",
+          "explanation_es": "El daiquiri de arándanos mezcla ron blanco, lima, azúcar y arándanos rojos o azules triturados. Como maridaje para *Los juegos del hambre*, su color evoca las bayas de la novela; ácido, frío y rojo oscuro, funciona mejor como comentario visual que como bebida “del Capitolio”.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-251"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "daiquiri-de-arandanos",
             "name_es": "Daiquiri de arándanos",
@@ -28096,14 +28096,14 @@ export const content: PublicCatalog = {
           "drink_id": "ponche-de-huevo",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ponche de huevo para A Visit from St. Nicholas",
-          "explanation_es": "Para A Visit from St. Nicholas, Ponche de huevo: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"A Visit from St. Nicholas\", Ponche de huevo. Espíritu navideño.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-252"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ponche-de-huevo",
             "name_es": "Ponche de huevo",
@@ -28197,14 +28197,14 @@ export const content: PublicCatalog = {
           "drink_id": "te-helado",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té helado para Alice’s Adventures in Wonderland",
-          "explanation_es": "Para Alice’s Adventures in Wonderland, Té helado: una compañía elegida para la lectura.",
+          "explanation_es": "El té helado es una inversión juguetona de la merienda de *Alicia en el país de las maravillas*: el mismo ritual británico, pero frío, largo y servido con hielo. Puede llevar limón y un poco de azúcar; lo importante es que la taza ya no obedece las reglas, algo que el Sombrerero probablemente aprobaría.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-253"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "te-helado",
             "name_es": "Té helado",
@@ -28298,14 +28298,14 @@ export const content: PublicCatalog = {
           "drink_id": "te-de-hibisco",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té de hibisco para The Secret Garden",
-          "explanation_es": "Para The Secret Garden, Té de hibisco: una compañía elegida para la lectura.",
+          "explanation_es": "El té de hibisco ofrece un maridaje sin alcohol para *The Secret Garden*. Su infusión roja, floral y ácida puede servirse caliente o con hielo; el color de pétalo y la transformación de una flor seca al contacto con el agua reflejan el jardín que revive y, con él, a los niños que aprenden a habitarlo.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-254"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "te-de-hibisco",
             "name_es": "Té de hibisco",
@@ -28399,14 +28399,14 @@ export const content: PublicCatalog = {
           "drink_id": "te-de-jazmin-y-gewurztraminer-alsaciano",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té de jazmín y gewürztraminer alsaciano para The Story of Ferdinand",
-          "explanation_es": "Para The Story of Ferdinand, Té de jazmín y gewürztraminer alsaciano: una compañía elegida para la lectura.",
+          "explanation_es": "El té de jazmín ofrece la versión sin alcohol para *The Story of Ferdinand*: floral, suave y perfumado sin agresividad. Para adultos, un Gewürztraminer alsaciano aporta rosa, lichi y especias; ambas bebidas huelen intensamente a flores, el lugar donde Ferdinand prefiere sentarse mientras los demás esperan que embista.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-255"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "te-de-jazmin-y-gewurztraminer-alsaciano",
             "name_es": "Té de jazmín y gewürztraminer alsaciano",
@@ -28500,14 +28500,14 @@ export const content: PublicCatalog = {
           "drink_id": "agua-con-gas",
           "relationship_type": "editorial_pairing",
           "headline_es": "Agua con gas para The Little Prince",
-          "explanation_es": "Para The Little Prince, Agua con gas: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Little Prince\", Agua con gas. No se necesita nada más.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-256"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "agua-con-gas",
             "name_es": "Agua con gas",
@@ -28597,14 +28597,14 @@ export const content: PublicCatalog = {
           "drink_id": "te-negro-ingles-con-crema-y-azucar",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té negro inglés con crema y azúcar para The Lion, the Witch and the Wardrobe",
-          "explanation_es": "Para The Lion, the Witch and the Wardrobe, Té negro inglés con crema y azúcar: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Lion, the Witch and the Wardrobe\", Té negro inglés con crema y azúcar. Of course.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-258"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "te-negro-ingles-con-crema-y-azucar",
             "name_es": "Té negro inglés con crema y azúcar",
@@ -28698,14 +28698,14 @@ export const content: PublicCatalog = {
           "drink_id": "sopa-de-letras",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sopa de letras para The Phantom Tollbooth",
-          "explanation_es": "Para The Phantom Tollbooth, Sopa de letras: una compañía elegida para la lectura.",
+          "explanation_es": "La sopa de letras no es una bebida, y esa anomalía es precisamente adecuada para *The Phantom Tollbooth*. Letras flotando en caldo convierten el lenguaje en alimento literal, como ocurre en Dictionopolis; más que un maridaje, es una broma comestible sobre una novela que obliga a mirar las palabras como objetos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-260"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sopa-de-letras",
             "name_es": "Sopa de letras",
@@ -28795,14 +28795,14 @@ export const content: PublicCatalog = {
           "drink_id": "coca-cola-y-whiskey-con-cola",
           "relationship_type": "editorial_pairing",
           "headline_es": "Coca-Cola y whiskey con cola para Where the Wild Things Are",
-          "explanation_es": "Para Where the Wild Things Are, Coca-Cola y whiskey con cola: una compañía elegida para la lectura.",
+          "explanation_es": "Para *Where the Wild Things Are*, Coca-Cola funciona como opción infantil y whiskey con cola como versión adulta. La segunda añade bourbon o whisky a la misma dulzura oscura: una transformación mínima, como la cena de Max que sigue caliente cuando regresa, pero suficiente para recordar que algunos monstruos leen después de acostar a sus hijos.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-261"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "coca-cola-y-whiskey-con-cola",
             "name_es": "Coca-Cola y whiskey con cola",
@@ -28896,14 +28896,14 @@ export const content: PublicCatalog = {
           "drink_id": "batido-de-chocolate",
           "relationship_type": "editorial_pairing",
           "headline_es": "Batido de chocolate para Charlie and the Chocolate Factory",
-          "explanation_es": "Para Charlie and the Chocolate Factory, Batido de chocolate: una compañía elegida para la lectura.",
+          "explanation_es": "Un batido de chocolate es el maridaje más obvio y menos arriesgado para *Charlie y la fábrica de chocolate*. Leche, helado y cacao producen una bebida espesa que parece salida del río de Willy Wonka; la única diferencia tranquilizadora es que esta versión no requiere rescatar a ningún niño de una tubería.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-262"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "batido-de-chocolate",
             "name_es": "Batido de chocolate",
@@ -28997,14 +28997,14 @@ export const content: PublicCatalog = {
           "drink_id": "sidra-de-manzana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Sidra de manzana para The Giving Tree",
-          "explanation_es": "Para The Giving Tree, Sidra de manzana: una compañía elegida para la lectura.",
+          "explanation_es": "La sidra de manzana acompaña a *El árbol generoso* sin necesidad de alcohol. Fruta prensada, especias y calor convierten parte del árbol en una bebida compartida; el maridaje es deliberadamente sencillo, aunque también obliga a pensar cuánto se puede tomar de algo antes de que ya no quede árbol.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-263"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "sidra-de-manzana",
             "name_es": "Sidra de manzana",
@@ -29095,14 +29095,14 @@ export const content: PublicCatalog = {
           "drink_id": "cordial-de-frutas",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cordial de frutas para The Very Hungry Caterpillar",
-          "explanation_es": "Para The Very Hungry Caterpillar, Cordial de frutas: una compañía elegida para la lectura.",
+          "explanation_es": "Este cordial de frutas no aparece en *The Very Hungry Caterpillar*: es un maridaje sin alcohol inspirado en el menú desmesurado de la pequeña oruga. Preparado como un jarabe concentrado de frutas diluido con agua o soda, convierte en bebida la sucesión de manzanas, peras, ciruelas y frutillas del cuento, antes de que todo termine en crisálida y mariposa.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-264"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "cordial-de-frutas",
             "name_es": "Cordial de frutas",
@@ -29213,14 +29213,14 @@ export const content: PublicCatalog = {
           "drink_id": "te-rooibos",
           "relationship_type": "editorial_pairing",
           "headline_es": "Té rooibos para The Lorax",
-          "explanation_es": "Para The Lorax, Té rooibos: una compañía elegida para la lectura.",
+          "explanation_es": "Para \"The Lorax\", Té rooibos, el \"té rojo\" sudafricano. Libre de cafeína.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-265"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "te-rooibos",
             "name_es": "Té rooibos",
@@ -29313,14 +29313,14 @@ export const content: PublicCatalog = {
           "drink_id": "leche-o-leche-vegetal",
           "relationship_type": "editorial_pairing",
           "headline_es": "Leche o leche vegetal para If You Give a Mouse a Cookie",
-          "explanation_es": "Para If You Give a Mouse a Cookie, Leche o bebida vegetal (elige una): una compañía elegida para la lectura.",
+          "explanation_es": "Para *If You Give a Mouse a Cookie*, leche o bebida vegetal es la elección obvia porque el propio cuento construye una cadena interminable a partir de ese vaso. No hace falta sofisticarlo: cuanto más inocente sea la bebida, mejor funciona el mecanismo cómico por el cual una petición mínima termina reorganizando toda la casa.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-266"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "leche-o-leche-vegetal",
             "name_es": "Leche o bebida vegetal (elige una)",
@@ -29409,14 +29409,14 @@ export const content: PublicCatalog = {
           "drink_id": "ginger-beer-y-julep-de-jengibre-con-bourbon",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ginger beer y julep de jengibre con bourbon para The Golden Compass",
-          "explanation_es": "Para The Golden Compass, Ginger beer y julep de jengibre con bourbon: una compañía elegida para la lectura.",
+          "explanation_es": "Para *La brújula dorada*, la ginger beer ofrece una versión juvenil, picante y sin alcohol; el julep de jengibre con bourbon añade menta, azúcar, hielo y whisky para adultos. Ambas bebidas comparten el golpe cálido del jengibre, apropiado para una historia de nieve, osos acorazados y niños que necesitan más coraje que dulzor.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-267"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "ginger-beer-y-julep-de-jengibre-con-bourbon",
             "name_es": "Ginger beer y julep de jengibre con bourbon",
@@ -29509,14 +29509,14 @@ export const content: PublicCatalog = {
           "drink_id": "limonada-y-limonada-con-vodka",
           "relationship_type": "editorial_pairing",
           "headline_es": "Limonada y limonada con vodka para The Bad Beginning",
-          "explanation_es": "Para The Bad Beginning, Limonada y limonada con vodka: una compañía elegida para la lectura.",
+          "explanation_es": "La limonada acompaña a *The Bad Beginning* por el apellido de Lemony Snicket y por su acidez deliberada. Para adultos, añadir vodka convierte la misma base de limón, agua y azúcar en una bebida engañosamente amable; dos versiones para una historia infantil que nunca oculta que sus desgracias están escritas también para lectores mayores.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-268"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "limonada-y-limonada-con-vodka",
             "name_es": "Limonada y limonada con vodka",
@@ -29609,14 +29609,14 @@ export const content: PublicCatalog = {
           "drink_id": "fanta-naranja",
           "relationship_type": "editorial_pairing",
           "headline_es": "Fanta naranja para The Book Thief",
-          "explanation_es": "Para The Book Thief, Fanta naranja: una compañía elegida para la lectura.",
+          "explanation_es": "La Fanta de naranja sirve como maridaje histórico para *La ladrona de libros*: la bebida nació en Alemania durante la Segunda Guerra Mundial, cuando la filial local de Coca-Cola improvisó con ingredientes disponibles. Su color alegre y su origen bajo escasez resumen una de las tensiones del libro: infancia y supervivencia dentro de una maquinaria política monstruosa.",
           "confidence": "low",
           "evidence_ids": [
             "evidencia-literary-libations-269"
           ],
           "editorial_status": "published",
-          "reviewed_by": "terra-literary-libations",
-          "reviewed_at": "2026-07-28",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
           "drink": {
             "id": "fanta-naranja",
             "name_es": "Fanta naranja",
