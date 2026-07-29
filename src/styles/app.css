@@ -29,6 +29,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 }
 
 main { min-height: 100svh; overflow: hidden; background: #151713; }
+.initial-home .hero { min-height: 100svh; }
 .site-nav {
   position: absolute;
   z-index: 10;

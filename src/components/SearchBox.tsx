@@ -65,7 +65,7 @@ export function SearchBox({ targets, onSelect, onRandom }: Props) {
   }
 
   return (
-    <section className="search-panel" aria-label="Buscar un autor o un libro">
+    <section className="search-panel" aria-label="Buscar un autor o una autora">
       <form className="search-form" role="search" onSubmit={onSubmit}>
         <label className="sr-only" htmlFor={inputId}>¿A quién lees?</label>
         <div className="search-field">
@@ -75,7 +75,7 @@ export function SearchBox({ targets, onSelect, onRandom }: Props) {
             onChange={onChange}
             onFocus={() => query && setShowResults(true)}
             onKeyDown={onKeyDown}
-            placeholder="Autor, autora o libro…"
+            placeholder="Ej.: Jhumpa Lahiri"
             autoComplete="off"
             aria-autocomplete="list"
             aria-controls="author-results"
@@ -87,7 +87,7 @@ export function SearchBox({ targets, onSelect, onRandom }: Props) {
           </button>
         </div>
         <p className="search-status sr-only" aria-live="polite">
-          {query ? `${matches.length} ${matches.length === 1 ? 'autor encontrado' : 'autores encontrados'}` : 'Escribe un autor, una autora o un libro.'}
+          {query ? `${matches.length} ${matches.length === 1 ? 'autor encontrado' : 'autores encontrados'}` : 'Escribe el nombre de un autor o una autora.'}
         </p>
         {query && showResults && (
           <ul id="author-results" className="search-results" role="listbox">

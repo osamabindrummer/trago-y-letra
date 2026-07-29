@@ -55,9 +55,6 @@ export function AuthorSheet({ author, onClose }: Props) {
           <h2 id="drink-name">{drink.name_es}</h2>
           <div className="recommendation-tags">
             <p className={`relationship ${recommendation.relationship_type}`}>{labels[recommendation.relationship_type]}</p>
-            <span className={`confidence-badge confidence-${recommendation.confidence}`}>
-              Confianza {recommendation.confidence === 'high' ? 'alta' : recommendation.confidence === 'medium' ? 'media' : 'baja'}
-            </span>
           </div>
           <p className="card-copy">{recommendation.explanation_es}</p>
           <div className="source-links">

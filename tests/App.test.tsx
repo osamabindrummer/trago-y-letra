@@ -15,6 +15,22 @@ describe('flujo principal', () => {
     expect(screen.queryByText('Alternativa sin alcohol')).not.toBeInTheDocument()
   })
 
+  it('muestra la imagen de portada a pantalla completa y reserva los pies para después de una interacción', () => {
+    const { container } = render(<App />)
+    const app = within(container)
+
+    expect(container.querySelector('main')).toHaveClass('initial-home')
+    expect(app.queryByText('El vínculo y su fuente, sin preámbulo.')).not.toBeInTheDocument()
+    expect(app.queryByRole('link', { name: 'Daniel Salas' })).not.toBeInTheDocument()
+    expect(app.getByRole('textbox', { name: '¿A quién lees?' })).toHaveAttribute('placeholder', 'Ej.: Jhumpa Lahiri')
+
+    fireEvent.change(app.getByRole('textbox', { name: '¿A quién lees?' }), { target: { value: 'Onetti' } })
+    fireEvent.click(app.getByRole('option', { name: /Juan Carlos Onetti/i }))
+    expect(container.querySelector('main')).not.toHaveClass('initial-home')
+    expect(app.getByText('El vínculo y su fuente, sin preámbulo.')).toBeInTheDocument()
+    expect(app.getByRole('link', { name: 'Daniel Salas' })).toBeInTheDocument()
+  })
+
   it('abre a Edgar Allan Poe desde el acceso rápido Poe', () => {
     const { container } = render(<App />)
     const app = within(container)
@@ -39,7 +55,7 @@ describe('flujo principal', () => {
     fireEvent.click(app.getByRole('option', { name: /Eudora Welty/i }))
     expect(app.getByRole('heading', { name: 'Eudora Welty' })).toBeInTheDocument()
     expect(app.getByRole('heading', { name: 'Mint Julep' })).toBeInTheDocument()
-    expect(app.getByText('Confianza media')).toBeInTheDocument()
+    expect(app.queryByText('Confianza media')).not.toBeInTheDocument()
   })
 
   it('abre la ficha canónica de un autor con hallazgos provisionales relacionados', () => {
@@ -48,7 +64,7 @@ describe('flujo principal', () => {
     fireEvent.change(app.getByRole('textbox', { name: '¿A quién lees?' }), { target: { value: 'Whiskey Cock-Tail' } })
     fireEvent.click(app.getByRole('option', { name: /Mark Twain/i }))
     expect(app.getByRole('heading', { name: 'Mark Twain' })).toBeInTheDocument()
-    expect(app.getByText('Confianza media')).toBeInTheDocument()
+    expect(app.queryByText('Confianza media')).not.toBeInTheDocument()
     expect(app.getByText(/Literary Eats · PDF p\. 184/)).toBeInTheDocument()
     expect(app.getByText(/PDF p\. 184/)).toBeInTheDocument()
   })
@@ -87,21 +103,21 @@ describe('flujo principal', () => {
     const app = within(container)
     const credit = () => app.getByRole('link', { name: 'Daniel Salas' })
 
-    expect(credit()).toHaveAttribute('href', 'https://bio.link/danielsalasj')
     fireEvent.click(app.getByRole('button', { name: 'Cómo funciona' }))
-    expect(credit()).toBeInTheDocument()
+    expect(credit()).toHaveAttribute('href', 'https://bio.link/danielsalasj')
     fireEvent.click(app.getByRole('button', { name: 'Índice' }))
     expect(credit()).toBeInTheDocument()
   })
 })
 
 describe('contrato expansivo de fichas', () => {
-  it('muestra explícitamente la confianza baja en una recomendación canónica', () => {
+  it('conserva la confianza en los datos sin mostrarla en la tarjeta canónica', () => {
     const author = structuredClone(content.authors[0])
     author.recommendations = [author.recommendations[0]]
     author.recommendations[0].confidence = 'low'
     const { container } = render(<AuthorSheet author={author} onClose={() => undefined} />)
-    expect(within(container).getByText('Confianza baja')).toBeInTheDocument()
+    expect(author.recommendations[0].confidence).toBe('low')
+    expect(within(container).queryByText('Confianza baja')).not.toBeInTheDocument()
   })
 
   it('renderiza una bebida de servicio directo sin inventar ingredientes', () => {

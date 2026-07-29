@@ -11,6 +11,8 @@
     "validate:research": "tsx scripts/validate-research.ts",
     "export:recommendations": "node --import tsx scripts/export-recommendations-for-review.ts",
     "import:reviewed-recommendations": "node --import tsx scripts/import-reviewed-recommendations.ts",
+    "export:recipes": "node --import tsx scripts/export-recipes-for-review.ts",
+    "import:reviewed-recipes": "node --import tsx scripts/import-reviewed-recipes.ts",
     "finalize:three-books": "tsx scripts/finalize-three-book-convergence.ts",
     "build:content": "tsx scripts/build-content.ts",
     "test": "vitest run",

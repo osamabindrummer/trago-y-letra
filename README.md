@@ -31,6 +31,7 @@ npm run validate:content
 npm run validate:library
 npm run validate:research
 npm run export:recommendations
+npm run export:recipes
 npx tsx scripts/enrich-author-profiles.ts --ids agatha-christie,aldous-huxley,alexandre-dumas,alice-sebold,anita-diamant
 npx tsx scripts/run-pending-author-profile-enrichment.ts
 npm run build:content
@@ -45,6 +46,10 @@ npm run build
 `npm run export:recommendations` genera `exports/recomendaciones-para-revision.md` con todas las recomendaciones publicadas, los identificadores necesarios para reimportarlas y el contexto de evidencia en modo consulta. La persona revisora sólo debe editar decisión, título y texto visible, y conservar los delimitadores técnicos de cada ficha.
 
 `npm run import:reviewed-recommendations` muestra qué textos cambiaron sin alterar datos. Añade `-- --apply` sólo después de revisar esa salida para incorporar los cambios de `Texto visible` en el catálogo; el importador rechaza títulos, decisiones o delimitadores modificados.
+
+`npm run export:recipes` genera `exports/recetas-para-revision.md` con una ficha por cada bebida publicada. La ficha muestra, sólo como contexto, las asociaciones literarias que usan esa bebida; los campos editables permiten corregir ingredientes, cantidades, preparación, vaso, decoración, categoría, nota y tipo de receta. No se deben modificar los comentarios técnicos ni los títulos de campo.
+
+`npm run import:reviewed-recipes` revisa el Markdown devuelto sin escribir cambios y detalla las recetas modificadas. Tras revisar esa salida, `npm run import:reviewed-recipes -- --apply` actualiza únicamente los datos de receta en `data/source/catalog.json`; valida el catálogo completo antes de escribirlo.
 
 `npm run start` sirve ese mismo artefacto en producción local. La interfaz vive en `src/` y el catálogo canónico continúa en `data/source/catalog.json`.
 

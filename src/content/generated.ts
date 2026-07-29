@@ -1197,23 +1197,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "tequila blanco",
+                "amount": 50,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "licor de naranja",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de agave",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Humedece media circunferencia de la copa con lima y pásala por sal.",
+              "Agita los ingredientes con hielo.",
+              "Cuela en la copa o sirve sobre hielo fresco."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa Margarita o vaso bajo",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Media escarcha de sal y gajo de lima"
           },
           "evidence": [
             {
@@ -1579,23 +1591,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "vermut seco",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut dulce",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja fresco",
+                "amount": 30,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -1648,17 +1671,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "espumante brut",
+                "amount": 90,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita la ginebra, el limón y el jarabe con hielo.",
+              "Cuela en una copa fría.",
+              "Completa lentamente con el espumante."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa flauta",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -2104,23 +2145,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "bourbon o rye whiskey",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jarabe demerara",
+                "amount": 7.5,
                 "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "amargo de naranja",
+                "amount": 1,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve todos los ingredientes con hielo.",
+              "Cuela sobre un cubo grande de hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -2358,23 +2410,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ginebra",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "vermut seco",
+                "amount": 22.5,
                 "unit": "ml"
+              },
+              {
+                "name": "vermut dulce",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de naranja",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve todos los ingredientes con hielo hasta enfriar.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -2583,21 +2646,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "espumante brut",
-                "amount": 90,
+                "name": "cubo de azúcar",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 3,
+                "unit": "dash"
+              },
+              {
+                "name": "cognac",
+                "amount": 10,
                 "unit": "ml"
               },
               {
-                "name": "brandy",
-                "amount": 30,
+                "name": "espumante brut",
+                "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Sirve el brandy y completa con el espumante bien frío."
+              "Coloca el cubo de azúcar en una copa y empápalo con el amargo.",
+              "Añade el cognac.",
+              "Completa lentamente con el espumante bien frío."
             ],
             "glassware": "Copa flauta",
-            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra.",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -2707,21 +2783,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "espumante brut",
-                "amount": 90,
+                "name": "cubo de azúcar",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 3,
+                "unit": "dash"
+              },
+              {
+                "name": "cognac",
+                "amount": 10,
                 "unit": "ml"
               },
               {
-                "name": "brandy",
-                "amount": 30,
+                "name": "espumante brut",
+                "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Sirve el brandy y completa con el espumante bien frío."
+              "Coloca el cubo de azúcar en una copa y empápalo con el amargo.",
+              "Añade el cognac.",
+              "Completa lentamente con el espumante bien frío."
             ],
             "glassware": "Copa flauta",
-            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra.",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -3838,14 +3927,30 @@ export const content: PublicCatalog = {
                 "name": "salsa Worcestershire",
                 "amount": 3,
                 "unit": "ml"
+              },
+              {
+                "name": "salsa picante",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "sal de apio",
+                "amount": 1,
+                "unit": "pizca"
+              },
+              {
+                "name": "pimienta negra",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Mezcla suavemente los ingredientes con hielo.",
-              "Sirve y ajusta sal, pimienta o picante al gusto."
+              "Añade todos los ingredientes a un vaso mezclador con hielo.",
+              "Haz rodar la mezcla suavemente entre dos vasos o remueve sin agitar en exceso.",
+              "Sirve sobre hielo fresco y ajusta sal o picante al gusto."
             ],
             "glassware": "Vaso alto",
-            "garnish": "Apio o limón",
+            "garnish": "Tallo de apio y gajo de limón",
             "recipe_note": "Receta de la casa; no pretende reproducir la fórmula histórica atribuida a Hemingway.",
             "recipe_status": "house"
           },
@@ -3897,23 +4002,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "absenta",
+                "amount": 30,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "agua muy fría",
                 "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple, opcional",
+                "amount": 5,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena una coctelera con hielo y añade la absenta y el agua fría.",
+              "Agita brevemente para enfriar y diluir.",
+              "Cuela en una copa pequeña fría; añade el jarabe sólo si prefieres suavizar el amargor."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa pequeña o vaso bajo",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -3966,23 +4078,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ron blanco",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jugo de lima",
+                "amount": 30,
                 "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "hielo triturado",
+                "amount": 150,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Licúa todos los ingredientes hasta obtener una textura de granizado uniforme.",
+              "Sirve de inmediato."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa hurricane o copa grande",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de lima"
           },
           "evidence": [
             {
@@ -4035,23 +4158,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "agua de coco",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade la ginebra y la lima.",
+              "Completa con agua de coco y remueve suavemente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima"
           },
           "evidence": [
             {
@@ -4347,16 +4477,28 @@ export const content: PublicCatalog = {
                 "unit": "ml"
               },
               {
-                "name": "huevo pasteurizado",
-                "amount": 45,
+                "name": "crema de leche",
+                "amount": 30,
                 "unit": "ml"
+              },
+              {
+                "name": "yema de huevo pasteurizada",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "azúcar",
+                "amount": 20,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Agita los ingredientes con hielo y sirve bien frío."
+              "Agita primero todos los ingredientes sin hielo para disolver el azúcar y emulsionar la yema.",
+              "Añade hielo y vuelve a agitar con fuerza.",
+              "Cuela en una taza o vaso frío."
             ],
-            "glassware": "Taza",
-            "garnish": "Nuez moscada",
+            "glassware": "Taza o vaso bajo",
+            "garnish": "Nuez moscada recién rallada",
             "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
           },
           "evidence": [
@@ -4462,16 +4604,28 @@ export const content: PublicCatalog = {
                 "unit": "ml"
               },
               {
-                "name": "huevo pasteurizado",
-                "amount": 45,
+                "name": "crema de leche",
+                "amount": 30,
                 "unit": "ml"
+              },
+              {
+                "name": "yema de huevo pasteurizada",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "azúcar",
+                "amount": 20,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Agita los ingredientes con hielo y sirve bien frío."
+              "Agita primero todos los ingredientes sin hielo para disolver el azúcar y emulsionar la yema.",
+              "Añade hielo y vuelve a agitar con fuerza.",
+              "Cuela en una taza o vaso frío."
             ],
-            "glassware": "Taza",
-            "garnish": "Nuez moscada",
+            "glassware": "Taza o vaso bajo",
+            "garnish": "Nuez moscada recién rallada",
             "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
           },
           "evidence": [
@@ -8116,23 +8270,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ron oscuro",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "agua caliente",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Disuelve la miel en el agua caliente.",
+              "Añade el ron y el limón.",
+              "Remueve y sirve."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón y rama de canela"
           },
           "evidence": [
             {
@@ -8185,23 +8351,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ron oscuro",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jugo de limón",
+                "amount": 20,
                 "unit": "ml"
+              },
+              {
+                "name": "azúcar morena",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "agua caliente",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "clavos de olor",
+                "amount": 2,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Disuelve el azúcar en el agua caliente.",
+              "Añade el ron, el limón y los clavos.",
+              "Remueve y deja reposar dos minutos antes de servir."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -8869,17 +9052,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
+                "name": "ginebra London dry",
+                "amount": 75,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de naranja",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Remueve todos los ingredientes con abundante hielo hasta que estén muy fríos.",
+              "Cuela en una copa helada."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Crear una receta contemporánea de la casa inspirada en un martini seco; no atribuir sus proporciones a DeVoto.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -9221,17 +9416,36 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "naranja en trozos con parte de la piel",
+                "amount": 100,
+                "unit": "g"
+              },
+              {
+                "name": "azúcar",
+                "amount": 60,
+                "unit": "g"
+              },
+              {
+                "name": "vinagre de manzana",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas para servir",
+                "amount": 150,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Mezcla la naranja con el azúcar y deja reposar tapada durante 12 horas.",
+              "Añade el vinagre, remueve y deja reposar otras 12 horas.",
+              "Cuela el concentrado.",
+              "Sirve 30 ml de shrub con hielo y completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Crear una receta contemporánea de la casa basada en naranja y ron, claramente separada de la fórmula histórica.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja"
           },
           "evidence": [
             {
@@ -9320,17 +9534,44 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ron blanco",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut dulce",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "brandy de albaricoque",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "granadina",
+                "amount": 5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Crear una receta contemporánea de la casa y no copiar las proporciones ni el texto del libro de bebidas citado.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Cereza y piel de lima"
           },
           "evidence": [
             {
@@ -9421,17 +9662,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "brandy de manzana o bourbon",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "sidra de manzana sin gas",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Calienta la sidra sin dejar que hierva.",
+              "Disuelve la miel y añade el brandy de manzana y el limón.",
+              "Sirve caliente y remueve una vez."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Crear una receta contemporánea de la casa simplificada; no presentar la fórmula colonial extensa como preparación atribuida a Jefferson.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de manzana y rama de canela"
           },
           "evidence": [
             {
@@ -9579,17 +9838,19 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vino de ruibarbo embotellado",
+                "amount": 150,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Enfría entre 8 y 10 °C.",
+              "Sirve sin hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de vino blanco",
             "recipe_note": "Crear una receta contemporánea de la casa y diferenciarla de la elaboración descrita en el poema.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Lámina fina de frutilla, opcional"
           },
           "evidence": [
             {
@@ -9847,23 +10108,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jugo de limón",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita la ginebra, el limón y el jarabe con hielo.",
+              "Cuela en un vaso alto.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -9955,17 +10228,45 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
+                "name": "ron oscuro",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "mantequilla sin sal",
+                "amount": 10,
+                "unit": "g"
+              },
+              {
+                "name": "azúcar morena",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "agua caliente",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "canela",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "pizca"
+              },
+              {
+                "name": "nuez moscada",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Mezcla la mantequilla, el azúcar y las especias en una taza.",
+              "Añade el ron y el agua caliente.",
+              "Remueve hasta que la mantequilla se derrita y la bebida quede homogénea."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Crear una receta original de la casa para ron caliente con mantequilla; no copiar las proporciones ni instrucciones del libro.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rama de canela"
           },
           "evidence": [
             {
@@ -10160,17 +10461,41 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "jengibre fresco en láminas",
+                "amount": 40,
+                "unit": "g"
+              },
+              {
+                "name": "azúcar",
+                "amount": 100,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas para servir",
+                "amount": 150,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Hierve suavemente el jengibre, el azúcar y el agua durante 10 minutos.",
+              "Retira del fuego, añade el limón y deja reposar otros 10 minutos.",
+              "Cuela y enfría.",
+              "Sirve 30 ml del cordial con hielo y completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Crear una receta de la casa inspirada en cordial de jengibre; no reproducir el proceso histórico de fermentación.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Lámina de jengibre y piel de limón"
           },
           "evidence": [
             {
@@ -10261,17 +10586,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vino Catawba o rosado semidulce",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "clarete o vino tinto ligero",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "espumante brut",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "brandy",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Enfría todos los ingredientes.",
+              "Mezcla los vinos, el brandy y el jarabe en una copa con hielo.",
+              "Completa con el espumante y remueve suavemente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de ponche o copa grande",
             "recipe_note": "Crear una receta original de la casa para Ponche gótico; no copiar la fórmula de The Bar-Tender’s Guide.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Frutos rojos y piel de limón"
           },
           "evidence": [
             {
@@ -10363,15 +10711,32 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "café molido",
+                "amount": 12,
+                "unit": "g"
+              },
+              {
+                "name": "achicoria tostada molida",
+                "amount": 3,
+                "unit": "g"
+              },
+              {
+                "name": "agua caliente",
+                "amount": 180,
+                "unit": "ml"
+              },
+              {
+                "name": "leche caliente",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Mezcla el café y la achicoria en un filtro y prepara una infusión con el agua caliente.",
+              "Añade la leche caliente.",
+              "Sirve de inmediato."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza",
             "recipe_note": "Crear una receta de café original de la casa y dejar claro que no reconstruye la receta satírica de Twain.",
             "recipe_status": "house"
           },
@@ -10424,17 +10789,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "whisky",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 3,
+                "unit": "dash"
+              },
+              {
+                "name": "agua fría, opcional",
+                "amount": 5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Remueve el whisky y el amargo con hielo.",
+              "Añade el agua si deseas una dilución ligeramente mayor.",
+              "Cuela sobre un cubo grande de hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso bajo",
             "recipe_note": "Crear una receta de la casa de whisky y bitters sin atribuir proporciones históricas a la carta.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -10484,21 +10862,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "espumante brut",
-                "amount": 90,
+                "name": "cubo de azúcar",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 3,
+                "unit": "dash"
+              },
+              {
+                "name": "cognac",
+                "amount": 10,
                 "unit": "ml"
               },
               {
-                "name": "brandy",
-                "amount": 30,
+                "name": "espumante brut",
+                "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Sirve el brandy y completa con el espumante bien frío."
+              "Coloca el cubo de azúcar en una copa y empápalo con el amargo.",
+              "Añade el cognac.",
+              "Completa lentamente con el espumante bien frío."
             ],
             "glassware": "Copa flauta",
-            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra.",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -10549,23 +10940,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "amontillado u oloroso",
+                "amount": 90,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jarabe simple",
+                "amount": 15,
                 "unit": "ml"
+              },
+              {
+                "name": "medias rodajas de naranja",
+                "amount": 2,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita el jerez, el jarabe y una rodaja de naranja con hielo.",
+              "Cuela sobre abundante hielo picado.",
+              "Corona con más hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso Cobbler o vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja, frutos rojos y menta"
           },
           "evidence": [
             {
@@ -10616,23 +11014,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "brandy",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jarabe simple",
+                "amount": 15,
                 "unit": "ml"
+              },
+              {
+                "name": "hojas de menta",
+                "amount": 8,
+                "unit": "unidad"
+              },
+              {
+                "name": "gajos de limón",
+                "amount": 2,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Presiona suavemente la menta y el limón con el jarabe en una coctelera.",
+              "Añade el brandy y hielo; agita.",
+              "Cuela sobre hielo picado."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Ramillete de menta y gajo de limón"
           },
           "evidence": [
             {
@@ -10683,23 +11093,44 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ron blanco",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "curaçao de naranja",
+                "amount": 5,
                 "unit": "ml"
+              },
+              {
+                "name": "crème de noyaux o amaretto",
+                "amount": 5,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 5,
+                "unit": "ml"
+              },
+              {
+                "name": "absenta",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "yema de huevo pasteurizada",
+                "amount": 1,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con abundante hielo hasta emulsionar.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -10750,23 +11181,24 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "cognac",
+                "amount": 30,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "absenta",
+                "amount": 30,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita ambos ingredientes con hielo.",
+              "Cuela en una copa pequeña fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel pequeña",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -10818,23 +11250,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "rye whiskey o bourbon",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jarabe simple",
+                "amount": 7.5,
                 "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "amargo de naranja",
+                "amount": 1,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve todos los ingredientes con hielo.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -10885,17 +11328,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "whiskey",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita el whiskey, el limón y el jarabe con hielo.",
+              "Cuela en un vaso alto.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -10987,17 +11448,50 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "bourbon",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "ron oscuro",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "té negro frío",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Agita todos los ingredientes salvo el agua con gas con hielo.",
+              "Cuela en una copa de ponche con hielo fresco.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de ponche o vaso grande",
             "recipe_note": "Crear una receta original de la casa para ponche; no reproducir cantidades ni combinación del libro.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja"
           },
           "evidence": [
             {
@@ -11088,15 +11582,17 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "cerveza ligera o cerveza de bajo grado alcohólico",
+                "amount": 330,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Enfría la cerveza entre 6 y 8 °C.",
+              "Sirve dejando una pequeña corona de espuma.",
+              "Bebe sin hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso de cerveza",
             "recipe_note": "Crear como bebida de servicio directo; no reconstruir ni presentar como receta actual la fórmula histórica del cuaderno.",
             "recipe_status": "house"
           },
@@ -11188,17 +11684,37 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la casa",
-                "amount": 1,
-                "unit": "porción"
+                "name": "leche",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "yemas de huevo",
+                "amount": 2,
+                "unit": "unidad"
+              },
+              {
+                "name": "azúcar",
+                "amount": 30,
+                "unit": "g"
+              },
+              {
+                "name": "extracto de vainilla",
+                "amount": 5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+              "Calienta la leche con la vainilla sin hervir.",
+              "Bate las yemas con el azúcar.",
+              "Templa las yemas con un poco de leche caliente y devuelve todo a la olla.",
+              "Cocina a fuego bajo, removiendo, hasta que cubra el dorso de una cuchara.",
+              "Sirve tibia o fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza o vaso pequeño",
             "recipe_note": "Crear una receta original de natilla líquida sin alcohol, sin copiar la preparación atribuida a la abuela de Mason.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada"
           },
           "evidence": [
             {
@@ -11263,23 +11779,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "vino",
-                "amount": 120,
+                "name": "vino blanco seco",
+                "amount": 150,
                 "unit": "ml"
               },
               {
-                "name": "acompañamiento aromático",
+                "name": "hojas de menta",
+                "amount": 5,
+                "unit": "unidad"
+              },
+              {
+                "name": "ramita de tomillo",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
+              },
+              {
+                "name": "hoja de salvia",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "miel",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Mezcla el vino, las hierbas y la miel.",
+              "Deja infusionar en frío durante 30 minutos.",
+              "Cuela y sirve fresco."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de vino",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Ramita de tomillo o menta"
           },
           "evidence": [
             {
@@ -11345,23 +11878,46 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "vino tinto",
+                "amount": 150,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
-                "unit": "ml"
+                "name": "miel",
+                "amount": 30,
+                "unit": "g"
+              },
+              {
+                "name": "dátil sin carozo",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "hoja de laurel pequeña",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "pimienta negra",
+                "amount": 1,
+                "unit": "pizca"
+              },
+              {
+                "name": "canela",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta la miel con 30 ml del vino hasta disolverla.",
+              "Añade el resto del vino, el dátil y las especias.",
+              "Mantén a fuego muy bajo durante 10 minutos sin hervir.",
+              "Cuela y sirve tibio o frío."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa pequeña de vino",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -11414,23 +11970,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "vino",
-                "amount": 120,
+                "name": "vino blanco semiseco",
+                "amount": 150,
                 "unit": "ml"
               },
               {
-                "name": "acompañamiento aromático",
-                "amount": 1,
-                "unit": "porción"
+                "name": "pétalos de rosa comestibles y sin pesticidas",
+                "amount": 5,
+                "unit": "g"
+              },
+              {
+                "name": "miel",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Mezcla el vino, los pétalos y la miel.",
+              "Deja infusionar en frío entre 1 y 2 horas.",
+              "Cuela cuidadosamente y sirve."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de vino",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Pétalos de rosa comestibles"
           },
           "evidence": [
             {
@@ -11484,23 +12047,41 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "vino",
-                "amount": 120,
+                "name": "vino tinto",
+                "amount": 150,
                 "unit": "ml"
               },
               {
-                "name": "acompañamiento aromático",
+                "name": "miel o azúcar",
+                "amount": 20,
+                "unit": "g"
+              },
+              {
+                "name": "rama pequeña de canela",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
+              },
+              {
+                "name": "jengibre fresco",
+                "amount": 2,
+                "unit": "g"
+              },
+              {
+                "name": "clavo de olor",
+                "amount": 1,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta el vino con la miel y las especias sin dejar que hierva.",
+              "Mantén a fuego bajo durante 10 minutos.",
+              "Deja reposar otros 10 minutos y cuela.",
+              "Sirve caliente o enfría antes de servir."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de vino o taza",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -11591,23 +12172,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "vino",
-                "amount": 120,
+                "name": "vino blanco",
+                "amount": 150,
                 "unit": "ml"
               },
               {
-                "name": "acompañamiento aromático",
+                "name": "miel",
+                "amount": 20,
+                "unit": "g"
+              },
+              {
+                "name": "rama pequeña de canela",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
+              },
+              {
+                "name": "jengibre fresco",
+                "amount": 2,
+                "unit": "g"
+              },
+              {
+                "name": "pimienta negra",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta el vino con la miel y las especias sin hervir.",
+              "Mantén a fuego bajo durante 10 minutos.",
+              "Deja reposar, cuela y sirve tibio o frío."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de vino o taza",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rama de canela"
           },
           "evidence": [
             {
@@ -11696,23 +12294,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ale o sidra",
+                "amount": 180,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
-                "unit": "ml"
+                "name": "pulpa de manzana asada",
+                "amount": 100,
+                "unit": "g"
+              },
+              {
+                "name": "azúcar morena",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "nuez moscada",
+                "amount": 1,
+                "unit": "pizca"
+              },
+              {
+                "name": "jengibre",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta la ale o la sidra con el azúcar y las especias sin hervir.",
+              "Añade la pulpa de manzana y bate hasta que la mezcla quede espumosa.",
+              "Sirve caliente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada"
           },
           "evidence": [
             {
@@ -11801,23 +12416,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "bourbon o ron añejo",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "sidra seca",
+                "amount": 120,
                 "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade el destilado y el amargo.",
+              "Completa con sidra y remueve una vez."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de manzana"
           },
           "evidence": [
             {
@@ -11906,23 +12528,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "vino",
+                "name": "oporto o vino tinto",
                 "amount": 120,
                 "unit": "ml"
               },
               {
-                "name": "acompañamiento aromático",
+                "name": "agua caliente",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "azúcar",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "tira de piel de limón",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
+              },
+              {
+                "name": "nuez moscada",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta el vino, el agua, el azúcar y la piel de limón sin hervir.",
+              "Remueve hasta disolver el azúcar.",
+              "Sirve caliente y añade nuez moscada."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada"
           },
           "evidence": [
             {
@@ -11975,17 +12614,39 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ron oscuro",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de piña o naranja",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela en un vaso con hielo fresco."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja y gajo de lima"
           },
           "evidence": [
             {
@@ -12074,23 +12735,40 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra Old Tom o London dry",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "licor de naranja",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita la ginebra, el licor, el limón y el jarabe con hielo.",
+              "Cuela en un vaso con hielo fresco.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso Collins",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -12319,23 +12997,50 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ron blanco",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "ron overproof",
+                "amount": 10,
                 "unit": "ml"
+              },
+              {
+                "name": "absenta",
+                "amount": 5,
+                "unit": "ml"
+              },
+              {
+                "name": "falernum",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "crème de menthe verde",
+                "amount": 5,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Añade todos los ingredientes salvo el amargo a un vaso con hielo picado.",
+              "Bate enérgicamente con una cuchara o palo de swizzle hasta que el vaso se escarche.",
+              "Añade más hielo picado y termina con el amargo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Menta y rodaja de lima"
           },
           "evidence": [
             {
@@ -12386,21 +13091,42 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "espumante brut",
+                "amount": 90,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "brandy",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "armagnac",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "kümmel",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "Chartreuse amarilla",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "cerveza stout",
+                "amount": 30,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Enfría todos los ingredientes.",
+              "Añade los destilados y licores a una copa grande.",
+              "Incorpora el espumante y termina con la stout, vertiendo lentamente para controlar la espuma."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa grande o cáliz",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
             "recipe_status": "house"
           },
@@ -12493,21 +13219,47 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ginebra",
+                "amount": 10,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "ron",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "whisky",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "brandy",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "oporto",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "cerveza stout",
+                "amount": 150,
+                "unit": "ml"
+              },
+              {
+                "name": "espumante brut",
+                "amount": 30,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Vierte los cinco destilados y el oporto en una jarra o vaso grande.",
+              "Añade lentamente la stout.",
+              "Termina con el espumante y remueve con mucha suavidad."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Jarra o vaso de pinta grande",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
             "recipe_status": "house"
           },
@@ -12600,23 +13352,44 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ginebra",
+                "amount": 30,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "vermut seco",
+                "amount": 15,
                 "unit": "ml"
+              },
+              {
+                "name": "vermut dulce",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de naranja",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -12667,23 +13440,25 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ginebra Plymouth o London dry",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
-                "unit": "ml"
+                "name": "amargo de Angostura",
+                "amount": 4,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Enfría una copa.",
+              "Remueve la ginebra y el amargo con hielo.",
+              "Cuela en la copa."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -12833,23 +13608,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "bourbon",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "bebida de cola",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima, opcional",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade el bourbon y, si lo usas, el jugo de lima.",
+              "Completa con la bebida de cola y remueve una vez."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima"
           },
           "evidence": [
             {
@@ -12938,23 +13720,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "cognac",
+                "amount": 50,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "licor de naranja",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 25,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja; media escarcha de azúcar opcional"
           },
           "evidence": [
             {
@@ -13045,23 +13833,25 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "vino blanco alemán seco",
+                "amount": 90,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "agua con gas",
                 "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso con hielo.",
+              "Añade el vino blanco.",
+              "Completa con agua con gas y remueve una vez."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto o copa de vino",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -13150,23 +13940,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "brandy",
+                "amount": 30,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "crème de cacao blanca",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "crema de leche",
+                "amount": 30,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con abundante hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada recién rallada"
           },
           "evidence": [
             {
@@ -13255,23 +14051,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "cerveza stout fría",
+                "amount": 180,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "helado de chocolate",
+                "amount": 100,
+                "unit": "g"
+              },
+              {
+                "name": "leche fría",
+                "amount": 60,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Licúa primero el helado y la leche hasta que estén cremosos.",
+              "Añade la stout y pulsa sólo unos segundos para no perder toda la carbonatación.",
+              "Sirve de inmediato."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso de batido o pinta",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Chocolate rallado"
           },
           "evidence": [
             {
@@ -13322,23 +14125,25 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ginebra",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "Chartreuse verde",
+                "amount": 7.5,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Enjuaga una copa fría con la Chartreuse, dejando el licor dentro.",
+              "Agita la ginebra con hielo durante 10 a 12 segundos.",
+              "Cuela la ginebra en la copa preparada."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -13486,23 +14291,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "jugo de piña",
                 "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela en un vaso con hielo fresco."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso bajo o alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Hoja o trozo de piña"
           },
           "evidence": [
             {
@@ -13553,17 +14364,30 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "ginger beer",
+                "amount": 120,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena una taza o vaso con hielo.",
+              "Añade el vodka y la lima.",
+              "Completa con ginger beer y remueve una vez."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza de cobre o vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima y menta"
           },
           "evidence": [
             {
@@ -13652,23 +14476,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ron blanco",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jugo de lima",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja fina de lima"
           },
           "evidence": [
             {
@@ -13756,23 +14586,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "jugo de limón",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
                 "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita la ginebra, el limón y el jarabe con hielo.",
+              "Cuela en un vaso alto con hielo fresco.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso Collins",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón y cereza"
           },
           "evidence": [
             {
@@ -13894,23 +14736,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "tequila blanco",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "jugo de naranja",
                 "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "granadina",
+                "amount": 15,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade el tequila y el jugo de naranja.",
+              "Vierte la granadina lentamente para que se deposite en el fondo; no remuevas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja y cereza"
           },
           "evidence": [
             {
@@ -13999,23 +14848,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "bourbon o rye whiskey",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jarabe demerara",
+                "amount": 7.5,
                 "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "amargo de naranja",
+                "amount": 1,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve todos los ingredientes con hielo.",
+              "Cuela sobre un cubo grande de hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -14066,23 +14926,24 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "cognac",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "crème de menthe blanca",
+                "amount": 20,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve ambos ingredientes con hielo.",
+              "Cuela en una copa fría o sobre un cubo grande de hielo."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé o vaso bajo",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Hoja de menta"
           },
           "evidence": [
             {
@@ -14171,23 +15032,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "brandy",
+                "amount": 30,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "crème de cacao oscura",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "crema de leche",
+                "amount": 30,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con abundante hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada recién rallada"
           },
           "evidence": [
             {
@@ -14278,23 +15145,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "vermut seco",
+                "amount": 15,
                 "unit": "ml"
+              },
+              {
+                "name": "vermut dulce",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de naranja",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve todos los ingredientes con hielo.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -14345,23 +15223,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "whisky escocés",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "vermut dulce",
+                "amount": 25,
                 "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve todos los ingredientes con hielo.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Cereza"
           },
           "evidence": [
             {
@@ -14624,23 +15508,24 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ginebra London dry",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "whisky escocés ahumado",
+                "amount": 15,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Remueve ambos destilados con hielo hasta enfriar y obtener una ligera dilución.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -14728,23 +15613,41 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ale clara o vino blanco",
+                "amount": 180,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "yema de huevo pasteurizada",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "azúcar",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "crema de leche",
+                "amount": 30,
                 "unit": "ml"
+              },
+              {
+                "name": "nuez moscada",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta la ale o el vino a fuego bajo sin hervir.",
+              "Bate la yema con el azúcar y la crema.",
+              "Templa la mezcla de huevo con un poco del líquido caliente y luego incorpórala a la olla.",
+              "Bate a fuego bajo hasta que espese levemente y sirve caliente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada recién rallada"
           },
           "evidence": [
             {
@@ -14797,17 +15700,45 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "vino tinto",
+                "amount": 180,
+                "unit": "ml"
+              },
+              {
+                "name": "brandy, opcional",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "miel o azúcar",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "rama pequeña de canela",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
+              },
+              {
+                "name": "clavos de olor",
+                "amount": 2,
+                "unit": "unidad"
+              },
+              {
+                "name": "tira de piel de naranja",
+                "amount": 1,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Calienta todos los ingredientes a fuego bajo durante 10 minutos sin hervir.",
+              "Retira del fuego y deja reposar 5 minutos.",
+              "Cuela y sirve caliente."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja y rama de canela"
           },
           "evidence": [
             {
@@ -14956,23 +15887,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "bourbon o brandy de manzana",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "sidra de manzana",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Calienta la sidra sin hervir.",
+              "Disuelve la miel y añade el destilado y el limón.",
+              "Sirve caliente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de manzana y rama de canela"
           },
           "evidence": [
             {
@@ -15117,23 +16060,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "ginebra",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jugo de limón",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de frambuesa",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "clara de huevo pasteurizada",
+                "amount": 20,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita primero sin hielo para emulsionar la clara.",
+              "Añade hielo y vuelve a agitar con fuerza.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Frambuesas"
           },
           "evidence": [
             {
@@ -15223,23 +16178,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "brandy o bourbon",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "ginger ale",
+                "amount": 120,
                 "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Forma una espiral larga con la piel de un limón y colócala dentro del vaso.",
+              "Llena el vaso con hielo y añade el destilado y el amargo.",
+              "Completa con ginger ale."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Espiral larga de piel de limón"
           },
           "evidence": [
             {
@@ -15292,17 +16254,30 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "hielo triturado fino",
+                "amount": 200,
+                "unit": "g"
+              },
+              {
+                "name": "jarabe de fruta",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Forma una montaña compacta con el hielo triturado.",
+              "Distribuye el jarabe de fruta por toda la superficie.",
+              "Añade el jugo de lima y sirve de inmediato."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto o vaso de papel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Fruta fresca"
           },
           "evidence": [
             {
@@ -15390,23 +16365,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "vermut seco",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "crème de cassis",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
                 "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade el vermut y la crème de cassis.",
+              "Completa con agua con gas y remueve suavemente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -15555,23 +16537,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "vodka",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
+                "name": "jugo de limón",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
                 "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita el vodka, el limón y el jarabe con hielo.",
+              "Cuela en un vaso con hielo fresco.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -15661,23 +16655,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "vodka",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "bebida de cola",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade el vodka y la lima.",
+              "Completa con cola y remueve una vez."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima"
           },
           "evidence": [
             {
@@ -15765,23 +16766,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "té negro caliente",
+                "amount": 120,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jerez seco",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 10,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Prepara un té negro concentrado.",
+              "Disuelve la miel y añade el jerez.",
+              "Sirve caliente."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Taza o termo pequeño",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -15870,23 +16878,25 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "vodka",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "agua tónica",
+                "amount": 150,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Llena un vaso alto con hielo.",
+              "Añade el vodka.",
+              "Completa con tónica y remueve una vez."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón o lima"
           },
           "evidence": [
             {
@@ -15973,23 +16983,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
+                "name": "vodka cítrico",
                 "amount": 45,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "licor de naranja",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de arándano rojo",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -16270,17 +17291,50 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ron añejo",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "ron oscuro",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "ron overproof",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de pomelo",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de miel",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes salvo el agua con gas con hielo.",
+              "Cuela en un vaso lleno de hielo picado.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Menta y gajo de lima"
           },
           "evidence": [
             {
@@ -17580,17 +18634,30 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "cerveza lager",
+                "amount": 165,
+                "unit": "ml"
+              },
+              {
+                "name": "limonada con gas",
+                "amount": 165,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enfría la cerveza y la limonada.",
+              "Vierte primero la limonada y el limón en un vaso inclinado.",
+              "Añade lentamente la cerveza para controlar la espuma."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso de cerveza",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -17681,17 +18748,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "bourbon",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "hojas de menta",
+                "amount": 8,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Presiona suavemente la menta con el jarabe y el limón.",
+              "Añade el bourbon y hielo; agita.",
+              "Cuela sobre hielo picado."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Ramillete de menta y gajo de limón"
           },
           "evidence": [
             {
@@ -17886,15 +18971,27 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "licor de café",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "crema irlandesa",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja de alta graduación",
+                "amount": 20,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Vierte el licor de café en un vaso de shot.",
+              "Forma una segunda capa de crema irlandesa y una tercera de licor de naranja usando el dorso de una cuchara.",
+              "Si se flamea, enciende sólo la capa superior y apaga completamente la llama antes de beber."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso de shot resistente al calor",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
             "recipe_status": "house"
           },
@@ -18193,17 +19290,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "té de manzanilla frío",
+                "amount": 150,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua tónica o con gas",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Disuelve la miel en el té cuando todavía esté tibio y deja enfriar.",
+              "Sirve sobre hielo y añade el jugo de limón.",
+              "Completa con tónica o agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -18596,17 +19711,25 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra London dry",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "agua tónica",
+                "amount": 150,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena un vaso con hielo firme.",
+              "Añade la ginebra.",
+              "Completa lentamente con tónica y remueve una vez."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa balón o vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -18694,23 +19817,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "ron blanco",
+                "amount": 60,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "jugo de lima",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja fina de lima"
           },
           "evidence": [
             {
@@ -18900,17 +20029,39 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "bourbon",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de maraschino",
+                "amount": 7.5,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "absenta",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "dash"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 1,
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Remueve todos los ingredientes con hielo hasta enfriar.",
+              "Cuela sobre un cubo grande de hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Cereza y piel de naranja"
           },
           "evidence": [
             {
@@ -18998,17 +20149,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "whiskey",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "ginger ale o ginger beer",
+                "amount": 120,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena un vaso alto con hielo.",
+              "Añade el whiskey y la lima.",
+              "Completa con ginger ale o ginger beer."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima"
           },
           "evidence": [
             {
@@ -19192,17 +20356,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "whisky escocés",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut dulce",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de cereza",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja fresco",
+                "amount": 22.5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -19483,17 +20664,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "Chartreuse verde",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de maraschino",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 22.5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Cereza"
           },
           "evidence": [
             {
@@ -19582,17 +20780,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "Lillet Blanc",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "absenta para enjuagar la copa",
+                "amount": 3,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enjuaga una copa fría con la absenta y desecha el exceso.",
+              "Agita los demás ingredientes con hielo.",
+              "Cuela finamente en la copa preparada."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -19681,15 +20902,27 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "cerveza stout irlandesa",
+                "amount": 180,
+                "unit": "ml"
+              },
+              {
+                "name": "whiskey irlandés",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "crema irlandesa",
+                "amount": 20,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Sirve la stout en un vaso de pinta, dejando espacio.",
+              "Vierte el whiskey y la crema irlandesa en un vaso de shot.",
+              "Deja caer el shot dentro de la cerveza y bebe inmediatamente, antes de que la crema se corte."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso de pinta y vaso de shot",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
             "recipe_status": "house"
           },
@@ -19875,17 +21108,45 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "absenta",
+                "amount": 7.5,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de jengibre",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "hojas de menta",
+                "amount": 8,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Presiona suavemente la menta con el jarabe y el limón.",
+              "Añade la ginebra, la absenta, el licor de jengibre y hielo picado.",
+              "Remueve desde abajo y corona con más hielo picado."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso julep o vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Ramillete de menta y piel de limón"
           },
           "evidence": [
             {
@@ -19974,17 +21235,29 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "absenta",
+                "amount": 5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Remueve todos los ingredientes con hielo hasta enfriar.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -20269,17 +21542,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vino tinto",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "brandy",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de naranja",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "naranja y manzana en trozos",
+                "amount": 60,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Mezcla el vino, el brandy, el jugo, el jarabe y la fruta.",
+              "Deja reposar en frío al menos 30 minutos.",
+              "Sirve con hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de vino grande",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja"
           },
           "evidence": [
             {
@@ -20368,17 +21664,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "absenta",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "anisette",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "crema irlandesa",
+                "amount": 40,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "leche",
+                "amount": 100,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena un vaso bajo con hielo.",
+              "Añade la absenta, el anisette, la crema irlandesa y el jarabe.",
+              "Completa con leche y remueve hasta integrar."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada"
           },
           "evidence": [
             {
@@ -20661,17 +21980,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra lavada con aceite de oliva",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "salmuera de aceituna",
+                "amount": 2.5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Remueve todos los ingredientes con hielo hasta enfriar.",
+              "Cuela finamente en una copa fría para evitar residuos de grasa."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa Nick & Nora",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Aceituna verde y piel de limón"
           },
           "evidence": [
             {
@@ -20762,17 +22093,45 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "vodka",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "curaçao azul",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "agua tónica",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita la ginebra, el vodka, el curaçao, el limón y el jarabe con hielo.",
+              "Cuela en un vaso con hielo fresco.",
+              "Completa con agua tónica."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -20965,17 +22324,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "ginebra",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "vermut seco",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de naranja, opcional",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "dash"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Remueve los ingredientes con hielo hasta enfriar y diluir ligeramente.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Aceituna verde o piel de limón"
           },
           "evidence": [
             {
@@ -21284,17 +22655,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "Lillet Blanc",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "curaçao azul",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 22.5,
+                "unit": "ml"
+              },
+              {
+                "name": "absenta para enjuagar la copa",
+                "amount": 3,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enjuaga una copa fría con la absenta y desecha el exceso.",
+              "Agita los demás ingredientes con hielo.",
+              "Cuela finamente en la copa preparada."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -21401,14 +22795,30 @@ export const content: PublicCatalog = {
                 "name": "salsa Worcestershire",
                 "amount": 3,
                 "unit": "ml"
+              },
+              {
+                "name": "salsa picante",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "sal de apio",
+                "amount": 1,
+                "unit": "pizca"
+              },
+              {
+                "name": "pimienta negra",
+                "amount": 1,
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Mezcla suavemente los ingredientes con hielo.",
-              "Sirve y ajusta sal, pimienta o picante al gusto."
+              "Añade todos los ingredientes a un vaso mezclador con hielo.",
+              "Haz rodar la mezcla suavemente entre dos vasos o remueve sin agitar en exceso.",
+              "Sirve sobre hielo fresco y ajusta sal o picante al gusto."
             ],
             "glassware": "Vaso alto",
-            "garnish": "Apio o limón",
+            "garnish": "Tallo de apio y gajo de limón",
             "recipe_note": "Receta de la casa; no pretende reproducir la fórmula histórica atribuida a Hemingway.",
             "recipe_status": "house"
           },
@@ -21695,17 +23105,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "leche",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "whiskey irlandés",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de café",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de avellana",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "rama pequeña de canela",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Calienta la leche con la canela sin hervir y retira la rama.",
+              "Añade los licores y remueve.",
+              "Sirve caliente."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza resistente al calor",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Crema batida y canela"
           },
           "evidence": [
             {
@@ -21794,23 +23227,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base alcohólica",
-                "amount": 45,
+                "name": "cognac",
+                "amount": 50,
                 "unit": "ml"
               },
               {
-                "name": "mezclador",
-                "amount": 90,
+                "name": "licor de naranja",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 25,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-              "Sirve de inmediato en un vaso limpio."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso apropiado",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja; media escarcha de azúcar opcional"
           },
           "evidence": [
             {
@@ -22481,17 +23920,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "curaçao azul",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de arándano blanco",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -22581,17 +24037,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "Tennessee whiskey",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "café caliente",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "azúcar morena",
+                "amount": 10,
+                "unit": "g"
+              },
+              {
+                "name": "crema ligeramente batida",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Disuelve el azúcar en el café caliente.",
+              "Añade el whiskey y remueve.",
+              "Vierte la crema sobre el dorso de una cuchara para que quede flotando."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de café irlandés o taza",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Granos de café"
           },
           "evidence": [
             {
@@ -22681,17 +24155,29 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka cítrico",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de frutilla",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Frutilla y piel de limón"
           },
           "evidence": [
             {
@@ -23067,21 +24553,34 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "espumante brut",
-                "amount": 90,
+                "name": "cubo de azúcar",
+                "amount": 1,
+                "unit": "unidad"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 3,
+                "unit": "dash"
+              },
+              {
+                "name": "cognac",
+                "amount": 10,
                 "unit": "ml"
               },
               {
-                "name": "brandy",
-                "amount": 30,
+                "name": "espumante brut",
+                "amount": 90,
                 "unit": "ml"
               }
             ],
             "steps": [
-              "Sirve el brandy y completa con el espumante bien frío."
+              "Coloca el cubo de azúcar en una copa y empápalo con el amargo.",
+              "Añade el cognac.",
+              "Completa lentamente con el espumante bien frío."
             ],
             "glassware": "Copa flauta",
-            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra.",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -23366,17 +24865,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "Campari",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 22.5,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -23467,15 +24983,27 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de café",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "crema de leche",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena un vaso bajo con hielo.",
+              "Añade el vodka y el licor de café.",
+              "Vierte la crema por encima y remueve al gusto."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
             "recipe_status": "house"
           },
@@ -23760,17 +25288,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de chocolate",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "crème de cacao",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "crema de leche",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Chocolate rallado"
           },
           "evidence": [
             {
@@ -23956,17 +25501,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "té negro frío",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "néctar de durazno",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita el té, el néctar, el limón y el jarabe con hielo.",
+              "Cuela en un vaso con hielo fresco.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de durazno o rodaja de limón"
           },
           "evidence": [
             {
@@ -24056,17 +25624,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "brandy",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo de Angostura",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "espumante brut",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita el brandy, el licor y el amargo con hielo.",
+              "Cuela en una copa fría.",
+              "Completa con espumante."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa flauta o coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja; borde de azúcar opcional"
           },
           "evidence": [
             {
@@ -24348,17 +25934,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ginebra",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "ginger ale",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena un vaso alto con hielo.",
+              "Añade la ginebra y la lima.",
+              "Completa con ginger ale y remueve una vez."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima"
           },
           "evidence": [
             {
@@ -25020,17 +26619,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de melón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de mango",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes con hielo.",
+              "Cuela en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de cóctel",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de lima"
           },
           "evidence": [
             {
@@ -25599,17 +27215,55 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "vodka",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "ginebra",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "ron blanco",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "tequila blanco",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "licor de naranja",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "bebida de cola",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita todos los ingredientes salvo la cola con hielo.",
+              "Cuela en un vaso alto con hielo fresco.",
+              "Completa con la cola y remueve una vez."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -25793,17 +27447,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "néctar de mango",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de jengibre",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita el néctar, la lima y el jarabe con hielo.",
+              "Cuela en un vaso con hielo fresco.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de lima y menta"
           },
           "evidence": [
             {
@@ -25893,15 +27565,32 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "café arábica molido muy fino",
+                "amount": 12,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "vainas de cardamomo ligeramente machacadas",
+                "amount": 3,
+                "unit": "unidad"
+              },
+              {
+                "name": "azafrán, opcional",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "pizca"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Calienta el agua con el cardamomo hasta casi hervir.",
+              "Añade el café, baja el fuego y deja que forme espuma sin desbordarse.",
+              "Retira, deja reposar un minuto y sirve con cuidado para que el sedimento quede en el recipiente."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Finjan o taza pequeña",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
             "recipe_status": "house"
           },
@@ -25991,17 +27680,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "bourbon",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de especias masala",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "clara de huevo pasteurizada",
+                "amount": 20,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita primero sin hielo para emulsionar la clara.",
+              "Añade hielo y vuelve a agitar con fuerza.",
+              "Cuela sobre hielo fresco."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Canela espolvoreada"
           },
           "evidence": [
             {
@@ -26091,15 +27798,16 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "baijiu",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Sirve el baijiu a temperatura ambiente en una copa pequeña.",
+              "Bébelo en sorbos cortos; no se mezcla ni se sirve con hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa pequeña para baijiu o vaso de licor",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
             "recipe_status": "house"
           },
@@ -26191,17 +27899,19 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "mamajuana embotellada o previamente macerada",
+                "amount": 45,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Sirve la mamajuana a temperatura ambiente o sobre un cubo grande de hielo.",
+              "No añadas mezcladores."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja, opcional"
           },
           "evidence": [
             {
@@ -26701,17 +28411,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "té negro muy concentrado y frío",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe demerara",
+                "amount": 10,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de anís",
+                "amount": 5,
+                "unit": "ml"
+              },
+              {
+                "name": "amargo aromático sin alcohol",
+                "amount": 2,
+                "unit": "dash"
+              },
+              {
+                "name": "agua fría",
+                "amount": 30,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enjuaga un vaso frío con la mitad del jarabe de anís.",
+              "Remueve el té, el agua, el jarabe demerara, el resto del jarabe de anís y el amargo con hielo.",
+              "Cuela sobre un cubo grande de hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de limón"
           },
           "evidence": [
             {
@@ -26802,17 +28535,20 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "kombucha fría",
+                "amount": 250,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enfría bien la kombucha.",
+              "Abre con cuidado para liberar la presión y sirve lentamente.",
+              "Bebe sin hielo o sobre un cubo grande."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto o copa de vino",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón, opcional"
           },
           "evidence": [
             {
@@ -26902,17 +28638,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "yogur natural",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "agua muy fría",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "sal",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "g"
+              },
+              {
+                "name": "menta seca",
+                "amount": 1,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Bate el yogur con el agua y la sal hasta que quede homogéneo y ligeramente espumoso.",
+              "Añade la menta y remueve.",
+              "Sirve bien frío, con o sin hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Menta fresca"
           },
           "evidence": [
             {
@@ -27003,17 +28757,41 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "frutillas",
+                "amount": 150,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 100,
+                "unit": "ml"
+              },
+              {
+                "name": "azúcar",
+                "amount": 60,
+                "unit": "g"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas para servir",
+                "amount": 120,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Cocina las frutillas, el agua y el azúcar durante 8 minutos.",
+              "Cuela, presionando suavemente la fruta, y añade el limón.",
+              "Enfría el concentrado.",
+              "Sirve 45 ml de cordial con hielo y completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Frutilla fresca"
           },
           "evidence": [
             {
@@ -27103,17 +28881,19 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "jugo de naranja recién exprimido",
+                "amount": 250,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enfría el jugo.",
+              "Sirve solo o sobre hielo y bebe de inmediato."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja"
           },
           "evidence": [
             {
@@ -27204,17 +28984,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "jugo de granada",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena una copa con hielo.",
+              "Añade el jugo de granada, la lima y el jarabe.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de vino",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Semillas de granada y rodaja de lima"
           },
           "evidence": [
             {
@@ -27513,17 +29311,25 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "puré de durazno",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "prosecco o espumante brut",
+                "amount": 90,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Enfría ambos ingredientes.",
+              "Vierte el puré en una copa y completa lentamente con el espumante.",
+              "Remueve una sola vez y con suavidad."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa flauta",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de durazno"
           },
           "evidence": [
             {
@@ -27613,17 +29419,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "jugo de naranja",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de arándano rojo",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 60,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Llena un vaso alto con hielo.",
+              "Añade los jugos y remueve.",
+              "Completa con agua con gas."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de naranja"
           },
           "evidence": [
             {
@@ -27713,17 +29537,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "pulpa de palta madura",
+                "amount": 100,
+                "unit": "g"
+              },
+              {
+                "name": "leche fría",
+                "amount": 200,
+                "unit": "ml"
+              },
+              {
+                "name": "cacao amargo",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "miel o jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "cubos de hielo",
+                "amount": 4,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Licúa todos los ingredientes hasta que el batido quede cremoso y sin grumos.",
+              "Ajusta la consistencia con un poco más de leche si es necesario.",
+              "Sirve de inmediato."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Cacao espolvoreado"
           },
           "evidence": [
             {
@@ -27813,17 +29660,25 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "Gatorade, té dulce o agua Pellegrino, a elección",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "hielo triturado, si eliges granizado",
+                "amount": 150,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Elige una sola bebida; no mezcles las cuatro opciones.",
+              "Sirve Gatorade, té dulce o Pellegrino bien fríos en un vaso con o sin hielo.",
+              "Para un granizado, licúa la bebida elegida con hielo triturado y sirve de inmediato."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón para el té o el granizado"
           },
           "evidence": [
             {
@@ -27913,17 +29768,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "espresso frío",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "leche fría",
+                "amount": 150,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de chocolate",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "cubos de hielo",
+                "amount": 6,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Mezcla el espresso, la leche y el jarabe.",
+              "Sirve sobre hielo y remueve."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Cacao espolvoreado"
           },
           "evidence": [
             {
@@ -28013,17 +29885,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "ron blanco",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "arándanos",
+                "amount": 50,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Machaca suavemente los arándanos en la coctelera.",
+              "Añade el ron, la lima, el jarabe y hielo; agita con fuerza.",
+              "Cuela finamente en una copa fría."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa coupé",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Arándanos"
           },
           "evidence": [
             {
@@ -28114,17 +30004,40 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
+                "name": "bourbon o ron añejo",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "leche",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "crema de leche",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "yema de huevo pasteurizada",
                 "amount": 1,
-                "unit": "porción"
+                "unit": "unidad"
+              },
+              {
+                "name": "azúcar",
+                "amount": 20,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Agita primero todos los ingredientes sin hielo para disolver el azúcar y emulsionar la yema.",
+              "Añade hielo y vuelve a agitar.",
+              "Cuela en una taza o vaso frío."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza o vaso bajo",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Nuez moscada"
           },
           "evidence": [
             {
@@ -28215,17 +30128,29 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "té negro frío",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de limón",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 15,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Mezcla el té con el limón y el jarabe.",
+              "Sirve sobre abundante hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -28316,17 +30241,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "flores secas de hibisco",
+                "amount": 5,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "miel o azúcar",
+                "amount": 15,
+                "unit": "g"
+              },
+              {
+                "name": "jugo de lima",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Infusiona el hibisco en agua recién hervida durante 8 minutos.",
+              "Cuela y disuelve la miel o el azúcar.",
+              "Añade la lima y sirve caliente o enfría para servir con hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza o vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de lima"
           },
           "evidence": [
             {
@@ -28417,17 +30360,35 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "té de jazmín frío",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "Gewürztraminer de Alsacia",
+                "amount": 90,
+                "unit": "ml"
+              },
+              {
+                "name": "agua con gas",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "miel",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Disuelve la miel en el té y deja enfriar.",
+              "Sirve el té y el vino sobre hielo.",
+              "Completa con agua con gas y remueve suavemente."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Copa de vino",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Uva o piel de limón"
           },
           "evidence": [
             {
@@ -28615,15 +30576,27 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "té negro inglés caliente",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "leche o crema ligera",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "azúcar",
+                "amount": 10,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Infusiona el té durante 3 a 4 minutos.",
+              "Retira las hojas o la bolsa.",
+              "Añade azúcar y luego leche o crema al gusto."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza de té",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
             "recipe_status": "house"
           },
@@ -28813,17 +30786,30 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "whiskey, opcional",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "bebida de cola",
+                "amount": 120,
+                "unit": "ml"
+              },
+              {
+                "name": "jugo de lima, opcional",
+                "amount": 10,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Para la versión sin alcohol, sirve sólo la cola sobre hielo.",
+              "Para el whiskey con cola, añade el whiskey y el jugo de lima antes de completar con la cola.",
+              "Remueve una vez."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Gajo de lima"
           },
           "evidence": [
             {
@@ -28914,17 +30900,34 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "leche fría",
+                "amount": 180,
+                "unit": "ml"
+              },
+              {
+                "name": "helado de chocolate o vainilla",
+                "amount": 100,
+                "unit": "g"
+              },
+              {
+                "name": "jarabe de chocolate",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "cubos de hielo",
+                "amount": 4,
+                "unit": "unidad"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Licúa la leche, el helado, el jarabe y el hielo hasta obtener una textura uniforme.",
+              "Sirve de inmediato."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Chocolate rallado"
           },
           "evidence": [
             {
@@ -29231,17 +31234,30 @@ export const content: PublicCatalog = {
             "alcoholic": false,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "rooibos",
+                "amount": 5,
+                "unit": "g"
+              },
+              {
+                "name": "agua",
+                "amount": 250,
+                "unit": "ml"
+              },
+              {
+                "name": "miel, opcional",
+                "amount": 10,
+                "unit": "g"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Infusiona el rooibos en agua recién hervida durante 5 a 7 minutos.",
+              "Cuela y endulza si lo deseas.",
+              "Sirve caliente o enfría para servir sobre hielo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Taza o vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Piel de naranja"
           },
           "evidence": [
             {
@@ -29427,17 +31443,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "bourbon",
+                "amount": 45,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe de jengibre",
+                "amount": 15,
+                "unit": "ml"
+              },
+              {
+                "name": "hojas de menta",
+                "amount": 8,
+                "unit": "unidad"
+              },
+              {
+                "name": "ginger beer",
+                "amount": 90,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Presiona suavemente la menta con el jarabe en el vaso.",
+              "Añade el bourbon y llena con hielo picado.",
+              "Completa con ginger beer y remueve desde abajo."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso julep o vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Ramillete de menta y jengibre confitado"
           },
           "evidence": [
             {
@@ -29527,17 +31561,35 @@ export const content: PublicCatalog = {
             "alcoholic": true,
             "ingredients": [
               {
-                "name": "base de la bebida",
-                "amount": 1,
-                "unit": "porción"
+                "name": "jugo de limón",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "jarabe simple",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "agua fría",
+                "amount": 150,
+                "unit": "ml"
+              },
+              {
+                "name": "vodka, opcional",
+                "amount": 45,
+                "unit": "ml"
               }
             ],
             "steps": [
-              "Prepara una versión original de la casa según los ingredientes disponibles."
+              "Mezcla el limón, el jarabe y el agua.",
+              "Sirve sobre hielo para la versión sin alcohol.",
+              "Para la versión con alcohol, añade el vodka y remueve."
             ],
-            "glassware": "Vaso de preparación",
+            "glassware": "Vaso alto",
             "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-            "recipe_status": "house"
+            "recipe_status": "house",
+            "garnish": "Rodaja de limón"
           },
           "evidence": [
             {
@@ -30749,21 +32801,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "espumante brut",
-          "amount": 90,
+          "name": "cubo de azúcar",
+          "amount": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 3,
+          "unit": "dash"
+        },
+        {
+          "name": "cognac",
+          "amount": 10,
           "unit": "ml"
         },
         {
-          "name": "brandy",
-          "amount": 30,
+          "name": "espumante brut",
+          "amount": 90,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Sirve el brandy y completa con el espumante bien frío."
+        "Coloca el cubo de azúcar en una copa y empápalo con el amargo.",
+        "Añade el cognac.",
+        "Completa lentamente con el espumante bien frío."
       ],
       "glassware": "Copa flauta",
-      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+      "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra.",
+      "garnish": "Piel de limón"
     },
     {
       "id": "brandy-eggnog",
@@ -30788,16 +32853,28 @@ export const content: PublicCatalog = {
           "unit": "ml"
         },
         {
-          "name": "huevo pasteurizado",
-          "amount": 45,
+          "name": "crema de leche",
+          "amount": 30,
           "unit": "ml"
+        },
+        {
+          "name": "yema de huevo pasteurizada",
+          "amount": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "azúcar",
+          "amount": 20,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Agita los ingredientes con hielo y sirve bien frío."
+        "Agita primero todos los ingredientes sin hielo para disolver el azúcar y emulsionar la yema.",
+        "Añade hielo y vuelve a agitar con fuerza.",
+        "Cuela en una taza o vaso frío."
       ],
-      "glassware": "Taza",
-      "garnish": "Nuez moscada",
+      "glassware": "Taza o vaso bajo",
+      "garnish": "Nuez moscada recién rallada",
       "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
     },
     {
@@ -31106,14 +33183,30 @@ export const content: PublicCatalog = {
           "name": "salsa Worcestershire",
           "amount": 3,
           "unit": "ml"
+        },
+        {
+          "name": "salsa picante",
+          "amount": 2,
+          "unit": "dash"
+        },
+        {
+          "name": "sal de apio",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta negra",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Mezcla suavemente los ingredientes con hielo.",
-        "Sirve y ajusta sal, pimienta o picante al gusto."
+        "Añade todos los ingredientes a un vaso mezclador con hielo.",
+        "Haz rodar la mezcla suavemente entre dos vasos o remueve sin agitar en exceso.",
+        "Sirve sobre hielo fresco y ajusta sal o picante al gusto."
       ],
       "glassware": "Vaso alto",
-      "garnish": "Apio o limón",
+      "garnish": "Tallo de apio y gajo de limón",
       "recipe_note": "Receta de la casa; no pretende reproducir la fórmula histórica atribuida a Hemingway.",
       "recipe_status": "house"
     },
@@ -31235,17 +33328,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
+          "name": "ginebra London dry",
+          "amount": 75,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de naranja",
           "amount": 1,
-          "unit": "porción"
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Remueve todos los ingredientes con abundante hielo hasta que estén muy fríos.",
+        "Cuela en una copa helada."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Crear una receta contemporánea de la casa inspirada en un martini seco; no atribuir sus proporciones a DeVoto.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "vino-de-grosella",
@@ -31311,17 +33416,36 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "naranja en trozos con parte de la piel",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "azúcar",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "vinagre de manzana",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas para servir",
+          "amount": 150,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Mezcla la naranja con el azúcar y deja reposar tapada durante 12 horas.",
+        "Añade el vinagre, remueve y deja reposar otras 12 horas.",
+        "Cuela el concentrado.",
+        "Sirve 30 ml de shrub con hielo y completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Crear una receta contemporánea de la casa basada en naranja y ron, claramente separada de la fórmula histórica.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja"
     },
     {
       "id": "case-of-the-caretakers-cat-cocktail",
@@ -31331,17 +33455,44 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ron blanco",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut dulce",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy de albaricoque",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "granadina",
+          "amount": 5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Crear una receta contemporánea de la casa y no copiar las proporciones ni el texto del libro de bebidas citado.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Cereza y piel de lima"
     },
     {
       "id": "apple-toddy",
@@ -31353,17 +33504,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "brandy de manzana o bourbon",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "sidra de manzana sin gas",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Calienta la sidra sin dejar que hierva.",
+        "Disuelve la miel y añade el brandy de manzana y el limón.",
+        "Sirve caliente y remueve una vez."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Crear una receta contemporánea de la casa simplificada; no presentar la fórmula colonial extensa como preparación atribuida a Jefferson.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de manzana y rama de canela"
     },
     {
       "id": "cerveza-de-caqui",
@@ -31393,17 +33562,19 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vino de ruibarbo embotellado",
+          "amount": 150,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Enfría entre 8 y 10 °C.",
+        "Sirve sin hielo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de vino blanco",
       "recipe_note": "Crear una receta contemporánea de la casa y diferenciarla de la elaboración descrita en el poema.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Lámina fina de frutilla, opcional"
     },
     {
       "id": "hot-buttered-rum",
@@ -31415,17 +33586,45 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
+          "name": "ron oscuro",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla sin sal",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "azúcar morena",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "agua caliente",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "canela",
           "amount": 1,
-          "unit": "porción"
+          "unit": "pizca"
+        },
+        {
+          "name": "nuez moscada",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Mezcla la mantequilla, el azúcar y las especias en una taza.",
+        "Añade el ron y el agua caliente.",
+        "Remueve hasta que la mantequilla se derrita y la bebida quede homogénea."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Crear una receta original de la casa para ron caliente con mantequilla; no copiar las proporciones ni instrucciones del libro.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rama de canela"
     },
     {
       "id": "cordiales-caseros",
@@ -31437,17 +33636,41 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "jengibre fresco en láminas",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "azúcar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas para servir",
+          "amount": 150,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Hierve suavemente el jengibre, el azúcar y el agua durante 10 minutos.",
+        "Retira del fuego, añade el limón y deja reposar otros 10 minutos.",
+        "Cuela y enfría.",
+        "Sirve 30 ml del cordial con hielo y completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Crear una receta de la casa inspirada en cordial de jengibre; no reproducir el proceso histórico de fermentación.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Lámina de jengibre y piel de limón"
     },
     {
       "id": "gothic-punch",
@@ -31459,17 +33682,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vino Catawba o rosado semidulce",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "clarete o vino tinto ligero",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "espumante brut",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Enfría todos los ingredientes.",
+        "Mezcla los vinos, el brandy y el jarabe en una copa con hielo.",
+        "Completa con el espumante y remueve suavemente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de ponche o copa grande",
       "recipe_note": "Crear una receta original de la casa para Ponche gótico; no copiar la fórmula de The Bar-Tender’s Guide.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Frutos rojos y piel de limón"
     },
     {
       "id": "cafe-aleman",
@@ -31481,15 +33727,32 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "café molido",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "name": "achicoria tostada molida",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "name": "agua caliente",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "leche caliente",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Mezcla el café y la achicoria en un filtro y prepara una infusión con el agua caliente.",
+        "Añade la leche caliente.",
+        "Sirve de inmediato."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza",
       "recipe_note": "Crear una receta de café original de la casa y dejar claro que no reconstruye la receta satírica de Twain.",
       "recipe_status": "house"
     },
@@ -31503,17 +33766,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "whisky",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 3,
+          "unit": "dash"
+        },
+        {
+          "name": "agua fría, opcional",
+          "amount": 5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Remueve el whisky y el amargo con hielo.",
+        "Añade el agua si deseas una dilución ligeramente mayor.",
+        "Cuela sobre un cubo grande de hielo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso bajo",
       "recipe_note": "Crear una receta de la casa de whisky y bitters sin atribuir proporciones históricas a la carta.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "ponche-insidioso",
@@ -31525,17 +33801,50 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "bourbon",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "ron oscuro",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "té negro frío",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Agita todos los ingredientes salvo el agua con gas con hielo.",
+        "Cuela en una copa de ponche con hielo fresco.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de ponche o vaso grande",
       "recipe_note": "Crear una receta original de la casa para ponche; no reproducir cantidades ni combinación del libro.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja"
     },
     {
       "id": "small-beer",
@@ -31547,15 +33856,17 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "cerveza ligera o cerveza de bajo grado alcohólico",
+          "amount": 330,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Enfría la cerveza entre 6 y 8 °C.",
+        "Sirve dejando una pequeña corona de espuma.",
+        "Bebe sin hielo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso de cerveza",
       "recipe_note": "Crear como bebida de servicio directo; no reconstruir ni presentar como receta actual la fórmula histórica del cuaderno.",
       "recipe_status": "house"
     },
@@ -31591,17 +33902,37 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la casa",
-          "amount": 1,
-          "unit": "porción"
+          "name": "leche",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "yemas de huevo",
+          "amount": 2,
+          "unit": "unidad"
+        },
+        {
+          "name": "azúcar",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "extracto de vainilla",
+          "amount": 5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión contemporánea de la casa, separada de la fuente histórica."
+        "Calienta la leche con la vainilla sin hervir.",
+        "Bate las yemas con el azúcar.",
+        "Templa las yemas con un poco de leche caliente y devuelve todo a la olla.",
+        "Cocina a fuego bajo, removiendo, hasta que cubra el dorso de una cuchara.",
+        "Sirve tibia o fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza o vaso pequeño",
       "recipe_note": "Crear una receta original de natilla líquida sin alcohol, sin copiar la preparación atribuida a la abuela de Mason.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada"
     },
     {
       "id": "vino-con-menta-tomillo-y-salvia",
@@ -31613,23 +33944,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "vino",
-          "amount": 120,
+          "name": "vino blanco seco",
+          "amount": 150,
           "unit": "ml"
         },
         {
-          "name": "acompañamiento aromático",
+          "name": "hojas de menta",
+          "amount": 5,
+          "unit": "unidad"
+        },
+        {
+          "name": "ramita de tomillo",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
+        },
+        {
+          "name": "hoja de salvia",
+          "amount": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "miel",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Mezcla el vino, las hierbas y la miel.",
+        "Deja infusionar en frío durante 30 minutos.",
+        "Cuela y sirve fresco."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de vino",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Ramita de tomillo o menta"
     },
     {
       "id": "conditum-paradoxum",
@@ -31641,23 +33989,46 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "vino tinto",
+          "amount": 150,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
-          "unit": "ml"
+          "name": "miel",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "dátil sin carozo",
+          "amount": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "hoja de laurel pequeña",
+          "amount": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "pimienta negra",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "canela",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta la miel con 30 ml del vino hasta disolverla.",
+        "Añade el resto del vino, el dátil y las especias.",
+        "Mantén a fuego muy bajo durante 10 minutos sin hervir.",
+        "Cuela y sirve tibio o frío."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa pequeña de vino",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "vino-de-petalos-de-rosa",
@@ -31669,23 +34040,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "vino",
-          "amount": 120,
+          "name": "vino blanco semiseco",
+          "amount": 150,
           "unit": "ml"
         },
         {
-          "name": "acompañamiento aromático",
-          "amount": 1,
-          "unit": "porción"
+          "name": "pétalos de rosa comestibles y sin pesticidas",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "miel",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Mezcla el vino, los pétalos y la miel.",
+        "Deja infusionar en frío entre 1 y 2 horas.",
+        "Cuela cuidadosamente y sirve."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de vino",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Pétalos de rosa comestibles"
     },
     {
       "id": "piment",
@@ -31697,23 +34075,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "vino",
-          "amount": 120,
+          "name": "vino blanco",
+          "amount": 150,
           "unit": "ml"
         },
         {
-          "name": "acompañamiento aromático",
+          "name": "miel",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "rama pequeña de canela",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
+        },
+        {
+          "name": "jengibre fresco",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "pimienta negra",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta el vino con la miel y las especias sin hervir.",
+        "Mantén a fuego bajo durante 10 minutos.",
+        "Deja reposar, cuela y sirve tibio o frío."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de vino o taza",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rama de canela"
     },
     {
       "id": "hippocras",
@@ -31726,23 +34121,41 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "vino",
-          "amount": 120,
+          "name": "vino tinto",
+          "amount": 150,
           "unit": "ml"
         },
         {
-          "name": "acompañamiento aromático",
+          "name": "miel o azúcar",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "rama pequeña de canela",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
+        },
+        {
+          "name": "jengibre fresco",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "clavo de olor",
+          "amount": 1,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta el vino con la miel y las especias sin dejar que hierva.",
+        "Mantén a fuego bajo durante 10 minutos.",
+        "Deja reposar otros 10 minutos y cuela.",
+        "Sirve caliente o enfría antes de servir."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de vino o taza",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "lambs-wool",
@@ -31752,23 +34165,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ale o sidra",
+          "amount": 180,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
-          "unit": "ml"
+          "name": "pulpa de manzana asada",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "azúcar morena",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "nuez moscada",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "jengibre",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta la ale o la sidra con el azúcar y las especias sin hervir.",
+        "Añade la pulpa de manzana y bate hasta que la mezcla quede espumosa.",
+        "Sirve caliente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada"
     },
     {
       "id": "stone-fence",
@@ -31778,23 +34208,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "bourbon o ron añejo",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "sidra seca",
+          "amount": 120,
           "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade el destilado y el amargo.",
+        "Completa con sidra y remueve una vez."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de manzana"
     },
     {
       "id": "negus",
@@ -31804,23 +34241,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "vino",
+          "name": "oporto o vino tinto",
           "amount": 120,
           "unit": "ml"
         },
         {
-          "name": "acompañamiento aromático",
+          "name": "agua caliente",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "azúcar",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "tira de piel de limón",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
+        },
+        {
+          "name": "nuez moscada",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta el vino, el agua, el azúcar y la piel de limón sin hervir.",
+        "Remueve hasta disolver el azúcar.",
+        "Sirve caliente y añade nuez moscada."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada"
     },
     {
       "id": "gin-twist",
@@ -31830,23 +34284,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra Old Tom o London dry",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "licor de naranja",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita la ginebra, el licor, el limón y el jarabe con hielo.",
+        "Cuela en un vaso con hielo fresco.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso Collins",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "rum-toddy",
@@ -31858,23 +34329,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ron oscuro",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "agua caliente",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Disuelve la miel en el agua caliente.",
+        "Añade el ron y el limón.",
+        "Remueve y sirve."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón y rama de canela"
     },
     {
       "id": "ponche-de-ron-y-limon",
@@ -31886,23 +34369,40 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ron oscuro",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jugo de limón",
+          "amount": 20,
           "unit": "ml"
+        },
+        {
+          "name": "azúcar morena",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "agua caliente",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "clavos de olor",
+          "amount": 2,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Disuelve el azúcar en el agua caliente.",
+        "Añade el ron, el limón y los clavos.",
+        "Remueve y deja reposar dos minutos antes de servir."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "sherry-cobbler",
@@ -31912,23 +34412,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "amontillado u oloroso",
+          "amount": 90,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jarabe simple",
+          "amount": 15,
           "unit": "ml"
+        },
+        {
+          "name": "medias rodajas de naranja",
+          "amount": 2,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita el jerez, el jarabe y una rodaja de naranja con hielo.",
+        "Cuela sobre abundante hielo picado.",
+        "Corona con más hielo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso Cobbler o vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja, frutos rojos y menta"
     },
     {
       "id": "brandy-smash",
@@ -31938,23 +34445,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "brandy",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jarabe simple",
+          "amount": 15,
           "unit": "ml"
+        },
+        {
+          "name": "hojas de menta",
+          "amount": 8,
+          "unit": "unidad"
+        },
+        {
+          "name": "gajos de limón",
+          "amount": 2,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Presiona suavemente la menta y el limón con el jarabe en una coctelera.",
+        "Añade el brandy y hielo; agita.",
+        "Cuela sobre hielo picado."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Ramillete de menta y gajo de limón"
     },
     {
       "id": "eye-opener",
@@ -31964,23 +34483,44 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ron blanco",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "curaçao de naranja",
+          "amount": 5,
           "unit": "ml"
+        },
+        {
+          "name": "crème de noyaux o amaretto",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "absenta",
+          "amount": 2,
+          "unit": "dash"
+        },
+        {
+          "name": "yema de huevo pasteurizada",
+          "amount": 1,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con abundante hielo hasta emulsionar.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "earthquake",
@@ -31990,23 +34530,24 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "cognac",
+          "amount": 30,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "absenta",
+          "amount": 30,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita ambos ingredientes con hielo.",
+        "Cuela en una copa pequeña fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel pequeña",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "green-swizzle",
@@ -32016,23 +34557,50 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ron blanco",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "ron overproof",
+          "amount": 10,
           "unit": "ml"
+        },
+        {
+          "name": "absenta",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "falernum",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "crème de menthe verde",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Añade todos los ingredientes salvo el amargo a un vaso con hielo picado.",
+        "Bate enérgicamente con una cuchara o palo de swizzle hasta que el vaso se escarche.",
+        "Añade más hielo picado y termina con el amargo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Menta y rodaja de lima"
     },
     {
       "id": "bronx-cocktail",
@@ -32044,23 +34612,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "vermut seco",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut dulce",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja fresco",
+          "amount": 30,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "hangmans-blood",
@@ -32072,21 +34651,47 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ginebra",
+          "amount": 10,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "ron",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "whisky",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "oporto",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "cerveza stout",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "espumante brut",
+          "amount": 30,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Vierte los cinco destilados y el oporto en una jarra o vaso grande.",
+        "Añade lentamente la stout.",
+        "Termina con el espumante y remueve con mucha suavidad."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Jarra o vaso de pinta grande",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
       "recipe_status": "house"
     },
@@ -32100,23 +34705,44 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ginebra",
+          "amount": 30,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "vermut seco",
+          "amount": 15,
           "unit": "ml"
+        },
+        {
+          "name": "vermut dulce",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de naranja",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "bourbon-and-coke",
@@ -32128,23 +34754,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "bourbon",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "bebida de cola",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima, opcional",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade el bourbon y, si lo usas, el jugo de lima.",
+        "Completa con la bebida de cola y remueve una vez."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima"
     },
     {
       "id": "knickerbocker-martini",
@@ -32154,23 +34787,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ginebra",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "vermut seco",
+          "amount": 22.5,
           "unit": "ml"
+        },
+        {
+          "name": "vermut dulce",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de naranja",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve todos los ingredientes con hielo hasta enfriar.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "pink-gin",
@@ -32180,23 +34824,25 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ginebra Plymouth o London dry",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
-          "unit": "ml"
+          "name": "amargo de Angostura",
+          "amount": 4,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Enfría una copa.",
+        "Remueve la ginebra y el amargo con hielo.",
+        "Cuela en la copa."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "sidecar",
@@ -32206,23 +34852,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "cognac",
+          "amount": 50,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "licor de naranja",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 25,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja; media escarcha de azúcar opcional"
     },
     {
       "id": "hock-and-seltzer",
@@ -32234,23 +34886,25 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "vino blanco alemán seco",
+          "amount": 90,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "agua con gas",
           "amount": 90,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso con hielo.",
+        "Añade el vino blanco.",
+        "Completa con agua con gas y remueve una vez."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto o copa de vino",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "may-queen",
@@ -32260,21 +34914,42 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "espumante brut",
+          "amount": 90,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "brandy",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "armagnac",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "kümmel",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "Chartreuse amarilla",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "cerveza stout",
+          "amount": 30,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Enfría todos los ingredientes.",
+        "Añade los destilados y licores a una copa grande.",
+        "Incorpora el espumante y termina con la stout, vertiendo lentamente para controlar la espuma."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa grande o cáliz",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
       "recipe_status": "house"
     },
@@ -32286,23 +34961,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "absenta",
+          "amount": 30,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "agua muy fría",
           "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple, opcional",
+          "amount": 5,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena una coctelera con hielo y añade la absenta y el agua fría.",
+        "Agita brevemente para enfriar y diluir.",
+        "Cuela en una copa pequeña fría; añade el jarabe sólo si prefieres suavizar el amargor."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa pequeña o vaso bajo",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "alexandra",
@@ -32312,23 +34994,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "brandy",
+          "amount": 30,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "crème de cacao blanca",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "crema de leche",
+          "amount": 30,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con abundante hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada recién rallada"
     },
     {
       "id": "beer-milkshake",
@@ -32338,23 +35026,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "cerveza stout fría",
+          "amount": 180,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "helado de chocolate",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "leche fría",
+          "amount": 60,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Licúa primero el helado y la leche hasta que estén cremosos.",
+        "Añade la stout y pulsa sólo unos segundos para no perder toda la carbonatación.",
+        "Sirve de inmediato."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso de batido o pinta",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Chocolate rallado"
     },
     {
       "id": "webster-f-street-lay-away-plan",
@@ -32364,23 +35059,25 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ginebra",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "Chartreuse verde",
+          "amount": 7.5,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Enjuaga una copa fría con la Chartreuse, dejando el licor dentro.",
+        "Agita la ginebra con hielo durante 10 a 12 segundos.",
+        "Cuela la ginebra en la copa preparada."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "pin",
@@ -32390,23 +35087,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "jugo de piña",
           "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela en un vaso con hielo fresco."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso bajo o alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Hoja o trozo de piña"
     },
     {
       "id": "daiquiri",
@@ -32416,23 +35119,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ron blanco",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jugo de lima",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja fina de lima"
     },
     {
       "id": "tom-collins",
@@ -32442,23 +35151,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "jugo de limón",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
           "amount": 90,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita la ginebra, el limón y el jarabe con hielo.",
+        "Cuela en un vaso alto con hielo fresco.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso Collins",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón y cereza"
     },
     {
       "id": "old-fashioned",
@@ -32468,23 +35189,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "bourbon o rye whiskey",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jarabe demerara",
+          "amount": 7.5,
           "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
+        },
+        {
+          "name": "amargo de naranja",
+          "amount": 1,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve todos los ingredientes con hielo.",
+        "Cuela sobre un cubo grande de hielo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "brandy-alexander",
@@ -32494,23 +35226,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "brandy",
+          "amount": 30,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "crème de cacao oscura",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "crema de leche",
+          "amount": 30,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con abundante hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada recién rallada"
     },
     {
       "id": "frozen-daiquiri",
@@ -32522,23 +35260,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ron blanco",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jugo de lima",
+          "amount": 30,
           "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "hielo triturado",
+          "amount": 150,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Licúa todos los ingredientes hasta obtener una textura de granizado uniforme.",
+        "Sirve de inmediato."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa hurricane o copa grande",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de lima"
     },
     {
       "id": "gin-coconut-water",
@@ -32550,23 +35299,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "agua de coco",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade la ginebra y la lima.",
+        "Completa con agua de coco y remueve suavemente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima"
     },
     {
       "id": "gin-fizz",
@@ -32576,23 +35332,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jugo de limón",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita la ginebra, el limón y el jarabe con hielo.",
+        "Cuela en un vaso alto.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "house-of-lords-martini",
@@ -32604,23 +35372,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "vermut seco",
+          "amount": 15,
           "unit": "ml"
+        },
+        {
+          "name": "vermut dulce",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de naranja",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve todos los ingredientes con hielo.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "stinger",
@@ -32630,23 +35409,24 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "cognac",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "crème de menthe blanca",
+          "amount": 20,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve ambos ingredientes con hielo.",
+        "Cuela en una copa fría o sobre un cubo grande de hielo."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé o vaso bajo",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Hoja de menta"
     },
     {
       "id": "sweet-rob-roy",
@@ -32656,23 +35436,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "whisky escocés",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "vermut dulce",
+          "amount": 25,
           "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve todos los ingredientes con hielo.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Cereza"
     },
     {
       "id": "berlin-station-chief",
@@ -32682,23 +35468,24 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ginebra London dry",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "whisky escocés ahumado",
+          "amount": 15,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve ambos destilados con hielo hasta enfriar y obtener una ligera dilución.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "tequila-sunrise",
@@ -32708,23 +35495,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "tequila blanco",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "jugo de naranja",
           "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "granadina",
+          "amount": 15,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade el tequila y el jugo de naranja.",
+        "Vierte la granadina lentamente para que se deposite en el fondo; no remuevas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja y cereza"
     },
     {
       "id": "caudle",
@@ -32734,23 +35528,41 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "ale clara o vino blanco",
+          "amount": 180,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "yema de huevo pasteurizada",
+          "amount": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "azúcar",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "crema de leche",
+          "amount": 30,
           "unit": "ml"
+        },
+        {
+          "name": "nuez moscada",
+          "amount": 1,
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta la ale o el vino a fuego bajo sin hervir.",
+        "Bate la yema con el azúcar y la crema.",
+        "Templa la mezcla de huevo con un poco del líquido caliente y luego incorpórala a la olla.",
+        "Bate a fuego bajo hasta que espese levemente y sirve caliente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada recién rallada"
     },
     {
       "id": "apple-hot-toddy",
@@ -32762,23 +35574,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "bourbon o brandy de manzana",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "sidra de manzana",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Calienta la sidra sin hervir.",
+        "Disuelve la miel y añade el destilado y el limón.",
+        "Sirve caliente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de manzana y rama de canela"
     },
     {
       "id": "whiskey-cock-tail",
@@ -32790,23 +35614,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "rye whiskey o bourbon",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jarabe simple",
+          "amount": 7.5,
           "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
+        },
+        {
+          "name": "amargo de naranja",
+          "amount": 1,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Remueve todos los ingredientes con hielo.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "clover-club",
@@ -32816,23 +35651,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "ginebra",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jugo de limón",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de frambuesa",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "clara de huevo pasteurizada",
+          "amount": 20,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita primero sin hielo para emulsionar la clara.",
+        "Añade hielo y vuelve a agitar con fuerza.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Frambuesas"
     },
     {
       "id": "horses-neck",
@@ -32844,23 +35691,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "brandy o bourbon",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "ginger ale",
+          "amount": 120,
           "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Forma una espiral larga con la piel de un limón y colócala dentro del vaso.",
+        "Llena el vaso con hielo y añade el destilado y el amargo.",
+        "Completa con ginger ale."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Espiral larga de piel de limón"
     },
     {
       "id": "pompier",
@@ -32870,23 +35724,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "vermut seco",
+          "amount": 60,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "crème de cassis",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
           "amount": 90,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade el vermut y la crème de cassis.",
+        "Completa con agua con gas y remueve suavemente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "spiked-lemonade",
@@ -32898,23 +35759,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "vodka",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
+          "name": "jugo de limón",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
           "amount": 90,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita el vodka, el limón y el jarabe con hielo.",
+        "Cuela en un vaso con hielo fresco.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "vodka-coke",
@@ -32926,23 +35799,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "vodka",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "bebida de cola",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade el vodka y la lima.",
+        "Completa con cola y remueve una vez."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima"
     },
     {
       "id": "sonnie-boy",
@@ -32952,23 +35832,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "té negro caliente",
+          "amount": 120,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "jerez seco",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Prepara un té negro concentrado.",
+        "Disuelve la miel y añade el jerez.",
+        "Sirve caliente."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Taza o termo pequeño",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "margarita",
@@ -32978,23 +35865,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
-          "amount": 45,
+          "name": "tequila blanco",
+          "amount": 50,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "licor de naranja",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de agave",
+          "amount": 10,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Humedece media circunferencia de la copa con lima y pásala por sal.",
+        "Agita los ingredientes con hielo.",
+        "Cuela en la copa o sirve sobre hielo fresco."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa Margarita o vaso bajo",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Media escarcha de sal y gajo de lima"
     },
     {
       "id": "vodka-tonic",
@@ -33006,23 +35905,25 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "vodka",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "agua tónica",
+          "amount": 150,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Llena un vaso alto con hielo.",
+        "Añade el vodka.",
+        "Completa con tónica y remueve una vez."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón o lima"
     },
     {
       "id": "cosmopolitan",
@@ -33032,23 +35933,34 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base alcohólica",
+          "name": "vodka cítrico",
           "amount": 45,
           "unit": "ml"
         },
         {
-          "name": "mezclador",
-          "amount": 90,
+          "name": "licor de naranja",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de arándano rojo",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
           "unit": "ml"
         }
       ],
       "steps": [
-        "Combina los ingredientes con hielo o calor según el estilo de la bebida.",
-        "Sirve de inmediato en un vaso limpio."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso apropiado",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta contemporánea de la casa; no reproduce ni atribuye como histórica la fórmula de Sip and Sensibility.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "whiskey-and-soda",
@@ -33107,17 +36019,45 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "vino tinto",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy, opcional",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "miel o azúcar",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "rama pequeña de canela",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
+        },
+        {
+          "name": "clavos de olor",
+          "amount": 2,
+          "unit": "unidad"
+        },
+        {
+          "name": "tira de piel de naranja",
+          "amount": 1,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Calienta todos los ingredientes a fuego bajo durante 10 minutos sin hervir.",
+        "Retira del fuego y deja reposar 5 minutos.",
+        "Cuela y sirve caliente."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja y rama de canela"
     },
     {
       "id": "brandy-de-jerez-solera",
@@ -33145,17 +36085,50 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ron añejo",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "ron oscuro",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "ron overproof",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de pomelo",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de miel",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes salvo el agua con gas con hielo.",
+        "Cuela en un vaso lleno de hielo picado.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Menta y gajo de lima"
     },
     {
       "id": "volnay",
@@ -33333,17 +36306,30 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "ginger beer",
+          "amount": 120,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena una taza o vaso con hielo.",
+        "Añade el vodka y la lima.",
+        "Completa con ginger beer y remueve una vez."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza de cobre o vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima y menta"
     },
     {
       "id": "napa-valley-cabernet-sauvignon",
@@ -33371,17 +36357,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "whiskey",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita el whiskey, el limón y el jarabe con hielo.",
+        "Cuela en un vaso alto.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "french-75",
@@ -33393,17 +36397,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "espumante brut",
+          "amount": 90,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita la ginebra, el limón y el jarabe con hielo.",
+        "Cuela en una copa fría.",
+        "Completa lentamente con el espumante."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa flauta",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "california-old-vine-zinfandel",
@@ -33433,17 +36455,30 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "cerveza lager",
+          "amount": 165,
+          "unit": "ml"
+        },
+        {
+          "name": "limonada con gas",
+          "amount": 165,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enfría la cerveza y la limonada.",
+        "Vierte primero la limonada y el limón en un vaso inclinado.",
+        "Añade lentamente la cerveza para controlar la espuma."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso de cerveza",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "whiskey-smash",
@@ -33455,17 +36490,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "bourbon",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "hojas de menta",
+          "amount": 8,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Presiona suavemente la menta con el jarabe y el limón.",
+        "Añade el bourbon y hielo; agita.",
+        "Cuela sobre hielo picado."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Ramillete de menta y gajo de limón"
     },
     {
       "id": "ribera-del-duero",
@@ -33495,15 +36548,27 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "licor de café",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "crema irlandesa",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja de alta graduación",
+          "amount": 20,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Vierte el licor de café en un vaso de shot.",
+        "Forma una segunda capa de crema irlandesa y una tercera de licor de naranja usando el dorso de una cuchara.",
+        "Si se flamea, enciende sólo la capa superior y apaga completamente la llama antes de beber."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso de shot resistente al calor",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
       "recipe_status": "house"
     },
@@ -33553,17 +36618,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "té de manzanilla frío",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua tónica o con gas",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Disuelve la miel en el té cuando todavía esté tibio y deja enfriar.",
+        "Sirve sobre hielo y añade el jugo de limón.",
+        "Completa con tónica o agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "budweiser",
@@ -33647,17 +36730,25 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra London dry",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "agua tónica",
+          "amount": 150,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena un vaso con hielo firme.",
+        "Añade la ginebra.",
+        "Completa lentamente con tónica y remueve una vez."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa balón o vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "inside-job",
@@ -33667,17 +36758,39 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "bourbon",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de maraschino",
+          "amount": 7.5,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "absenta",
           "amount": 1,
-          "unit": "porción"
+          "unit": "dash"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 1,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Remueve todos los ingredientes con hielo hasta enfriar.",
+        "Cuela sobre un cubo grande de hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Cereza y piel de naranja"
     },
     {
       "id": "whiskey-buck",
@@ -33687,17 +36800,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "whiskey",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "ginger ale o ginger beer",
+          "amount": 120,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena un vaso alto con hielo.",
+        "Añade el whiskey y la lima.",
+        "Completa con ginger ale o ginger beer."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima"
     },
     {
       "id": "rolling-rock",
@@ -33725,17 +36851,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "whisky escocés",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut dulce",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de cereza",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja fresco",
+          "amount": 22.5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "white-zinfandel",
@@ -33781,17 +36924,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "Chartreuse verde",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de maraschino",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 22.5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Cereza"
     },
     {
       "id": "corpse-reviver",
@@ -33801,17 +36961,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lillet Blanc",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "absenta para enjuagar la copa",
+          "amount": 3,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enjuaga una copa fría con la absenta y desecha el exceso.",
+        "Agita los demás ingredientes con hielo.",
+        "Cuela finamente en la copa preparada."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "irish-car-bomb",
@@ -33821,15 +37004,27 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "cerveza stout irlandesa",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "whiskey irlandés",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "crema irlandesa",
+          "amount": 20,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Sirve la stout en un vaso de pinta, dejando espacio.",
+        "Vierte el whiskey y la crema irlandesa en un vaso de shot.",
+        "Deja caer el shot dentro de la cerveza y bebe inmediatamente, antes de que la crema se corte."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso de pinta y vaso de shot",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
       "recipe_status": "house"
     },
@@ -33857,17 +37052,45 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "absenta",
+          "amount": 7.5,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de jengibre",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "hojas de menta",
+          "amount": 8,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Presiona suavemente la menta con el jarabe y el limón.",
+        "Añade la ginebra, la absenta, el licor de jengibre y hielo picado.",
+        "Remueve desde abajo y corona con más hielo picado."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso julep o vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Ramillete de menta y piel de limón"
     },
     {
       "id": "the-obituary",
@@ -33877,17 +37100,29 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "absenta",
+          "amount": 5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Remueve todos los ingredientes con hielo hasta enfriar.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "india-pale-ale",
@@ -33935,17 +37170,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vino tinto",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "brandy",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de naranja",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "naranja y manzana en trozos",
+          "amount": 60,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Mezcla el vino, el brandy, el jugo, el jarabe y la fruta.",
+        "Deja reposar en frío al menos 30 minutos.",
+        "Sirve con hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de vino grande",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja"
     },
     {
       "id": "knifey-moloko-milk-punch",
@@ -33955,17 +37213,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "absenta",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "anisette",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "crema irlandesa",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "leche",
+          "amount": 100,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena un vaso bajo con hielo.",
+        "Añade la absenta, el anisette, la crema irlandesa y el jarabe.",
+        "Completa con leche y remueve hasta integrar."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada"
     },
     {
       "id": "arak",
@@ -34011,17 +37292,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra lavada con aceite de oliva",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "salmuera de aceituna",
+          "amount": 2.5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Remueve todos los ingredientes con hielo hasta enfriar.",
+        "Cuela finamente en una copa fría para evitar residuos de grasa."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa Nick & Nora",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Aceituna verde y piel de limón"
     },
     {
       "id": "pan-galactic-gargle-blaster",
@@ -34033,17 +37326,45 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "vodka",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "curaçao azul",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "agua tónica",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita la ginebra, el vodka, el curaçao, el limón y el jarabe con hielo.",
+        "Cuela en un vaso con hielo fresco.",
+        "Completa con agua tónica."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "classic-martini",
@@ -34055,17 +37376,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "ginebra",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "vermut seco",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de naranja, opcional",
           "amount": 1,
-          "unit": "porción"
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Remueve los ingredientes con hielo hasta enfriar y diluir ligeramente.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Aceituna verde o piel de limón"
     },
     {
       "id": "wine-dealers-choice",
@@ -34095,17 +37428,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lillet Blanc",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "curaçao azul",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 22.5,
+          "unit": "ml"
+        },
+        {
+          "name": "absenta para enjuagar la copa",
+          "amount": 3,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enjuaga una copa fría con la absenta y desecha el exceso.",
+        "Agita los demás ingredientes con hielo.",
+        "Cuela finamente en la copa preparada."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "english-ale",
@@ -34153,17 +37509,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "leche",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "whiskey irlandés",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de café",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de avellana",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "rama pequeña de canela",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Calienta la leche con la canela sin hervir y retira la rama.",
+        "Añade los licores y remueve.",
+        "Sirve caliente."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza resistente al calor",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Crema batida y canela"
     },
     {
       "id": "sour-beer",
@@ -34285,17 +37664,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "curaçao azul",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de arándano blanco",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "jack-daniels-and-coffee",
@@ -34307,17 +37703,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "Tennessee whiskey",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "café caliente",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "azúcar morena",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "crema ligeramente batida",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Disuelve el azúcar en el café caliente.",
+        "Añade el whiskey y remueve.",
+        "Vierte la crema sobre el dorso de una cuchara para que quede flotando."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de café irlandés o taza",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Granos de café"
     },
     {
       "id": "magical-martini",
@@ -34329,17 +37743,29 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka cítrico",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de frutilla",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Frutilla y piel de limón"
     },
     {
       "id": "barleywine",
@@ -34423,17 +37849,39 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ron oscuro",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de piña o naranja",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela en un vaso con hielo fresco."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja y gajo de lima"
     },
     {
       "id": "tawny-port",
@@ -34499,17 +37947,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Campari",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 22.5,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "white-russian",
@@ -34521,15 +37986,27 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de café",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "crema de leche",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena un vaso bajo con hielo.",
+        "Añade el vodka y el licor de café.",
+        "Vierte la crema por encima y remueve al gusto."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
       "recipe_status": "house"
     },
@@ -34579,17 +38056,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de chocolate",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "crème de cacao",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "crema de leche",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Chocolate rallado"
     },
     {
       "id": "provencal-rose",
@@ -34619,17 +38113,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "té negro frío",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "néctar de durazno",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita el té, el néctar, el limón y el jarabe con hielo.",
+        "Cuela en un vaso con hielo fresco.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de durazno o rodaja de limón"
     },
     {
       "id": "the-chicago",
@@ -34641,17 +38158,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "brandy",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo de Angostura",
+          "amount": 2,
+          "unit": "dash"
+        },
+        {
+          "name": "espumante brut",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita el brandy, el licor y el amargo con hielo.",
+        "Cuela en una copa fría.",
+        "Completa con espumante."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa flauta o coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja; borde de azúcar opcional"
     },
     {
       "id": "washington-syrah",
@@ -34699,17 +38234,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ginebra",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "ginger ale",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena un vaso alto con hielo.",
+        "Añade la ginebra y la lima.",
+        "Completa con ginger ale y remueve una vez."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima"
     },
     {
       "id": "merlot",
@@ -34803,17 +38351,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de melón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de mango",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes con hielo.",
+        "Cuela en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de cóctel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de lima"
     },
     {
       "id": "sparkling-wine",
@@ -34913,17 +38478,55 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "vodka",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "ginebra",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "ron blanco",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "tequila blanco",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "licor de naranja",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "bebida de cola",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita todos los ingredientes salvo la cola con hielo.",
+        "Cuela en un vaso alto con hielo fresco.",
+        "Completa con la cola y remueve una vez."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "tap-water",
@@ -34951,17 +38554,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "néctar de mango",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de jengibre",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita el néctar, la lima y el jarabe con hielo.",
+        "Cuela en un vaso con hielo fresco.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de lima y menta"
     },
     {
       "id": "arabic-coffee",
@@ -34973,15 +38594,32 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "café arábica molido muy fino",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "vainas de cardamomo ligeramente machacadas",
+          "amount": 3,
+          "unit": "unidad"
+        },
+        {
+          "name": "azafrán, opcional",
           "amount": 1,
-          "unit": "porción"
+          "unit": "pizca"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Calienta el agua con el cardamomo hasta casi hervir.",
+        "Añade el café, baja el fuego y deja que forme espuma sin desbordarse.",
+        "Retira, deja reposar un minuto y sirve con cuidado para que el sedimento quede en el recipiente."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Finjan o taza pequeña",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
       "recipe_status": "house"
     },
@@ -34993,17 +38631,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "bourbon",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de especias masala",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "clara de huevo pasteurizada",
+          "amount": 20,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita primero sin hielo para emulsionar la clara.",
+        "Añade hielo y vuelve a agitar con fuerza.",
+        "Cuela sobre hielo fresco."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Canela espolvoreada"
     },
     {
       "id": "baijiu",
@@ -35015,15 +38671,16 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "baijiu",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Sirve el baijiu a temperatura ambiente en una copa pequeña.",
+        "Bébelo en sorbos cortos; no se mezcla ni se sirve con hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa pequeña para baijiu o vaso de licor",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
       "recipe_status": "house"
     },
@@ -35037,17 +38694,19 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "mamajuana embotellada o previamente macerada",
+          "amount": 45,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Sirve la mamajuana a temperatura ambiente o sobre un cubo grande de hielo.",
+        "No añadas mezcladores."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja, opcional"
     },
     {
       "id": "nieve-raspada",
@@ -35059,17 +38718,30 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "hielo triturado fino",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "jarabe de fruta",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Forma una montaña compacta con el hielo triturado.",
+        "Distribuye el jarabe de fruta por toda la superficie.",
+        "Añade el jugo de lima y sirve de inmediato."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto o vaso de papel",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Fruta fresca"
     },
     {
       "id": "cafe",
@@ -35151,17 +38823,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "té negro muy concentrado y frío",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe demerara",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de anís",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "amargo aromático sin alcohol",
+          "amount": 2,
+          "unit": "dash"
+        },
+        {
+          "name": "agua fría",
+          "amount": 30,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enjuaga un vaso frío con la mitad del jarabe de anís.",
+        "Remueve el té, el agua, el jarabe demerara, el resto del jarabe de anís y el amargo con hielo.",
+        "Cuela sobre un cubo grande de hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de limón"
     },
     {
       "id": "kombucha",
@@ -35173,17 +38868,20 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "kombucha fría",
+          "amount": 250,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enfría bien la kombucha.",
+        "Abre con cuidado para liberar la presión y sirve lentamente.",
+        "Bebe sin hielo o sobre un cubo grande."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto o copa de vino",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón, opcional"
     },
     {
       "id": "doogh",
@@ -35195,17 +38893,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "yogur natural",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "agua muy fría",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "sal",
           "amount": 1,
-          "unit": "porción"
+          "unit": "g"
+        },
+        {
+          "name": "menta seca",
+          "amount": 1,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Bate el yogur con el agua y la sal hasta que quede homogéneo y ligeramente espumoso.",
+        "Añade la menta y remueve.",
+        "Sirve bien frío, con o sin hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Menta fresca"
     },
     {
       "id": "cordial-de-frutilla",
@@ -35217,17 +38933,41 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "frutillas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "azúcar",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas para servir",
+          "amount": 120,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Cocina las frutillas, el agua y el azúcar durante 8 minutos.",
+        "Cuela, presionando suavemente la fruta, y añade el limón.",
+        "Enfría el concentrado.",
+        "Sirve 45 ml de cordial con hielo y completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Frutilla fresca"
     },
     {
       "id": "jugo-de-naranja",
@@ -35239,17 +38979,19 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "jugo de naranja recién exprimido",
+          "amount": 250,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enfría el jugo.",
+        "Sirve solo o sobre hielo y bebe de inmediato."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja"
     },
     {
       "id": "spritzer-de-granada",
@@ -35261,17 +39003,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "jugo de granada",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena una copa con hielo.",
+        "Añade el jugo de granada, la lima y el jarabe.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de vino",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Semillas de granada y rodaja de lima"
     },
     {
       "id": "root-beer",
@@ -35336,17 +39096,25 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "puré de durazno",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "prosecco o espumante brut",
+          "amount": 90,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Enfría ambos ingredientes.",
+        "Vierte el puré en una copa y completa lentamente con el espumante.",
+        "Remueve una sola vez y con suavidad."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa flauta",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de durazno"
     },
     {
       "id": "bebida-sin-alcohol-de-inicio",
@@ -35358,17 +39126,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "jugo de naranja",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de arándano rojo",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 60,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Llena un vaso alto con hielo.",
+        "Añade los jugos y remueve.",
+        "Completa con agua con gas."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de naranja"
     },
     {
       "id": "batido-de-chocolate-y-palta",
@@ -35380,17 +39166,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "pulpa de palta madura",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "leche fría",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "cacao amargo",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "miel o jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "cubos de hielo",
+          "amount": 4,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Licúa todos los ingredientes hasta que el batido quede cremoso y sin grumos.",
+        "Ajusta la consistencia con un poco más de leche si es necesario.",
+        "Sirve de inmediato."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Cacao espolvoreado"
     },
     {
       "id": "gatorade-te-dulce-pellegrino-o-granizado",
@@ -35402,17 +39211,25 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "Gatorade, té dulce o agua Pellegrino, a elección",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "hielo triturado, si eliges granizado",
+          "amount": 150,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Elige una sola bebida; no mezcles las cuatro opciones.",
+        "Sirve Gatorade, té dulce o Pellegrino bien fríos en un vaso con o sin hielo.",
+        "Para un granizado, licúa la bebida elegida con hielo triturado y sirve de inmediato."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón para el té o el granizado"
     },
     {
       "id": "moca-helado",
@@ -35424,17 +39241,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "espresso frío",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "leche fría",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de chocolate",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "cubos de hielo",
+          "amount": 6,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Mezcla el espresso, la leche y el jarabe.",
+        "Sirve sobre hielo y remueve."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Cacao espolvoreado"
     },
     {
       "id": "daiquiri-de-arandanos",
@@ -35446,17 +39280,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "ron blanco",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "arándanos",
+          "amount": 50,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Machaca suavemente los arándanos en la coctelera.",
+        "Añade el ron, la lima, el jarabe y hielo; agita con fuerza.",
+        "Cuela finamente en una copa fría."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa coupé",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Arándanos"
     },
     {
       "id": "ponche-de-huevo",
@@ -35468,17 +39320,40 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
+          "name": "bourbon o ron añejo",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "leche",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "crema de leche",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "yema de huevo pasteurizada",
           "amount": 1,
-          "unit": "porción"
+          "unit": "unidad"
+        },
+        {
+          "name": "azúcar",
+          "amount": 20,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Agita primero todos los ingredientes sin hielo para disolver el azúcar y emulsionar la yema.",
+        "Añade hielo y vuelve a agitar.",
+        "Cuela en una taza o vaso frío."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza o vaso bajo",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Nuez moscada"
     },
     {
       "id": "te-helado",
@@ -35490,17 +39365,29 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "té negro frío",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 15,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Mezcla el té con el limón y el jarabe.",
+        "Sirve sobre abundante hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "te-de-hibisco",
@@ -35512,17 +39399,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "flores secas de hibisco",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "miel o azúcar",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "jugo de lima",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Infusiona el hibisco en agua recién hervida durante 8 minutos.",
+        "Cuela y disuelve la miel o el azúcar.",
+        "Añade la lima y sirve caliente o enfría para servir con hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza o vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de lima"
     },
     {
       "id": "te-de-jazmin-y-gewurztraminer-alsaciano",
@@ -35534,17 +39439,35 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "té de jazmín frío",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "Gewürztraminer de Alsacia",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "agua con gas",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Disuelve la miel en el té y deja enfriar.",
+        "Sirve el té y el vino sobre hielo.",
+        "Completa con agua con gas y remueve suavemente."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Copa de vino",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Uva o piel de limón"
     },
     {
       "id": "agua-con-gas",
@@ -35596,15 +39519,27 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "té negro inglés caliente",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "leche o crema ligera",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "azúcar",
+          "amount": 10,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Infusiona el té durante 3 a 4 minutos.",
+        "Retira las hojas o la bolsa.",
+        "Añade azúcar y luego leche o crema al gusto."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza de té",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
       "recipe_status": "house"
     },
@@ -35654,17 +39589,30 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "whiskey, opcional",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "bebida de cola",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "jugo de lima, opcional",
+          "amount": 10,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Para la versión sin alcohol, sirve sólo la cola sobre hielo.",
+        "Para el whiskey con cola, añade el whiskey y el jugo de lima antes de completar con la cola.",
+        "Remueve una vez."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Gajo de lima"
     },
     {
       "id": "batido-de-chocolate",
@@ -35676,17 +39624,34 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "leche fría",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "helado de chocolate o vainilla",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "jarabe de chocolate",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "cubos de hielo",
+          "amount": 4,
+          "unit": "unidad"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Licúa la leche, el helado, el jarabe y el hielo hasta obtener una textura uniforme.",
+        "Sirve de inmediato."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Chocolate rallado"
     },
     {
       "id": "sidra-de-manzana",
@@ -35756,17 +39721,30 @@ export const content: PublicCatalog = {
       "alcoholic": false,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "rooibos",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "miel, opcional",
+          "amount": 10,
+          "unit": "g"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Infusiona el rooibos en agua recién hervida durante 5 a 7 minutos.",
+        "Cuela y endulza si lo deseas.",
+        "Sirve caliente o enfría para servir sobre hielo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Taza o vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Piel de naranja"
     },
     {
       "id": "leche-o-leche-vegetal",
@@ -35796,17 +39774,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "bourbon",
+          "amount": 45,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe de jengibre",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "hojas de menta",
+          "amount": 8,
+          "unit": "unidad"
+        },
+        {
+          "name": "ginger beer",
+          "amount": 90,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Presiona suavemente la menta con el jarabe en el vaso.",
+        "Añade el bourbon y llena con hielo picado.",
+        "Completa con ginger beer y remueve desde abajo."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso julep o vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Ramillete de menta y jengibre confitado"
     },
     {
       "id": "limonada-y-limonada-con-vodka",
@@ -35818,17 +39814,35 @@ export const content: PublicCatalog = {
       "alcoholic": true,
       "ingredients": [
         {
-          "name": "base de la bebida",
-          "amount": 1,
-          "unit": "porción"
+          "name": "jugo de limón",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "jarabe simple",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "agua fría",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "vodka, opcional",
+          "amount": 45,
+          "unit": "ml"
         }
       ],
       "steps": [
-        "Prepara una versión original de la casa según los ingredientes disponibles."
+        "Mezcla el limón, el jarabe y el agua.",
+        "Sirve sobre hielo para la versión sin alcohol.",
+        "Para la versión con alcohol, añade el vodka y remueve."
       ],
-      "glassware": "Vaso de preparación",
+      "glassware": "Vaso alto",
       "recipe_note": "Receta de la casa separada del maridaje editorial atribuido a Literary Libations.",
-      "recipe_status": "house"
+      "recipe_status": "house",
+      "garnish": "Rodaja de limón"
     },
     {
       "id": "fanta-naranja",

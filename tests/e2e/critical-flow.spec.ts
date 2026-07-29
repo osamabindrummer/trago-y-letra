@@ -52,12 +52,12 @@ test('el índice reúne los autores canónicos promovidos', async ({ page }) => 
   await expect(page.getByRole('link', { name: 'Daniel Salas' })).toHaveAttribute('href', 'https://bio.link/danielsalasj')
 })
 
-test('la búsqueda abre una ficha promovida con confianza baja visible', async ({ page }) => {
+test('la búsqueda abre una ficha promovida sin mostrar su confianza', async ({ page }) => {
   await page.goto('/')
   await page.getByRole('textbox', { name: '¿A quién lees?' }).fill('Homer')
   await page.getByRole('option', { name: 'Homer' }).click()
   await expect(page.getByRole('heading', { name: 'Homer' })).toBeVisible()
-  await expect(page.getByText('Confianza baja').first()).toBeVisible()
+  await expect(page.getByText('Confianza baja')).toHaveCount(0)
   await expect(page.getByText('Literary Libations').first()).toBeVisible()
 })
 

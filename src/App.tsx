@@ -13,6 +13,7 @@ export function App() {
   const [selected, setSelected] = useState<SearchTarget | null>(null)
   const [page, setPage] = useState<Page>('home')
   const targets = useMemo(() => buildSearchTargets(content.authors, content.discoveries), [])
+  const isInitialHome = page === 'home' && selected === null
 
   const showHome = () => {
     setSelected(null)
@@ -33,7 +34,7 @@ export function App() {
   }
 
   return (
-    <main>
+    <main className={isInitialHome ? 'initial-home' : undefined}>
       <nav className={`site-nav${page === 'home' ? '' : ' site-nav-light'}`} aria-label="Navegación principal">
         <button type="button" className="wordmark" onClick={showHome}>
           Trago <i>y</i> Letra
@@ -56,9 +57,11 @@ export function App() {
         <Sources />
       )}
 
-      <footer className="site-credit">
-        <a href="https://bio.link/danielsalasj">Daniel Salas</a>
-      </footer>
+      {!isInitialHome && (
+        <footer className="site-credit">
+          <a href="https://bio.link/danielsalasj">Daniel Salas</a>
+        </footer>
+      )}
     </main>
   )
 }
@@ -90,10 +93,12 @@ function Home({
       {selected?.kind === 'author' && <AuthorSheet key={selected.author.id} author={selected.author} onClose={onClear} />}
       {selected?.kind === 'provisional' && <ProvisionalAuthorSheet key={selected.author.id} author={selected.author} drinks={content.drinks} onClose={onClear} />}
 
-      <footer className="site-footer">
-        <span>Trago y Letra</span>
-        <span>El vínculo y su fuente, sin preámbulo.</span>
-      </footer>
+      {selected && (
+        <footer className="site-footer">
+          <span>Trago y Letra</span>
+          <span>El vínculo y su fuente, sin preámbulo.</span>
+        </footer>
+      )}
     </>
   )
 }
