@@ -1,6 +1,6 @@
 import { expect, test } from '@playwright/test'
 
-test('búsqueda, ficha y fuente se pueden recorrer', async ({ page }) => {
+test('búsqueda y ficha se pueden recorrer sin exponer la procedencia', async ({ page }) => {
   await page.goto('/')
   await page.getByRole('textbox', { name: '¿A quién lees?' }).fill('onetti')
   await page.getByRole('option', { name: /Juan Carlos Onetti/i }).click()
@@ -58,7 +58,7 @@ test('la búsqueda abre una ficha promovida sin mostrar su confianza', async ({ 
   await page.getByRole('option', { name: 'Homer' }).click()
   await expect(page.getByRole('heading', { name: 'Homer' })).toBeVisible()
   await expect(page.getByText('Confianza baja')).toHaveCount(0)
-  await expect(page.getByText('Literary Libations').first()).toBeVisible()
+  await expect(page.getByText('Literary Libations')).toHaveCount(0)
 })
 
 for (const viewport of [{ width: 390, height: 844 }, { width: 1200, height: 900 }]) {

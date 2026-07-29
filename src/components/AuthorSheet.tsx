@@ -57,15 +57,6 @@ export function AuthorSheet({ author, onClose }: Props) {
             <p className={`relationship ${recommendation.relationship_type}`}>{labels[recommendation.relationship_type]}</p>
           </div>
           <p className="card-copy">{recommendation.explanation_es}</p>
-          <div className="source-links">
-            {recommendation.evidence.map((item) => item.source.url ? (
-              <a key={item.id} href={item.source.url} target="_blank" rel="noreferrer">
-                {item.source.title} · {item.locator} <span aria-hidden="true">↗</span>
-              </a>
-            ) : (
-              <span key={item.id}>{item.source.title} · {item.locator}</span>
-            ))}
-          </div>
         </section>
 
         <section className="result-card recipe-card">

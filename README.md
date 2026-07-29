@@ -31,6 +31,7 @@ npm run validate:content
 npm run validate:library
 npm run validate:research
 npm run export:recommendations
+npm run export:title-translations
 npm run export:recipes
 npx tsx scripts/enrich-author-profiles.ts --ids agatha-christie,aldous-huxley,alexandre-dumas,alice-sebold,anita-diamant
 npx tsx scripts/run-pending-author-profile-enrichment.ts
@@ -44,6 +45,10 @@ npm run build
 `npm run build` valida los datos, genera el contenido público y crea el artefacto estático en `dist/`.
 
 `npm run export:recommendations` genera `exports/recomendaciones-para-revision.md` con todas las recomendaciones publicadas, los identificadores necesarios para reimportarlas y el contexto de evidencia en modo consulta. La persona revisora sólo debe editar decisión, título y texto visible, y conservar los delimitadores técnicos de cada ficha.
+
+`npm run export:title-translations` genera `exports/titulos-para-versiones-en-espanol.csv` con las obras que aparecen en las fichas públicas. La tercera columna conserva únicamente las versiones españolas ya registradas; las celdas vacías son las que requieren comprobación y completado editorial.
+
+`npm run import:title-translations` revisa el CSV completado sin modificar datos. Tras revisar esa salida, `npm run import:title-translations -- --apply` actualiza `display_title_es` de cada obra pública; una celda vacía conserva el título original.
 
 `npm run import:reviewed-recommendations` muestra qué textos cambiaron sin alterar datos. Añade `-- --apply` sólo después de revisar esa salida para incorporar los cambios de `Texto visible` en el catálogo; el importador rechaza títulos, decisiones o delimitadores modificados.
 

@@ -39,6 +39,18 @@ describe('flujo principal', () => {
     expect(app.queryByRole('heading', { name: 'Charles Bukowski' })).not.toBeInTheDocument()
   })
 
+  it('ofrece a Parker y Plath entre las búsquedas de ejemplo', () => {
+    const { container } = render(<App />)
+    const app = within(container)
+
+    fireEvent.click(app.getByRole('button', { name: 'Parker' }))
+    expect(app.getByRole('heading', { name: 'Dorothy Parker' })).toBeInTheDocument()
+
+    fireEvent.click(app.getByRole('button', { name: 'Plath' }))
+    expect(app.getByRole('heading', { name: 'Sylvia Plath' })).toBeInTheDocument()
+    expect(app.queryByRole('button', { name: 'Rayuela' })).not.toBeInTheDocument()
+  })
+
   it('oculta los accesos a hallazgos y fuentes sin retirar las otras páginas', () => {
     const { container } = render(<App />)
     const app = within(container)
@@ -58,15 +70,15 @@ describe('flujo principal', () => {
     expect(app.queryByText('Confianza media')).not.toBeInTheDocument()
   })
 
-  it('abre la ficha canónica de un autor con hallazgos provisionales relacionados', () => {
+  it('abre la ficha canónica sin exponer su procedencia en la tarjeta', () => {
     const { container } = render(<App />)
     const app = within(container)
     fireEvent.change(app.getByRole('textbox', { name: '¿A quién lees?' }), { target: { value: 'Whiskey Cock-Tail' } })
     fireEvent.click(app.getByRole('option', { name: /Mark Twain/i }))
     expect(app.getByRole('heading', { name: 'Mark Twain' })).toBeInTheDocument()
     expect(app.queryByText('Confianza media')).not.toBeInTheDocument()
-    expect(app.getByText(/Literary Eats · PDF p\. 184/)).toBeInTheDocument()
-    expect(app.getByText(/PDF p\. 184/)).toBeInTheDocument()
+    expect(app.queryByText(/Literary Eats · PDF p\. 184/)).not.toBeInTheDocument()
+    expect(app.queryByText(/PDF p\. 184/)).not.toBeInTheDocument()
   })
 
   it('permite abrir una ficha provisional mediante teclado', () => {
@@ -105,8 +117,19 @@ describe('flujo principal', () => {
 
     fireEvent.click(app.getByRole('button', { name: 'Cómo funciona' }))
     expect(credit()).toHaveAttribute('href', 'https://bio.link/danielsalasj')
+    expect(credit().parentElement).toHaveTextContent('Daniel Salas • 2026')
     fireEvent.click(app.getByRole('button', { name: 'Índice' }))
     expect(credit()).toBeInTheDocument()
+  })
+
+  it('muestra títulos españoles validados y mantiene las fuentes fuera de la presentación', () => {
+    const author = structuredClone(content.authors.find((item) => item.id === 'leo-tolstoy')!)
+    const { container } = render(<AuthorSheet author={author} onClose={() => undefined} />)
+    const sheet = within(container)
+
+    expect(sheet.getByText('Guerra y paz')).toBeInTheDocument()
+    expect(sheet.getByText('Ana Karenina')).toBeInTheDocument()
+    expect(container.querySelector('.source-links')).not.toBeInTheDocument()
   })
 })
 

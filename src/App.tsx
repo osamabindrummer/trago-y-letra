@@ -59,7 +59,7 @@ export function App() {
 
       {!isInitialHome && (
         <footer className="site-credit">
-          <a href="https://bio.link/danielsalasj">Daniel Salas</a>
+          <a href="https://bio.link/danielsalasj">Daniel Salas</a><span aria-hidden="true"> • 2026</span>
         </footer>
       )}
     </main>

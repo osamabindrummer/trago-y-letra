@@ -88,14 +88,6 @@ export function DiscoveryLibrary({ discoveries }: { discoveries: PublicDiscovery
               ))}
               {!discovery.flags.includes('recipe_pending') && <span>Receta canónica disponible</span>}
             </div>
-            <div className="discovery-sources">
-              {discovery.source_refs.map((reference) => (
-                <p key={`${reference.source_id}-${reference.locator}`}>
-                  <strong>{reference.source.title}</strong>
-                  <span>{reference.locator}</span>
-                </p>
-              ))}
-            </div>
           </article>
         ))}
       </div>

@@ -11,7 +11,8 @@ interface Props {
 const examples = [
   { label: 'Hemingway', authorId: 'ernest-hemingway' },
   { label: 'Poe', authorId: 'edgar-allan-poe' },
-  { label: 'Rayuela', authorId: 'julio-cortazar' },
+  { label: 'Parker', authorId: 'dorothy-parker' },
+  { label: 'Plath', authorId: 'sylvia-plath' },
 ]
 
 export function SearchBox({ targets, onSelect, onRandom }: Props) {

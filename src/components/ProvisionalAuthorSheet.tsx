@@ -59,11 +59,7 @@ export function ProvisionalAuthorSheet({ author, drinks, onClose }: { author: Pr
               <span className={`confidence-badge confidence-${discovery.confidence}`}>Confianza {confidenceLabel(discovery.confidence)}</span>
             </div>
             <p className="card-copy">{discovery.explanation_es}</p>
-            <dl className="provisional-details">
-              <div><dt>Libro</dt><dd>{discovery.source_refs.map((reference) => reference.source.title).join(' · ')}</dd></div>
-              {discovery.work_title && <div><dt>Obra</dt><dd>{discovery.work_title}</dd></div>}
-              <div><dt>Localizador</dt><dd>{discovery.source_refs.map((reference) => reference.locator).join(' · ')}</dd></div>
-            </dl>
+            {discovery.work_title && <p className="provisional-work">{discovery.work_title}</p>}
             <Preparation discovery={discovery} drinks={drinks} />
           </section>
         ))}

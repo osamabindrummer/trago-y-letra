@@ -2235,7 +2235,7 @@ export const content: PublicCatalog = {
           "id": "the-thin-man",
           "author_id": "dashiell-hammett",
           "original_title": "The Thin Man",
-          "display_title_es": "La delgada línea",
+          "display_title_es": "El hombre delgado",
           "publication_year": 1934,
           "language": "en",
           "identifiers": {},
@@ -4367,7 +4367,7 @@ export const content: PublicCatalog = {
           "id": "the-fall-of-the-house-of-usher",
           "author_id": "edgar-allan-poe",
           "original_title": "The Fall of the House of Usher",
-          "display_title_es": "La caída de la casa Usher",
+          "display_title_es": "La caída de la Casa Usher",
           "publication_year": 1839,
           "language": "en",
           "identifiers": {},
@@ -4679,7 +4679,7 @@ export const content: PublicCatalog = {
           "id": "the-iceman-cometh",
           "author_id": "eugene-oneill",
           "original_title": "The Iceman Cometh",
-          "display_title_es": "El vendedor de hielo",
+          "display_title_es": "Aquí está el vendedor de hielo",
           "publication_year": 1946,
           "language": "en",
           "identifiers": {},
@@ -6314,7 +6314,7 @@ export const content: PublicCatalog = {
           "id": "breakfast-at-tiffanys",
           "author_id": "truman-capote",
           "original_title": "Breakfast at Tiffany's",
-          "display_title_es": "Desayuno en Tiffany’s",
+          "display_title_es": "Desayuno en Tiffany's",
           "publication_year": 1958,
           "language": "en",
           "identifiers": {},
@@ -8806,7 +8806,7 @@ export const content: PublicCatalog = {
           "id": "eudora-welty-a-worn-path",
           "author_id": "eudora-welty",
           "original_title": "A Worn Path",
-          "display_title_es": "A Worn Path",
+          "display_title_es": "El sendero trillado",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -8815,7 +8815,7 @@ export const content: PublicCatalog = {
           "id": "eudora-welty-a-curtain-of-green",
           "author_id": "eudora-welty",
           "original_title": "A Curtain of Green",
-          "display_title_es": "A Curtain of Green",
+          "display_title_es": "Una cortina de follaje",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -9014,7 +9014,7 @@ export const content: PublicCatalog = {
           "id": "bernard-devoto-across-the-wide-missouri",
           "author_id": "bernard-devoto",
           "original_title": "Across the Wide Missouri",
-          "display_title_es": "Across the Wide Missouri",
+          "display_title_es": "Más allá del ancho Misuri",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -9319,7 +9319,7 @@ export const content: PublicCatalog = {
           "id": "benjamin-franklin-the-autobiography-of-benjamin-franklin",
           "author_id": "benjamin-franklin",
           "original_title": "The Autobiography of Benjamin Franklin",
-          "display_title_es": "The Autobiography of Benjamin Franklin",
+          "display_title_es": "Autobiografía de Benjamin Franklin",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -9328,7 +9328,7 @@ export const content: PublicCatalog = {
           "id": "benjamin-franklin-poor-richard-s-almanack",
           "author_id": "benjamin-franklin",
           "original_title": "Poor Richard’s Almanack",
-          "display_title_es": "Poor Richard’s Almanack",
+          "display_title_es": "El almanaque del pobre Richard",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -9622,7 +9622,7 @@ export const content: PublicCatalog = {
           "id": "thomas-jefferson-notes-on-the-state-of-virginia",
           "author_id": "thomas-jefferson",
           "original_title": "Notes on the State of Virginia",
-          "display_title_es": "Notes on the State of Virginia",
+          "display_title_es": "Notas sobre el estado de Virginia",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -9631,7 +9631,7 @@ export const content: PublicCatalog = {
           "id": "thomas-jefferson-the-declaration-of-independence",
           "author_id": "thomas-jefferson",
           "original_title": "The Declaration of Independence",
-          "display_title_es": "The Declaration of Independence",
+          "display_title_es": "Declaración de Independencia",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -10005,7 +10005,7 @@ export const content: PublicCatalog = {
           "id": "walker-percy-the-moviegoer",
           "author_id": "walker-percy",
           "original_title": "The Moviegoer",
-          "display_title_es": "The Moviegoer",
+          "display_title_es": "El cinéfilo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -10014,7 +10014,7 @@ export const content: PublicCatalog = {
           "id": "walker-percy-the-thanatos-syndrome",
           "author_id": "walker-percy",
           "original_title": "The Thanatos Syndrome",
-          "display_title_es": "The Thanatos Syndrome",
+          "display_title_es": "El síndrome de Thanatos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -10188,7 +10188,7 @@ export const content: PublicCatalog = {
           "id": "kenneth-roberts-northwest-passage",
           "author_id": "kenneth-roberts",
           "original_title": "Northwest Passage",
-          "display_title_es": "Northwest Passage",
+          "display_title_es": "Paso del Noroeste",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -10670,7 +10670,7 @@ export const content: PublicCatalog = {
           "id": "mark-twain-adventures-of-huckleberry-finn",
           "author_id": "mark-twain",
           "original_title": "Adventures of Huckleberry Finn",
-          "display_title_es": "Adventures of Huckleberry Finn",
+          "display_title_es": "Las aventuras de Huckleberry Finn",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -10679,7 +10679,7 @@ export const content: PublicCatalog = {
           "id": "mark-twain-the-adventures-of-tom-sawyer",
           "author_id": "mark-twain",
           "original_title": "The Adventures of Tom Sawyer",
-          "display_title_es": "The Adventures of Tom Sawyer",
+          "display_title_es": "Las aventuras de Tom Sawyer",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -12131,7 +12131,7 @@ export const content: PublicCatalog = {
           "id": "chretien-de-troyes-erec-and-enide",
           "author_id": "chretien-de-troyes",
           "original_title": "Erec and Enide",
-          "display_title_es": "Erec and Enide",
+          "display_title_es": "Erec y Enide",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -12140,7 +12140,7 @@ export const content: PublicCatalog = {
           "id": "chretien-de-troyes-yvain-the-knight-of-the-lion",
           "author_id": "chretien-de-troyes",
           "original_title": "Yvain, the Knight of the Lion",
-          "display_title_es": "Yvain, the Knight of the Lion",
+          "display_title_es": "Yvain o el caballero del león",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -12255,7 +12255,7 @@ export const content: PublicCatalog = {
           "id": "the-diary-of-samuel-pepys",
           "author_id": "samuel-pepys",
           "original_title": "The Diary of Samuel Pepys",
-          "display_title_es": "The Diary of Samuel Pepys",
+          "display_title_es": "Diario de Samuel Pepys",
           "identifiers": {},
           "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
           "metadata_status": "minimal"
@@ -12377,7 +12377,7 @@ export const content: PublicCatalog = {
           "id": "washington-irving-the-legend-of-sleepy-hollow",
           "author_id": "washington-irving",
           "original_title": "The Legend of Sleepy Hollow",
-          "display_title_es": "The Legend of Sleepy Hollow",
+          "display_title_es": "La leyenda de Sleepy Hollow",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -12489,7 +12489,7 @@ export const content: PublicCatalog = {
           "id": "pride-and-prejudice",
           "author_id": "jane-austen",
           "original_title": "Pride and Prejudice",
-          "display_title_es": "Pride and Prejudice",
+          "display_title_es": "Orgullo y prejuicio",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -12818,7 +12818,7 @@ export const content: PublicCatalog = {
           "id": "p-g-wodehouse-the-code-of-the-woosters",
           "author_id": "p-g-wodehouse",
           "original_title": "The Code of the Woosters",
-          "display_title_es": "The Code of the Woosters",
+          "display_title_es": "El código de los Wooster",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -12827,7 +12827,7 @@ export const content: PublicCatalog = {
           "id": "p-g-wodehouse-right-ho-jeeves",
           "author_id": "p-g-wodehouse",
           "original_title": "Right Ho, Jeeves",
-          "display_title_es": "Right Ho, Jeeves",
+          "display_title_es": "Muy bien, Jeeves",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -13178,7 +13178,7 @@ export const content: PublicCatalog = {
           "id": "a-high-wind-in-jamaica",
           "author_id": "richard-hughes",
           "original_title": "A High Wind in Jamaica",
-          "display_title_es": "A High Wind in Jamaica",
+          "display_title_es": "Huracán en Jamaica",
           "identifiers": {},
           "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
           "metadata_status": "minimal"
@@ -13311,7 +13311,7 @@ export const content: PublicCatalog = {
           "id": "agatha-christie-murder-on-the-orient-express",
           "author_id": "agatha-christie",
           "original_title": "Murder on the Orient Express",
-          "display_title_es": "Murder on the Orient Express",
+          "display_title_es": "Asesinato en el Orient Express",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -13320,7 +13320,7 @@ export const content: PublicCatalog = {
           "id": "and-then-there-were-none",
           "author_id": "agatha-christie",
           "original_title": "And Then There Were None",
-          "display_title_es": "And Then There Were None",
+          "display_title_es": "Y no quedó ninguno",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -13567,7 +13567,7 @@ export const content: PublicCatalog = {
           "id": "the-postman-always-rings-twice",
           "author_id": "james-m-cain",
           "original_title": "The Postman Always Rings Twice",
-          "display_title_es": "The Postman Always Rings Twice",
+          "display_title_es": "El cartero siempre llama dos veces",
           "identifiers": {},
           "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
           "metadata_status": "minimal"
@@ -13576,7 +13576,7 @@ export const content: PublicCatalog = {
           "id": "james-m-cain-double-indemnity",
           "author_id": "james-m-cain",
           "original_title": "Double Indemnity",
-          "display_title_es": "Double Indemnity",
+          "display_title_es": "Pacto de sangre",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -13681,7 +13681,7 @@ export const content: PublicCatalog = {
           "id": "norman-collins-london-belongs-to-me",
           "author_id": "norman-collins",
           "original_title": "London Belongs to Me",
-          "display_title_es": "London Belongs to Me",
+          "display_title_es": "Londres me pertenece",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -13901,7 +13901,7 @@ export const content: PublicCatalog = {
           "id": "evelyn-waugh-a-handful-of-dust",
           "author_id": "evelyn-waugh",
           "original_title": "A Handful of Dust",
-          "display_title_es": "A Handful of Dust",
+          "display_title_es": "Un puñado de polvo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -13910,7 +13910,7 @@ export const content: PublicCatalog = {
           "id": "brideshead-revisited",
           "author_id": "evelyn-waugh",
           "original_title": "Brideshead Revisited",
-          "display_title_es": "Brideshead Revisited",
+          "display_title_es": "Retorno a Brideshead",
           "identifiers": {},
           "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
           "metadata_status": "minimal"
@@ -14012,7 +14012,7 @@ export const content: PublicCatalog = {
           "id": "john-steinbeck-of-mice-and-men",
           "author_id": "john-steinbeck",
           "original_title": "Of Mice and Men",
-          "display_title_es": "Of Mice and Men",
+          "display_title_es": "De ratones y hombres",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -14021,7 +14021,7 @@ export const content: PublicCatalog = {
           "id": "the-grapes-of-wrath",
           "author_id": "john-steinbeck",
           "original_title": "The Grapes of Wrath",
-          "display_title_es": "The Grapes of Wrath",
+          "display_title_es": "Las uvas de la ira",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -14261,7 +14261,7 @@ export const content: PublicCatalog = {
           "id": "vladimir-nabokov-pale-fire",
           "author_id": "vladimir-nabokov",
           "original_title": "Pale Fire",
-          "display_title_es": "Pale Fire",
+          "display_title_es": "Pálido fuego",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -14437,7 +14437,7 @@ export const content: PublicCatalog = {
           "id": "graham-greene-the-power-and-the-glory",
           "author_id": "graham-greene",
           "original_title": "The Power and the Glory",
-          "display_title_es": "The Power and the Glory",
+          "display_title_es": "El poder y la gloria",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -14446,7 +14446,7 @@ export const content: PublicCatalog = {
           "id": "graham-greene-the-quiet-american",
           "author_id": "graham-greene",
           "original_title": "The Quiet American",
-          "display_title_es": "The Quiet American",
+          "display_title_es": "El americano tranquilo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -14547,7 +14547,7 @@ export const content: PublicCatalog = {
           "id": "thomas-pynchon-gravity-s-rainbow",
           "author_id": "thomas-pynchon",
           "original_title": "Gravity’s Rainbow",
-          "display_title_es": "Gravity’s Rainbow",
+          "display_title_es": "El arco iris de gravedad",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -14556,7 +14556,7 @@ export const content: PublicCatalog = {
           "id": "the-crying-of-lot-49",
           "author_id": "thomas-pynchon",
           "original_title": "The Crying of Lot 49",
-          "display_title_es": "The Crying of Lot 49",
+          "display_title_es": "La subasta del lote 49",
           "identifiers": {},
           "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
           "metadata_status": "minimal"
@@ -14809,7 +14809,7 @@ export const content: PublicCatalog = {
           "id": "rabbit-run",
           "author_id": "john-updike",
           "original_title": "Rabbit, Run",
-          "display_title_es": "Rabbit, Run",
+          "display_title_es": "Corre, Conejo",
           "identifiers": {},
           "notes": "Obra identificada por Sip and Sensibility; metadatos pendientes.",
           "metadata_status": "minimal"
@@ -14818,7 +14818,7 @@ export const content: PublicCatalog = {
           "id": "john-updike-the-witches-of-eastwick",
           "author_id": "john-updike",
           "original_title": "The Witches of Eastwick",
-          "display_title_es": "The Witches of Eastwick",
+          "display_title_es": "Las brujas de Eastwick",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -14993,7 +14993,7 @@ export const content: PublicCatalog = {
           "id": "edward-albee-who-s-afraid-of-virginia-woolf",
           "author_id": "edward-albee",
           "original_title": "Who's Afraid of Virginia Woolf?",
-          "display_title_es": "Who's Afraid of Virginia Woolf?",
+          "display_title_es": "¿Quién teme a Virginia Woolf?",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15002,7 +15002,7 @@ export const content: PublicCatalog = {
           "id": "edward-albee-the-goat-or-who-is-sylvia",
           "author_id": "edward-albee",
           "original_title": "The Goat, or Who Is Sylvia?",
-          "display_title_es": "The Goat, or Who Is Sylvia?",
+          "display_title_es": "La cabra o ¿Quién es Sylvia?",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15104,7 +15104,7 @@ export const content: PublicCatalog = {
           "id": "kurt-vonnegut-cat-s-cradle",
           "author_id": "kurt-vonnegut",
           "original_title": "Cat's Cradle",
-          "display_title_es": "Cat's Cradle",
+          "display_title_es": "Cuna de gato",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15113,7 +15113,7 @@ export const content: PublicCatalog = {
           "id": "slaughterhouse-five",
           "author_id": "kurt-vonnegut",
           "original_title": "Slaughterhouse-Five",
-          "display_title_es": "Slaughterhouse-Five",
+          "display_title_es": "Matadero cinco",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -15360,7 +15360,7 @@ export const content: PublicCatalog = {
           "id": "philip-larkin-the-whitsun-weddings",
           "author_id": "philip-larkin",
           "original_title": "The Whitsun Weddings",
-          "display_title_es": "The Whitsun Weddings",
+          "display_title_es": "Las bodas de Pentecostés",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15369,7 +15369,7 @@ export const content: PublicCatalog = {
           "id": "philip-larkin-high-windows",
           "author_id": "philip-larkin",
           "original_title": "High Windows",
-          "display_title_es": "High Windows",
+          "display_title_es": "Ventanas altas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15469,7 +15469,7 @@ export const content: PublicCatalog = {
           "id": "norman-mailer-the-naked-and-the-dead",
           "author_id": "norman-mailer",
           "original_title": "The Naked and the Dead",
-          "display_title_es": "The Naked and the Dead",
+          "display_title_es": "Los desnudos y los muertos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15478,7 +15478,7 @@ export const content: PublicCatalog = {
           "id": "norman-mailer-the-executioner-s-song",
           "author_id": "norman-mailer",
           "original_title": "The Executioner’s Song",
-          "display_title_es": "The Executioner’s Song",
+          "display_title_es": "La canción del verdugo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -15584,7 +15584,7 @@ export const content: PublicCatalog = {
           "id": "romeo-and-juliet",
           "author_id": "william-shakespeare",
           "original_title": "Romeo and Juliet",
-          "display_title_es": "Romeo and Juliet",
+          "display_title_es": "Romeo y Julieta",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -15856,7 +15856,7 @@ export const content: PublicCatalog = {
           "id": "gustave-flaubert-salammbo",
           "author_id": "gustave-flaubert",
           "original_title": "Salammbô",
-          "display_title_es": "Salammbô",
+          "display_title_es": "Salambó",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16022,7 +16022,7 @@ export const content: PublicCatalog = {
           "id": "william-butler-yeats-the-tower",
           "author_id": "william-butler-yeats",
           "original_title": "The Tower",
-          "display_title_es": "The Tower",
+          "display_title_es": "La torre",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16031,7 +16031,7 @@ export const content: PublicCatalog = {
           "id": "william-butler-yeats-the-wild-swans-at-coole",
           "author_id": "william-butler-yeats",
           "original_title": "The Wild Swans at Coole",
-          "display_title_es": "The Wild Swans at Coole",
+          "display_title_es": "Los cisnes salvajes de Coole",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16138,7 +16138,7 @@ export const content: PublicCatalog = {
           "id": "the-call-of-the-wild",
           "author_id": "jack-london",
           "original_title": "The Call of the Wild",
-          "display_title_es": "The Call of the Wild",
+          "display_title_es": "La llamada de lo salvaje",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -16147,7 +16147,7 @@ export const content: PublicCatalog = {
           "id": "jack-london-the-people-of-the-abyss",
           "author_id": "jack-london",
           "original_title": "The People of the Abyss",
-          "display_title_es": "The People of the Abyss",
+          "display_title_es": "El pueblo del abismo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16327,7 +16327,7 @@ export const content: PublicCatalog = {
           "id": "charlotte-s-web",
           "author_id": "e-b-white",
           "original_title": "Charlotte’s Web",
-          "display_title_es": "Charlotte’s Web",
+          "display_title_es": "La telaraña de Carlota",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -16497,7 +16497,7 @@ export const content: PublicCatalog = {
           "id": "zelda-fitzgerald-save-me-the-waltz",
           "author_id": "zelda-fitzgerald",
           "original_title": "Save Me the Waltz",
-          "display_title_es": "Save Me the Waltz",
+          "display_title_es": "Resérvame el vals",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16615,7 +16615,7 @@ export const content: PublicCatalog = {
           "id": "william-s-burroughs-naked-lunch",
           "author_id": "william-s-burroughs",
           "original_title": "Naked Lunch",
-          "display_title_es": "Naked Lunch",
+          "display_title_es": "El almuerzo desnudo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16624,7 +16624,7 @@ export const content: PublicCatalog = {
           "id": "william-s-burroughs-junkie",
           "author_id": "william-s-burroughs",
           "original_title": "Junkie",
-          "display_title_es": "Junkie",
+          "display_title_es": "Yonqui",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16728,7 +16728,7 @@ export const content: PublicCatalog = {
           "id": "carson-mccullers-the-heart-is-a-lonely-hunter",
           "author_id": "carson-mccullers",
           "original_title": "The Heart Is a Lonely Hunter",
-          "display_title_es": "The Heart Is a Lonely Hunter",
+          "display_title_es": "El corazón es un cazador solitario",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16737,7 +16737,7 @@ export const content: PublicCatalog = {
           "id": "carson-mccullers-the-member-of-the-wedding",
           "author_id": "carson-mccullers",
           "original_title": "The Member of the Wedding",
-          "display_title_es": "The Member of the Wedding",
+          "display_title_es": "Frankie y la boda",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16838,7 +16838,7 @@ export const content: PublicCatalog = {
           "id": "salman-rushdie-midnight-s-children",
           "author_id": "salman-rushdie",
           "original_title": "Midnight’s Children",
-          "display_title_es": "Midnight’s Children",
+          "display_title_es": "Hijos de la medianoche",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16847,7 +16847,7 @@ export const content: PublicCatalog = {
           "id": "salman-rushdie-the-satanic-verses",
           "author_id": "salman-rushdie",
           "original_title": "The Satanic Verses",
-          "display_title_es": "The Satanic Verses",
+          "display_title_es": "Los versos satánicos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16945,7 +16945,7 @@ export const content: PublicCatalog = {
           "id": "candice-bushnell-sex-and-the-city",
           "author_id": "candice-bushnell",
           "original_title": "Sex and the City",
-          "display_title_es": "Sex and the City",
+          "display_title_es": "Sexo en Nueva York",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -16954,7 +16954,7 @@ export const content: PublicCatalog = {
           "id": "candice-bushnell-lipstick-jungle",
           "author_id": "candice-bushnell",
           "original_title": "Lipstick Jungle",
-          "display_title_es": "Lipstick Jungle",
+          "display_title_es": "Mujeres de Manhattan",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17058,7 +17058,7 @@ export const content: PublicCatalog = {
           "id": "homer-iliad",
           "author_id": "homer",
           "original_title": "Iliad",
-          "display_title_es": "Iliad",
+          "display_title_es": "Ilíada",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17067,7 +17067,7 @@ export const content: PublicCatalog = {
           "id": "homer-odyssey",
           "author_id": "homer",
           "original_title": "Odyssey",
-          "display_title_es": "Odyssey",
+          "display_title_es": "Odisea",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17155,7 +17155,7 @@ export const content: PublicCatalog = {
           "id": "miguel-de-cervantes-saavedra-don-quixote",
           "author_id": "miguel-de-cervantes-saavedra",
           "original_title": "Don Quixote",
-          "display_title_es": "Don Quixote",
+          "display_title_es": "Don Quijote de la Mancha",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17164,7 +17164,7 @@ export const content: PublicCatalog = {
           "id": "miguel-de-cervantes-saavedra-exemplary-novels",
           "author_id": "miguel-de-cervantes-saavedra",
           "original_title": "Exemplary Novels",
-          "display_title_es": "Exemplary Novels",
+          "display_title_es": "Novelas ejemplares",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17252,7 +17252,7 @@ export const content: PublicCatalog = {
           "id": "jonathan-swift-gulliver-s-travels",
           "author_id": "jonathan-swift",
           "original_title": "Gulliver's Travels",
-          "display_title_es": "Gulliver's Travels",
+          "display_title_es": "Los viajes de Gulliver",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17261,7 +17261,7 @@ export const content: PublicCatalog = {
           "id": "jonathan-swift-a-modest-proposal",
           "author_id": "jonathan-swift",
           "original_title": "A Modest Proposal",
-          "display_title_es": "A Modest Proposal",
+          "display_title_es": "Una modesta proposición",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17384,7 +17384,7 @@ export const content: PublicCatalog = {
           "id": "candide",
           "author_id": "voltaire",
           "original_title": "Candide",
-          "display_title_es": "Candide",
+          "display_title_es": "Cándido",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -17393,7 +17393,7 @@ export const content: PublicCatalog = {
           "id": "voltaire-zadig-or-destiny",
           "author_id": "voltaire",
           "original_title": "Zadig or Destiny",
-          "display_title_es": "Zadig or Destiny",
+          "display_title_es": "Zadig o el destino",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17479,7 +17479,7 @@ export const content: PublicCatalog = {
           "id": "the-count-of-monte-cristo",
           "author_id": "alexandre-dumas",
           "original_title": "The Count of Monte Cristo",
-          "display_title_es": "The Count of Monte Cristo",
+          "display_title_es": "El conde de Montecristo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -17488,7 +17488,7 @@ export const content: PublicCatalog = {
           "id": "alexandre-dumas-the-three-musketeers",
           "author_id": "alexandre-dumas",
           "original_title": "The Three Musketeers",
-          "display_title_es": "The Three Musketeers",
+          "display_title_es": "Los tres mosqueteros",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17574,7 +17574,7 @@ export const content: PublicCatalog = {
           "id": "wuthering-heights",
           "author_id": "emily-bronte",
           "original_title": "Wuthering Heights",
-          "display_title_es": "Wuthering Heights",
+          "display_title_es": "Cumbres borrascosas",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -17692,7 +17692,7 @@ export const content: PublicCatalog = {
           "id": "victor-hugo-les-miserables",
           "author_id": "victor-hugo",
           "original_title": "Les Misérables",
-          "display_title_es": "Les Misérables",
+          "display_title_es": "Los miserables",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17701,7 +17701,7 @@ export const content: PublicCatalog = {
           "id": "victor-hugo-the-hunchback-of-notre-dame",
           "author_id": "victor-hugo",
           "original_title": "The Hunchback of Notre Dame",
-          "display_title_es": "The Hunchback of Notre Dame",
+          "display_title_es": "Nuestra Señora de París",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -17789,7 +17789,7 @@ export const content: PublicCatalog = {
           "id": "war-and-peace",
           "author_id": "leo-tolstoy",
           "original_title": "War and Peace",
-          "display_title_es": "War and Peace",
+          "display_title_es": "Guerra y paz",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -17798,7 +17798,7 @@ export const content: PublicCatalog = {
           "id": "anna-karenina",
           "author_id": "leo-tolstoy",
           "original_title": "Anna Karenina",
-          "display_title_es": "Anna Karenina",
+          "display_title_es": "Ana Karenina",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -17943,7 +17943,7 @@ export const content: PublicCatalog = {
           "id": "heart-of-darkness",
           "author_id": "joseph-conrad",
           "original_title": "Heart of Darkness",
-          "display_title_es": "Heart of Darkness",
+          "display_title_es": "El corazón de las tinieblas",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18038,7 +18038,7 @@ export const content: PublicCatalog = {
           "id": "fyodor-dostoyevsky-notes-from-underground",
           "author_id": "fyodor-dostoyevsky",
           "original_title": "Notes from Underground",
-          "display_title_es": "Notes from Underground",
+          "display_title_es": "Memorias del subsuelo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18047,7 +18047,7 @@ export const content: PublicCatalog = {
           "id": "crime-and-punishment",
           "author_id": "fyodor-dostoyevsky",
           "original_title": "Crime and Punishment",
-          "display_title_es": "Crime and Punishment",
+          "display_title_es": "Crimen y castigo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18194,7 +18194,7 @@ export const content: PublicCatalog = {
           "id": "the-metamorphosis",
           "author_id": "franz-kafka",
           "original_title": "The Metamorphosis",
-          "display_title_es": "The Metamorphosis",
+          "display_title_es": "La metamorfosis",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18203,7 +18203,7 @@ export const content: PublicCatalog = {
           "id": "franz-kafka-the-trial",
           "author_id": "franz-kafka",
           "original_title": "The Trial",
-          "display_title_es": "The Trial",
+          "display_title_es": "El proceso",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18302,7 +18302,7 @@ export const content: PublicCatalog = {
           "id": "james-joyce-dubliners",
           "author_id": "james-joyce",
           "original_title": "Dubliners",
-          "display_title_es": "Dubliners",
+          "display_title_es": "Dublineses",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18311,7 +18311,7 @@ export const content: PublicCatalog = {
           "id": "james-joyce-a-portrait-of-the-artist-as-a-young-man",
           "author_id": "james-joyce",
           "original_title": "A Portrait of the Artist as a Young Man",
-          "display_title_es": "A Portrait of the Artist as a Young Man",
+          "display_title_es": "Retrato del artista adolescente",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18399,7 +18399,7 @@ export const content: PublicCatalog = {
           "id": "virginia-woolf-to-the-lighthouse",
           "author_id": "virginia-woolf",
           "original_title": "To the Lighthouse",
-          "display_title_es": "To the Lighthouse",
+          "display_title_es": "Al faro",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18408,7 +18408,7 @@ export const content: PublicCatalog = {
           "id": "virginia-woolf-mrs-dalloway",
           "author_id": "virginia-woolf",
           "original_title": "Mrs Dalloway",
-          "display_title_es": "Mrs Dalloway",
+          "display_title_es": "La señora Dalloway",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18496,7 +18496,7 @@ export const content: PublicCatalog = {
           "id": "moby-dick",
           "author_id": "herman-melville",
           "original_title": "Moby-Dick",
-          "display_title_es": "Moby-Dick",
+          "display_title_es": "Moby Dick",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18505,7 +18505,7 @@ export const content: PublicCatalog = {
           "id": "herman-melville-bartleby-the-scrivener",
           "author_id": "herman-melville",
           "original_title": "Bartleby, the Scrivener",
-          "display_title_es": "Bartleby, the Scrivener",
+          "display_title_es": "Bartleby, el escribiente",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18593,7 +18593,7 @@ export const content: PublicCatalog = {
           "id": "their-eyes-were-watching-god",
           "author_id": "zora-neale-hurston",
           "original_title": "Their Eyes Were Watching God",
-          "display_title_es": "Their Eyes Were Watching God",
+          "display_title_es": "Sus ojos miraban a Dios",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18602,7 +18602,7 @@ export const content: PublicCatalog = {
           "id": "zora-neale-hurston-mules-and-men",
           "author_id": "zora-neale-hurston",
           "original_title": "Mules and Men",
-          "display_title_es": "Mules and Men",
+          "display_title_es": "Mulas y hombres",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18707,7 +18707,7 @@ export const content: PublicCatalog = {
           "id": "gone-with-the-wind",
           "author_id": "margaret-mitchell",
           "original_title": "Gone with the Wind",
-          "display_title_es": "Gone with the Wind",
+          "display_title_es": "Lo que el viento se llevó",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18716,7 +18716,7 @@ export const content: PublicCatalog = {
           "id": "margaret-mitchell-lost-laysen",
           "author_id": "margaret-mitchell",
           "original_title": "Lost Laysen",
-          "display_title_es": "Lost Laysen",
+          "display_title_es": "Laysen, la isla perdida",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -18826,7 +18826,7 @@ export const content: PublicCatalog = {
           "id": "invisible-man",
           "author_id": "ralph-ellison",
           "original_title": "Invisible Man",
-          "display_title_es": "Invisible Man",
+          "display_title_es": "El hombre invisible",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -18939,7 +18939,7 @@ export const content: PublicCatalog = {
           "id": "ray-bradbury-something-wicked-this-way-comes",
           "author_id": "ray-bradbury",
           "original_title": "Something Wicked This Way Comes",
-          "display_title_es": "Something Wicked This Way Comes",
+          "display_title_es": "La feria de las tinieblas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19043,7 +19043,7 @@ export const content: PublicCatalog = {
           "id": "to-kill-a-mockingbird",
           "author_id": "harper-lee",
           "original_title": "To Kill a Mockingbird",
-          "display_title_es": "To Kill a Mockingbird",
+          "display_title_es": "Matar a un ruiseñor",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -19052,7 +19052,7 @@ export const content: PublicCatalog = {
           "id": "harper-lee-go-set-a-watchman",
           "author_id": "harper-lee",
           "original_title": "Go Set a Watchman",
-          "display_title_es": "Go Set a Watchman",
+          "display_title_es": "Ve y pon un centinela",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19140,7 +19140,7 @@ export const content: PublicCatalog = {
           "id": "catch-22",
           "author_id": "joseph-heller",
           "original_title": "Catch-22",
-          "display_title_es": "Catch-22",
+          "display_title_es": "Trampa-22",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -19149,7 +19149,7 @@ export const content: PublicCatalog = {
           "id": "joseph-heller-god-knows",
           "author_id": "joseph-heller",
           "original_title": "God Knows",
-          "display_title_es": "God Knows",
+          "display_title_es": "Dios sabe",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19258,7 +19258,7 @@ export const content: PublicCatalog = {
           "id": "toni-morrison-song-of-solomon",
           "author_id": "toni-morrison",
           "original_title": "Song of Solomon",
-          "display_title_es": "Song of Solomon",
+          "display_title_es": "La canción de Salomón",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19368,7 +19368,7 @@ export const content: PublicCatalog = {
           "id": "a-confederacy-of-dunces",
           "author_id": "john-kennedy-toole",
           "original_title": "A Confederacy of Dunces",
-          "display_title_es": "A Confederacy of Dunces",
+          "display_title_es": "La conjura de los necios",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -19377,7 +19377,7 @@ export const content: PublicCatalog = {
           "id": "john-kennedy-toole-the-neon-bible",
           "author_id": "john-kennedy-toole",
           "original_title": "The Neon Bible",
-          "display_title_es": "The Neon Bible",
+          "display_title_es": "La Biblia de neón",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19465,7 +19465,7 @@ export const content: PublicCatalog = {
           "id": "sir-arthur-conan-doyle-canon-of-sherlock-holmes",
           "author_id": "sir-arthur-conan-doyle",
           "original_title": "canon of Sherlock Holmes",
-          "display_title_es": "canon of Sherlock Holmes",
+          "display_title_es": "Canon de Sherlock Holmes",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19474,7 +19474,7 @@ export const content: PublicCatalog = {
           "id": "sir-arthur-conan-doyle-the-lost-world",
           "author_id": "sir-arthur-conan-doyle",
           "original_title": "The Lost World",
-          "display_title_es": "The Lost World",
+          "display_title_es": "El mundo perdido",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19573,7 +19573,7 @@ export const content: PublicCatalog = {
           "id": "patricia-highsmith-strangers-on-a-train",
           "author_id": "patricia-highsmith",
           "original_title": "Strangers on a Train",
-          "display_title_es": "Strangers on a Train",
+          "display_title_es": "Extraños en un tren",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19582,7 +19582,7 @@ export const content: PublicCatalog = {
           "id": "patricia-highsmith-the-price-of-salt",
           "author_id": "patricia-highsmith",
           "original_title": "The Price of Salt",
-          "display_title_es": "The Price of Salt",
+          "display_title_es": "Carol",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19670,7 +19670,7 @@ export const content: PublicCatalog = {
           "id": "the-spy-who-came-in-from-the-cold",
           "author_id": "john-le-carre",
           "original_title": "The Spy Who Came in from the Cold",
-          "display_title_es": "The Spy Who Came in from the Cold",
+          "display_title_es": "El espía que surgió del frío",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -19679,7 +19679,7 @@ export const content: PublicCatalog = {
           "id": "john-le-carre-tinker-tailor-soldier-spy",
           "author_id": "john-le-carre",
           "original_title": "Tinker Tailor Soldier Spy",
-          "display_title_es": "Tinker Tailor Soldier Spy",
+          "display_title_es": "El topo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19778,7 +19778,7 @@ export const content: PublicCatalog = {
           "id": "ken-follett-the-pillars-of-the-earth",
           "author_id": "ken-follett",
           "original_title": "The Pillars of the Earth",
-          "display_title_es": "The Pillars of the Earth",
+          "display_title_es": "Los pilares de la Tierra",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19787,7 +19787,7 @@ export const content: PublicCatalog = {
           "id": "ken-follett-eye-of-the-needle",
           "author_id": "ken-follett",
           "original_title": "Eye of the Needle",
-          "display_title_es": "Eye of the Needle",
+          "display_title_es": "La isla de las tormentas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19888,7 +19888,7 @@ export const content: PublicCatalog = {
           "id": "red-dragon",
           "author_id": "thomas-harris",
           "original_title": "Red Dragon",
-          "display_title_es": "Red Dragon",
+          "display_title_es": "Dragón rojo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -19897,7 +19897,7 @@ export const content: PublicCatalog = {
           "id": "thomas-harris-the-silence-of-the-lambs",
           "author_id": "thomas-harris",
           "original_title": "The Silence of the Lambs",
-          "display_title_es": "The Silence of the Lambs",
+          "display_title_es": "El silencio de los corderos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -19990,7 +19990,7 @@ export const content: PublicCatalog = {
           "id": "along-came-a-spider",
           "author_id": "james-patterson",
           "original_title": "Along Came a Spider",
-          "display_title_es": "Along Came a Spider",
+          "display_title_es": "La hora de la araña",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -19999,7 +19999,7 @@ export const content: PublicCatalog = {
           "id": "james-patterson-kiss-the-girls",
           "author_id": "james-patterson",
           "original_title": "Kiss the Girls",
-          "display_title_es": "Kiss the Girls",
+          "display_title_es": "El coleccionista de amantes",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20110,7 +20110,7 @@ export const content: PublicCatalog = {
           "id": "killing-floor",
           "author_id": "lee-child",
           "original_title": "Killing Floor",
-          "display_title_es": "Killing Floor",
+          "display_title_es": "Zona peligrosa",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -20119,7 +20119,7 @@ export const content: PublicCatalog = {
           "id": "lee-child-die-trying",
           "author_id": "lee-child",
           "original_title": "Die Trying",
-          "display_title_es": "Die Trying",
+          "display_title_es": "Morir en el intento",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20221,7 +20221,7 @@ export const content: PublicCatalog = {
           "id": "tell-no-one",
           "author_id": "harlan-coben",
           "original_title": "Tell No One",
-          "display_title_es": "Tell No One",
+          "display_title_es": "No se lo digas a nadie",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -20230,7 +20230,7 @@ export const content: PublicCatalog = {
           "id": "harlan-coben-the-stranger",
           "author_id": "harlan-coben",
           "original_title": "The Stranger",
-          "display_title_es": "The Stranger",
+          "display_title_es": "El extraño",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20315,7 +20315,7 @@ export const content: PublicCatalog = {
           "id": "the-lovely-bones",
           "author_id": "alice-sebold",
           "original_title": "The Lovely Bones",
-          "display_title_es": "The Lovely Bones",
+          "display_title_es": "Desde mi cielo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -20324,7 +20324,7 @@ export const content: PublicCatalog = {
           "id": "alice-sebold-the-almost-moon",
           "author_id": "alice-sebold",
           "original_title": "The Almost Moon",
-          "display_title_es": "The Almost Moon",
+          "display_title_es": "Casi la luna",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20432,7 +20432,7 @@ export const content: PublicCatalog = {
           "id": "the-da-vinci-code",
           "author_id": "dan-brown",
           "original_title": "The Da Vinci Code",
-          "display_title_es": "The Da Vinci Code",
+          "display_title_es": "El código Da Vinci",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -20441,7 +20441,7 @@ export const content: PublicCatalog = {
           "id": "dan-brown-angels-demons",
           "author_id": "dan-brown",
           "original_title": "Angels & Demons",
-          "display_title_es": "Angels & Demons",
+          "display_title_es": "Ángeles y demonios",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20529,7 +20529,7 @@ export const content: PublicCatalog = {
           "id": "the-girl-with-the-dragon-tattoo",
           "author_id": "stieg-larsson",
           "original_title": "The Girl with the Dragon Tattoo",
-          "display_title_es": "The Girl with the Dragon Tattoo",
+          "display_title_es": "Los hombres que no amaban a las mujeres",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -20538,7 +20538,7 @@ export const content: PublicCatalog = {
           "id": "stieg-larsson-the-girl-who-played-with-fire",
           "author_id": "stieg-larsson",
           "original_title": "The Girl Who Played with Fire",
-          "display_title_es": "The Girl Who Played with Fire",
+          "display_title_es": "La chica que soñaba con una cerilla y un bidón de gasolina",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20625,7 +20625,7 @@ export const content: PublicCatalog = {
           "id": "gillian-flynn-dark-places",
           "author_id": "gillian-flynn",
           "original_title": "Dark Places",
-          "display_title_es": "Dark Places",
+          "display_title_es": "Lugares oscuros",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20634,7 +20634,7 @@ export const content: PublicCatalog = {
           "id": "gone-girl",
           "author_id": "gillian-flynn",
           "original_title": "Gone Girl",
-          "display_title_es": "Gone Girl",
+          "display_title_es": "Perdida",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -20741,7 +20741,7 @@ export const content: PublicCatalog = {
           "id": "mary-shelley-the-last-man",
           "author_id": "mary-shelley",
           "original_title": "The Last Man",
-          "display_title_es": "The Last Man",
+          "display_title_es": "El último hombre",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20750,7 +20750,7 @@ export const content: PublicCatalog = {
           "id": "mary-shelley-frankenstein-or-the-modern-prometheus",
           "author_id": "mary-shelley",
           "original_title": "Frankenstein; or, The Modern Prometheus",
-          "display_title_es": "Frankenstein; or, The Modern Prometheus",
+          "display_title_es": "Frankenstein o el moderno Prometeo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20863,7 +20863,7 @@ export const content: PublicCatalog = {
           "id": "robert-louis-stevenson-treasure-island",
           "author_id": "robert-louis-stevenson",
           "original_title": "Treasure Island",
-          "display_title_es": "Treasure Island",
+          "display_title_es": "La isla del tesoro",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20872,7 +20872,7 @@ export const content: PublicCatalog = {
           "id": "robert-louis-stevenson-kidnapped",
           "author_id": "robert-louis-stevenson",
           "original_title": "Kidnapped",
-          "display_title_es": "Kidnapped",
+          "display_title_es": "Secuestrado",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20974,7 +20974,7 @@ export const content: PublicCatalog = {
           "id": "h-g-wells-the-outline-of-history",
           "author_id": "h-g-wells",
           "original_title": "The Outline of History",
-          "display_title_es": "The Outline of History",
+          "display_title_es": "Esquema de la historia universal",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -20983,7 +20983,7 @@ export const content: PublicCatalog = {
           "id": "the-time-machine",
           "author_id": "h-g-wells",
           "original_title": "The Time Machine",
-          "display_title_es": "The Time Machine",
+          "display_title_es": "La máquina del tiempo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -21069,7 +21069,7 @@ export const content: PublicCatalog = {
           "id": "brave-new-world",
           "author_id": "aldous-huxley",
           "original_title": "Brave New World",
-          "display_title_es": "Brave New World",
+          "display_title_es": "Un mundo feliz",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -21078,7 +21078,7 @@ export const content: PublicCatalog = {
           "id": "aldous-huxley-island",
           "author_id": "aldous-huxley",
           "original_title": "Island",
-          "display_title_es": "Island",
+          "display_title_es": "La isla",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21196,7 +21196,7 @@ export const content: PublicCatalog = {
           "id": "george-orwell-nineteen-eighty-four",
           "author_id": "george-orwell",
           "original_title": "Nineteen Eighty-Four",
-          "display_title_es": "Nineteen Eighty-Four",
+          "display_title_es": "1984",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21205,7 +21205,7 @@ export const content: PublicCatalog = {
           "id": "george-orwell-animal-farm",
           "author_id": "george-orwell",
           "original_title": "Animal Farm",
-          "display_title_es": "Animal Farm",
+          "display_title_es": "Rebelión en la granja",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21307,7 +21307,7 @@ export const content: PublicCatalog = {
           "id": "isaac-asimov-foundation-series",
           "author_id": "isaac-asimov",
           "original_title": "Foundation series",
-          "display_title_es": "Foundation series",
+          "display_title_es": "Ciclo de la Fundación",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21316,7 +21316,7 @@ export const content: PublicCatalog = {
           "id": "isaac-asimov-robot-series",
           "author_id": "isaac-asimov",
           "original_title": "Robot series",
-          "display_title_es": "Robot series",
+          "display_title_es": "Serie de los robots",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21404,7 +21404,7 @@ export const content: PublicCatalog = {
           "id": "arthur-c-clarke-2001-a-space-odyssey",
           "author_id": "arthur-c-clarke",
           "original_title": "2001: A Space Odyssey",
-          "display_title_es": "2001: A Space Odyssey",
+          "display_title_es": "2001: Una odisea espacial",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21413,7 +21413,7 @@ export const content: PublicCatalog = {
           "id": "arthur-c-clarke-rendezvous-with-rama",
           "author_id": "arthur-c-clarke",
           "original_title": "Rendezvous with Rama",
-          "display_title_es": "Rendezvous with Rama",
+          "display_title_es": "Cita con Rama",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21501,7 +21501,7 @@ export const content: PublicCatalog = {
           "id": "robert-heinlein-farnham-s-freehold",
           "author_id": "robert-heinlein",
           "original_title": "Farnham's Freehold",
-          "display_title_es": "Farnham's Freehold",
+          "display_title_es": "Los dominios de Farnham",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21510,7 +21510,7 @@ export const content: PublicCatalog = {
           "id": "robert-heinlein-starship-troopers",
           "author_id": "robert-heinlein",
           "original_title": "Starship Troopers",
-          "display_title_es": "Starship Troopers",
+          "display_title_es": "Tropas del espacio",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21625,7 +21625,7 @@ export const content: PublicCatalog = {
           "id": "a-clockwork-orange",
           "author_id": "anthony-burgess",
           "original_title": "A Clockwork Orange",
-          "display_title_es": "A Clockwork Orange",
+          "display_title_es": "La naranja mecánica",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -21634,7 +21634,7 @@ export const content: PublicCatalog = {
           "id": "anthony-burgess-earthly-powers",
           "author_id": "anthony-burgess",
           "original_title": "Earthly Powers",
-          "display_title_es": "Earthly Powers",
+          "display_title_es": "Poderes terrenales",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21756,7 +21756,7 @@ export const content: PublicCatalog = {
           "id": "frank-herbert-dune-messiah",
           "author_id": "frank-herbert",
           "original_title": "Dune Messiah",
-          "display_title_es": "Dune Messiah",
+          "display_title_es": "El mesías de Dune",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21842,7 +21842,7 @@ export const content: PublicCatalog = {
           "id": "ursula-k-le-guin-earthsea-series",
           "author_id": "ursula-k-le-guin",
           "original_title": "Earthsea series",
-          "display_title_es": "Earthsea series",
+          "display_title_es": "Ciclo de Terramar",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -21851,7 +21851,7 @@ export const content: PublicCatalog = {
           "id": "the-left-hand-of-darkness",
           "author_id": "ursula-k-le-guin",
           "original_title": "The Left Hand of Darkness",
-          "display_title_es": "The Left Hand of Darkness",
+          "display_title_es": "La mano izquierda de la oscuridad",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -21948,7 +21948,7 @@ export const content: PublicCatalog = {
           "id": "philip-k-dick-do-androids-dream-of-electric-sheep",
           "author_id": "philip-k-dick",
           "original_title": "Do Androids Dream of Electric Sheep?",
-          "display_title_es": "Do Androids Dream of Electric Sheep?",
+          "display_title_es": "¿Sueñan los androides con ovejas eléctricas?",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22052,7 +22052,7 @@ export const content: PublicCatalog = {
           "id": "douglas-adams-the-hitchhiker-s-guide-to-the-galaxy",
           "author_id": "douglas-adams",
           "original_title": "The Hitchhiker's Guide to the Galaxy",
-          "display_title_es": "The Hitchhiker's Guide to the Galaxy",
+          "display_title_es": "Guía del autoestopista galáctico",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22061,7 +22061,7 @@ export const content: PublicCatalog = {
           "id": "douglas-adams-dirk-gently-series",
           "author_id": "douglas-adams",
           "original_title": "Dirk Gently series",
-          "display_title_es": "Dirk Gently series",
+          "display_title_es": "Serie de Dirk Gently",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22180,7 +22180,7 @@ export const content: PublicCatalog = {
           "id": "neuromancer",
           "author_id": "william-gibson",
           "original_title": "Neuromancer",
-          "display_title_es": "Neuromancer",
+          "display_title_es": "Neuromante",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -22189,7 +22189,7 @@ export const content: PublicCatalog = {
           "id": "william-gibson-pattern-recognition",
           "author_id": "william-gibson",
           "original_title": "Pattern Recognition",
-          "display_title_es": "Pattern Recognition",
+          "display_title_es": "Mundo espejo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22283,7 +22283,7 @@ export const content: PublicCatalog = {
           "id": "enders-game",
           "author_id": "orson-scott-card",
           "original_title": "Ender’s Game",
-          "display_title_es": "Ender’s Game",
+          "display_title_es": "El juego de Ender",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -22292,7 +22292,7 @@ export const content: PublicCatalog = {
           "id": "orson-scott-card-speaker-for-the-dead",
           "author_id": "orson-scott-card",
           "original_title": "Speaker for the Dead",
-          "display_title_es": "Speaker for the Dead",
+          "display_title_es": "La voz de los muertos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22396,7 +22396,7 @@ export const content: PublicCatalog = {
           "id": "p-d-james-cover-her-face",
           "author_id": "p-d-james",
           "original_title": "Cover Her Face",
-          "display_title_es": "Cover Her Face",
+          "display_title_es": "Cubridle el rostro",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22405,7 +22405,7 @@ export const content: PublicCatalog = {
           "id": "p-d-james-the-children-of-men",
           "author_id": "p-d-james",
           "original_title": "The Children of Men",
-          "display_title_es": "The Children of Men",
+          "display_title_es": "Hijos de hombres",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22501,7 +22501,7 @@ export const content: PublicCatalog = {
           "id": "neal-stephenson-cryptonomicon",
           "author_id": "neal-stephenson",
           "original_title": "Cryptonomicon",
-          "display_title_es": "Cryptonomicon",
+          "display_title_es": "Criptonomicón",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22738,7 +22738,7 @@ export const content: PublicCatalog = {
           "id": "dracula",
           "author_id": "bram-stoker",
           "original_title": "Dracula",
-          "display_title_es": "Dracula",
+          "display_title_es": "Drácula",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -22747,7 +22747,7 @@ export const content: PublicCatalog = {
           "id": "bram-stoker-the-jewel-of-seven-stars",
           "author_id": "bram-stoker",
           "original_title": "The Jewel of Seven Stars",
-          "display_title_es": "The Jewel of Seven Stars",
+          "display_title_es": "La joya de las siete estrellas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22870,7 +22870,7 @@ export const content: PublicCatalog = {
           "id": "j-r-r-tolkien-the-hobbit",
           "author_id": "j-r-r-tolkien",
           "original_title": "The Hobbit",
-          "display_title_es": "The Hobbit",
+          "display_title_es": "El hobbit",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22879,7 +22879,7 @@ export const content: PublicCatalog = {
           "id": "j-r-r-tolkien-the-lord-of-the-rings",
           "author_id": "j-r-r-tolkien",
           "original_title": "The Lord of the Rings",
-          "display_title_es": "The Lord of the Rings",
+          "display_title_es": "El Señor de los Anillos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -22967,7 +22967,7 @@ export const content: PublicCatalog = {
           "id": "the-once-and-future-king",
           "author_id": "t-h-white",
           "original_title": "The Once and Future King",
-          "display_title_es": "The Once and Future King",
+          "display_title_es": "El rey que fue y será",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -22976,7 +22976,7 @@ export const content: PublicCatalog = {
           "id": "t-h-white-the-sword-in-the-stone",
           "author_id": "t-h-white",
           "original_title": "The Sword in the Stone",
-          "display_title_es": "The Sword in the Stone",
+          "display_title_es": "La espada en la piedra",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23064,7 +23064,7 @@ export const content: PublicCatalog = {
           "id": "dragonflight",
           "author_id": "anne-mccaffrey",
           "original_title": "Dragonflight",
-          "display_title_es": "Dragonflight",
+          "display_title_es": "El vuelo del dragón",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -23073,7 +23073,7 @@ export const content: PublicCatalog = {
           "id": "anne-mccaffrey-the-white-dragon",
           "author_id": "anne-mccaffrey",
           "original_title": "The White Dragon",
-          "display_title_es": "The White Dragon",
+          "display_title_es": "El dragón blanco",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23188,7 +23188,7 @@ export const content: PublicCatalog = {
           "id": "interview-with-the-vampire",
           "author_id": "anne-rice",
           "original_title": "Interview with the Vampire",
-          "display_title_es": "Interview with the Vampire",
+          "display_title_es": "Entrevista con el vampiro",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -23197,7 +23197,7 @@ export const content: PublicCatalog = {
           "id": "anne-rice-the-vampire-lestat",
           "author_id": "anne-rice",
           "original_title": "The Vampire Lestat",
-          "display_title_es": "The Vampire Lestat",
+          "display_title_es": "Lestat el vampiro",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23298,7 +23298,7 @@ export const content: PublicCatalog = {
           "id": "the-sword-of-shannara",
           "author_id": "terry-brooks",
           "original_title": "The Sword of Shannara",
-          "display_title_es": "The Sword of Shannara",
+          "display_title_es": "La espada de Shannara",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -23307,7 +23307,7 @@ export const content: PublicCatalog = {
           "id": "terry-brooks-the-elfstones-of-shannara",
           "author_id": "terry-brooks",
           "original_title": "The Elfstones of Shannara",
-          "display_title_es": "The Elfstones of Shannara",
+          "display_title_es": "Las piedras élficas de Shannara",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23395,7 +23395,7 @@ export const content: PublicCatalog = {
           "id": "the-mists-of-avalon",
           "author_id": "marion-zimmer-bradley",
           "original_title": "The Mists of Avalon",
-          "display_title_es": "The Mists of Avalon",
+          "display_title_es": "Las nieblas de Avalón",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -23404,7 +23404,7 @@ export const content: PublicCatalog = {
           "id": "marion-zimmer-bradley-the-door-through-space",
           "author_id": "marion-zimmer-bradley",
           "original_title": "The Door Through Space",
-          "display_title_es": "The Door Through Space",
+          "display_title_es": "La puerta del espacio",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23492,7 +23492,7 @@ export const content: PublicCatalog = {
           "id": "terry-pratchett-guards-guards",
           "author_id": "terry-pratchett",
           "original_title": "Guards! Guards!",
-          "display_title_es": "Guards! Guards!",
+          "display_title_es": "¡Guardias! ¡Guardias!",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23501,7 +23501,7 @@ export const content: PublicCatalog = {
           "id": "terry-pratchett-small-gods",
           "author_id": "terry-pratchett",
           "original_title": "Small Gods",
-          "display_title_es": "Small Gods",
+          "display_title_es": "Dioses menores",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23589,7 +23589,7 @@ export const content: PublicCatalog = {
           "id": "the-eye-of-the-world",
           "author_id": "robert-jordan",
           "original_title": "The Eye of the World",
-          "display_title_es": "The Eye of the World",
+          "display_title_es": "El ojo del mundo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -23598,7 +23598,7 @@ export const content: PublicCatalog = {
           "id": "robert-jordan-the-great-hunt",
           "author_id": "robert-jordan",
           "original_title": "The Great Hunt",
-          "display_title_es": "The Great Hunt",
+          "display_title_es": "La gran cacería",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23685,7 +23685,7 @@ export const content: PublicCatalog = {
           "id": "robin-hobb-assassin-s-apprentice",
           "author_id": "robin-hobb",
           "original_title": "Assassin's Apprentice",
-          "display_title_es": "Assassin's Apprentice",
+          "display_title_es": "Aprendiz de asesino",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23694,7 +23694,7 @@ export const content: PublicCatalog = {
           "id": "robin-hobb-royal-assassin",
           "author_id": "robin-hobb",
           "original_title": "Royal Assassin",
-          "display_title_es": "Royal Assassin",
+          "display_title_es": "Asesino real",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23781,7 +23781,7 @@ export const content: PublicCatalog = {
           "id": "a-game-of-thrones",
           "author_id": "george-r-r-martin",
           "original_title": "A Game of Thrones",
-          "display_title_es": "A Game of Thrones",
+          "display_title_es": "Juego de tronos",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -23790,7 +23790,7 @@ export const content: PublicCatalog = {
           "id": "george-r-r-martin-a-clash-of-kings",
           "author_id": "george-r-r-martin",
           "original_title": "A Clash of Kings",
-          "display_title_es": "A Clash of Kings",
+          "display_title_es": "Choque de reyes",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23879,7 +23879,7 @@ export const content: PublicCatalog = {
           "id": "jim-butcher-the-dresden-files",
           "author_id": "jim-butcher",
           "original_title": "The Dresden Files",
-          "display_title_es": "The Dresden Files",
+          "display_title_es": "La saga de Harry Dresden",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -23888,7 +23888,7 @@ export const content: PublicCatalog = {
           "id": "jim-butcher-the-codex-alera",
           "author_id": "jim-butcher",
           "original_title": "The Codex Alera",
-          "display_title_es": "The Codex Alera",
+          "display_title_es": "Codex Alera",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24114,7 +24114,7 @@ export const content: PublicCatalog = {
           "id": "susanna-clarke-jonathan-strange-mr-norrell",
           "author_id": "susanna-clarke",
           "original_title": "Jonathan Strange & Mr Norrell",
-          "display_title_es": "Jonathan Strange & Mr Norrell",
+          "display_title_es": "Jonathan Strange y el señor Norrell",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24226,7 +24226,7 @@ export const content: PublicCatalog = {
           "id": "the-name-of-the-wind",
           "author_id": "patrick-rothfuss",
           "original_title": "The Name of the Wind",
-          "display_title_es": "The Name of the Wind",
+          "display_title_es": "El nombre del viento",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -24235,7 +24235,7 @@ export const content: PublicCatalog = {
           "id": "patrick-rothfuss-the-wise-man-s-fear",
           "author_id": "patrick-rothfuss",
           "original_title": "The Wise Man's Fear",
-          "display_title_es": "The Wise Man's Fear",
+          "display_title_es": "El temor de un hombre sabio",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24322,7 +24322,7 @@ export const content: PublicCatalog = {
           "id": "brandon-sanderson-mistborn-the-final-empire",
           "author_id": "brandon-sanderson",
           "original_title": "Mistborn: The Final Empire",
-          "display_title_es": "Mistborn: The Final Empire",
+          "display_title_es": "El imperio final",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24331,7 +24331,7 @@ export const content: PublicCatalog = {
           "id": "the-way-of-kings",
           "author_id": "brandon-sanderson",
           "original_title": "The Way of Kings",
-          "display_title_es": "The Way of Kings",
+          "display_title_es": "El camino de los reyes",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -24418,7 +24418,7 @@ export const content: PublicCatalog = {
           "id": "a-discovery-of-witches",
           "author_id": "deborah-harkness",
           "original_title": "A Discovery of Witches",
-          "display_title_es": "A Discovery of Witches",
+          "display_title_es": "El descubrimiento de las brujas",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -24427,7 +24427,7 @@ export const content: PublicCatalog = {
           "id": "deborah-harkness-shadow-of-night",
           "author_id": "deborah-harkness",
           "original_title": "Shadow of Night",
-          "display_title_es": "Shadow of Night",
+          "display_title_es": "La sombra de la noche",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24514,7 +24514,7 @@ export const content: PublicCatalog = {
           "id": "the-night-circus",
           "author_id": "erin-morgenstern",
           "original_title": "The Night Circus",
-          "display_title_es": "The Night Circus",
+          "display_title_es": "El circo de la noche",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -24523,7 +24523,7 @@ export const content: PublicCatalog = {
           "id": "erin-morgenstern-the-starless-sea",
           "author_id": "erin-morgenstern",
           "original_title": "The Starless Sea",
-          "display_title_es": "The Starless Sea",
+          "display_title_es": "El mar sin estrellas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24727,7 +24727,7 @@ export const content: PublicCatalog = {
           "id": "d-h-lawrence-sons-and-lovers",
           "author_id": "d-h-lawrence",
           "original_title": "Sons and Lovers",
-          "display_title_es": "Sons and Lovers",
+          "display_title_es": "Hijos y amantes",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24736,7 +24736,7 @@ export const content: PublicCatalog = {
           "id": "d-h-lawrence-the-rainbow",
           "author_id": "d-h-lawrence",
           "original_title": "The Rainbow",
-          "display_title_es": "The Rainbow",
+          "display_title_es": "El arco iris",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24824,7 +24824,7 @@ export const content: PublicCatalog = {
           "id": "rebecca",
           "author_id": "daphne-du-maurier",
           "original_title": "Rebecca",
-          "display_title_es": "Rebecca",
+          "display_title_es": "Rebeca",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -24833,7 +24833,7 @@ export const content: PublicCatalog = {
           "id": "daphne-du-maurier-jamaica-inn",
           "author_id": "daphne-du-maurier",
           "original_title": "Jamaica Inn",
-          "display_title_es": "Jamaica Inn",
+          "display_title_es": "La posada de Jamaica",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -24951,7 +24951,7 @@ export const content: PublicCatalog = {
           "id": "boris-pasternak-my-sister-life",
           "author_id": "boris-pasternak",
           "original_title": "My Sister, Life",
-          "display_title_es": "My Sister, Life",
+          "display_title_es": "Mi hermana, la vida",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25055,7 +25055,7 @@ export const content: PublicCatalog = {
           "id": "the-princess-bride",
           "author_id": "william-goldman",
           "original_title": "The Princess Bride",
-          "display_title_es": "The Princess Bride",
+          "display_title_es": "La princesa prometida",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25151,7 +25151,7 @@ export const content: PublicCatalog = {
           "id": "outlander",
           "author_id": "diana-galbaldon",
           "original_title": "Outlander",
-          "display_title_es": "Outlander",
+          "display_title_es": "Forastera",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25160,7 +25160,7 @@ export const content: PublicCatalog = {
           "id": "diana-galbaldon-dragonfly-in-amber",
           "author_id": "diana-galbaldon",
           "original_title": "Dragonfly in Amber",
-          "display_title_es": "Dragonfly in Amber",
+          "display_title_es": "Atrapada en el tiempo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25247,7 +25247,7 @@ export const content: PublicCatalog = {
           "id": "bridget-joness-diary",
           "author_id": "helen-fielding",
           "original_title": "Bridget Jones’s Diary",
-          "display_title_es": "Bridget Jones’s Diary",
+          "display_title_es": "El diario de Bridget Jones",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25256,7 +25256,7 @@ export const content: PublicCatalog = {
           "id": "helen-fielding-bridget-jones-the-edge-of-reason",
           "author_id": "helen-fielding",
           "original_title": "Bridget Jones: The Edge of Reason",
-          "display_title_es": "Bridget Jones: The Edge of Reason",
+          "display_title_es": "Bridget Jones: Sobreviviré",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25364,7 +25364,7 @@ export const content: PublicCatalog = {
           "id": "the-notebook",
           "author_id": "nicholas-sparks",
           "original_title": "The Notebook",
-          "display_title_es": "The Notebook",
+          "display_title_es": "El diario de Noah",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25373,7 +25373,7 @@ export const content: PublicCatalog = {
           "id": "nicholas-sparks-a-walk-to-remember",
           "author_id": "nicholas-sparks",
           "original_title": "A Walk to Remember",
-          "display_title_es": "A Walk to Remember",
+          "display_title_es": "Un paseo para recordar",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25460,7 +25460,7 @@ export const content: PublicCatalog = {
           "id": "nora-roberts-naked-in-death",
           "author_id": "nora-roberts",
           "original_title": "Naked in Death",
-          "display_title_es": "Naked in Death",
+          "display_title_es": "Desnuda ante la muerte",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25469,7 +25469,7 @@ export const content: PublicCatalog = {
           "id": "nora-roberts-the-bride-quartet",
           "author_id": "nora-roberts",
           "original_title": "The Bride Quartet",
-          "display_title_es": "The Bride Quartet",
+          "display_title_es": "Cuarteto de novias",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25583,7 +25583,7 @@ export const content: PublicCatalog = {
           "id": "audrey-niffenegger-the-time-traveler-s-wife",
           "author_id": "audrey-niffenegger",
           "original_title": "The Time Traveler's Wife",
-          "display_title_es": "The Time Traveler's Wife",
+          "display_title_es": "La mujer del viajero en el tiempo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25592,7 +25592,7 @@ export const content: PublicCatalog = {
           "id": "audrey-niffenegger-her-fearful-symmetry",
           "author_id": "audrey-niffenegger",
           "original_title": "Her Fearful Symmetry",
-          "display_title_es": "Her Fearful Symmetry",
+          "display_title_es": "Una inquietante simetría",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25701,7 +25701,7 @@ export const content: PublicCatalog = {
           "id": "twilight",
           "author_id": "stephanie-meyer",
           "original_title": "Twilight",
-          "display_title_es": "Twilight",
+          "display_title_es": "Crepúsculo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25710,7 +25710,7 @@ export const content: PublicCatalog = {
           "id": "stephanie-meyer-the-host",
           "author_id": "stephanie-meyer",
           "original_title": "The Host",
-          "display_title_es": "The Host",
+          "display_title_es": "La huésped",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25797,7 +25797,7 @@ export const content: PublicCatalog = {
           "id": "if-i-stay",
           "author_id": "gayle-foreman",
           "original_title": "If I Stay",
-          "display_title_es": "If I Stay",
+          "display_title_es": "Si decido quedarme",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25806,7 +25806,7 @@ export const content: PublicCatalog = {
           "id": "gayle-foreman-where-she-went",
           "author_id": "gayle-foreman",
           "original_title": "Where She Went",
-          "display_title_es": "Where She Went",
+          "display_title_es": "Lo que fue de ella",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -25893,7 +25893,7 @@ export const content: PublicCatalog = {
           "id": "water-for-elephants",
           "author_id": "sara-gruen",
           "original_title": "Water for Elephants",
-          "display_title_es": "Water for Elephants",
+          "display_title_es": "Agua para elefantes",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -25902,7 +25902,7 @@ export const content: PublicCatalog = {
           "id": "sara-gruen-at-the-water-s-edge",
           "author_id": "sara-gruen",
           "original_title": "At the Water’s Edge",
-          "display_title_es": "At the Water’s Edge",
+          "display_title_es": "A la orilla del agua",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26006,7 +26006,7 @@ export const content: PublicCatalog = {
           "id": "fifty-shades-of-grey",
           "author_id": "e-l-james",
           "original_title": "Fifty Shades of Grey",
-          "display_title_es": "Fifty Shades of Grey",
+          "display_title_es": "Cincuenta sombras de Grey",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26015,7 +26015,7 @@ export const content: PublicCatalog = {
           "id": "e-l-james-fifty-shades-darker",
           "author_id": "e-l-james",
           "original_title": "Fifty Shades Darker",
-          "display_title_es": "Fifty Shades Darker",
+          "display_title_es": "Cincuenta sombras más oscuras",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26100,7 +26100,7 @@ export const content: PublicCatalog = {
           "id": "john-green-looking-for-alaska",
           "author_id": "john-green",
           "original_title": "Looking for Alaska",
-          "display_title_es": "Looking for Alaska",
+          "display_title_es": "Buscando a Alaska",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26109,7 +26109,7 @@ export const content: PublicCatalog = {
           "id": "john-green-an-abundance-of-katherines",
           "author_id": "john-green",
           "original_title": "An Abundance of Katherines",
-          "display_title_es": "An Abundance of Katherines",
+          "display_title_es": "El teorema Katherine",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26197,7 +26197,7 @@ export const content: PublicCatalog = {
           "id": "one-hundred-years-of-solitude",
           "author_id": "gabriel-garcia-marquez",
           "original_title": "One Hundred Years of Solitude",
-          "display_title_es": "One Hundred Years of Solitude",
+          "display_title_es": "Cien años de soledad",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26206,7 +26206,7 @@ export const content: PublicCatalog = {
           "id": "gabriel-garcia-marquez-love-in-the-time-of-cholera",
           "author_id": "gabriel-garcia-marquez",
           "original_title": "Love in the Time of Cholera",
-          "display_title_es": "Love in the Time of Cholera",
+          "display_title_es": "El amor en los tiempos del cólera",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26292,7 +26292,7 @@ export const content: PublicCatalog = {
           "id": "the-name-of-the-rose",
           "author_id": "umberto-eco",
           "original_title": "The Name of the Rose",
-          "display_title_es": "The Name of the Rose",
+          "display_title_es": "El nombre de la rosa",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26301,7 +26301,7 @@ export const content: PublicCatalog = {
           "id": "umberto-eco-foucault-s-pendulum",
           "author_id": "umberto-eco",
           "original_title": "Foucault’s Pendulum",
-          "display_title_es": "Foucault’s Pendulum",
+          "display_title_es": "El péndulo de Foucault",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26398,7 +26398,7 @@ export const content: PublicCatalog = {
           "id": "blood-meridian",
           "author_id": "cormac-mccarthy",
           "original_title": "Blood Meridian",
-          "display_title_es": "Blood Meridian",
+          "display_title_es": "Meridiano de sangre",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26483,7 +26483,7 @@ export const content: PublicCatalog = {
           "id": "john-irving-the-world-according-to-garp",
           "author_id": "john-irving",
           "original_title": "The World According to Garp",
-          "display_title_es": "The World According to Garp",
+          "display_title_es": "El mundo según Garp",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26492,7 +26492,7 @@ export const content: PublicCatalog = {
           "id": "the-cider-house-rules",
           "author_id": "john-irving",
           "original_title": "The Cider House Rules",
-          "display_title_es": "The Cider House Rules",
+          "display_title_es": "Príncipes de Maine, reyes de Nueva Inglaterra",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26580,7 +26580,7 @@ export const content: PublicCatalog = {
           "id": "margaret-atwood-the-handmaid-s-tale",
           "author_id": "margaret-atwood",
           "original_title": "The Handmaid's Tale",
-          "display_title_es": "The Handmaid's Tale",
+          "display_title_es": "El cuento de la criada",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26589,7 +26589,7 @@ export const content: PublicCatalog = {
           "id": "margaret-atwood-cat-s-eye",
           "author_id": "margaret-atwood",
           "original_title": "Cat's Eye",
-          "display_title_es": "Cat's Eye",
+          "display_title_es": "Ojo de gato",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26695,7 +26695,7 @@ export const content: PublicCatalog = {
           "id": "jonathan-franzen-the-corrections",
           "author_id": "jonathan-franzen",
           "original_title": "The Corrections",
-          "display_title_es": "The Corrections",
+          "display_title_es": "Las correcciones",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26704,7 +26704,7 @@ export const content: PublicCatalog = {
           "id": "jonathan-franzen-freedom",
           "author_id": "jonathan-franzen",
           "original_title": "Freedom",
-          "display_title_es": "Freedom",
+          "display_title_es": "Libertad",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26791,7 +26791,7 @@ export const content: PublicCatalog = {
           "id": "the-secret-history",
           "author_id": "donna-tartt",
           "original_title": "The Secret History",
-          "display_title_es": "The Secret History",
+          "display_title_es": "El secreto",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26800,7 +26800,7 @@ export const content: PublicCatalog = {
           "id": "donna-tartt-the-little-friend",
           "author_id": "donna-tartt",
           "original_title": "The Little Friend",
-          "display_title_es": "The Little Friend",
+          "display_title_es": "El pequeño amigo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26888,7 +26888,7 @@ export const content: PublicCatalog = {
           "id": "infinite-jest",
           "author_id": "david-foster-wallace",
           "original_title": "Infinite Jest",
-          "display_title_es": "Infinite Jest",
+          "display_title_es": "La broma infinita",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26897,7 +26897,7 @@ export const content: PublicCatalog = {
           "id": "david-foster-wallace-the-pale-king",
           "author_id": "david-foster-wallace",
           "original_title": "The Pale King",
-          "display_title_es": "The Pale King",
+          "display_title_es": "El rey pálido",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -26984,7 +26984,7 @@ export const content: PublicCatalog = {
           "id": "fight-club",
           "author_id": "chuck-palahniuk",
           "original_title": "Fight Club",
-          "display_title_es": "Fight Club",
+          "display_title_es": "El club de la lucha",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -26993,7 +26993,7 @@ export const content: PublicCatalog = {
           "id": "chuck-palahniuk-choke",
           "author_id": "chuck-palahniuk",
           "original_title": "Choke",
-          "display_title_es": "Choke",
+          "display_title_es": "Asfixia",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27080,7 +27080,7 @@ export const content: PublicCatalog = {
           "id": "the-red-tent",
           "author_id": "anita-diamant",
           "original_title": "The Red Tent",
-          "display_title_es": "The Red Tent",
+          "display_title_es": "La tienda roja",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27176,7 +27176,7 @@ export const content: PublicCatalog = {
           "id": "don-delillo-white-noise",
           "author_id": "don-delillo",
           "original_title": "White Noise",
-          "display_title_es": "White Noise",
+          "display_title_es": "Ruido de fondo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27312,7 +27312,7 @@ export const content: PublicCatalog = {
           "id": "the-poisonwood-bible",
           "author_id": "barbara-kingsolver",
           "original_title": "The Poisonwood Bible",
-          "display_title_es": "The Poisonwood Bible",
+          "display_title_es": "La Biblia envenenada",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27321,7 +27321,7 @@ export const content: PublicCatalog = {
           "id": "barbara-kingsolver-animal-vegetable-miracle",
           "author_id": "barbara-kingsolver",
           "original_title": "Animal, Vegetable, Miracle",
-          "display_title_es": "Animal, Vegetable, Miracle",
+          "display_title_es": "Animal, vegetal, milagro",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27408,7 +27408,7 @@ export const content: PublicCatalog = {
           "id": "life-of-pi",
           "author_id": "yann-martel",
           "original_title": "Life of Pi",
-          "display_title_es": "Life of Pi",
+          "display_title_es": "La vida de Pi",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27417,7 +27417,7 @@ export const content: PublicCatalog = {
           "id": "yann-martel-the-high-mountains-of-portugal",
           "author_id": "yann-martel",
           "original_title": "The High Mountains of Portugal",
-          "display_title_es": "The High Mountains of Portugal",
+          "display_title_es": "Las altas montañas de Portugal",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27524,7 +27524,7 @@ export const content: PublicCatalog = {
           "id": "the-kite-runner",
           "author_id": "khaled-hosseini",
           "original_title": "The Kite Runner",
-          "display_title_es": "The Kite Runner",
+          "display_title_es": "Cometas en el cielo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27533,7 +27533,7 @@ export const content: PublicCatalog = {
           "id": "khaled-hosseini-a-thousand-splendid-suns",
           "author_id": "khaled-hosseini",
           "original_title": "A Thousand Splendid Suns",
-          "display_title_es": "A Thousand Splendid Suns",
+          "display_title_es": "Mil soles espléndidos",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27641,7 +27641,7 @@ export const content: PublicCatalog = {
           "id": "jhumpa-lahiri-interpreter-of-maladies",
           "author_id": "jhumpa-lahiri",
           "original_title": "Interpreter of Maladies",
-          "display_title_es": "Interpreter of Maladies",
+          "display_title_es": "Intérprete de emociones",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27650,7 +27650,7 @@ export const content: PublicCatalog = {
           "id": "the-namesake",
           "author_id": "jhumpa-lahiri",
           "original_title": "The Namesake",
-          "display_title_es": "The Namesake",
+          "display_title_es": "El buen nombre",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27757,7 +27757,7 @@ export const content: PublicCatalog = {
           "id": "snow-flower-and-the-secret-fan",
           "author_id": "lisa-see",
           "original_title": "Snow Flower and the Secret Fan",
-          "display_title_es": "Snow Flower and the Secret Fan",
+          "display_title_es": "El abanico de seda",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27766,7 +27766,7 @@ export const content: PublicCatalog = {
           "id": "lisa-see-shanghai-girls",
           "author_id": "lisa-see",
           "original_title": "Shanghai Girls",
-          "display_title_es": "Shanghai Girls",
+          "display_title_es": "Las hijas de Shanghái",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27858,7 +27858,7 @@ export const content: PublicCatalog = {
           "id": "the-brief-wondrous-life-of-oscar-wao",
           "author_id": "junot-diaz",
           "original_title": "The Brief Wondrous Life of Oscar Wao",
-          "display_title_es": "The Brief Wondrous Life of Oscar Wao",
+          "display_title_es": "La maravillosa vida breve de Óscar Wao",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -27867,7 +27867,7 @@ export const content: PublicCatalog = {
           "id": "junot-diaz-drown",
           "author_id": "junot-diaz",
           "original_title": "Drown",
-          "display_title_es": "Drown",
+          "display_title_es": "Los boys",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27960,7 +27960,7 @@ export const content: PublicCatalog = {
           "id": "haruki-murakami-a-wild-sheep-chase",
           "author_id": "haruki-murakami",
           "original_title": "A Wild Sheep Chase",
-          "display_title_es": "A Wild Sheep Chase",
+          "display_title_es": "La caza del carnero salvaje",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -27969,7 +27969,7 @@ export const content: PublicCatalog = {
           "id": "haruki-murakami-norwegian-wood",
           "author_id": "haruki-murakami",
           "original_title": "Norwegian Wood",
-          "display_title_es": "Norwegian Wood",
+          "display_title_es": "Tokio blues",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -28160,7 +28160,7 @@ export const content: PublicCatalog = {
           "id": "a-tree-grows-in-brooklyn",
           "author_id": "betty-smith",
           "original_title": "A Tree Grows in Brooklyn",
-          "display_title_es": "A Tree Grows in Brooklyn",
+          "display_title_es": "Un árbol crece en Brooklyn",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -28169,7 +28169,7 @@ export const content: PublicCatalog = {
           "id": "betty-smith-tomorrow-will-be-better",
           "author_id": "betty-smith",
           "original_title": "Tomorrow Will Be Better",
-          "display_title_es": "Tomorrow Will Be Better",
+          "display_title_es": "Mañana puede ser un gran día",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -28273,7 +28273,7 @@ export const content: PublicCatalog = {
           "id": "lord-of-the-flies",
           "author_id": "william-golding",
           "original_title": "Lord of the Flies",
-          "display_title_es": "Lord of the Flies",
+          "display_title_es": "El señor de las moscas",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -28282,7 +28282,7 @@ export const content: PublicCatalog = {
           "id": "william-golding-to-the-ends-of-the-earth",
           "author_id": "william-golding",
           "original_title": "To the Ends of the Earth",
-          "display_title_es": "To the Ends of the Earth",
+          "display_title_es": "Trilogía del mar",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -28370,7 +28370,7 @@ export const content: PublicCatalog = {
           "id": "a-wrinkle-in-time",
           "author_id": "madeline-l-engle",
           "original_title": "A Wrinkle in Time",
-          "display_title_es": "A Wrinkle in Time",
+          "display_title_es": "Una arruga en el tiempo",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -28494,7 +28494,7 @@ export const content: PublicCatalog = {
           "id": "go-ask-alice",
           "author_id": "beatrice-sparks",
           "original_title": "Go Ask Alice",
-          "display_title_es": "Go Ask Alice",
+          "display_title_es": "Pregúntale a Alicia",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -28503,7 +28503,7 @@ export const content: PublicCatalog = {
           "id": "beatrice-sparks-jay-s-journal",
           "author_id": "beatrice-sparks",
           "original_title": "Jay’s Journal",
-          "display_title_es": "Jay’s Journal",
+          "display_title_es": "Diario de Jay: historia verídica de un joven atrapado por el satanismo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -28840,7 +28840,7 @@ export const content: PublicCatalog = {
           "id": "the-giver",
           "author_id": "lois-lowry",
           "original_title": "The Giver",
-          "display_title_es": "The Giver",
+          "display_title_es": "El dador",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -28849,7 +28849,7 @@ export const content: PublicCatalog = {
           "id": "lois-lowry-number-the-stars",
           "author_id": "lois-lowry",
           "original_title": "Number the Stars",
-          "display_title_es": "Number the Stars",
+          "display_title_es": "¿Quién cuenta las estrellas?",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -28943,7 +28943,7 @@ export const content: PublicCatalog = {
           "id": "octavia-e-butler-kindred",
           "author_id": "octavia-e-butler",
           "original_title": "Kindred",
-          "display_title_es": "Kindred",
+          "display_title_es": "Parentesco",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -28952,7 +28952,7 @@ export const content: PublicCatalog = {
           "id": "octavia-e-butler-lilith-s-brood",
           "author_id": "octavia-e-butler",
           "original_title": "Lilith's Brood",
-          "display_title_es": "Lilith's Brood",
+          "display_title_es": "La estirpe de Lilith",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -29070,7 +29070,7 @@ export const content: PublicCatalog = {
           "id": "garth-nix-the-keys-to-the-kingdom",
           "author_id": "garth-nix",
           "original_title": "The Keys to the Kingdom",
-          "display_title_es": "The Keys to the Kingdom",
+          "display_title_es": "Las llaves del Reino",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -29157,7 +29157,7 @@ export const content: PublicCatalog = {
           "id": "j-k-rowling-obra-revisada",
           "author_id": "j-k-rowling",
           "original_title": "ሃሪ ፖተር",
-          "display_title_es": "ሃሪ ፖተር",
+          "display_title_es": "Harry Potter",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -29166,7 +29166,7 @@ export const content: PublicCatalog = {
           "id": "j-k-rowling-harry-potter-and-the-philosopher-s-stone",
           "author_id": "j-k-rowling",
           "original_title": "Harry Potter and the Philosopher's Stone",
-          "display_title_es": "Harry Potter and the Philosopher's Stone",
+          "display_title_es": "Harry Potter y la piedra filosofal",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -29270,7 +29270,7 @@ export const content: PublicCatalog = {
           "id": "holes",
           "author_id": "louis-sachar",
           "original_title": "Holes",
-          "display_title_es": "Holes",
+          "display_title_es": "Hoyos",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -29378,7 +29378,7 @@ export const content: PublicCatalog = {
           "id": "the-perks-of-being-a-wallflower",
           "author_id": "stephen-chbosky",
           "original_title": "The Perks of Being a Wallflower",
-          "display_title_es": "The Perks of Being a Wallflower",
+          "display_title_es": "Las ventajas de ser un marginado",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -29387,7 +29387,7 @@ export const content: PublicCatalog = {
           "id": "stephen-chbosky-imaginary-friend",
           "author_id": "stephen-chbosky",
           "original_title": "Imaginary Friend",
-          "display_title_es": "Imaginary Friend",
+          "display_title_es": "Amigo imaginario",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -29496,7 +29496,7 @@ export const content: PublicCatalog = {
           "id": "speak",
           "author_id": "laurie-halse-anderson",
           "original_title": "Speak",
-          "display_title_es": "Speak",
+          "display_title_es": "Habla",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -29619,7 +29619,7 @@ export const content: PublicCatalog = {
           "id": "the-sisterhood-of-the-traveling-pants",
           "author_id": "ann-brashares",
           "original_title": "The Sisterhood of the Traveling Pants",
-          "display_title_es": "The Sisterhood of the Traveling Pants",
+          "display_title_es": "Verano en vaqueros",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -29727,7 +29727,7 @@ export const content: PublicCatalog = {
           "id": "the-truth-about-forever",
           "author_id": "sarah-dessen",
           "original_title": "The Truth About Forever",
-          "display_title_es": "The Truth About Forever",
+          "display_title_es": "La verdad sobre para siempre",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -29844,7 +29844,7 @@ export const content: PublicCatalog = {
           "id": "the-hunger-games",
           "author_id": "suzanne-collins",
           "original_title": "The Hunger Games",
-          "display_title_es": "The Hunger Games",
+          "display_title_es": "Los juegos del hambre",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -29853,7 +29853,7 @@ export const content: PublicCatalog = {
           "id": "suzanne-collins-gregor-the-overlander",
           "author_id": "suzanne-collins",
           "original_title": "Gregor the Overlander",
-          "display_title_es": "Gregor the Overlander",
+          "display_title_es": "Gregor 1: Las tierras bajas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -29963,7 +29963,7 @@ export const content: PublicCatalog = {
           "id": "a-visit-from-st-nicholas",
           "author_id": "clement-clarke-moore",
           "original_title": "A Visit from St. Nicholas",
-          "display_title_es": "A Visit from St. Nicholas",
+          "display_title_es": "Cuento de Nochebuena: una visita de San Nicolás",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -30087,7 +30087,7 @@ export const content: PublicCatalog = {
           "id": "lewis-carroll-alice-s-adventures-in-wonderland",
           "author_id": "lewis-carroll",
           "original_title": "Alice's Adventures in Wonderland",
-          "display_title_es": "Alice's Adventures in Wonderland",
+          "display_title_es": "Alicia en el país de las maravillas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30096,7 +30096,7 @@ export const content: PublicCatalog = {
           "id": "lewis-carroll-through-the-looking-glass",
           "author_id": "lewis-carroll",
           "original_title": "Through the Looking-Glass",
-          "display_title_es": "Through the Looking-Glass",
+          "display_title_es": "A través del espejo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30200,7 +30200,7 @@ export const content: PublicCatalog = {
           "id": "frances-hodgson-burnett-little-lord-fauntleroy",
           "author_id": "frances-hodgson-burnett",
           "original_title": "Little Lord Fauntleroy",
-          "display_title_es": "Little Lord Fauntleroy",
+          "display_title_es": "El pequeño lord",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30209,7 +30209,7 @@ export const content: PublicCatalog = {
           "id": "frances-hodgson-burnett-a-little-princess",
           "author_id": "frances-hodgson-burnett",
           "original_title": "A Little Princess",
-          "display_title_es": "A Little Princess",
+          "display_title_es": "La princesita",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30319,7 +30319,7 @@ export const content: PublicCatalog = {
           "id": "the-story-of-ferdinand",
           "author_id": "munro-leaf",
           "original_title": "The Story of Ferdinand",
-          "display_title_es": "The Story of Ferdinand",
+          "display_title_es": "El cuento de Ferdinando",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -30438,7 +30438,7 @@ export const content: PublicCatalog = {
           "id": "antoine-de-saint-exupery-night-flight",
           "author_id": "antoine-de-saint-exupery",
           "original_title": "Night Flight",
-          "display_title_es": "Night Flight",
+          "display_title_es": "Vuelo nocturno",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30447,7 +30447,7 @@ export const content: PublicCatalog = {
           "id": "the-little-prince",
           "author_id": "antoine-de-saint-exupery",
           "original_title": "The Little Prince",
-          "display_title_es": "The Little Prince",
+          "display_title_es": "El principito",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -30535,7 +30535,7 @@ export const content: PublicCatalog = {
           "id": "c-s-lewis-the-chronicles-of-narnia",
           "author_id": "c-s-lewis",
           "original_title": "The Chronicles of Narnia",
-          "display_title_es": "The Chronicles of Narnia",
+          "display_title_es": "Las crónicas de Narnia",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30544,7 +30544,7 @@ export const content: PublicCatalog = {
           "id": "c-s-lewis-mere-christianity",
           "author_id": "c-s-lewis",
           "original_title": "Mere Christianity",
-          "display_title_es": "Mere Christianity",
+          "display_title_es": "Mero cristianismo",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30648,7 +30648,7 @@ export const content: PublicCatalog = {
           "id": "the-phantom-tollbooth",
           "author_id": "norman-juster",
           "original_title": "The Phantom Tollbooth",
-          "display_title_es": "The Phantom Tollbooth",
+          "display_title_es": "La cabina mágica",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -30657,7 +30657,7 @@ export const content: PublicCatalog = {
           "id": "norman-juster-the-dot-and-the-line",
           "author_id": "norman-juster",
           "original_title": "The Dot and the Line",
-          "display_title_es": "The Dot and the Line",
+          "display_title_es": "El punto y la línea",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30745,7 +30745,7 @@ export const content: PublicCatalog = {
           "id": "where-the-wild-things-are",
           "author_id": "maurice-sendak",
           "original_title": "Where the Wild Things Are",
-          "display_title_es": "Where the Wild Things Are",
+          "display_title_es": "Donde viven los monstruos",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -30754,7 +30754,7 @@ export const content: PublicCatalog = {
           "id": "maurice-sendak-in-the-night-kitchen",
           "author_id": "maurice-sendak",
           "original_title": "In the Night Kitchen",
-          "display_title_es": "In the Night Kitchen",
+          "display_title_es": "La cocina de noche",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30859,7 +30859,7 @@ export const content: PublicCatalog = {
           "id": "charlie-and-the-chocolate-factory",
           "author_id": "roald-dahl",
           "original_title": "Charlie and the Chocolate Factory",
-          "display_title_es": "Charlie and the Chocolate Factory",
+          "display_title_es": "Charlie y la fábrica de chocolate",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -30868,7 +30868,7 @@ export const content: PublicCatalog = {
           "id": "roald-dahl-james-and-the-giant-peach",
           "author_id": "roald-dahl",
           "original_title": "James and the Giant Peach",
-          "display_title_es": "James and the Giant Peach",
+          "display_title_es": "James y el melocotón gigante",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30977,7 +30977,7 @@ export const content: PublicCatalog = {
           "id": "shel-silverstein-where-the-sidewalk-ends",
           "author_id": "shel-silverstein",
           "original_title": "Where the Sidewalk Ends",
-          "display_title_es": "Where the Sidewalk Ends",
+          "display_title_es": "Donde termina la acera",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -30986,7 +30986,7 @@ export const content: PublicCatalog = {
           "id": "the-giving-tree",
           "author_id": "shel-silverstein",
           "original_title": "The Giving Tree",
-          "display_title_es": "The Giving Tree",
+          "display_title_es": "El árbol generoso",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -31075,7 +31075,7 @@ export const content: PublicCatalog = {
           "id": "the-very-hungry-caterpillar",
           "author_id": "eric-carle",
           "original_title": "The Very Hungry Caterpillar",
-          "display_title_es": "The Very Hungry Caterpillar",
+          "display_title_es": "La pequeña oruga glotona",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -31084,7 +31084,7 @@ export const content: PublicCatalog = {
           "id": "eric-carle-the-grouchy-ladybug",
           "author_id": "eric-carle",
           "original_title": "The Grouchy Ladybug",
-          "display_title_es": "The Grouchy Ladybug",
+          "display_title_es": "La mariquita gruñona",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31193,7 +31193,7 @@ export const content: PublicCatalog = {
           "id": "dr-seuss-the-cat-in-the-hat",
           "author_id": "dr-seuss",
           "original_title": "The Cat in the Hat",
-          "display_title_es": "The Cat in the Hat",
+          "display_title_es": "El gato ensombrerado",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31202,7 +31202,7 @@ export const content: PublicCatalog = {
           "id": "dr-seuss-green-eggs-and-ham",
           "author_id": "dr-seuss",
           "original_title": "Green Eggs and Ham",
-          "display_title_es": "Green Eggs and Ham",
+          "display_title_es": "Huevos verdes con jamón",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31306,7 +31306,7 @@ export const content: PublicCatalog = {
           "id": "if-you-give-a-mouse-a-cookie",
           "author_id": "laura-joffe-numeroff",
           "original_title": "If You Give a Mouse a Cookie",
-          "display_title_es": "If You Give a Mouse a Cookie",
+          "display_title_es": "Si le das una galletita a un ratón",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"
@@ -31315,7 +31315,7 @@ export const content: PublicCatalog = {
           "id": "laura-joffe-numeroff-if-you-give-a-moose-a-muffin",
           "author_id": "laura-joffe-numeroff",
           "original_title": "If You Give a Moose a Muffin",
-          "display_title_es": "If You Give a Moose a Muffin",
+          "display_title_es": "Si le das un panecillo a un alce",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31402,7 +31402,7 @@ export const content: PublicCatalog = {
           "id": "philip-pullman-his-dark-materials",
           "author_id": "philip-pullman",
           "original_title": "His Dark Materials",
-          "display_title_es": "His Dark Materials",
+          "display_title_es": "La materia oscura",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31411,7 +31411,7 @@ export const content: PublicCatalog = {
           "id": "philip-pullman-the-good-man-jesus-and-the-scoundrel-christ",
           "author_id": "philip-pullman",
           "original_title": "The Good Man Jesus and the Scoundrel Christ",
-          "display_title_es": "The Good Man Jesus and the Scoundrel Christ",
+          "display_title_es": "El buen Jesús y Cristo el malvado",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31520,7 +31520,7 @@ export const content: PublicCatalog = {
           "id": "lemony-snicket-a-series-of-unfortunate-events",
           "author_id": "lemony-snicket",
           "original_title": "A Series of Unfortunate Events",
-          "display_title_es": "A Series of Unfortunate Events",
+          "display_title_es": "Una serie de catastróficas desdichas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31529,7 +31529,7 @@ export const content: PublicCatalog = {
           "id": "lemony-snicket-all-the-wrong-questions",
           "author_id": "lemony-snicket",
           "original_title": "All the Wrong Questions",
-          "display_title_es": "All the Wrong Questions",
+          "display_title_es": "Todas las preguntas equivocadas",
           "identifiers": {},
           "notes": "Obra seleccionada y verificada manualmente en revision-perfiles-autores-completado.xlsx.",
           "metadata_status": "minimal"
@@ -31638,7 +31638,7 @@ export const content: PublicCatalog = {
           "id": "the-book-thief",
           "author_id": "markus-zusak",
           "original_title": "The Book Thief",
-          "display_title_es": "The Book Thief",
+          "display_title_es": "La ladrona de libros",
           "identifiers": {},
           "notes": "Obra mínima identificada por Literary Libations.",
           "metadata_status": "minimal"

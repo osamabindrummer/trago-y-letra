@@ -10,6 +10,8 @@
     "validate:library": "tsx scripts/validate-library.ts",
     "validate:research": "tsx scripts/validate-research.ts",
     "export:recommendations": "node --import tsx scripts/export-recommendations-for-review.ts",
+    "export:title-translations": "node --import tsx scripts/export-title-translations.ts",
+    "import:title-translations": "node --import tsx scripts/import-title-translations.ts",
     "import:reviewed-recommendations": "node --import tsx scripts/import-reviewed-recommendations.ts",
     "export:recipes": "node --import tsx scripts/export-recipes-for-review.ts",
     "import:reviewed-recipes": "node --import tsx scripts/import-reviewed-recipes.ts",

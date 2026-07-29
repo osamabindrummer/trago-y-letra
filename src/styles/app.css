@@ -196,10 +196,6 @@ main { min-height: 100svh; overflow: hidden; background: #151713; }
 .provisional-intro > p:last-child { max-width: 680px; color: #c7bea9; line-height: 1.6; }
 .provisional-discovery-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; max-width: 1450px; margin: auto; }
 .provisional-discovery-card { min-height: 0; padding: 30px; }
-.provisional-details { display: grid; gap: 10px; margin: 22px 0; padding: 14px 0; border-block: 1px solid rgba(255,255,255,.18); }
-.provisional-details div { display: grid; gap: 3px; }
-.provisional-details dt { color: #b8ae9d; font: 500 10px 'DM Mono', monospace; text-transform: uppercase; }
-.provisional-details dd { margin: 0; font-size: 13px; line-height: 1.45; }
 .result-heading {
   max-width: 1450px;
   margin: 0 auto 24px;
@@ -285,8 +281,6 @@ main { min-height: 100svh; overflow: hidden; background: #151713; }
 .recommendation-tags .relationship { margin: 0; }
 .minimal-profile-note { margin-top: 48px; color: #8f8674; font: 500 11px 'DM Mono', monospace; text-transform: uppercase; }
 .card-copy { max-width: 420px; color: #5d574c; font-size: 14px; line-height: 1.6; }
-.source-links { display: grid; gap: 8px; margin-top: 18px; }
-.source-links a, .source-links span { color: inherit; font: 500 10px/1.4 'DM Mono', monospace; }
 .ingredients { padding: 0; margin: 24px 0; list-style: none; border-top: 1px solid rgba(255,255,255,.25); }
 .ingredients li {
   display: flex;
@@ -443,9 +437,6 @@ main { min-height: 100svh; overflow: hidden; background: #151713; }
 .discovery-copy { min-height: 62px; font-size: 14px; line-height: 1.55; }
 .discovery-flags { display: flex; flex-wrap: wrap; gap: 6px; margin: 18px 0; }
 .discovery-flags span { padding: 5px 7px; color: #5f574c; border-radius: 3px; background: #d8cbb5; font-size: 10px; }
-.discovery-sources { padding-top: 10px; border-top: 1px solid #b6aa96; }
-.discovery-sources p { display: grid; gap: 3px; margin: 10px 0 0; font: 500 9px/1.4 'DM Mono', monospace; }
-.discovery-sources span { color: #6d665b; }
 
 @keyframes enter {
   from { opacity: 0; transform: translateY(18px); }

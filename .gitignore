@@ -14,3 +14,4 @@ test-results/
 /library/processed/
 /data/research/book-extractions/**/tmp/
 /data/research/author-profile-enrichment/cache/*.json
+/exports/titulos-para-versiones-en-espanol.csv
