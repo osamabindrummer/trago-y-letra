@@ -96,17 +96,17 @@ describe('flujo principal', () => {
     const app = within(container)
     fireEvent.click(app.getByRole('button', { name: 'Índice' }))
     expect(app.getByRole('heading', { name: 'Autores, de la A a la Z.' })).toBeInTheDocument()
-    expect(app.getByText('216 autores · 311 recomendaciones y sugerencias de bebidas.')).toBeInTheDocument()
+    expect(app.getByText(`${content.authors.length} autores · ${content.authors.reduce((total, author) => total + author.recommendations.length, 0)} recomendaciones y sugerencias de bebidas.`)).toBeInTheDocument()
     const list = within(app.getByRole('list', { name: 'Índice alfabético de autores' }))
     const items = list.getAllByRole('listitem')
-    expect(items).toHaveLength(216)
+    expect(items).toHaveLength(content.authors.length)
     expect(list.getByText(/Ernest Hemingway/)).toHaveTextContent('(15)')
     const labels = items.map((item) => item.textContent ?? '')
     expect(labels.findIndex((label) => label.includes('Douglas Adams')))
       .toBeLessThan(labels.findIndex((label) => label.includes('Agatha Christie')))
     expect(app.getByRole('heading', { name: 'Tragos, de la A a la (glup) Z.' })).toBeInTheDocument()
     const drinks = within(app.getByRole('list', { name: 'Índice alfabético de bebidas' }))
-    expect(drinks.getAllByRole('listitem')).toHaveLength(252)
+    expect(drinks.getAllByRole('listitem')).toHaveLength(new Set(content.authors.flatMap((author) => author.recommendations.map((recommendation) => recommendation.drink.name_es))).size)
     expect(drinks.getByText('Whisky escocés')).toBeInTheDocument()
   })
 
@@ -150,6 +150,16 @@ describe('contrato expansivo de fichas', () => {
     const sheet = within(container)
     expect(sheet.getByRole('heading', { name: 'Anchor Steam Beer' })).toBeInTheDocument()
     expect(sheet.getByText('Vierte 330 ml en un vaso limpio, dejando espacio para espuma.')).toBeInTheDocument()
+  })
+
+  it('muestra entre comillas los títulos marcados con asteriscos sólo en la recomendación', () => {
+    const author = structuredClone(content.authors.find((item) => item.id === 'thomas-mann')!)
+    author.recommendations = [author.recommendations.find((item) => item.id === 'deep-research-thomas-mann-champagne')!]
+    author.recommendations[0].explanation_es = 'La champaña entra en *Buddenbrooks* con una burbuja muy seria.'
+    const { container } = render(<AuthorSheet author={author} onClose={() => undefined} />)
+    const sheet = within(container)
+    expect(sheet.getByText('La champaña entra en “Buddenbrooks” con una burbuja muy seria.')).toBeInTheDocument()
+    expect(sheet.queryByText(/\*Buddenbrooks\*/)).not.toBeInTheDocument()
   })
 
   it('mantiene las recomendaciones como invitaciones lúdicas sin defensas metodológicas', () => {

@@ -14,6 +14,12 @@ interface Props {
   onClose: () => void
 }
 
+function recommendationCopy(text: string): string {
+  return text
+    .replace(/\*\*([^*]+)\*\*/g, '“$1”')
+    .replace(/\*([^*]+)\*/g, '“$1”')
+}
+
 export function AuthorSheet({ author, onClose }: Props) {
   const [choice, setChoice] = useState(0)
 
@@ -56,7 +62,7 @@ export function AuthorSheet({ author, onClose }: Props) {
           <div className="recommendation-tags">
             <p className={`relationship ${recommendation.relationship_type}`}>{labels[recommendation.relationship_type]}</p>
           </div>
-          <p className="card-copy">{recommendation.explanation_es}</p>
+          <p className="card-copy">{recommendationCopy(recommendation.explanation_es)}</p>
         </section>
 
         <section className="result-card recipe-card">

@@ -87,7 +87,7 @@ export function searchTargets(targets: SearchTarget[], query: string): SearchTar
         : []),
       ...discoveries.flatMap((discovery) => [discovery.author_name, discovery.work_title, discovery.drink_name]),
     ].filter((value): value is string => Boolean(value)).map(normalize)
-    const match = terms.some((candidate) => candidate.includes(term) || term.includes(candidate))
+    const match = terms.some((candidate) => candidate.includes(term) || (candidate.length >= 4 && term.includes(candidate)))
     return { target, match }
   }).filter(({ match }) => match).map(({ target }) => target)
 }

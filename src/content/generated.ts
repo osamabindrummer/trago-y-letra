@@ -2,7 +2,7 @@
 import type { PublicCatalog } from '../../scripts/content-types'
 
 export const content: PublicCatalog = {
-  "generated_at": "2026-07-29",
+  "generated_at": "2026-07-30",
   "authors": [
     {
       "id": "dorothy-parker",
@@ -22429,7 +22429,7 @@ export const content: PublicCatalog = {
           "reviewed_at": "2026-07-29",
           "drink": {
             "id": "wine-dealers-choice",
-            "name_es": "Vino a elección (especificar estilo)",
+            "name_es": "Vino a elección",
             "aliases": [
               "Wine, Dealer’S Choice"
             ],
@@ -23814,7 +23814,7 @@ export const content: PublicCatalog = {
           "reviewed_at": "2026-07-29",
           "drink": {
             "id": "barolo-or-barbaresco",
-            "name_es": "Barolo o Barbaresco (elige uno)",
+            "name_es": "Barolo o Barbaresco",
             "aliases": [
               "Barolo Or Barbaresco",
               "Barolo",
@@ -26366,6 +26366,61 @@ export const content: PublicCatalog = {
               }
             }
           ]
+        },
+        {
+          "id": "deep-research-umberto-eco-wine-dealers-choice",
+          "author_id": "umberto-eco",
+          "drink_id": "wine-dealers-choice",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Vino a elección (especificar estilo) para el mundo de Umberto Eco",
+          "explanation_es": "Vino a elección (especificar estilo) acompaña el universo de Umberto Eco por afinidad de lugar, época y temperamento. Entre claustro, manuscritos y pasillos, la copa aporta una pista que tampoco resuelve el crimen.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-umberto-eco-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-umberto-eco-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-umberto-eco-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Umberto Eco con Vino monástico italiano mediante la propuesta contextual vinculada a El nombre de la rosa.",
+              "locator": "Ficha — Umberto Eco",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
         }
       ]
     },
@@ -26509,7 +26564,8 @@ export const content: PublicCatalog = {
           "explanation_es": "La sidra de manzana es el maridaje inevitable para *The Cider House Rules*. Puede ser dulce o seca, tranquila o espumosa, pero siempre conserva la fruta y el territorio del huerto; en la novela, esa aparente sencillez rural convive con decisiones morales mucho menos fáciles de fermentar.",
           "confidence": "low",
           "evidence_ids": [
-            "evidencia-literary-libations-219"
+            "evidencia-literary-libations-219",
+            "evidencia-john-irving-deep-research-r1"
           ],
           "editorial_status": "published",
           "reviewed_by": "revisión editorial manual",
@@ -26554,6 +26610,26 @@ export const content: PublicCatalog = {
                 "edition": "EPUB 2.0",
                 "accessed_at": "2026-07-28",
                 "language": "en",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-john-irving-deep-research-r1",
+              "recommendation_id": "literary-libations-219-editorial",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a John Irving con sidra por The Cider House Rules.",
+              "locator": "Fichas iniciales — John Irving",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
                 "reliability_tier": "reputable_secondary"
               }
             }
@@ -31339,7 +31415,7 @@ export const content: PublicCatalog = {
           "reviewed_at": "2026-07-29",
           "drink": {
             "id": "leche-o-leche-vegetal",
-            "name_es": "Leche o bebida vegetal (elige una)",
+            "name_es": "Leche o bebida vegetal",
             "aliases": [
               "Milk (Or Plant-Based Milk)"
             ],
@@ -31708,6 +31784,4668 @@ export const content: PublicCatalog = {
                 "edition": "EPUB 2.0",
                 "accessed_at": "2026-07-28",
                 "language": "en",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thomas-mann",
+      "slug": "thomas-mann",
+      "canonical_name": "Thomas Mann",
+      "aliases": [],
+      "featured_works": [
+        "thomas-mann-buddenbrooks",
+        "thomas-mann-la-muerte-en-venecia"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Alemania",
+      "birth_year": 1875,
+      "death_year": 1955,
+      "works": [
+        {
+          "id": "thomas-mann-buddenbrooks",
+          "author_id": "thomas-mann",
+          "original_title": "Buddenbrooks",
+          "display_title_es": "Los Buddenbrook",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "thomas-mann-la-muerte-en-venecia",
+          "author_id": "thomas-mann",
+          "original_title": "La muerte en Venecia",
+          "display_title_es": "La muerte en Venecia",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-thomas-mann-wine-dealers-choice",
+          "author_id": "thomas-mann",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "thomas-mann-buddenbrooks",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en Buddenbrooks",
+          "explanation_es": "Vino a elección (especificar estilo) entra en Buddenbrooks como una llave para el ambiente de Thomas Mann. Entre familia, comercio y decadencia, hasta el brindis parece llevar libro mayor.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-thomas-mann-wine-dealers-choice-r1",
+            "evidencia-deep-research-thomas-mann-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-thomas-mann-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-thomas-mann-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Thomas Mann con Vino mediante el ceremonial doméstico y mercantil de Buddenbrooks.",
+              "locator": "Fichas iniciales — Thomas Mann",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-thomas-mann-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-thomas-mann-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Thomas Mann con Vino mediante el ceremonial doméstico y mercantil de Buddenbrooks.",
+              "locator": "Ficha — Thomas Mann",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-thomas-mann-champagne",
+          "author_id": "thomas-mann",
+          "drink_id": "champagne",
+          "work_id": "thomas-mann-buddenbrooks",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Champaña en Buddenbrooks",
+          "explanation_es": "Champaña entra en Buddenbrooks como una llave para el ambiente de Thomas Mann. Entre familia, comercio y decadencia, hasta el brindis parece llevar libro mayor.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-thomas-mann-champagne-r1",
+            "evidencia-deep-research-thomas-mann-champagne-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "champagne",
+            "name_es": "Champaña",
+            "aliases": [
+              "Champagne"
+            ],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-thomas-mann-champagne-r1",
+              "recommendation_id": "deep-research-thomas-mann-champagne",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Thomas Mann con Champaña mediante el mundo burgués de Buddenbrooks y La montaña mágica.",
+              "locator": "Fichas iniciales — Thomas Mann",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-thomas-mann-champagne-r2",
+              "recommendation_id": "deep-research-thomas-mann-champagne",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Thomas Mann con Champaña mediante el mundo burgués de Buddenbrooks y La montaña mágica.",
+              "locator": "Ficha — Thomas Mann",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-thomas-mann-cerveza",
+          "author_id": "thomas-mann",
+          "drink_id": "cerveza",
+          "work_id": "thomas-mann-buddenbrooks",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Cerveza en Buddenbrooks",
+          "explanation_es": "Cerveza entra en Buddenbrooks como una llave para el ambiente de Thomas Mann. Entre familia, comercio y decadencia, hasta el brindis parece llevar libro mayor.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-thomas-mann-cerveza-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cerveza",
+            "name_es": "Cerveza",
+            "aliases": [
+              "Beer"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cerveza lager",
+                "amount": 330,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría la cerveza.",
+              "Sirve en un vaso limpio."
+            ],
+            "glassware": "Vaso de cerveza",
+            "zero_proof_alternative_id": "cerveza-cero",
+            "recipe_note": "Servicio contemporáneo."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-thomas-mann-cerveza-r1",
+              "recommendation_id": "deep-research-thomas-mann-cerveza",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Thomas Mann con Cerveza mediante el ceremonial doméstico de Buddenbrooks.",
+              "locator": "Fichas iniciales — Thomas Mann",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maria-negroni",
+      "slug": "maria-negroni",
+      "canonical_name": "María Negroni",
+      "aliases": [],
+      "featured_works": [
+        "maria-negroni-museo-negro",
+        "maria-negroni-el-corazon-del-dano"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Argentina",
+      "birth_year": 1951,
+      "works": [
+        {
+          "id": "maria-negroni-museo-negro",
+          "author_id": "maria-negroni",
+          "original_title": "Museo negro",
+          "display_title_es": "Museo negro",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "maria-negroni-el-corazon-del-dano",
+          "author_id": "maria-negroni",
+          "original_title": "El corazón del daño",
+          "display_title_es": "El corazón del daño",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-maria-negroni-absenta-con-agua",
+          "author_id": "maria-negroni",
+          "drink_id": "absenta-con-agua",
+          "work_id": "maria-negroni-museo-negro",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Absenta con agua para el mundo de María Negroni",
+          "explanation_es": "Absenta con agua acompaña el universo de María Negroni por afinidad de lugar, época y temperamento. La copa deja una sombra verde sobre el gabinete de curiosidades.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-maria-negroni-absenta-con-agua-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "absenta-con-agua",
+            "name_es": "Absenta con agua",
+            "aliases": [
+              "Absinthe"
+            ],
+            "category": "Aperitivo",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "absenta",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "agua fría",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve la absenta en un vaso pequeño.",
+              "Añade el agua fría lentamente.",
+              "Prueba despacio y ajusta con más agua si lo prefieres."
+            ],
+            "glassware": "Vaso pequeño",
+            "zero_proof_alternative_id": "infusion-de-anis",
+            "recipe_note": "Propuesta contemporánea de servicio; no se presenta como receta histórica exacta."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-maria-negroni-absenta-con-agua-r1",
+              "recommendation_id": "deep-research-maria-negroni-absenta-con-agua",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a María Negroni con Absenta con agua mediante la afinidad estética propuesta con Museo negro y Ciudad gótica.",
+              "locator": "Fichas iniciales — María Negroni",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "henry-james",
+      "slug": "henry-james",
+      "canonical_name": "Henry James",
+      "aliases": [],
+      "featured_works": [
+        "henry-james-the-portrait-of-a-lady",
+        "henry-james-otra-vuelta-de-tuerca"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Estados Unidos / Reino Unido",
+      "birth_year": 1843,
+      "death_year": 1916,
+      "works": [
+        {
+          "id": "henry-james-the-portrait-of-a-lady",
+          "author_id": "henry-james",
+          "original_title": "The Portrait of a Lady",
+          "display_title_es": "Retrato de una dama",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "henry-james-otra-vuelta-de-tuerca",
+          "author_id": "henry-james",
+          "original_title": "Otra vuelta de tuerca",
+          "display_title_es": "Otra vuelta de tuerca",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-henry-james-wine-dealers-choice",
+          "author_id": "henry-james",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "henry-james-the-portrait-of-a-lady",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en Retrato de una dama",
+          "explanation_es": "Vino a elección (especificar estilo) entra en Retrato de una dama como una llave para el ambiente de Henry James. El refinamiento social nunca llega solo: también pide una copa bien elegida.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-henry-james-wine-dealers-choice-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-henry-james-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-henry-james-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Henry James con Vino mediante la presencia de good wine en The Portrait of a Lady.",
+              "locator": "Fichas iniciales — Henry James",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roberto-arlt",
+      "slug": "roberto-arlt",
+      "canonical_name": "Roberto Arlt",
+      "aliases": [],
+      "featured_works": [
+        "roberto-arlt-los-hombres-fieras",
+        "roberto-arlt-los-siete-locos"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Argentina",
+      "birth_year": 1900,
+      "death_year": 1942,
+      "works": [
+        {
+          "id": "roberto-arlt-los-hombres-fieras",
+          "author_id": "roberto-arlt",
+          "original_title": "Los hombres fieras",
+          "display_title_es": "Los hombres fieras",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "roberto-arlt-los-siete-locos",
+          "author_id": "roberto-arlt",
+          "original_title": "Los siete locos",
+          "display_title_es": "Los siete locos",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-roberto-arlt-aguardiente-de-palma",
+          "author_id": "roberto-arlt",
+          "drink_id": "aguardiente-de-palma",
+          "work_id": "roberto-arlt-los-hombres-fieras",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Aguardiente de palma en Los hombres fieras",
+          "explanation_es": "Aguardiente de palma entra en Los hombres fieras como una llave para el ambiente de Roberto Arlt. El vaso conserva el filo áspero de una ciudad que rara vez habla en voz baja.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-roberto-arlt-aguardiente-de-palma-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "aguardiente-de-palma",
+            "name_es": "Aguardiente de palma",
+            "aliases": [
+              "Palm wine spirit"
+            ],
+            "category": "Aguardiente",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-roberto-arlt-aguardiente-de-palma-r1",
+              "recommendation_id": "deep-research-roberto-arlt-aguardiente-de-palma",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Roberto Arlt con Aguardiente de palma mediante el cuento Los hombres fieras.",
+              "locator": "Fichas iniciales — Roberto Arlt",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-roberto-arlt-cana",
+          "author_id": "roberto-arlt",
+          "drink_id": "cana",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Caña para el mundo de Roberto Arlt",
+          "explanation_es": "Caña acompaña el universo de Roberto Arlt por afinidad de lugar, época y temperamento. El vaso conserva el filo áspero de una ciudad que rara vez habla en voz baja.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-roberto-arlt-cana-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cana",
+            "name_es": "Caña",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-roberto-arlt-cana-r2",
+              "recommendation_id": "deep-research-roberto-arlt-cana",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Roberto Arlt con Caña mediante el ambiente de arrabal y marginalidad de su narrativa.",
+              "locator": "Ficha — Roberto Arlt",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-roberto-arlt-ginebra",
+          "author_id": "roberto-arlt",
+          "drink_id": "ginebra",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Ginebra para el mundo de Roberto Arlt",
+          "explanation_es": "Ginebra acompaña el universo de Roberto Arlt por afinidad de lugar, época y temperamento. El vaso conserva el filo áspero de una ciudad que rara vez habla en voz baja.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-roberto-arlt-ginebra-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "ginebra",
+            "name_es": "Ginebra",
+            "aliases": [
+              "Gin"
+            ],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-roberto-arlt-ginebra-r2",
+              "recommendation_id": "deep-research-roberto-arlt-ginebra",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Roberto Arlt con Ginebra mediante el ambiente de arrabal y marginalidad de su narrativa.",
+              "locator": "Ficha — Roberto Arlt",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pablo-de-rokha",
+      "slug": "pablo-de-rokha",
+      "canonical_name": "Pablo de Rokha",
+      "aliases": [],
+      "featured_works": [
+        "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
+        "pablo-de-rokha-los-gemidos"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Chile",
+      "birth_year": 1894,
+      "death_year": 1968,
+      "works": [
+        {
+          "id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
+          "author_id": "pablo-de-rokha",
+          "original_title": "Epopeya de las comidas y las bebidas de Chile",
+          "display_title_es": "Epopeya de las comidas y las bebidas de Chile",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "pablo-de-rokha-los-gemidos",
+          "author_id": "pablo-de-rokha",
+          "original_title": "Los gemidos",
+          "display_title_es": "Los gemidos",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-pablo-de-rokha-vino-tinto",
+          "author_id": "pablo-de-rokha",
+          "drink_id": "vino-tinto",
+          "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino tinto en Epopeya de las comidas y las bebidas de Chile",
+          "explanation_es": "Vino tinto entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-pablo-de-rokha-vino-tinto-r1",
+            "evidencia-deep-research-pablo-de-rokha-vino-tinto-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "vino-tinto",
+            "name_es": "Vino tinto",
+            "aliases": [
+              "Vino"
+            ],
+            "category": "Vino",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "vino tinto",
+                "amount": 120,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve el vino en una copa.",
+              "Déjalo reposar un momento.",
+              "Sírvelo a temperatura fresca."
+            ],
+            "glassware": "Copa de vino",
+            "zero_proof_alternative_id": "mosto-tinto",
+            "recipe_note": "Servicio contemporáneo; no reconstruye una bebida histórica."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-pablo-de-rokha-vino-tinto-r1",
+              "recommendation_id": "deep-research-pablo-de-rokha-vino-tinto",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Pablo de Rokha con Vino tinto mediante Epopeya de las comidas y las bebidas de Chile.",
+              "locator": "Fichas iniciales — Pablo de Rokha",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-pablo-de-rokha-vino-tinto-r2",
+              "recommendation_id": "deep-research-pablo-de-rokha-vino-tinto",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Pablo de Rokha con Vino tinto mediante Epopeya de las comidas y las bebidas de Chile.",
+              "locator": "Ficha — Pablo de Rokha",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-pablo-de-rokha-chicha",
+          "author_id": "pablo-de-rokha",
+          "drink_id": "chicha",
+          "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Chicha en Epopeya de las comidas y las bebidas de Chile",
+          "explanation_es": "Chicha entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-pablo-de-rokha-chicha-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "chicha",
+            "name_es": "Chicha",
+            "aliases": [],
+            "category": "Fermentado",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-pablo-de-rokha-chicha-r2",
+              "recommendation_id": "deep-research-pablo-de-rokha-chicha",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Pablo de Rokha con Chicha mediante Epopeya de las comidas y las bebidas de Chile.",
+              "locator": "Ficha — Pablo de Rokha",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-pablo-de-rokha-pipeno",
+          "author_id": "pablo-de-rokha",
+          "drink_id": "pipeno",
+          "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Pipeño en Epopeya de las comidas y las bebidas de Chile",
+          "explanation_es": "Pipeño entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-pablo-de-rokha-pipeno-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "pipeno",
+            "name_es": "Pipeño",
+            "aliases": [],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Ajusta la temperatura al estilo del vino.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-pablo-de-rokha-pipeno-r2",
+              "recommendation_id": "deep-research-pablo-de-rokha-pipeno",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Pablo de Rokha con Pipeño mediante Epopeya de las comidas y las bebidas de Chile.",
+              "locator": "Ficha — Pablo de Rokha",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-pablo-de-rokha-licores-chilenos",
+          "author_id": "pablo-de-rokha",
+          "drink_id": "licores-chilenos",
+          "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Licores chilenos en Epopeya de las comidas y las bebidas de Chile",
+          "explanation_es": "Licores chilenos entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-pablo-de-rokha-licores-chilenos-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "licores-chilenos",
+            "name_es": "Licores chilenos",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-pablo-de-rokha-licores-chilenos-r2",
+              "recommendation_id": "deep-research-pablo-de-rokha-licores-chilenos",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Pablo de Rokha con Licores chilenos mediante Epopeya de las comidas y las bebidas de Chile.",
+              "locator": "Ficha — Pablo de Rokha",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sandor-marai",
+      "slug": "sandor-marai",
+      "canonical_name": "Sándor Márai",
+      "aliases": [],
+      "featured_works": [
+        "sandor-marai-la-mujer-justa",
+        "sandor-marai-el-ultimo-encuentro"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Hungría",
+      "birth_year": 1900,
+      "death_year": 1989,
+      "works": [
+        {
+          "id": "sandor-marai-la-mujer-justa",
+          "author_id": "sandor-marai",
+          "original_title": "La mujer justa",
+          "display_title_es": "La mujer justa",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "sandor-marai-el-ultimo-encuentro",
+          "author_id": "sandor-marai",
+          "original_title": "El último encuentro",
+          "display_title_es": "El último encuentro",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-sandor-marai-vino-hungaro",
+          "author_id": "sandor-marai",
+          "drink_id": "vino-hungaro",
+          "work_id": "sandor-marai-hungarian-wine",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino húngaro en Hungarian Wine",
+          "explanation_es": "Vino húngaro entra en Hungarian Wine como una llave para el ambiente de Sándor Márai. En esa copa cabe una patria recordada con la precisión de quien aún sabe nombrar sus pérdidas.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-sandor-marai-vino-hungaro-r1",
+            "evidencia-deep-research-sandor-marai-vino-hungaro-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "vino-hungaro",
+            "name_es": "Vino húngaro",
+            "aliases": [],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Ajusta la temperatura al estilo del vino.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-sandor-marai-vino-hungaro-r1",
+              "recommendation_id": "deep-research-sandor-marai-vino-hungaro",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Sándor Márai con Vino húngaro mediante el texto Hungarian Wine.",
+              "locator": "Fichas iniciales — Sándor Márai",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-sandor-marai-vino-hungaro-r2",
+              "recommendation_id": "deep-research-sandor-marai-vino-hungaro",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Sándor Márai con Vino húngaro mediante el texto Hungarian Wine.",
+              "locator": "Ficha — Sándor Márai",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-sandor-marai-froccs-nagyfroccs",
+          "author_id": "sandor-marai",
+          "drink_id": "froccs-nagyfroccs",
+          "work_id": "sandor-marai-hungarian-wine",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Fröccs grande en Hungarian Wine",
+          "explanation_es": "Fröccs grande entra en Hungarian Wine como una llave para el ambiente de Sándor Márai. En esa copa cabe una patria recordada con la precisión de quien aún sabe nombrar sus pérdidas.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-sandor-marai-froccs-nagyfroccs-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "froccs-nagyfroccs",
+            "name_es": "Fröccs grande",
+            "aliases": [
+              "Nagyfröccs",
+              "Fröccs"
+            ],
+            "category": "Bebida de vino",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "Vino blanco seco y ligero",
+                "amount": 200,
+                "unit": "ml"
+              },
+              {
+                "name": "Agua de soda muy fría",
+                "amount": 100,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría el vino y el agua de soda.",
+              "Vierte el vino en el vaso.",
+              "Añade suavemente el agua de soda.",
+              "No agites ni añadas hielo."
+            ],
+            "glassware": "Vaso alto o copa grande de vino",
+            "recipe_note": "Preparación aportada para esta incorporación; no se atribuye a Sándor Márai.",
+            "recipe_status": "house"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-sandor-marai-froccs-nagyfroccs-r2",
+              "recommendation_id": "deep-research-sandor-marai-froccs-nagyfroccs",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Sándor Márai con Fröccs grande mediante el contexto cultural de Hungarian Wine.",
+              "locator": "Ficha — Sándor Márai",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "david-hume",
+      "slug": "david-hume",
+      "canonical_name": "David Hume",
+      "aliases": [],
+      "featured_works": [
+        "david-hume-my-own-life",
+        "david-hume-investigacion-sobre-el-entendimiento-humano"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Escocia",
+      "birth_year": 1711,
+      "death_year": 1776,
+      "works": [
+        {
+          "id": "david-hume-my-own-life",
+          "author_id": "david-hume",
+          "original_title": "My Own Life",
+          "display_title_es": "Mi vida",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "david-hume-investigacion-sobre-el-entendimiento-humano",
+          "author_id": "david-hume",
+          "original_title": "Investigación sobre el entendimiento humano",
+          "display_title_es": "Investigación sobre el entendimiento humano",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-david-hume-bordeaux",
+          "author_id": "david-hume",
+          "drink_id": "bordeaux",
+          "work_id": "david-hume-my-own-life",
+          "relationship_type": "author_documented",
+          "headline_es": "Bordeaux con David Hume",
+          "explanation_es": "Bordeaux acompaña el retrato de David Hume con una presencia concreta y sin solemnidad de museo. La filosofía se toma con claridad escocesa y una medida francesa bastante generosa.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-david-hume-bordeaux-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "bordeaux",
+            "name_es": "Bordeaux",
+            "aliases": [],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-david-hume-bordeaux-r1",
+              "recommendation_id": "deep-research-david-hume-bordeaux",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a David Hume con Claret mediante la referencia autobiográfica a una pinta de vino diaria durante su juventud en Francia.",
+              "locator": "Fichas iniciales — David Hume",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "john-banville",
+      "slug": "john-banville",
+      "canonical_name": "John Banville",
+      "aliases": [],
+      "featured_works": [
+        "john-banville-el-mar",
+        "john-banville-antigua-luz"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Irlanda",
+      "birth_year": 1945,
+      "works": [
+        {
+          "id": "john-banville-el-mar",
+          "author_id": "john-banville",
+          "original_title": "El mar",
+          "display_title_es": "El mar",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "john-banville-antigua-luz",
+          "author_id": "john-banville",
+          "original_title": "Antigua luz",
+          "display_title_es": "Antigua luz",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-john-banville-wine-dealers-choice",
+          "author_id": "john-banville",
+          "drink_id": "wine-dealers-choice",
+          "relationship_type": "author_documented",
+          "headline_es": "Vino a elección (especificar estilo) con John Banville",
+          "explanation_es": "Vino a elección (especificar estilo) acompaña el retrato de John Banville con una presencia concreta y sin solemnidad de museo. Hasta la abstinencia de escritorio adquiere modales irlandeses.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-john-banville-wine-dealers-choice-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-john-banville-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-john-banville-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a John Banville con Vino mediante la restricción de no beber vino mientras escribe.",
+              "locator": "Fichas iniciales — John Banville",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "honore-de-balzac",
+      "slug": "honore-de-balzac",
+      "canonical_name": "Honoré de Balzac",
+      "aliases": [],
+      "featured_works": [
+        "honore-de-balzac-papa-goriot",
+        "honore-de-balzac-eugenie-grandet"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Francia",
+      "birth_year": 1799,
+      "death_year": 1850,
+      "works": [
+        {
+          "id": "honore-de-balzac-papa-goriot",
+          "author_id": "honore-de-balzac",
+          "original_title": "Papá Goriot",
+          "display_title_es": "Papá Goriot",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "honore-de-balzac-eugenie-grandet",
+          "author_id": "honore-de-balzac",
+          "original_title": "Eugénie Grandet",
+          "display_title_es": "Eugénie Grandet",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-honore-de-balzac-cafe",
+          "author_id": "honore-de-balzac",
+          "drink_id": "cafe",
+          "relationship_type": "author_documented",
+          "headline_es": "Café con Honoré de Balzac",
+          "explanation_es": "Café acompaña el retrato de Honoré de Balzac con una presencia concreta y sin solemnidad de museo. Una taza cargada parece apenas el primer capítulo de una jornada larguísima.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-honore-de-balzac-cafe-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cafe",
+            "name_es": "Café",
+            "aliases": [
+              "Coffee"
+            ],
+            "category": "Café",
+            "alcoholic": false,
+            "ingredients": [],
+            "steps": [
+              "Prepáralo con el método que prefieras.",
+              "Sírvelo bien caliente en una taza.",
+              "Endulza sólo si lo deseas."
+            ],
+            "glassware": "Taza",
+            "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-honore-de-balzac-cafe-r1",
+              "recommendation_id": "deep-research-honore-de-balzac-cafe",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Honoré de Balzac con Café mediante la asociación biográfica indicada por el informe.",
+              "locator": "Fichas iniciales — Honoré de Balzac",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "simone-de-beauvoir",
+      "slug": "simone-de-beauvoir",
+      "canonical_name": "Simone de Beauvoir",
+      "aliases": [],
+      "featured_works": [
+        "simone-de-beauvoir-el-segundo-sexo",
+        "simone-de-beauvoir-memorias-de-una-joven-formal"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Francia",
+      "birth_year": 1908,
+      "death_year": 1986,
+      "works": [
+        {
+          "id": "simone-de-beauvoir-el-segundo-sexo",
+          "author_id": "simone-de-beauvoir",
+          "original_title": "El segundo sexo",
+          "display_title_es": "El segundo sexo",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "simone-de-beauvoir-memorias-de-una-joven-formal",
+          "author_id": "simone-de-beauvoir",
+          "original_title": "Memorias de una joven formal",
+          "display_title_es": "Memorias de una joven formal",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-simone-de-beauvoir-coctel-de-albaricoque",
+          "author_id": "simone-de-beauvoir",
+          "drink_id": "coctel-de-albaricoque",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Cóctel de albaricoque y Simone de Beauvoir",
+          "explanation_es": "Cóctel de albaricoque conserva una escena cultural ligada a Simone de Beauvoir, lista para una sobremesa con buenas historias. La escena parisina tiene el brillo de una idea que acaba de encontrar su vaso.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-simone-de-beauvoir-coctel-de-albaricoque-r1",
+            "evidencia-deep-research-simone-de-beauvoir-coctel-de-albaricoque-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "coctel-de-albaricoque",
+            "name_es": "Cóctel de albaricoque",
+            "aliases": [
+              "Apricot Cocktail"
+            ],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "Gin",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "Licor o brandy de albaricoque",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "Jugo de naranja recién exprimido",
+                "amount": 15,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría una copa de cóctel.",
+              "Agrega los ingredientes a una coctelera con hielo.",
+              "Agita enérgicamente.",
+              "Cuela en la copa fría, sin hielo."
+            ],
+            "glassware": "Copa de cóctel o Martini",
+            "recipe_note": "Receta de la casa aportada para esta incorporación; no se atribuye históricamente a Beauvoir ni a Sartre.",
+            "recipe_status": "house"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-simone-de-beauvoir-coctel-de-albaricoque-r1",
+              "recommendation_id": "deep-research-simone-de-beauvoir-coctel-de-albaricoque",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Simone de Beauvoir con Cóctel de albaricoque mediante la reconstrucción del encuentro de 1933 en el Bec-de-Gaz.",
+              "locator": "Fichas iniciales — Simone de Beauvoir",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-simone-de-beauvoir-coctel-de-albaricoque-r2",
+              "recommendation_id": "deep-research-simone-de-beauvoir-coctel-de-albaricoque",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Simone de Beauvoir con Cóctel de albaricoque mediante la reconstrucción del encuentro de 1933 en el Bec-de-Gaz.",
+              "locator": "Ficha — Simone de Beauvoir",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jean-paul-sartre",
+      "slug": "jean-paul-sartre",
+      "canonical_name": "Jean-Paul Sartre",
+      "aliases": [],
+      "featured_works": [
+        "jean-paul-sartre-la-nausea",
+        "jean-paul-sartre-el-ser-y-la-nada"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Francia",
+      "birth_year": 1905,
+      "death_year": 1980,
+      "works": [
+        {
+          "id": "jean-paul-sartre-la-nausea",
+          "author_id": "jean-paul-sartre",
+          "original_title": "La náusea",
+          "display_title_es": "La náusea",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jean-paul-sartre-el-ser-y-la-nada",
+          "author_id": "jean-paul-sartre",
+          "original_title": "El ser y la nada",
+          "display_title_es": "El ser y la nada",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-jean-paul-sartre-coctel-de-albaricoque",
+          "author_id": "jean-paul-sartre",
+          "drink_id": "coctel-de-albaricoque",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Cóctel de albaricoque y Jean-Paul Sartre",
+          "explanation_es": "Cóctel de albaricoque conserva una escena cultural ligada a Jean-Paul Sartre, lista para una sobremesa con buenas historias. Hay vasos que convierten una conversación de café en problema filosófico.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-jean-paul-sartre-coctel-de-albaricoque-r1",
+            "evidencia-deep-research-jean-paul-sartre-coctel-de-albaricoque-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "coctel-de-albaricoque",
+            "name_es": "Cóctel de albaricoque",
+            "aliases": [
+              "Apricot Cocktail"
+            ],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "Gin",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "Licor o brandy de albaricoque",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "Jugo de naranja recién exprimido",
+                "amount": 15,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría una copa de cóctel.",
+              "Agrega los ingredientes a una coctelera con hielo.",
+              "Agita enérgicamente.",
+              "Cuela en la copa fría, sin hielo."
+            ],
+            "glassware": "Copa de cóctel o Martini",
+            "recipe_note": "Receta de la casa aportada para esta incorporación; no se atribuye históricamente a Beauvoir ni a Sartre.",
+            "recipe_status": "house"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-jean-paul-sartre-coctel-de-albaricoque-r1",
+              "recommendation_id": "deep-research-jean-paul-sartre-coctel-de-albaricoque",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Jean-Paul Sartre con Cóctel de albaricoque mediante la reconstrucción del encuentro de 1933 en el Bec-de-Gaz.",
+              "locator": "Fichas iniciales — Jean-Paul Sartre",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-jean-paul-sartre-coctel-de-albaricoque-r2",
+              "recommendation_id": "deep-research-jean-paul-sartre-coctel-de-albaricoque",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Jean-Paul Sartre con Cóctel de albaricoque mediante la reconstrucción del encuentro de 1933 en el Bec-de-Gaz.",
+              "locator": "Ficha — Jean-Paul Sartre",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emile-zola",
+      "slug": "emile-zola",
+      "canonical_name": "Émile Zola",
+      "aliases": [],
+      "featured_works": [
+        "emile-zola-el-dinero",
+        "emile-zola-germinal"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Francia",
+      "birth_year": 1840,
+      "death_year": 1902,
+      "works": [
+        {
+          "id": "emile-zola-el-dinero",
+          "author_id": "emile-zola",
+          "original_title": "El Dinero",
+          "display_title_es": "El Dinero",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "emile-zola-germinal",
+          "author_id": "emile-zola",
+          "original_title": "Germinal",
+          "display_title_es": "Germinal",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-emile-zola-aguardiente",
+          "author_id": "emile-zola",
+          "drink_id": "aguardiente",
+          "work_id": "emile-zola-l-assommoir",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Aguardiente en La taberna",
+          "explanation_es": "Aguardiente entra en La taberna como una llave para el ambiente de Émile Zola. La bebida ilumina el daño social de la novela; aquí el bar no funciona como escape elegante.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-emile-zola-aguardiente-r1",
+            "evidencia-deep-research-emile-zola-aguardiente-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "aguardiente",
+            "name_es": "Aguardiente",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-emile-zola-aguardiente-r1",
+              "recommendation_id": "deep-research-emile-zola-aguardiente",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Émile Zola con Aguardiente mediante la representación de la taberna y el alcohol popular en L’Assommoir.",
+              "locator": "Fichas iniciales — Émile Zola",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-emile-zola-aguardiente-r2",
+              "recommendation_id": "deep-research-emile-zola-aguardiente",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Émile Zola con Aguardiente mediante la representación de la taberna y el alcohol popular en L’Assommoir.",
+              "locator": "Ficha — Émile Zola",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-emile-zola-brandy",
+          "author_id": "emile-zola",
+          "drink_id": "brandy",
+          "work_id": "emile-zola-l-assommoir",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Brandy en La taberna",
+          "explanation_es": "Brandy entra en La taberna como una llave para el ambiente de Émile Zola. La bebida ilumina el daño social de la novela; aquí el bar no funciona como escape elegante.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-emile-zola-brandy-r1",
+            "evidencia-deep-research-emile-zola-brandy-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "brandy",
+            "name_es": "Brandy",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-emile-zola-brandy-r1",
+              "recommendation_id": "deep-research-emile-zola-brandy",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Émile Zola con Brandy mediante las ciruelas al brandy y la economía alcohólica de L’Assommoir.",
+              "locator": "Fichas iniciales — Émile Zola",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-emile-zola-brandy-r2",
+              "recommendation_id": "deep-research-emile-zola-brandy",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Émile Zola con Brandy mediante las ciruelas al brandy y la economía alcohólica de L’Assommoir.",
+              "locator": "Ficha — Émile Zola",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-emile-zola-absenta-con-agua",
+          "author_id": "emile-zola",
+          "drink_id": "absenta-con-agua",
+          "work_id": "emile-zola-l-assommoir",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Absenta con agua en La taberna",
+          "explanation_es": "Absenta con agua entra en La taberna como una llave para el ambiente de Émile Zola. La bebida ilumina el daño social de la novela; aquí el bar no funciona como escape elegante.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-emile-zola-absenta-con-agua-r1",
+            "evidencia-deep-research-emile-zola-absenta-con-agua-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "absenta-con-agua",
+            "name_es": "Absenta con agua",
+            "aliases": [
+              "Absinthe"
+            ],
+            "category": "Aperitivo",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "absenta",
+                "amount": 30,
+                "unit": "ml"
+              },
+              {
+                "name": "agua fría",
+                "amount": 90,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve la absenta en un vaso pequeño.",
+              "Añade el agua fría lentamente.",
+              "Prueba despacio y ajusta con más agua si lo prefieres."
+            ],
+            "glassware": "Vaso pequeño",
+            "zero_proof_alternative_id": "infusion-de-anis",
+            "recipe_note": "Propuesta contemporánea de servicio; no se presenta como receta histórica exacta."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-emile-zola-absenta-con-agua-r1",
+              "recommendation_id": "deep-research-emile-zola-absenta-con-agua",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Émile Zola con Absenta con agua mediante la representación del alcoholismo popular en L’Assommoir.",
+              "locator": "Fichas iniciales — Émile Zola",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-emile-zola-absenta-con-agua-r2",
+              "recommendation_id": "deep-research-emile-zola-absenta-con-agua",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Émile Zola con Absenta con agua mediante la representación del alcoholismo popular en L’Assommoir.",
+              "locator": "Ficha — Émile Zola",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson",
+      "slug": "ralph-waldo-emerson",
+      "canonical_name": "Ralph Waldo Emerson",
+      "aliases": [],
+      "featured_works": [
+        "ralph-waldo-emerson-bacchus",
+        "ralph-waldo-emerson-naturaleza"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Estados Unidos",
+      "birth_year": 1803,
+      "death_year": 1882,
+      "works": [
+        {
+          "id": "ralph-waldo-emerson-bacchus",
+          "author_id": "ralph-waldo-emerson",
+          "original_title": "Bacchus",
+          "display_title_es": "Baco",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "ralph-waldo-emerson-naturaleza",
+          "author_id": "ralph-waldo-emerson",
+          "original_title": "Naturaleza",
+          "display_title_es": "Naturaleza",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-ralph-waldo-emerson-wine-dealers-choice",
+          "author_id": "ralph-waldo-emerson",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "ralph-waldo-emerson-bacchus",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en Bacchus",
+          "explanation_es": "Vino a elección (especificar estilo) entra en Bacchus como una llave para el ambiente de Ralph Waldo Emerson. El brindis se vuelve una pequeña máquina de trascendencia.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-ralph-waldo-emerson-wine-dealers-choice-r1",
+            "evidencia-deep-research-ralph-waldo-emerson-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-ralph-waldo-emerson-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-ralph-waldo-emerson-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Ralph Waldo Emerson con Vino de brindis mediante el poema Bacchus y la reflexión textual sobre la intoxicación.",
+              "locator": "Fichas iniciales — Ralph Waldo Emerson",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-ralph-waldo-emerson-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-ralph-waldo-emerson-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Ralph Waldo Emerson con Vino de brindis mediante el poema Bacchus y la reflexión textual sobre la intoxicación.",
+              "locator": "Ficha — Ralph Waldo Emerson",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "immanuel-kant",
+      "slug": "immanuel-kant",
+      "canonical_name": "Immanuel Kant",
+      "aliases": [],
+      "featured_works": [
+        "immanuel-kant-critica-de-la-razon-pura",
+        "immanuel-kant-fundamentacion-de-la-metafisica-de-las-costumbres"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Prusia",
+      "birth_year": 1724,
+      "death_year": 1804,
+      "works": [
+        {
+          "id": "immanuel-kant-critica-de-la-razon-pura",
+          "author_id": "immanuel-kant",
+          "original_title": "Crítica de la razón pura",
+          "display_title_es": "Crítica de la razón pura",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "immanuel-kant-fundamentacion-de-la-metafisica-de-las-costumbres",
+          "author_id": "immanuel-kant",
+          "original_title": "Fundamentación de la metafísica de las costumbres",
+          "display_title_es": "Fundamentación de la metafísica de las costumbres",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-immanuel-kant-wine-dealers-choice",
+          "author_id": "immanuel-kant",
+          "drink_id": "wine-dealers-choice",
+          "relationship_type": "author_documented",
+          "headline_es": "Vino a elección (especificar estilo) con Immanuel Kant",
+          "explanation_es": "Vino a elección (especificar estilo) acompaña el retrato de Immanuel Kant con una presencia concreta y sin solemnidad de museo. Hasta la copa parece llegar puntual a la mesa.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-immanuel-kant-wine-dealers-choice-r1",
+            "evidencia-deep-research-immanuel-kant-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-immanuel-kant-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-immanuel-kant-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Immanuel Kant con Vino mediante los testimonios sobre comidas, cenas y últimos días de Kant.",
+              "locator": "Fichas iniciales — Immanuel Kant",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-immanuel-kant-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-immanuel-kant-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Immanuel Kant con Vino mediante los testimonios sobre comidas, cenas y últimos días de Kant.",
+              "locator": "Ficha — Immanuel Kant",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "michel-de-montaigne",
+      "slug": "michel-de-montaigne",
+      "canonical_name": "Michel de Montaigne",
+      "aliases": [],
+      "featured_works": [
+        "michel-de-montaigne-journal-de-voyage",
+        "michel-de-montaigne-ensayos"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Francia",
+      "birth_year": 1533,
+      "death_year": 1592,
+      "works": [
+        {
+          "id": "michel-de-montaigne-journal-de-voyage",
+          "author_id": "michel-de-montaigne",
+          "original_title": "Journal de voyage",
+          "display_title_es": "Diario de viaje",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "michel-de-montaigne-ensayos",
+          "author_id": "michel-de-montaigne",
+          "original_title": "Ensayos",
+          "display_title_es": "Ensayos",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-michel-de-montaigne-wine-dealers-choice",
+          "author_id": "michel-de-montaigne",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "michel-de-montaigne-journal-de-voyage",
+          "relationship_type": "author_documented",
+          "headline_es": "Vino a elección (especificar estilo) con Michel de Montaigne",
+          "explanation_es": "Vino a elección (especificar estilo) acompaña el retrato de Michel de Montaigne con una presencia concreta y sin solemnidad de museo. La curiosidad de viaje empieza por observar lo que hay en el mantel.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-michel-de-montaigne-wine-dealers-choice-r1",
+            "evidencia-deep-research-michel-de-montaigne-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-michel-de-montaigne-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-michel-de-montaigne-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Michel de Montaigne con Vino mediante el Journal de voyage y los Essais.",
+              "locator": "Fichas iniciales — Michel de Montaigne",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-michel-de-montaigne-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-michel-de-montaigne-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Michel de Montaigne con Vino mediante el Journal de voyage y los Essais.",
+              "locator": "Ficha — Michel de Montaigne",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soren-kierkegaard",
+      "slug": "soren-kierkegaard",
+      "canonical_name": "Søren Kierkegaard",
+      "aliases": [],
+      "featured_works": [
+        "soren-kierkegaard-in-vino-veritas",
+        "soren-kierkegaard-temor-y-temblor"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Dinamarca",
+      "birth_year": 1813,
+      "death_year": 1855,
+      "works": [
+        {
+          "id": "soren-kierkegaard-in-vino-veritas",
+          "author_id": "soren-kierkegaard",
+          "original_title": "In Vino Veritas",
+          "display_title_es": "In vino veritas",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "soren-kierkegaard-temor-y-temblor",
+          "author_id": "soren-kierkegaard",
+          "original_title": "Temor y temblor",
+          "display_title_es": "Temor y temblor",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-soren-kierkegaard-wine-dealers-choice",
+          "author_id": "soren-kierkegaard",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "soren-kierkegaard-in-vino-veritas",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en In Vino Veritas",
+          "explanation_es": "Vino a elección (especificar estilo) entra en In Vino Veritas como una llave para el ambiente de Søren Kierkegaard. La conversación sube de tono mientras la verdad decide si quiere bailar o esconderse.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-soren-kierkegaard-wine-dealers-choice-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-soren-kierkegaard-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-soren-kierkegaard-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Søren Kierkegaard con Vino mediante In Vino Veritas.",
+              "locator": "Fichas iniciales — Søren Kierkegaard",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anton-chekhov",
+      "slug": "anton-chekhov",
+      "canonical_name": "Antón Chéjov",
+      "aliases": [],
+      "featured_works": [
+        "anton-chekhov-champagne",
+        "anton-chekhov-la-dama-del-perrito"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Rusia",
+      "birth_year": 1860,
+      "death_year": 1904,
+      "works": [
+        {
+          "id": "anton-chekhov-champagne",
+          "author_id": "anton-chekhov",
+          "original_title": "Champagne",
+          "display_title_es": "Champán",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "anton-chekhov-la-dama-del-perrito",
+          "author_id": "anton-chekhov",
+          "original_title": "La dama del perrito",
+          "display_title_es": "La dama del perrito",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-anton-chekhov-champagne",
+          "author_id": "anton-chekhov",
+          "drink_id": "champagne",
+          "work_id": "anton-chekhov-champagne",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Champaña en Champagne",
+          "explanation_es": "Champaña entra en Champagne como una llave para el ambiente de Antón Chéjov. Las burbujas traen fiesta, melancolía y la sospecha de que algo saldrá apenas torcido.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-anton-chekhov-champagne-r1",
+            "evidencia-deep-research-anton-chekhov-champagne-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "champagne",
+            "name_es": "Champaña",
+            "aliases": [
+              "Champagne"
+            ],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-anton-chekhov-champagne-r1",
+              "recommendation_id": "deep-research-anton-chekhov-champagne",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Antón Chéjov con Champaña mediante el cuento Champagne.",
+              "locator": "Fichas iniciales — Antón Chéjov",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-anton-chekhov-champagne-r2",
+              "recommendation_id": "deep-research-anton-chekhov-champagne",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Antón Chéjov con Champaña mediante el cuento Champagne.",
+              "locator": "Ficha — Antón Chéjov",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-anton-chekhov-russian-vodka",
+          "author_id": "anton-chekhov",
+          "drink_id": "russian-vodka",
+          "work_id": "anton-chekhov-champagne",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vodka ruso en Champagne",
+          "explanation_es": "Vodka ruso entra en Champagne como una llave para el ambiente de Antón Chéjov. Las burbujas traen fiesta, melancolía y la sospecha de que algo saldrá apenas torcido.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-anton-chekhov-russian-vodka-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "russian-vodka",
+            "name_es": "Vodka ruso",
+            "aliases": [
+              "Russian Vodka"
+            ],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-anton-chekhov-russian-vodka-r1",
+              "recommendation_id": "deep-research-anton-chekhov-russian-vodka",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Antón Chéjov con Vodka mediante la mención de vodka en el cuento Champagne.",
+              "locator": "Fichas iniciales — Antón Chéjov",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jorge-luis-borges",
+      "slug": "jorge-luis-borges",
+      "canonical_name": "Jorge Luis Borges",
+      "aliases": [],
+      "featured_works": [
+        "jorge-luis-borges-soneto-del-vino",
+        "jorge-luis-borges-el-aleph"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Argentina",
+      "birth_year": 1899,
+      "death_year": 1986,
+      "works": [
+        {
+          "id": "jorge-luis-borges-soneto-del-vino",
+          "author_id": "jorge-luis-borges",
+          "original_title": "Soneto del vino",
+          "display_title_es": "Soneto del vino",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "jorge-luis-borges-el-aleph",
+          "author_id": "jorge-luis-borges",
+          "original_title": "El Aleph",
+          "display_title_es": "El Aleph",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-jorge-luis-borges-wine-dealers-choice",
+          "author_id": "jorge-luis-borges",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "jorge-luis-borges-soneto-del-vino",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en Soneto del vino",
+          "explanation_es": "Vino a elección (especificar estilo) entra en Soneto del vino como una llave para el ambiente de Jorge Luis Borges. La copa abre un laberinto breve: memoria, tiempo y una noche que se cree infinita.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-jorge-luis-borges-wine-dealers-choice-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-jorge-luis-borges-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-jorge-luis-borges-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Jorge Luis Borges con Vino mediante Soneto del vino y Al vino.",
+              "locator": "Fichas iniciales — Jorge Luis Borges",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alejandro-zambra",
+      "slug": "alejandro-zambra",
+      "canonical_name": "Alejandro Zambra",
+      "aliases": [],
+      "featured_works": [
+        "alejandro-zambra-poeta-chileno",
+        "alejandro-zambra-bonsai"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Chile",
+      "birth_year": 1975,
+      "works": [
+        {
+          "id": "alejandro-zambra-poeta-chileno",
+          "author_id": "alejandro-zambra",
+          "original_title": "Poeta chileno",
+          "display_title_es": "Poeta chileno",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "alejandro-zambra-bonsai",
+          "author_id": "alejandro-zambra",
+          "original_title": "Bonsái",
+          "display_title_es": "Bonsái",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-alejandro-zambra-cerveza",
+          "author_id": "alejandro-zambra",
+          "drink_id": "cerveza",
+          "work_id": "alejandro-zambra-poeta-chileno",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Cerveza en Poeta chileno",
+          "explanation_es": "Cerveza entra en Poeta chileno como una llave para el ambiente de Alejandro Zambra. La ronda acompaña amistades, conversaciones y una melancolía que sabe reírse de sí misma.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-alejandro-zambra-cerveza-r1",
+            "evidencia-deep-research-alejandro-zambra-cerveza-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cerveza",
+            "name_es": "Cerveza",
+            "aliases": [
+              "Beer"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cerveza lager",
+                "amount": 330,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría la cerveza.",
+              "Sirve en un vaso limpio."
+            ],
+            "glassware": "Vaso de cerveza",
+            "zero_proof_alternative_id": "cerveza-cero",
+            "recipe_note": "Servicio contemporáneo."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-alejandro-zambra-cerveza-r1",
+              "recommendation_id": "deep-research-alejandro-zambra-cerveza",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Alejandro Zambra con Cerveza mediante la sociabilidad de Poeta chileno.",
+              "locator": "Fichas iniciales — Alejandro Zambra",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-alejandro-zambra-cerveza-r2",
+              "recommendation_id": "deep-research-alejandro-zambra-cerveza",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Alejandro Zambra con Cerveza mediante la sociabilidad de Poeta chileno.",
+              "locator": "Ficha — Alejandro Zambra",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "herman-koch",
+      "slug": "herman-koch",
+      "canonical_name": "Herman Koch",
+      "aliases": [],
+      "featured_works": [
+        "herman-koch-the-dinner",
+        "herman-koch-casa-de-verano-con-piscina"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Países Bajos",
+      "birth_year": 1953,
+      "works": [
+        {
+          "id": "herman-koch-the-dinner",
+          "author_id": "herman-koch",
+          "original_title": "The Dinner",
+          "display_title_es": "La cena",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "herman-koch-casa-de-verano-con-piscina",
+          "author_id": "herman-koch",
+          "original_title": "Casa de verano con piscina",
+          "display_title_es": "Casa de verano con piscina",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-herman-koch-wine-dealers-choice",
+          "author_id": "herman-koch",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "herman-koch-the-dinner",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en La cena",
+          "explanation_es": "Vino a elección (especificar estilo) entra en La cena como una llave para el ambiente de Herman Koch. Cada sorbo deja la mesa más pulcra y la conversación bastante menos inocente.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-herman-koch-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-herman-koch-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-herman-koch-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Herman Koch con Vino de la casa mediante la cena narrada en The Dinner.",
+              "locator": "Ficha — Herman Koch",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-herman-koch-chablis",
+          "author_id": "herman-koch",
+          "drink_id": "chablis",
+          "work_id": "herman-koch-the-dinner",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Chablis en La cena",
+          "explanation_es": "Chablis entra en La cena como una llave para el ambiente de Herman Koch. Cada sorbo deja la mesa más pulcra y la conversación bastante menos inocente.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-herman-koch-chablis-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "chablis",
+            "name_es": "Chablis",
+            "aliases": [],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Ajusta la temperatura al estilo del vino.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-herman-koch-chablis-r2",
+              "recommendation_id": "deep-research-herman-koch-chablis",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Herman Koch con Chablis mediante la cena narrada en The Dinner.",
+              "locator": "Ficha — Herman Koch",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-herman-koch-loire-valley-chenin-blanc",
+          "author_id": "herman-koch",
+          "drink_id": "loire-valley-chenin-blanc",
+          "work_id": "herman-koch-the-dinner",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Chenin Blanc del Valle del Loira en La cena",
+          "explanation_es": "Chenin Blanc del Valle del Loira entra en La cena como una llave para el ambiente de Herman Koch. Cada sorbo deja la mesa más pulcra y la conversación bastante menos inocente.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-herman-koch-loire-valley-chenin-blanc-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "loire-valley-chenin-blanc",
+            "name_es": "Chenin Blanc del Valle del Loira",
+            "aliases": [
+              "Loire Valley Chenin Blanc"
+            ],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-herman-koch-loire-valley-chenin-blanc-r2",
+              "recommendation_id": "deep-research-herman-koch-loire-valley-chenin-blanc",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Herman Koch con Vino del Loira mediante la cena narrada en The Dinner.",
+              "locator": "Ficha — Herman Koch",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alejo-carpentier",
+      "slug": "alejo-carpentier",
+      "canonical_name": "Alejo Carpentier",
+      "aliases": [],
+      "featured_works": [
+        "alejo-carpentier-el-reino-de-este-mundo",
+        "alejo-carpentier-los-pasos-perdidos"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Cuba",
+      "birth_year": 1904,
+      "death_year": 1980,
+      "works": [
+        {
+          "id": "alejo-carpentier-el-reino-de-este-mundo",
+          "author_id": "alejo-carpentier",
+          "original_title": "El reino de este mundo",
+          "display_title_es": "El reino de este mundo",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "alejo-carpentier-los-pasos-perdidos",
+          "author_id": "alejo-carpentier",
+          "original_title": "Los pasos perdidos",
+          "display_title_es": "Los pasos perdidos",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-alejo-carpentier-ron",
+          "author_id": "alejo-carpentier",
+          "drink_id": "ron",
+          "work_id": "alejo-carpentier-el-reino-de-este-mundo",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Ron para el mundo de Alejo Carpentier",
+          "explanation_es": "Ron acompaña el universo de Alejo Carpentier por afinidad de lugar, época y temperamento. El trago tiene ritmo caribeño y una historia atlántica que entra por la puerta grande.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-alejo-carpentier-ron-r1",
+            "evidencia-deep-research-alejo-carpentier-ron-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "ron",
+            "name_es": "Ron",
+            "aliases": [
+              "Rum"
+            ],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-alejo-carpentier-ron-r1",
+              "recommendation_id": "deep-research-alejo-carpentier-ron",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Alejo Carpentier con Ron mediante la asociación cultural caribeña propuesta por el informe.",
+              "locator": "Fichas iniciales — Alejo Carpentier",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-alejo-carpentier-ron-r2",
+              "recommendation_id": "deep-research-alejo-carpentier-ron",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Alejo Carpentier con Ron mediante la asociación cultural caribeña propuesta por el informe.",
+              "locator": "Ficha — Alejo Carpentier",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-alejo-carpentier-brandy",
+          "author_id": "alejo-carpentier",
+          "drink_id": "brandy",
+          "work_id": "alejo-carpentier-el-reino-de-este-mundo",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Brandy en El reino de este mundo",
+          "explanation_es": "Brandy entra en El reino de este mundo como una llave para el ambiente de Alejo Carpentier. El trago tiene ritmo caribeño y una historia atlántica que entra por la puerta grande.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-alejo-carpentier-brandy-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "brandy",
+            "name_es": "Brandy",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-alejo-carpentier-brandy-r1",
+              "recommendation_id": "deep-research-alejo-carpentier-brandy",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Alejo Carpentier con Brandy mediante la presencia señalada en El reino de este mundo.",
+              "locator": "Fichas iniciales — Alejo Carpentier",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milan-kundera",
+      "slug": "milan-kundera",
+      "canonical_name": "Milan Kundera",
+      "aliases": [],
+      "featured_works": [
+        "milan-kundera-nobody-will-laugh",
+        "milan-kundera-la-insoportable-levedad-del-ser"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Checoslovaquia / Francia",
+      "birth_year": 1929,
+      "death_year": 2023,
+      "works": [
+        {
+          "id": "milan-kundera-nobody-will-laugh",
+          "author_id": "milan-kundera",
+          "original_title": "Nobody Will Laugh",
+          "display_title_es": "Nadie se reirá",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "milan-kundera-la-insoportable-levedad-del-ser",
+          "author_id": "milan-kundera",
+          "original_title": "La insoportable levedad del ser",
+          "display_title_es": "La insoportable levedad del ser",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-milan-kundera-slivovitz",
+          "author_id": "milan-kundera",
+          "drink_id": "slivovitz",
+          "work_id": "milan-kundera-nobody-will-laugh",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Slivovitz en Nobody Will Laugh",
+          "explanation_es": "Slivovitz entra en Nobody Will Laugh como una llave para el ambiente de Milan Kundera. El vaso conversa entre ironía, deseo y Europa central sin pedir permiso.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-milan-kundera-slivovitz-r1",
+            "evidencia-deep-research-milan-kundera-slivovitz-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "slivovitz",
+            "name_es": "Slivovitz",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-milan-kundera-slivovitz-r1",
+              "recommendation_id": "deep-research-milan-kundera-slivovitz",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Milan Kundera con Slivovitz mediante el cuento Nobody Will Laugh.",
+              "locator": "Fichas iniciales — Milan Kundera",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-milan-kundera-slivovitz-r2",
+              "recommendation_id": "deep-research-milan-kundera-slivovitz",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Milan Kundera con Slivovitz mediante el cuento Nobody Will Laugh.",
+              "locator": "Ficha — Milan Kundera",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adolfo-bioy-casares",
+      "slug": "adolfo-bioy-casares",
+      "canonical_name": "Adolfo Bioy Casares",
+      "aliases": [],
+      "featured_works": [
+        "adolfo-bioy-casares-la-invencion-de-morel",
+        "adolfo-bioy-casares-el-sueno-de-los-heroes"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Argentina",
+      "birth_year": 1914,
+      "death_year": 1999,
+      "works": [
+        {
+          "id": "adolfo-bioy-casares-la-invencion-de-morel",
+          "author_id": "adolfo-bioy-casares",
+          "original_title": "La invención de Morel",
+          "display_title_es": "La invención de Morel",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "adolfo-bioy-casares-el-sueno-de-los-heroes",
+          "author_id": "adolfo-bioy-casares",
+          "original_title": "El sueño de los héroes",
+          "display_title_es": "El sueño de los héroes",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-adolfo-bioy-casares-champagne",
+          "author_id": "adolfo-bioy-casares",
+          "drink_id": "champagne",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Champaña para el mundo de Adolfo Bioy Casares",
+          "explanation_es": "Champaña acompaña el universo de Adolfo Bioy Casares por afinidad de lugar, época y temperamento. La burbuja pone esmoquin a la ironía antes de que empiece la cena.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-adolfo-bioy-casares-champagne-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "champagne",
+            "name_es": "Champaña",
+            "aliases": [
+              "Champagne"
+            ],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 150 ml en una copa limpia.",
+              "Usa 8–10 °C para blanco, rosado, dulce o espumoso; 16–18 °C para tinto.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Servicio contemporáneo; el maridaje editorial no atribuye esta pauta al autor.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-adolfo-bioy-casares-champagne-r1",
+              "recommendation_id": "deep-research-adolfo-bioy-casares-champagne",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Adolfo Bioy Casares con Champaña mediante los extractos narrativos y las cenas mencionadas en el informe.",
+              "locator": "Fichas iniciales — Adolfo Bioy Casares",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "isabel-allende",
+      "slug": "isabel-allende",
+      "canonical_name": "Isabel Allende",
+      "aliases": [],
+      "featured_works": [
+        "isabel-allende-el-cuaderno-de-maya",
+        "isabel-allende-la-casa-de-los-espiritus"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Chile / Estados Unidos",
+      "birth_year": 1942,
+      "works": [
+        {
+          "id": "isabel-allende-el-cuaderno-de-maya",
+          "author_id": "isabel-allende",
+          "original_title": "El cuaderno de Maya",
+          "display_title_es": "El cuaderno de Maya",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "isabel-allende-la-casa-de-los-espiritus",
+          "author_id": "isabel-allende",
+          "original_title": "La casa de los espíritus",
+          "display_title_es": "La casa de los espíritus",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-isabel-allende-wine-dealers-choice",
+          "author_id": "isabel-allende",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "isabel-allende-el-cuaderno-de-maya",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en El cuaderno de Maya",
+          "explanation_es": "Vino a elección (especificar estilo) entra en El cuaderno de Maya como una llave para el ambiente de Isabel Allende. La bebida deja entrar Chile por la ventana, con memoria familiar y una maleta lista.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-isabel-allende-wine-dealers-choice-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-isabel-allende-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-isabel-allende-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Isabel Allende con Vino mediante el contexto literario de Largo pétalo de mar.",
+              "locator": "Fichas iniciales — Isabel Allende",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-isabel-allende-pisco-sour",
+          "author_id": "isabel-allende",
+          "drink_id": "pisco-sour",
+          "work_id": "isabel-allende-el-cuaderno-de-maya",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Pisco sour en El cuaderno de Maya",
+          "explanation_es": "Pisco sour entra en El cuaderno de Maya como una llave para el ambiente de Isabel Allende. La bebida deja entrar Chile por la ventana, con memoria familiar y una maleta lista.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-isabel-allende-pisco-sour-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "pisco-sour",
+            "name_es": "Pisco sour",
+            "aliases": [
+              "Pisco Sour"
+            ],
+            "category": "Cóctel sour",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "Pisco",
+                "amount": 60,
+                "unit": "ml"
+              },
+              {
+                "name": "Jugo de limón o lima recién exprimido",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "Jarabe de azúcar",
+                "amount": 20,
+                "unit": "ml"
+              },
+              {
+                "name": "Clara de huevo",
+                "amount": 25,
+                "unit": "ml"
+              },
+              {
+                "name": "Amargo aromático",
+                "amount": 3,
+                "unit": "gotas"
+              }
+            ],
+            "steps": [
+              "Agita pisco, jugo, jarabe y clara sin hielo para formar espuma.",
+              "Añade hielo y vuelve a agitar enérgicamente.",
+              "Cuela en un vaso o copa previamente frío, sin hielo.",
+              "Termina con tres gotas de amargo sobre la espuma."
+            ],
+            "glassware": "Vaso corto u copa coupé",
+            "garnish": "Tres gotas de amargo aromático",
+            "recipe_note": "Receta de la casa aportada para esta incorporación; la asociación con Allende es literaria, no una atribución de autoría de la receta.",
+            "recipe_status": "house"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-isabel-allende-pisco-sour-r2",
+              "recommendation_id": "deep-research-isabel-allende-pisco-sour",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Isabel Allende con Pisco sour mediante la mención en El cuaderno de Maya.",
+              "locator": "Ficha — Isabel Allende",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "karl-marx",
+      "slug": "karl-marx",
+      "canonical_name": "Karl Marx",
+      "aliases": [],
+      "featured_works": [
+        "karl-marx-el-capital",
+        "karl-marx-manifiesto-del-partido-comunista"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Alemania",
+      "birth_year": 1818,
+      "death_year": 1883,
+      "works": [
+        {
+          "id": "karl-marx-el-capital",
+          "author_id": "karl-marx",
+          "original_title": "El capital",
+          "display_title_es": "El capital",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "karl-marx-manifiesto-del-partido-comunista",
+          "author_id": "karl-marx",
+          "original_title": "Manifiesto del Partido Comunista",
+          "display_title_es": "Manifiesto del Partido Comunista",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-karl-marx-cerveza",
+          "author_id": "karl-marx",
+          "drink_id": "cerveza",
+          "relationship_type": "author_documented",
+          "headline_es": "Cerveza con Karl Marx",
+          "explanation_es": "Cerveza acompaña el retrato de Karl Marx con una presencia concreta y sin solemnidad de museo. La copa llega con debate, sobremesa y más de una contradicción esperando turno.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-karl-marx-cerveza-r1"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cerveza",
+            "name_es": "Cerveza",
+            "aliases": [
+              "Beer"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cerveza lager",
+                "amount": 330,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Enfría la cerveza.",
+              "Sirve en un vaso limpio."
+            ],
+            "glassware": "Vaso de cerveza",
+            "zero_proof_alternative_id": "cerveza-cero",
+            "recipe_note": "Servicio contemporáneo."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-karl-marx-cerveza-r1",
+              "recommendation_id": "deep-research-karl-marx-cerveza",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Karl Marx con Cerveza mediante las referencias biográficas a sus hábitos y clubes de bebida.",
+              "locator": "Fichas iniciales — Karl Marx",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-karl-marx-wine-dealers-choice",
+          "author_id": "karl-marx",
+          "drink_id": "wine-dealers-choice",
+          "relationship_type": "author_documented",
+          "headline_es": "Vino a elección (especificar estilo) con Karl Marx",
+          "explanation_es": "Vino a elección (especificar estilo) acompaña el retrato de Karl Marx con una presencia concreta y sin solemnidad de museo. La copa llega con debate, sobremesa y más de una contradicción esperando turno.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-karl-marx-wine-dealers-choice-r1",
+            "evidencia-deep-research-karl-marx-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-karl-marx-wine-dealers-choice-r1",
+              "recommendation_id": "deep-research-karl-marx-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Karl Marx con Vino mediante las referencias biográficas a sus hábitos y al trasfondo vitivinícola familiar.",
+              "locator": "Fichas iniciales — Karl Marx",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-karl-marx-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-karl-marx-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Karl Marx con Vino mediante las referencias biográficas a sus hábitos y al trasfondo vitivinícola familiar.",
+              "locator": "Ficha — Karl Marx",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-karl-marx-brandy",
+          "author_id": "karl-marx",
+          "drink_id": "brandy",
+          "relationship_type": "author_documented",
+          "headline_es": "Brandy con Karl Marx",
+          "explanation_es": "Brandy acompaña el retrato de Karl Marx con una presencia concreta y sin solemnidad de museo. La copa llega con debate, sobremesa y más de una contradicción esperando turno.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-karl-marx-brandy-r1",
+            "evidencia-deep-research-karl-marx-brandy-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "brandy",
+            "name_es": "Brandy",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-karl-marx-brandy-r1",
+              "recommendation_id": "deep-research-karl-marx-brandy",
+              "source_id": "fuente-deep-research-reporte-1",
+              "claim": "El informe asocia a Karl Marx con Licores mediante las referencias biográficas a vino y licores.",
+              "locator": "Fichas iniciales — Karl Marx",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-1",
+                "source_type": "research_report",
+                "title": "Escritores, filósofos y bebidas alcohólicas",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            },
+            {
+              "id": "evidencia-deep-research-karl-marx-brandy-r2",
+              "recommendation_id": "deep-research-karl-marx-brandy",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Karl Marx con Licores mediante las referencias biográficas a vino y licores.",
+              "locator": "Ficha — Karl Marx",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enrique-vila-matas",
+      "slug": "enrique-vila-matas",
+      "canonical_name": "Enrique Vila-Matas",
+      "aliases": [],
+      "featured_works": [
+        "enrique-vila-matas-dublinesca",
+        "enrique-vila-matas-bartleby-y-compania"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "España",
+      "birth_year": 1948,
+      "works": [
+        {
+          "id": "enrique-vila-matas-dublinesca",
+          "author_id": "enrique-vila-matas",
+          "original_title": "Dublinesca",
+          "display_title_es": "Dublinesca",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "enrique-vila-matas-bartleby-y-compania",
+          "author_id": "enrique-vila-matas",
+          "original_title": "Bartleby y compañía",
+          "display_title_es": "Bartleby y compañía",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-enrique-vila-matas-irish-whiskey-neat",
+          "author_id": "enrique-vila-matas",
+          "drink_id": "irish-whiskey-neat",
+          "work_id": "enrique-vila-matas-dublinesca",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Whiskey irlandés solo para el mundo de Enrique Vila-Matas",
+          "explanation_es": "Whiskey irlandés solo acompaña el universo de Enrique Vila-Matas por afinidad de lugar, época y temperamento. El trago cruza Dublín con una maleta llena de lecturas y desvíos voluntarios.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-enrique-vila-matas-irish-whiskey-neat-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "irish-whiskey-neat",
+            "name_es": "Whiskey irlandés solo",
+            "aliases": [
+              "Irish Whiskey, Neat"
+            ],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-enrique-vila-matas-irish-whiskey-neat-r2",
+              "recommendation_id": "deep-research-enrique-vila-matas-irish-whiskey-neat",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Enrique Vila-Matas con Whiskey irlandés mediante Dublinesca y el vínculo joyceano señalado por el informe.",
+              "locator": "Ficha — Enrique Vila-Matas",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rubem-fonseca",
+      "slug": "rubem-fonseca",
+      "canonical_name": "Rubem Fonseca",
+      "aliases": [],
+      "featured_works": [
+        "rubem-fonseca-el-gran-arte",
+        "rubem-fonseca-bufo-spallanzani"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Brasil",
+      "birth_year": 1925,
+      "death_year": 2020,
+      "works": [
+        {
+          "id": "rubem-fonseca-el-gran-arte",
+          "author_id": "rubem-fonseca",
+          "original_title": "El gran arte",
+          "display_title_es": "El gran arte",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "rubem-fonseca-bufo-spallanzani",
+          "author_id": "rubem-fonseca",
+          "original_title": "Bufo & Spallanzani",
+          "display_title_es": "Bufo & Spallanzani",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-rubem-fonseca-whiskey",
+          "author_id": "rubem-fonseca",
+          "drink_id": "whiskey",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Whiskey para el mundo de Rubem Fonseca",
+          "explanation_es": "Whiskey acompaña el universo de Rubem Fonseca por afinidad de lugar, época y temperamento. La bebida entra como una luz de neón en una calle donde conviene mirar dos veces.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-rubem-fonseca-whiskey-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "whiskey",
+            "name_es": "Whiskey",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-rubem-fonseca-whiskey-r2",
+              "recommendation_id": "deep-research-rubem-fonseca-whiskey",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Rubem Fonseca con Whisky mediante el registro negro, urbano y policial propuesto por el informe.",
+              "locator": "Ficha — Rubem Fonseca",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-rubem-fonseca-cachaca",
+          "author_id": "rubem-fonseca",
+          "drink_id": "cachaca",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Cachaça para el mundo de Rubem Fonseca",
+          "explanation_es": "Cachaça acompaña el universo de Rubem Fonseca por afinidad de lugar, época y temperamento. La bebida entra como una luz de neón en una calle donde conviene mirar dos veces.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-rubem-fonseca-cachaca-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cachaca",
+            "name_es": "Cachaça",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-rubem-fonseca-cachaca-r2",
+              "recommendation_id": "deep-research-rubem-fonseca-cachaca",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Rubem Fonseca con Cachaça mediante el registro negro, urbano y policial propuesto por el informe.",
+              "locator": "Ficha — Rubem Fonseca",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camilo-jose-cela",
+      "slug": "camilo-jose-cela",
+      "canonical_name": "Camilo José Cela",
+      "aliases": [],
+      "featured_works": [
+        "camilo-jose-cela-la-colmena",
+        "camilo-jose-cela-la-familia-de-pascual-duarte"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "España",
+      "birth_year": 1916,
+      "death_year": 2002,
+      "works": [
+        {
+          "id": "camilo-jose-cela-la-colmena",
+          "author_id": "camilo-jose-cela",
+          "original_title": "La colmena",
+          "display_title_es": "La colmena",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "camilo-jose-cela-la-familia-de-pascual-duarte",
+          "author_id": "camilo-jose-cela",
+          "original_title": "La familia de Pascual Duarte",
+          "display_title_es": "La familia de Pascual Duarte",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-camilo-jose-cela-aguardiente",
+          "author_id": "camilo-jose-cela",
+          "drink_id": "aguardiente",
+          "work_id": "camilo-jose-cela-la-colmena",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Aguardiente para el mundo de Camilo José Cela",
+          "explanation_es": "Aguardiente acompaña el universo de Camilo José Cela por afinidad de lugar, época y temperamento. El vaso lleva el pulso áspero de una ciudad que sobrevive hablando alrededor de la mesa.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-camilo-jose-cela-aguardiente-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "aguardiente",
+            "name_es": "Aguardiente",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-camilo-jose-cela-aguardiente-r2",
+              "recommendation_id": "deep-research-camilo-jose-cela-aguardiente",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Camilo José Cela con Aguardiente mediante la España de posguerra y La colmena.",
+              "locator": "Ficha — Camilo José Cela",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-camilo-jose-cela-cognac",
+          "author_id": "camilo-jose-cela",
+          "drink_id": "cognac",
+          "work_id": "camilo-jose-cela-la-colmena",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Cognac para el mundo de Camilo José Cela",
+          "explanation_es": "Cognac acompaña el universo de Camilo José Cela por afinidad de lugar, época y temperamento. El vaso lleva el pulso áspero de una ciudad que sobrevive hablando alrededor de la mesa.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-camilo-jose-cela-cognac-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "cognac",
+            "name_es": "Cognac",
+            "aliases": [],
+            "category": "Cóctel",
+            "alcoholic": true,
+            "ingredients": [
+              {
+                "name": "cognac",
+                "amount": 45,
+                "unit": "ml"
+              }
+            ],
+            "steps": [
+              "Sirve a temperatura ambiente o apenas refrescado."
+            ],
+            "glassware": "Copa de degustación",
+            "recipe_note": "Receta contemporánea normalizada y redactada para Trago y Letra."
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-camilo-jose-cela-cognac-r2",
+              "recommendation_id": "deep-research-camilo-jose-cela-cognac",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Camilo José Cela con Coñac mediante la España de posguerra y La colmena.",
+              "locator": "Ficha — Camilo José Cela",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cesare-pavese",
+      "slug": "cesare-pavese",
+      "canonical_name": "Cesare Pavese",
+      "aliases": [],
+      "featured_works": [
+        "cesare-pavese-el-oficio-de-vivir",
+        "cesare-pavese-la-luna-y-las-fogatas"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Italia",
+      "birth_year": 1908,
+      "death_year": 1950,
+      "works": [
+        {
+          "id": "cesare-pavese-el-oficio-de-vivir",
+          "author_id": "cesare-pavese",
+          "original_title": "El oficio de vivir",
+          "display_title_es": "El oficio de vivir",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "cesare-pavese-la-luna-y-las-fogatas",
+          "author_id": "cesare-pavese",
+          "original_title": "La luna y las fogatas",
+          "display_title_es": "La luna y las fogatas",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-cesare-pavese-barolo-or-barbaresco",
+          "author_id": "cesare-pavese",
+          "drink_id": "barolo-or-barbaresco",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Barolo o Barbaresco (elige uno) para el mundo de Cesare Pavese",
+          "explanation_es": "Barolo o Barbaresco (elige uno) acompaña el universo de Cesare Pavese por afinidad de lugar, época y temperamento. La copa mira hacia el Piamonte: colinas, regreso imposible y conversación lenta.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-cesare-pavese-barolo-or-barbaresco-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "barolo-or-barbaresco",
+            "name_es": "Barolo o Barbaresco",
+            "aliases": [
+              "Barolo Or Barbaresco",
+              "Barolo",
+              "Barbaresco"
+            ],
+            "category": "Vino o sidra",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige Barolo o Barbaresco; no los mezcles.",
+              "Sirve 150 ml entre 16 y 18 °C.",
+              "Bebe sin hielo."
+            ],
+            "glassware": "Copa de vino",
+            "recipe_note": "Son denominaciones distintas; la recomendación se conserva como alternativa explícita.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-cesare-pavese-barolo-or-barbaresco-r2",
+              "recommendation_id": "deep-research-cesare-pavese-barolo-or-barbaresco",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Cesare Pavese con Barolo mediante las Langhe y el Piamonte presentes en su obra.",
+              "locator": "Ficha — Cesare Pavese",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claudio-bertoni",
+      "slug": "claudio-bertoni",
+      "canonical_name": "Claudio Bertoni",
+      "aliases": [],
+      "featured_works": [
+        "claudio-bertoni-el-cansador-intrabajable",
+        "claudio-bertoni-rapido-antes-de-llorar"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Chile",
+      "birth_year": 1946,
+      "works": [
+        {
+          "id": "claudio-bertoni-el-cansador-intrabajable",
+          "author_id": "claudio-bertoni",
+          "original_title": "El cansador intrabajable",
+          "display_title_es": "El cansador intrabajable",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "claudio-bertoni-rapido-antes-de-llorar",
+          "author_id": "claudio-bertoni",
+          "original_title": "Rápido, antes de llorar",
+          "display_title_es": "Rápido, antes de llorar",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-claudio-bertoni-wine-dealers-choice",
+          "author_id": "claudio-bertoni",
+          "drink_id": "wine-dealers-choice",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Vino a elección (especificar estilo) y Claudio Bertoni",
+          "explanation_es": "Vino a elección (especificar estilo) conserva una escena cultural ligada a Claudio Bertoni, lista para una sobremesa con buenas historias. La escena conserva una libertad algo desordenada, como una botella abierta en medio del cuaderno.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-claudio-bertoni-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-claudio-bertoni-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-claudio-bertoni-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Claudio Bertoni con Vino mediante los perfiles y entrevistas contradictorios consignados por el informe.",
+              "locator": "Ficha — Claudio Bertoni",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deep-research-claudio-bertoni-pisco",
+          "author_id": "claudio-bertoni",
+          "drink_id": "pisco",
+          "relationship_type": "circulating_anecdote",
+          "headline_es": "Pisco y Claudio Bertoni",
+          "explanation_es": "Pisco conserva una escena cultural ligada a Claudio Bertoni, lista para una sobremesa con buenas historias. La escena conserva una libertad algo desordenada, como una botella abierta en medio del cuaderno.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-claudio-bertoni-pisco-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "pisco",
+            "name_es": "Pisco",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-claudio-bertoni-pisco-r2",
+              "recommendation_id": "deep-research-claudio-bertoni-pisco",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Claudio Bertoni con Pisco mediante los perfiles y entrevistas contradictorios consignados por el informe.",
+              "locator": "Ficha — Claudio Bertoni",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claudio-magris",
+      "slug": "claudio-magris",
+      "canonical_name": "Claudio Magris",
+      "aliases": [],
+      "featured_works": [
+        "claudio-magris-el-danubio",
+        "claudio-magris-microcosmos"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Italia",
+      "birth_year": 1939,
+      "works": [
+        {
+          "id": "claudio-magris-el-danubio",
+          "author_id": "claudio-magris",
+          "original_title": "El Danubio",
+          "display_title_es": "El Danubio",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "claudio-magris-microcosmos",
+          "author_id": "claudio-magris",
+          "original_title": "Microcosmos",
+          "display_title_es": "Microcosmos",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-claudio-magris-grappa",
+          "author_id": "claudio-magris",
+          "drink_id": "grappa",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Grappa para el mundo de Claudio Magris",
+          "explanation_es": "Grappa acompaña el universo de Claudio Magris por afinidad de lugar, época y temperamento. El trago sigue la frontera de Trieste: una línea que separa y mezcla al mismo tiempo.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-claudio-magris-grappa-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "grappa",
+            "name_es": "Grappa",
+            "aliases": [],
+            "category": "Destilado o aperitivo",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Sirve 45 ml en un vaso corto.",
+              "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+              "No añadas hielo picado."
+            ],
+            "glassware": "Vaso corto",
+            "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-claudio-magris-grappa-r2",
+              "recommendation_id": "deep-research-claudio-magris-grappa",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Claudio Magris con Grappa mediante el espacio friulano-triestino y el vínculo institucional señalados por el informe.",
+              "locator": "Ficha — Claudio Magris",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irene-nemirovsky",
+      "slug": "irene-nemirovsky",
+      "canonical_name": "Irène Némirovsky",
+      "aliases": [],
+      "featured_works": [
+        "irene-nemirovsky-le-vin-de-solitude",
+        "irene-nemirovsky-suite-francesa"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Francia / Ucrania",
+      "birth_year": 1903,
+      "death_year": 1942,
+      "works": [
+        {
+          "id": "irene-nemirovsky-le-vin-de-solitude",
+          "author_id": "irene-nemirovsky",
+          "original_title": "Le Vin de solitude",
+          "display_title_es": "El vino de la soledad",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "irene-nemirovsky-suite-francesa",
+          "author_id": "irene-nemirovsky",
+          "original_title": "Suite francesa",
+          "display_title_es": "Suite francesa",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-irene-nemirovsky-wine-dealers-choice",
+          "author_id": "irene-nemirovsky",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "irene-nemirovsky-le-vin-de-solitude",
+          "relationship_type": "appears_in_work",
+          "headline_es": "Vino a elección (especificar estilo) en El vino de la soledad",
+          "explanation_es": "Vino a elección (especificar estilo) entra en El vino de la soledad como una llave para el ambiente de Irène Némirovsky. El vino guarda una memoria familiar de dulzor, desarraigo y filo.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-irene-nemirovsky-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-irene-nemirovsky-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-irene-nemirovsky-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Irène Némirovsky con Vino mediante la novela Le Vin de solitude.",
+              "locator": "Ficha — Irène Némirovsky",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
+                "reliability_tier": "reputable_secondary"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "natalia-ginzburg",
+      "slug": "natalia-ginzburg",
+      "canonical_name": "Natalia Ginzburg",
+      "aliases": [],
+      "featured_works": [
+        "natalia-ginzburg-lessico-famigliare",
+        "natalia-ginzburg-las-pequenas-virtudes"
+      ],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-07-29",
+      "country": "Italia",
+      "birth_year": 1916,
+      "death_year": 1991,
+      "works": [
+        {
+          "id": "natalia-ginzburg-lessico-famigliare",
+          "author_id": "natalia-ginzburg",
+          "original_title": "Lessico famigliare",
+          "display_title_es": "Léxico familiar",
+          "identifiers": {},
+          "notes": "Obra mínima identificada en los informes Deep Research aportados por el usuario.",
+          "metadata_status": "minimal"
+        },
+        {
+          "id": "natalia-ginzburg-las-pequenas-virtudes",
+          "author_id": "natalia-ginzburg",
+          "original_title": "Las pequeñas virtudes",
+          "display_title_es": "Las pequeñas virtudes",
+          "identifiers": {},
+          "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+          "metadata_status": "minimal"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": "deep-research-natalia-ginzburg-wine-dealers-choice",
+          "author_id": "natalia-ginzburg",
+          "drink_id": "wine-dealers-choice",
+          "work_id": "natalia-ginzburg-lessico-famigliare",
+          "relationship_type": "editorial_pairing",
+          "headline_es": "Vino a elección (especificar estilo) para el mundo de Natalia Ginzburg",
+          "explanation_es": "Vino a elección (especificar estilo) acompaña el universo de Natalia Ginzburg por afinidad de lugar, época y temperamento. La mesa doméstica parece sencilla hasta que cada palabra de familia pesa como una copa llena.",
+          "confidence": "medium",
+          "evidence_ids": [
+            "evidencia-deep-research-natalia-ginzburg-wine-dealers-choice-r2"
+          ],
+          "editorial_status": "published",
+          "reviewed_by": "revisión editorial manual",
+          "reviewed_at": "2026-07-29",
+          "drink": {
+            "id": "wine-dealers-choice",
+            "name_es": "Vino a elección",
+            "aliases": [
+              "Wine, Dealer’S Choice"
+            ],
+            "category": "Cerveza",
+            "alcoholic": true,
+            "ingredients": [],
+            "steps": [
+              "Elige y declara un estilo antes de servir.",
+              "Sirve 150 ml.",
+              "Usa 8–10 °C para blanco o 16–18 °C para tinto."
+            ],
+            "glassware": "Vaso de cerveza",
+            "recipe_note": "El nombre no designa una bebida única; el servicio exige precisar el estilo.",
+            "recipe_status": "serving_only"
+          },
+          "evidence": [
+            {
+              "id": "evidencia-deep-research-natalia-ginzburg-wine-dealers-choice-r2",
+              "recommendation_id": "deep-research-natalia-ginzburg-wine-dealers-choice",
+              "source_id": "fuente-deep-research-reporte-2",
+              "claim": "El informe asocia a Natalia Ginzburg con Vino de mesa italiano mediante el mundo doméstico de Lessico famigliare.",
+              "locator": "Ficha — Natalia Ginzburg",
+              "evidence_kind": "bibliographic_reference",
+              "supports_claim": true,
+              "checked_at": "2026-07-29",
+              "source": {
+                "id": "fuente-deep-research-reporte-2",
+                "source_type": "research_report",
+                "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+                "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+                "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+                "accessed_at": "2026-07-29",
+                "language": "es",
                 "reliability_tier": "reputable_secondary"
               }
             }
@@ -37402,7 +42140,7 @@ export const content: PublicCatalog = {
     },
     {
       "id": "wine-dealers-choice",
-      "name_es": "Vino a elección (especificar estilo)",
+      "name_es": "Vino a elección",
       "aliases": [
         "Wine, Dealer’S Choice"
       ],
@@ -37636,7 +42374,7 @@ export const content: PublicCatalog = {
     },
     {
       "id": "barolo-or-barbaresco",
-      "name_es": "Barolo o Barbaresco (elige uno)",
+      "name_es": "Barolo o Barbaresco",
       "aliases": [
         "Barolo Or Barbaresco",
         "Barolo",
@@ -39748,7 +44486,7 @@ export const content: PublicCatalog = {
     },
     {
       "id": "leche-o-leche-vegetal",
-      "name_es": "Leche o bebida vegetal (elige una)",
+      "name_es": "Leche o bebida vegetal",
       "aliases": [
         "Milk (Or Plant-Based Milk)"
       ],
@@ -39860,6 +44598,348 @@ export const content: PublicCatalog = {
       ],
       "glassware": "Vaso alto",
       "recipe_note": "Servicio contemporáneo; no se atribuye al autor.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "aguardiente-de-palma",
+      "name_es": "Aguardiente de palma",
+      "aliases": [
+        "Palm wine spirit"
+      ],
+      "category": "Aguardiente",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "cana",
+      "name_es": "Caña",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "ginebra",
+      "name_es": "Ginebra",
+      "aliases": [
+        "Gin"
+      ],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "chicha",
+      "name_es": "Chicha",
+      "aliases": [],
+      "category": "Fermentado",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "pipeno",
+      "name_es": "Pipeño",
+      "aliases": [],
+      "category": "Vino o sidra",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 150 ml en una copa limpia.",
+        "Ajusta la temperatura al estilo del vino.",
+        "Bebe sin hielo."
+      ],
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "vino-hungaro",
+      "name_es": "Vino húngaro",
+      "aliases": [],
+      "category": "Vino o sidra",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 150 ml en una copa limpia.",
+        "Ajusta la temperatura al estilo del vino.",
+        "Bebe sin hielo."
+      ],
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "brandy",
+      "name_es": "Brandy",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "ron",
+      "name_es": "Ron",
+      "aliases": [
+        "Rum"
+      ],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "slivovitz",
+      "name_es": "Slivovitz",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "chablis",
+      "name_es": "Chablis",
+      "aliases": [],
+      "category": "Vino o sidra",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 150 ml en una copa limpia.",
+        "Ajusta la temperatura al estilo del vino.",
+        "Bebe sin hielo."
+      ],
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "pisco",
+      "name_es": "Pisco",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "cachaca",
+      "name_es": "Cachaça",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "grappa",
+      "name_es": "Grappa",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "coctel-de-albaricoque",
+      "name_es": "Cóctel de albaricoque",
+      "aliases": [
+        "Apricot Cocktail"
+      ],
+      "category": "Cóctel",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "Gin",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "Licor o brandy de albaricoque",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "Jugo de naranja recién exprimido",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Enfría una copa de cóctel.",
+        "Agrega los ingredientes a una coctelera con hielo.",
+        "Agita enérgicamente.",
+        "Cuela en la copa fría, sin hielo."
+      ],
+      "glassware": "Copa de cóctel o Martini",
+      "recipe_note": "Receta de la casa aportada para esta incorporación; no se atribuye históricamente a Beauvoir ni a Sartre.",
+      "recipe_status": "house"
+    },
+    {
+      "id": "pisco-sour",
+      "name_es": "Pisco sour",
+      "aliases": [
+        "Pisco Sour"
+      ],
+      "category": "Cóctel sour",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "Pisco",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "Jugo de limón o lima recién exprimido",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "Jarabe de azúcar",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "Clara de huevo",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "Amargo aromático",
+          "amount": 3,
+          "unit": "gotas"
+        }
+      ],
+      "steps": [
+        "Agita pisco, jugo, jarabe y clara sin hielo para formar espuma.",
+        "Añade hielo y vuelve a agitar enérgicamente.",
+        "Cuela en un vaso o copa previamente frío, sin hielo.",
+        "Termina con tres gotas de amargo sobre la espuma."
+      ],
+      "glassware": "Vaso corto u copa coupé",
+      "garnish": "Tres gotas de amargo aromático",
+      "recipe_note": "Receta de la casa aportada para esta incorporación; la asociación con Allende es literaria, no una atribución de autoría de la receta.",
+      "recipe_status": "house"
+    },
+    {
+      "id": "froccs-nagyfroccs",
+      "name_es": "Fröccs grande",
+      "aliases": [
+        "Nagyfröccs",
+        "Fröccs"
+      ],
+      "category": "Bebida de vino",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "Vino blanco seco y ligero",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Agua de soda muy fría",
+          "amount": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Enfría el vino y el agua de soda.",
+        "Vierte el vino en el vaso.",
+        "Añade suavemente el agua de soda.",
+        "No agites ni añadas hielo."
+      ],
+      "glassware": "Vaso alto o copa grande de vino",
+      "recipe_note": "Preparación aportada para esta incorporación; no se atribuye a Sándor Márai.",
+      "recipe_status": "house"
+    },
+    {
+      "id": "licores-chilenos",
+      "name_es": "Licores chilenos",
+      "aliases": [],
+      "category": "Destilado o aperitivo",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve 45 ml en un vaso corto.",
+        "Bebe a temperatura ambiente o con un cubo grande de hielo.",
+        "No añadas hielo picado."
+      ],
+      "glassware": "Vaso corto",
+      "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
     }
   ],
@@ -40251,6 +45331,26 @@ export const content: PublicCatalog = {
       "edition": "EPUB 2.0",
       "accessed_at": "2026-07-28",
       "language": "en",
+      "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "fuente-deep-research-reporte-1",
+      "source_type": "research_report",
+      "title": "Escritores, filósofos y bebidas alcohólicas",
+      "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+      "url": "https://chatgpt.com/c/6a6a906f-e024-83e9-b615-8b7ba44d2cd3",
+      "accessed_at": "2026-07-29",
+      "language": "es",
+      "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "fuente-deep-research-reporte-2",
+      "source_type": "research_report",
+      "title": "Dossier de bebidas alcohólicas asociables a escritores y filósofos",
+      "author_or_publisher": "ChatGPT Deep Research; informe aportado y autorizado por el usuario",
+      "url": "https://chatgpt.com/c/6a6a9354-db84-83e9-afe4-3992034f3478",
+      "accessed_at": "2026-07-29",
+      "language": "es",
       "reliability_tier": "reputable_secondary"
     }
   ],
