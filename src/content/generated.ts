@@ -7930,7 +7930,7 @@ export const content: PublicCatalog = {
           "drink_id": "hot-toddy",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Un Toddy para el Club Pickwick",
-          "explanation_es": "Charles Dickens es conocido por popularizar el hot toddy como una bebida sanadora, como en \"Martin Chuzzlewit\". El hot toddy típicamente incluye un licor como ron o whisky, agua caliente, miel y limón, convirtiéndolo en una bebida reconfortante durante los meses de invierno.",
+          "explanation_es": "En *The Pickwick Papers*, un toddy de whisky prolonga la sobremesa festiva. El vaso caliente entra con el rito social de la ficción de Dickens: conversación, invierno y una mesa que se resiste a terminar.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-dickens-whisky-toddy-read-and-co"
@@ -8251,7 +8251,7 @@ export const content: PublicCatalog = {
           "drink_id": "rum-toddy",
           "relationship_type": "appears_in_work",
           "headline_es": "Toddy de ron",
-          "explanation_es": "Charles Dickens es conocido por popularizar el hot toddy como una bebida sanadora, como en \"Martin Chuzzlewit\". El hot toddy típicamente incluye un licor como ron o whisky, agua caliente, miel y limón, convirtiéndolo en una bebida reconfortante durante los meses de invierno.",
+          "explanation_es": "Un toddy de ron calienta *Martin Chuzzlewit* con ron, agua caliente, limón y miel. Es una copa de invierno para dejar que la conversación de Dickens siga humeando un poco más.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-charles-dickens-rum-toddy-sip-and-sensibility"
@@ -31834,7 +31834,7 @@ export const content: PublicCatalog = {
           "work_id": "thomas-mann-buddenbrooks",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino a elección (especificar estilo) en Buddenbrooks",
-          "explanation_es": "Vino a elección (especificar estilo) entra en Buddenbrooks como una llave para el ambiente de Thomas Mann. Entre familia, comercio y decadencia, hasta el brindis parece llevar libro mayor.",
+          "explanation_es": "En *Buddenbrooks*, el vino pertenece al ceremonial doméstico y mercantil que organiza la vida familiar. Una copa de estilo abierto deja que el gesto social de servirla haga el trabajo.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-thomas-mann-wine-dealers-choice-r1",
@@ -31911,7 +31911,7 @@ export const content: PublicCatalog = {
           "work_id": "thomas-mann-buddenbrooks",
           "relationship_type": "appears_in_work",
           "headline_es": "Champaña en Buddenbrooks",
-          "explanation_es": "Champaña entra en Buddenbrooks como una llave para el ambiente de Thomas Mann. Entre familia, comercio y decadencia, hasta el brindis parece llevar libro mayor.",
+          "explanation_es": "La champaña se vincula con el mundo burgués de *Buddenbrooks* y *La montaña mágica*. El brindis subraya la ceremonia social y el lujo contenido de esas novelas.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-thomas-mann-champagne-r1",
@@ -31988,7 +31988,7 @@ export const content: PublicCatalog = {
           "work_id": "thomas-mann-buddenbrooks",
           "relationship_type": "appears_in_work",
           "headline_es": "Cerveza en Buddenbrooks",
-          "explanation_es": "Cerveza entra en Buddenbrooks como una llave para el ambiente de Thomas Mann. Entre familia, comercio y decadencia, hasta el brindis parece llevar libro mayor.",
+          "explanation_es": "En *Buddenbrooks*, la cerveza remite al ceremonial doméstico que rodea a la familia y sus negocios. Es una entrada más cotidiana que la champaña: una bebida integrada a la vida de la casa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-thomas-mann-cerveza-r1"
@@ -32340,7 +32340,7 @@ export const content: PublicCatalog = {
           "drink_id": "cana",
           "relationship_type": "editorial_pairing",
           "headline_es": "Caña para el mundo de Roberto Arlt",
-          "explanation_es": "Caña acompaña el universo de Roberto Arlt por afinidad de lugar, época y temperamento. El vaso conserva el filo áspero de una ciudad que rara vez habla en voz baja.",
+          "explanation_es": "La caña es un maridaje editorial para el arrabal y la marginalidad de la narrativa de Roberto Arlt. Evoca un registro popular y áspero, con el pulso de una ciudad que conversa a media voz.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-roberto-arlt-cana-r2"
@@ -32393,7 +32393,7 @@ export const content: PublicCatalog = {
           "drink_id": "ginebra",
           "relationship_type": "editorial_pairing",
           "headline_es": "Ginebra para el mundo de Roberto Arlt",
-          "explanation_es": "Ginebra acompaña el universo de Roberto Arlt por afinidad de lugar, época y temperamento. El vaso conserva el filo áspero de una ciudad que rara vez habla en voz baja.",
+          "explanation_es": "La ginebra propone otra entrada editorial al Buenos Aires de Arlt: más seca y cortante, pensada para su tono urbano y desconfiado. Una copa breve para una ciudad que nunca entrega toda la historia.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-roberto-arlt-ginebra-r2"
@@ -32487,7 +32487,7 @@ export const content: PublicCatalog = {
           "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino tinto en Epopeya de las comidas y las bebidas de Chile",
-          "explanation_es": "Vino tinto entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "explanation_es": "El vino tinto se asocia a *Epopeya de las comidas y las bebidas de Chile*, donde la mesa es materia literaria y celebración colectiva. Esta copa recoge ese gesto amplio y terrestre, en vez de repetir una descripción genérica de la atmósfera chilena.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-pablo-de-rokha-vino-tinto-r1",
@@ -32570,7 +32570,7 @@ export const content: PublicCatalog = {
           "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
           "relationship_type": "appears_in_work",
           "headline_es": "Chicha en Epopeya de las comidas y las bebidas de Chile",
-          "explanation_es": "Chicha entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "explanation_es": "La chicha abre en *Epopeya de las comidas y las bebidas de Chile* una ruta más popular y festiva. La recomendación apunta a la escala comunitaria de esa imaginería: una bebida que desplaza el foco desde el vino hacia la mezcla, la feria y el brindis compartido.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-pablo-de-rokha-chicha-r2"
@@ -32624,7 +32624,7 @@ export const content: PublicCatalog = {
           "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
           "relationship_type": "appears_in_work",
           "headline_es": "Pipeño en Epopeya de las comidas y las bebidas de Chile",
-          "explanation_es": "Pipeño entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "explanation_es": "El pipeño lleva *Epopeya de las comidas y las bebidas de Chile* hacia un vino de elaboración cercana y circulación local. Destaca una veta menos ceremoniosa, hecha de mesa abundante y lenguaje sin pulir.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-pablo-de-rokha-pipeno-r2"
@@ -32678,7 +32678,7 @@ export const content: PublicCatalog = {
           "work_id": "pablo-de-rokha-epopeya-de-las-comidas-y-las-bebidas-de-chile",
           "relationship_type": "appears_in_work",
           "headline_es": "Licores chilenos en Epopeya de las comidas y las bebidas de Chile",
-          "explanation_es": "Licores chilenos entra en Epopeya de las comidas y las bebidas de Chile como una llave para el ambiente de Pablo de Rokha. Aquí la mesa chilena deja de ser mesa y se vuelve epopeya con migas, ruido y brindis.",
+          "explanation_es": "Los licores chilenos reúnen el costado más intenso del repertorio de *Epopeya de las comidas y las bebidas de Chile*. Una copa amplia para un inventario gastronómico que llega con ruido, migas y brindis.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-pablo-de-rokha-licores-chilenos-r2"
@@ -32770,7 +32770,7 @@ export const content: PublicCatalog = {
           "work_id": "sandor-marai-hungarian-wine",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino húngaro en Hungarian Wine",
-          "explanation_es": "Vino húngaro entra en Hungarian Wine como una llave para el ambiente de Sándor Márai. En esa copa cabe una patria recordada con la precisión de quien aún sabe nombrar sus pérdidas.",
+          "explanation_es": "En *Hungarian Wine*, el vino funciona como una vía de memoria y pertenencia. Esta recomendación conserva esa amplitud —un vino húngaro sin reducirlo a una etiqueta— y pone el acento en la patria recordada que articula el texto.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-sandor-marai-vino-hungaro-r1",
@@ -32845,7 +32845,7 @@ export const content: PublicCatalog = {
           "work_id": "sandor-marai-hungarian-wine",
           "relationship_type": "appears_in_work",
           "headline_es": "Fröccs grande en Hungarian Wine",
-          "explanation_es": "Fröccs grande entra en Hungarian Wine como una llave para el ambiente de Sándor Márai. En esa copa cabe una patria recordada con la precisión de quien aún sabe nombrar sus pérdidas.",
+          "explanation_es": "El fröccs grande introduce en *Hungarian Wine* un gesto preciso: vino aligerado para la conversación larga. La copa estira la charla y deja entrar la memoria de una patria.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-sandor-marai-froccs-nagyfroccs-r2"
@@ -33491,7 +33491,7 @@ export const content: PublicCatalog = {
           "work_id": "emile-zola-l-assommoir",
           "relationship_type": "appears_in_work",
           "headline_es": "Aguardiente en La taberna",
-          "explanation_es": "Aguardiente entra en La taberna como una llave para el ambiente de Émile Zola. La bebida ilumina el daño social de la novela; aquí el bar no funciona como escape elegante.",
+          "explanation_es": "En *La taberna*, el aguardiente forma parte de la representación del alcohol popular y de sus consecuencias sociales. La novela observa cómo la precariedad y la bebida se potencian.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-emile-zola-aguardiente-r1",
@@ -33566,7 +33566,7 @@ export const content: PublicCatalog = {
           "work_id": "emile-zola-l-assommoir",
           "relationship_type": "appears_in_work",
           "headline_es": "Brandy en La taberna",
-          "explanation_es": "Brandy entra en La taberna como una llave para el ambiente de Émile Zola. La bebida ilumina el daño social de la novela; aquí el bar no funciona como escape elegante.",
+          "explanation_es": "El brandy aparece en *La taberna* junto a las ciruelas al brandy y a la economía alcohólica que atraviesa el relato. El detalle doméstico y mercantil deja ver una ciudad que convierte la bebida en parte de su rutina.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-emile-zola-brandy-r1",
@@ -33641,7 +33641,7 @@ export const content: PublicCatalog = {
           "work_id": "emile-zola-l-assommoir",
           "relationship_type": "appears_in_work",
           "headline_es": "Absenta con agua en La taberna",
-          "explanation_es": "Absenta con agua entra en La taberna como una llave para el ambiente de Émile Zola. La bebida ilumina el daño social de la novela; aquí el bar no funciona como escape elegante.",
+          "explanation_es": "La absenta con agua remite en *La taberna* al alcoholismo popular que Zola representa con crudeza. La preparación señala uno de los mecanismos de deterioro que la novela expone.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-emile-zola-absenta-con-agua-r1",
@@ -34205,7 +34205,7 @@ export const content: PublicCatalog = {
           "work_id": "anton-chekhov-champagne",
           "relationship_type": "appears_in_work",
           "headline_es": "Champaña en Champagne",
-          "explanation_es": "Champaña entra en Champagne como una llave para el ambiente de Antón Chéjov. Las burbujas traen fiesta, melancolía y la sospecha de que algo saldrá apenas torcido.",
+          "explanation_es": "La champaña está vinculada al cuento *Champagne* de Antón Chéjov. Sus burbujas organizan una celebración atravesada por la melancolía y ponen tensión en cada brindis.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-anton-chekhov-champagne-r1",
@@ -34282,7 +34282,7 @@ export const content: PublicCatalog = {
           "work_id": "anton-chekhov-champagne",
           "relationship_type": "appears_in_work",
           "headline_es": "Vodka ruso en Champagne",
-          "explanation_es": "Vodka ruso entra en Champagne como una llave para el ambiente de Antón Chéjov. Las burbujas traen fiesta, melancolía y la sospecha de que algo saldrá apenas torcido.",
+          "explanation_es": "El vodka también se menciona en *Champagne* y cambia el registro de la escena: frente al brillo ceremonial de la champaña, aporta una presencia más directa y terrenal.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-anton-chekhov-russian-vodka-r1"
@@ -34588,7 +34588,7 @@ export const content: PublicCatalog = {
           "work_id": "herman-koch-the-dinner",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino a elección (especificar estilo) en La cena",
-          "explanation_es": "Vino a elección (especificar estilo) entra en La cena como una llave para el ambiente de Herman Koch. Cada sorbo deja la mesa más pulcra y la conversación bastante menos inocente.",
+          "explanation_es": "El vino de la casa acompaña la cena narrada en *La cena* como una elección aparentemente inocente. La copa abre una conversación cada vez menos cómoda.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-herman-koch-wine-dealers-choice-r2"
@@ -34644,7 +34644,7 @@ export const content: PublicCatalog = {
           "work_id": "herman-koch-the-dinner",
           "relationship_type": "appears_in_work",
           "headline_es": "Chablis en La cena",
-          "explanation_es": "Chablis entra en La cena como una llave para el ambiente de Herman Koch. Cada sorbo deja la mesa más pulcra y la conversación bastante menos inocente.",
+          "explanation_es": "El Chablis introduce en *La cena* una nota de distinción controlada. Su presencia afina la fachada del restaurante y del diálogo: cuanto más pulcra parece la mesa, más incómodo resulta lo que los personajes deciden poner sobre ella.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-herman-koch-chablis-r2"
@@ -34698,7 +34698,7 @@ export const content: PublicCatalog = {
           "work_id": "herman-koch-the-dinner",
           "relationship_type": "appears_in_work",
           "headline_es": "Chenin Blanc del Valle del Loira en La cena",
-          "explanation_es": "Chenin Blanc del Valle del Loira entra en La cena como una llave para el ambiente de Herman Koch. Cada sorbo deja la mesa más pulcra y la conversación bastante menos inocente.",
+          "explanation_es": "El Chenin Blanc del Valle del Loira aparece en la cena de *La cena* con un tono más floral y flexible. La elección de la botella acompaña la escalada de una conversación que ya no cabe en la mesa.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-herman-koch-loire-valley-chenin-blanc-r2"
@@ -35166,7 +35166,7 @@ export const content: PublicCatalog = {
           "work_id": "isabel-allende-el-cuaderno-de-maya",
           "relationship_type": "appears_in_work",
           "headline_es": "Vino a elección (especificar estilo) en El cuaderno de Maya",
-          "explanation_es": "Vino a elección (especificar estilo) entra en El cuaderno de Maya como una llave para el ambiente de Isabel Allende. La bebida deja entrar Chile por la ventana, con memoria familiar y una maleta lista.",
+          "explanation_es": "El vino cruza el contexto literario de *Largo pétalo de mar*. Una copa de estilo abierto acompaña una historia de memoria, desplazamiento y vínculos con Chile.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-isabel-allende-wine-dealers-choice-r1"
@@ -35222,7 +35222,7 @@ export const content: PublicCatalog = {
           "work_id": "isabel-allende-el-cuaderno-de-maya",
           "relationship_type": "appears_in_work",
           "headline_es": "Pisco sour en El cuaderno de Maya",
-          "explanation_es": "Pisco sour entra en El cuaderno de Maya como una llave para el ambiente de Isabel Allende. La bebida deja entrar Chile por la ventana, con memoria familiar y una maleta lista.",
+          "explanation_es": "El pisco sour aparece en *El cuaderno de Maya* como una referencia chilena puntual. Su acidez abre una ruta más nítida y luminosa dentro de la novela.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-isabel-allende-pisco-sour-r2"
@@ -35343,7 +35343,7 @@ export const content: PublicCatalog = {
           "drink_id": "cerveza",
           "relationship_type": "author_documented",
           "headline_es": "Cerveza con Karl Marx",
-          "explanation_es": "Cerveza acompaña el retrato de Karl Marx con una presencia concreta y sin solemnidad de museo. La copa llega con debate, sobremesa y más de una contradicción esperando turno.",
+          "explanation_es": "La cerveza aparece en referencias biográficas a los hábitos de Marx y a los clubes de bebida de su entorno. Una pinta sirve para llevar la conversación hacia la sobremesa, el debate y la ciudad.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-karl-marx-cerveza-r1"
@@ -35403,7 +35403,7 @@ export const content: PublicCatalog = {
           "drink_id": "wine-dealers-choice",
           "relationship_type": "author_documented",
           "headline_es": "Vino a elección (especificar estilo) con Karl Marx",
-          "explanation_es": "Vino a elección (especificar estilo) acompaña el retrato de Karl Marx con una presencia concreta y sin solemnidad de museo. La copa llega con debate, sobremesa y más de una contradicción esperando turno.",
+          "explanation_es": "El vino cruza los hábitos de Marx y el trasfondo vitivinícola de su familia. La variedad queda abierta para que la copa acompañe una sobremesa de debate y contradicciones.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-karl-marx-wine-dealers-choice-r1",
@@ -35477,9 +35477,9 @@ export const content: PublicCatalog = {
           "id": "deep-research-karl-marx-brandy",
           "author_id": "karl-marx",
           "drink_id": "brandy",
-          "relationship_type": "author_documented",
+          "relationship_type": "editorial_pairing",
           "headline_es": "Brandy con Karl Marx",
-          "explanation_es": "Brandy acompaña el retrato de Karl Marx con una presencia concreta y sin solemnidad de museo. La copa llega con debate, sobremesa y más de una contradicción esperando turno.",
+          "explanation_es": "El brandy lleva a Marx hacia una copa lenta de sobremesa: ámbar, conversación larga y alguna contradicción esperando turno.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-karl-marx-brandy-r1",
@@ -35684,7 +35684,7 @@ export const content: PublicCatalog = {
           "drink_id": "whiskey",
           "relationship_type": "editorial_pairing",
           "headline_es": "Whiskey para el mundo de Rubem Fonseca",
-          "explanation_es": "Whiskey acompaña el universo de Rubem Fonseca por afinidad de lugar, época y temperamento. La bebida entra como una luz de neón en una calle donde conviene mirar dos veces.",
+          "explanation_es": "El whiskey es un maridaje editorial para el registro negro, urbano y policial asociado a Rubem Fonseca. Su sequedad acompaña una ciudad de ritmo nocturno y luces de neón.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-rubem-fonseca-whiskey-r2"
@@ -35737,7 +35737,7 @@ export const content: PublicCatalog = {
           "drink_id": "cachaca",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cachaça para el mundo de Rubem Fonseca",
-          "explanation_es": "Cachaça acompaña el universo de Rubem Fonseca por afinidad de lugar, época y temperamento. La bebida entra como una luz de neón en una calle donde conviene mirar dos veces.",
+          "explanation_es": "La cachaça abre otra entrada al mundo de Rubem Fonseca: brasileña, directa y menos cosmopolita que el whiskey. Una copa con el golpe rápido de una calle que conviene mirar dos veces.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-rubem-fonseca-cachaca-r2"
@@ -35829,7 +35829,7 @@ export const content: PublicCatalog = {
           "work_id": "camilo-jose-cela-la-colmena",
           "relationship_type": "editorial_pairing",
           "headline_es": "Aguardiente para el mundo de Camilo José Cela",
-          "explanation_es": "Aguardiente acompaña el universo de Camilo José Cela por afinidad de lugar, época y temperamento. El vaso lleva el pulso áspero de una ciudad que sobrevive hablando alrededor de la mesa.",
+          "explanation_es": "El aguardiente funciona como maridaje editorial para la España de posguerra y el mundo de *La colmena*. Su aspereza acompaña la precariedad y el roce social de la novela.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-camilo-jose-cela-aguardiente-r2"
@@ -35883,7 +35883,7 @@ export const content: PublicCatalog = {
           "work_id": "camilo-jose-cela-la-colmena",
           "relationship_type": "editorial_pairing",
           "headline_es": "Cognac para el mundo de Camilo José Cela",
-          "explanation_es": "Cognac acompaña el universo de Camilo José Cela por afinidad de lugar, época y temperamento. El vaso lleva el pulso áspero de una ciudad que sobrevive hablando alrededor de la mesa.",
+          "explanation_es": "El cognac ofrece un contraste dentro del universo de *La colmena*: una copa de aspiración y respiro breve frente a la dureza de la posguerra.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-camilo-jose-cela-cognac-r2"
@@ -36071,7 +36071,7 @@ export const content: PublicCatalog = {
           "drink_id": "wine-dealers-choice",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Vino a elección (especificar estilo) y Claudio Bertoni",
-          "explanation_es": "Vino a elección (especificar estilo) conserva una escena cultural ligada a Claudio Bertoni, lista para una sobremesa con buenas historias. La escena conserva una libertad algo desordenada, como una botella abierta en medio del cuaderno.",
+          "explanation_es": "El vino invita a una sobremesa desordenada con Claudio Bertoni: botella abierta, cuaderno a medio llenar y conversación que se sale del margen.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-claudio-bertoni-wine-dealers-choice-r2"
@@ -36126,7 +36126,7 @@ export const content: PublicCatalog = {
           "drink_id": "pisco",
           "relationship_type": "circulating_anecdote",
           "headline_es": "Pisco y Claudio Bertoni",
-          "explanation_es": "Pisco conserva una escena cultural ligada a Claudio Bertoni, lista para una sobremesa con buenas historias. La escena conserva una libertad algo desordenada, como una botella abierta en medio del cuaderno.",
+          "explanation_es": "El pisco propone una alternativa más localizada para Claudio Bertoni: una copa clara, cuaderno cerca y una conversación que deriva sin pedir permiso.",
           "confidence": "medium",
           "evidence_ids": [
             "evidencia-deep-research-claudio-bertoni-pisco-r2"
