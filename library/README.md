@@ -34,5 +34,5 @@ aprueba evidencia y no modifica el catálogo público.
 chandler--the-long-goodbye--penguin-2010.epub
 ```
 
-El procedimiento completo de lectura, extracción, verificación e incorporación
-está en `docs/SOURCE_INGESTION.md`.
+Al incorporar un hallazgo, registra en el catálogo la fuente, el localizador y
+una explicación proporcional. El libro permanece privado y no entra al build.

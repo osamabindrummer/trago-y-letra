@@ -34,7 +34,7 @@ describe('contratos editoriales', () => {
     expect(validateCatalog(mutable, schema)).toEqual([])
   })
 
-  it('permite confianza baja sólo en hallazgos provisionales señalizados', async () => {
+  it('permite confianza baja sin una señalización técnica adicional', async () => {
     const [catalog, schema] = await Promise.all([readJson('data/source/catalog.json'), readJson('data/schema/catalog.schema.json')])
     const mutable = structuredClone(catalog as Catalog)
     const discovery = mutable.discoveries[0] ?? {
@@ -43,7 +43,7 @@ describe('contratos editoriales', () => {
     if (!mutable.discoveries.length) mutable.discoveries.push(discovery)
     discovery.confidence = 'low'
     discovery.flags = discovery.flags.filter((flag) => flag !== 'low_confidence')
-    expect(validateCatalog(mutable, schema).join('\n')).toContain('confidence low exige el flag low_confidence')
+    expect(validateCatalog(mutable, schema)).toEqual([])
   })
 
   it('permite autores, obras y bebidas con contenido mínimo explícito', async () => {

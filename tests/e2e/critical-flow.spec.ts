@@ -1,4 +1,9 @@
 import { expect, test } from '@playwright/test'
+import { content } from '../../src/content/generated'
+
+const authorCount = content.authors.length
+const recommendationCount = content.authors.reduce((total, author) => total + author.recommendations.length, 0)
+const drinkCount = new Set(content.authors.flatMap((author) => author.recommendations.map((recommendation) => recommendation.drink.id))).size
 
 test('búsqueda y ficha se pueden recorrer sin exponer la procedencia', async ({ page }) => {
   await page.goto('/')
@@ -45,10 +50,10 @@ test('el índice reúne los autores canónicos promovidos', async ({ page }) => 
   await page.goto('/')
   await page.getByRole('button', { name: 'Índice' }).click()
   await expect(page.getByRole('heading', { name: 'Autores, de la A a la Z.' })).toBeVisible()
-  await expect(page.getByText('216 autores · 311 recomendaciones y sugerencias de bebidas.')).toBeVisible()
-  await expect(page.getByRole('list', { name: 'Índice alfabético de autores' }).getByRole('listitem')).toHaveCount(216)
+  await expect(page.getByText(`${authorCount} autores · ${recommendationCount} recomendaciones y sugerencias de bebidas.`)).toBeVisible()
+  await expect(page.getByRole('list', { name: 'Índice alfabético de autores' }).getByRole('listitem')).toHaveCount(authorCount)
   await expect(page.getByRole('heading', { name: 'Tragos, de la A a la (glup) Z.' })).toBeVisible()
-  await expect(page.getByRole('list', { name: 'Índice alfabético de bebidas' }).getByRole('listitem')).toHaveCount(252)
+  await expect(page.getByRole('list', { name: 'Índice alfabético de bebidas' }).getByRole('listitem')).toHaveCount(drinkCount)
   await expect(page.getByRole('link', { name: 'Daniel Salas' })).toHaveAttribute('href', 'https://bio.link/danielsalasj')
 })
 

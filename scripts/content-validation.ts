@@ -2,8 +2,6 @@ import Ajv2020 from 'ajv/dist/2020.js'
 import addFormats from 'ajv-formats'
 import type { Catalog, Recommendation } from './content-types.ts'
 
-const publishableSourceTiers = new Set(['primary', 'scholarly', 'reputable_secondary'])
-
 function duplicates(values: string[]): string[] {
   return [...new Set(values.filter((value, index) => values.indexOf(value) !== index))]
 }
@@ -59,10 +57,6 @@ export function validateCatalog(catalog: Catalog, schema: object): string[] {
     if (author?.status !== 'published') errors.push(`recommendation ${recommendation.id}: el autor debe estar published`)
     const evidence = catalog.evidence.filter((item) => recommendation.evidence_ids.includes(item.id) && item.supports_claim)
     if (!evidence.length) errors.push(`recommendation ${recommendation.id}: no posee evidencia a favor`)
-    const hasUsableEvidence = recommendation.relationship_type === 'circulating_anecdote'
-      ? evidence.some((item) => sourceById.has(item.source_id))
-      : evidence.some((item) => publishableSourceTiers.has(sourceById.get(item.source_id)?.reliability_tier ?? ''))
-    if (!hasUsableEvidence) errors.push(`recommendation ${recommendation.id}: sólo posee fuentes no publicables`)
   }
   for (const discovery of catalog.discoveries ?? []) {
     if (discovery.author_id && !authorIds.has(discovery.author_id)) errors.push(`discovery ${discovery.id}: author_id inexistente`)
@@ -71,7 +65,6 @@ export function validateCatalog(catalog: Catalog, schema: object): string[] {
     if (discovery.work_id && discovery.author_id && catalog.works.find((work) => work.id === discovery.work_id)?.author_id !== discovery.author_id) errors.push(`discovery ${discovery.id}: la obra pertenece a otro autor`)
     if (discovery.source_refs.some((reference) => !sourceById.has(reference.source_id))) errors.push(`discovery ${discovery.id}: source_id inexistente`)
     if (!discovery.flags.includes('provisional')) errors.push(`discovery ${discovery.id}: debe declarar provisional`)
-    if (discovery.confidence === 'low' && !discovery.flags.includes('low_confidence')) errors.push(`discovery ${discovery.id}: confidence low exige el flag low_confidence`)
     if (!discovery.author_id && !discovery.flags.some((flag) => flag === 'identity_pending' || flag === 'author_profile_pending')) errors.push(`discovery ${discovery.id}: autor no canónico sin flag pendiente`)
     if (!discovery.drink_id && !discovery.flags.includes('recipe_pending')) errors.push(`discovery ${discovery.id}: bebida no canónica sin flag recipe_pending`)
   }

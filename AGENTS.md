@@ -1,47 +1,35 @@
-# Instrucciones para agentes
+# Trago y Letra
 
-## Idioma y calidad
+## Fuente y edición
 
-- Responde y documenta en español.
-- Los comentarios de código deben estar en español y ser comprensibles para personas con poca experiencia.
-- Prioriza corrección, legibilidad, trazabilidad y cambios pequeños.
+- `data/source/catalog.json` es la única fuente editorial canónica.
+- `src/content/generated.ts` se genera desde el catálogo; nunca se edita a mano.
+- Se pueden añadir o corregir fuentes, autores, obras, bebidas y recomendaciones cuando la persona propietaria lo solicite. No hay fases, cuotas, gates ni modelos obligatorios.
+- Examina un libro, una página o un documento sólo cuando la persona propietaria lo entregue o indique expresamente. `library/` no inicia trabajo automático.
 
-## Documentos canónicos
+## Incorporación de datos
 
-1. Lee completamente `docs/PRD.md`.
-2. Lee completamente `docs/RESEARCH_PROTOCOL.md` antes de investigar autores.
-3. Ejecuta las fases y gates del PRD en orden.
-4. No debilites un criterio de aceptación para hacer pasar una fase.
-5. Actualiza el README y el registro de decisiones cuando cambien comandos o arquitectura.
+- Cada recomendación conserva un autor, una bebida, un tipo de relación, una fuente/evidencia, `confidence`, `explanation_es` y fechas de revisión. Reutiliza autores, obras y bebidas existentes cuando sean equivalentes reales; conserva opciones distintas del mismo autor cuando aporten una recomendación diferente.
+- La fuente autorizada por la persona propietaria basta como procedencia de trabajo. Registra su URL, referencia o localizador disponible y la fuerza real de lo que dice; no impongas una jerarquía automática de fuentes ni eleves una mención genérica a una preferencia concreta.
+- `confidence` (`high`, `medium`, `low`) es metadato editorial, no un bloqueo ni una excusa visible. La persona propietaria puede fijarlo para una incorporación; si no lo hace, asígnalo de forma proporcional y nunca lo eleves por conveniencia.
+- `relationship_type` clasifica el vínculo para la etiqueta de la interfaz. No transforma una aparición en una obra, un gesto de un personaje o una mención de categoría en un hábito o preferencia del autor.
+- Para recetas, reutiliza una bebida normalizada si corresponde. Sólo crea una receta cuando exista una preparación entregada, una adaptación explícita o una receta de la casa decidida editorialmente; usa `serving_only` para una bebida que se sirve directamente. No inventes cócteles para completar una ficha.
 
-## Modelos y delegación
+## Criterio editorial
 
-- El agente principal debe ejecutarse con `gpt-5.6-terra`, preferentemente `medium`.
-- Usa `low` sólo para trabajo mecánico claramente especificado.
-- Delega un autor por subagente `gpt-5.6-luna`, `low` por defecto y `medium` sólo ante una segunda pasada justificada.
-- No delegues investigación antes de aprobar el Gate 3 y comenzar la Fase 4.
-- En el piloto usa un subagente a la vez. Después, como máximo tres investigadores simultáneos.
-- Un investigador entrega candidatos; nunca aprueba ni publica.
-- Si Luna no está disponible como subagente, sigue el fallback del protocolo y no ocultes el cambio.
+- Conserva en el catálogo la fuente y una redacción proporcional a lo que ésta respalda.
+- No inventes citas, URLs, localizadores, recetas ni datos biográficos.
+- `explanation_es` es una invitación breve, literaria, positiva y juguetona: usa una escena, un gesto reconocible o un maridaje concreto.
+- El copy visible no explica su método ni se defiende. No menciones fuentes, evidencia, informes, fichas, niveles de confianza, límites, negaciones ni frases como “no afirma”, “sin atribuir”, “la evidencia corresponde” o equivalentes. La etiqueta comunica el tipo de relación; los datos conservan el resto.
+- Cuando un criterio se aplique a más de una ficha, revisa el catálogo completo, no sólo el ejemplo que motivó el cambio.
 
-## Datos editoriales
+## Biblioteca local
 
-- No uses memoria del modelo como evidencia.
-- No inventes citas, URLs, páginas, capítulos, recetas ni preferencias.
-- Conserva candidatos rechazados y contradicciones.
-- No publiques estados distintos de `published`.
-- Toda afirmación debe ser proporcional a su fuente.
-- No romantices adicción o dependencia.
-
-## Seguridad
-
-- Nunca guardes claves o tokens en Git.
-- Usa variables de entorno y mantén `.env` ignorado.
-- No incorpores obras completas o imágenes sin derechos claros.
-- Detente ante gastos externos no autorizados, acciones destructivas o una expansión material del alcance.
+- Los EPUB y PDF privados van en `library/inbox/` o `library/processed/`; esas carpetas no se versionan.
+- `data/research/library-sources.json` sólo registra su inventario. Depositar un libro no modifica por sí solo el catálogo.
 
 ## Verificación
 
-- Cierra cada fase con su gate verificable.
-- Usa fixtures sintéticos antes de datos reales.
-- Antes de entregar, ejecuta validación de contenido, tests, build y QA visual definidos en el PRD.
+Tras cambiar datos o código, ejecuta la comprobación proporcional al cambio. Para contenido: `npm run validate:content`, `npm run build:content`, `npm run test` y `npm run build`.
+
+Mantén el README alineado con los comandos y la arquitectura vigentes.
