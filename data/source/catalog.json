@@ -1593,7 +1593,8 @@
       "aliases": [],
       "featured_works": [
         "virginia-woolf-to-the-lighthouse",
-        "virginia-woolf-mrs-dalloway"
+        "virginia-woolf-mrs-dalloway",
+        "virginia-woolf-a-room-of-ones-own"
       ],
       "profile_status": "minimal",
       "status": "published",
@@ -2001,7 +2002,8 @@
       "aliases": [],
       "featured_works": [
         "george-orwell-nineteen-eighty-four",
-        "george-orwell-animal-farm"
+        "george-orwell-animal-farm",
+        "george-orwell-the-moon-under-water"
       ],
       "profile_status": "minimal",
       "status": "published",
@@ -4029,6 +4031,123 @@
       "country": "Italia",
       "birth_year": 1916,
       "death_year": 1991
+    },
+    {
+      "id": "edith-wharton",
+      "slug": "edith-wharton",
+      "canonical_name": "Edith Wharton",
+      "aliases": [],
+      "featured_works": ["edith-wharton-the-age-of-innocence"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Estados Unidos",
+      "birth_year": 1862,
+      "death_year": 1937
+    },
+    {
+      "id": "willa-cather",
+      "slug": "willa-cather",
+      "canonical_name": "Willa Cather",
+      "aliases": [],
+      "featured_works": ["willa-cather-my-antonia"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Estados Unidos",
+      "birth_year": 1873,
+      "death_year": 1947
+    },
+    {
+      "id": "kate-chopin",
+      "slug": "kate-chopin",
+      "canonical_name": "Kate Chopin",
+      "aliases": [],
+      "featured_works": ["kate-chopin-the-awakening"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Estados Unidos",
+      "birth_year": 1850,
+      "death_year": 1904
+    },
+    {
+      "id": "marcel-proust",
+      "slug": "marcel-proust",
+      "canonical_name": "Marcel Proust",
+      "aliases": [],
+      "featured_works": ["marcel-proust-du-cote-de-chez-swann"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Francia",
+      "birth_year": 1871,
+      "death_year": 1922
+    },
+    {
+      "id": "mikhail-bulgakov",
+      "slug": "mikhail-bulgakov",
+      "canonical_name": "Mijaíl Bulgákov",
+      "aliases": ["Mikhail Bulgakov"],
+      "featured_works": ["mikhail-bulgakov-master-i-margarita"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Imperio ruso / Unión Soviética",
+      "birth_year": 1891,
+      "death_year": 1940
+    },
+    {
+      "id": "eca-de-queiros",
+      "slug": "eca-de-queiros",
+      "canonical_name": "Eça de Queirós",
+      "aliases": ["José Maria de Eça de Queirós"],
+      "featured_works": ["eca-de-queiros-os-maias"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Portugal",
+      "birth_year": 1845,
+      "death_year": 1900
+    },
+    {
+      "id": "machado-de-assis",
+      "slug": "machado-de-assis",
+      "canonical_name": "Machado de Assis",
+      "aliases": ["Joaquim Maria Machado de Assis"],
+      "featured_works": ["machado-de-assis-ressurreicao"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Brasil",
+      "birth_year": 1839,
+      "death_year": 1908
+    },
+    {
+      "id": "jorge-amado",
+      "slug": "jorge-amado",
+      "canonical_name": "Jorge Amado",
+      "aliases": [],
+      "featured_works": ["jorge-amado-gabriela-cravo-e-canela"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Brasil",
+      "birth_year": 1912,
+      "death_year": 2001
+    },
+    {
+      "id": "julio-ramon-ribeyro",
+      "slug": "julio-ramon-ribeyro",
+      "canonical_name": "Julio Ramón Ribeyro",
+      "aliases": [],
+      "featured_works": ["julio-ramon-ribeyro-los-huaqueros"],
+      "profile_status": "minimal",
+      "status": "published",
+      "reviewed_at": "2026-09-19",
+      "country": "Perú",
+      "birth_year": 1929,
+      "death_year": 1994
     }
   ],
   "works": [
@@ -9283,6 +9402,105 @@
       "display_title_es": "La muerte en Venecia",
       "identifiers": {},
       "notes": "Obra destacada proporcionada por el usuario; título original y demás metadatos pendientes de una verificación bibliográfica específica.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "edith-wharton-the-age-of-innocence",
+      "author_id": "edith-wharton",
+      "original_title": "The Age of Innocence",
+      "display_title_es": "La edad de la inocencia",
+      "identifiers": {},
+      "notes": "Obra vinculada a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "willa-cather-my-antonia",
+      "author_id": "willa-cather",
+      "original_title": "My Ántonia",
+      "display_title_es": "Mi Ántonia",
+      "identifiers": {},
+      "notes": "Obra vinculada a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "kate-chopin-the-awakening",
+      "author_id": "kate-chopin",
+      "original_title": "The Awakening",
+      "display_title_es": "El despertar",
+      "identifiers": {},
+      "notes": "Obra vinculada a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "marcel-proust-du-cote-de-chez-swann",
+      "author_id": "marcel-proust",
+      "original_title": "Du côté de chez Swann",
+      "display_title_es": "Por el camino de Swann",
+      "identifiers": {},
+      "notes": "Obra vinculada a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "mikhail-bulgakov-master-i-margarita",
+      "author_id": "mikhail-bulgakov",
+      "original_title": "Мастер и Маргарита",
+      "display_title_es": "El maestro y Margarita",
+      "identifiers": {},
+      "notes": "Obra vinculada a un pasaje localizado en una edición digital; la procedencia de la traducción requiere revisión complementaria.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "eca-de-queiros-os-maias",
+      "author_id": "eca-de-queiros",
+      "original_title": "Os Maias",
+      "display_title_es": "Los Maia",
+      "identifiers": {},
+      "notes": "Obra vinculada a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "machado-de-assis-ressurreicao",
+      "author_id": "machado-de-assis",
+      "original_title": "Ressurreição",
+      "display_title_es": "Resurrección",
+      "identifiers": {},
+      "notes": "Obra vinculada a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "jorge-amado-gabriela-cravo-e-canela",
+      "author_id": "jorge-amado",
+      "original_title": "Gabriela, Cravo e Canela",
+      "display_title_es": "Gabriela, clavo y canela",
+      "identifiers": {},
+      "notes": "Obra vinculada a un extracto educativo que identifica edición y página de la novela.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "julio-ramon-ribeyro-los-huaqueros",
+      "author_id": "julio-ramon-ribeyro",
+      "original_title": "Los huaqueros",
+      "display_title_es": "Los huaqueros",
+      "identifiers": {},
+      "notes": "Obra vinculada a una reproducción universitaria localizada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "george-orwell-the-moon-under-water",
+      "author_id": "george-orwell",
+      "original_title": "The Moon Under Water",
+      "display_title_es": "La luna bajo el agua",
+      "identifiers": {},
+      "notes": "Ensayo vinculado a la evidencia primaria consultada para esta recomendación.",
+      "metadata_status": "minimal"
+    },
+    {
+      "id": "virginia-woolf-a-room-of-ones-own",
+      "author_id": "virginia-woolf",
+      "original_title": "A Room of One's Own",
+      "display_title_es": "Una habitación propia",
+      "identifiers": {},
+      "notes": "Ensayo vinculado a la evidencia primaria consultada para esta recomendación.",
       "metadata_status": "minimal"
     }
   ],
@@ -17773,6 +17991,36 @@
       "glassware": "Vaso corto",
       "recipe_note": "Servicio contemporáneo; no se atribuye un ritual histórico.",
       "recipe_status": "serving_only"
+    },
+    {
+      "id": "te",
+      "name_es": "Té",
+      "aliases": ["Tea"],
+      "category": "Infusión",
+      "alcoholic": false,
+      "ingredients": [],
+      "steps": [
+        "Infusiona las hojas o la bolsita en agua caliente.",
+        "Sirve en una taza."
+      ],
+      "glassware": "Taza",
+      "recipe_note": "Servicio genérico de una infusión; la variedad se elige al gusto.",
+      "recipe_status": "serving_only"
+    },
+    {
+      "id": "vino",
+      "name_es": "Vino",
+      "aliases": ["Wine"],
+      "category": "Vino",
+      "alcoholic": true,
+      "ingredients": [],
+      "steps": [
+        "Sirve en una copa de vino.",
+        "Elige el estilo y la temperatura según la botella."
+      ],
+      "glassware": "Copa de vino",
+      "recipe_note": "Servicio genérico; la fuente no especifica una variedad ni una preparación concreta.",
+      "recipe_status": "serving_only"
     }
   ],
   "recommendations": [
@@ -23635,6 +23883,54 @@
       "editorial_status": "published",
       "reviewed_by": "revisión editorial manual",
       "reviewed_at": "2026-07-29"
+    },
+    {
+      "id": "investigacion-2026-wharton-champagne", "author_id": "edith-wharton", "work_id": "edith-wharton-the-age-of-innocence", "drink_id": "champagne", "relationship_type": "appears_in_work",
+      "headline_es": "Champaña en La edad de la inocencia", "explanation_es": "La champaña deja que las cenas de Nueva York chisporroteen bajo una etiqueta impecable. Abre *La edad de la inocencia* y brinda por todo lo que Archer no se atreve a decir.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-wharton-champagne"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-cather-cerveza", "author_id": "willa-cather", "work_id": "willa-cather-my-antonia", "drink_id": "cerveza", "relationship_type": "appears_in_work",
+      "headline_es": "Cerveza en Mi Ántonia", "explanation_es": "En *Mi Ántonia*, la cerveza acompaña casas, salones y conversaciones de la pradera. Sírvete una fría y deja que Black Hawk aparezca con pan de centeno, queso y rumores.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-cather-cerveza"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-chopin-champagne", "author_id": "kate-chopin", "work_id": "kate-chopin-the-awakening", "drink_id": "champagne", "relationship_type": "appears_in_work",
+      "headline_es": "Champaña en El despertar", "explanation_es": "La champaña enfría la mesa de *El despertar* justo cuando el aire de Nueva Orleans se vuelve más eléctrico. Una copa para leer a Edna con la noche todavía abierta.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-chopin-champagne"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-proust-te", "author_id": "marcel-proust", "work_id": "marcel-proust-du-cote-de-chez-swann", "drink_id": "te", "relationship_type": "appears_in_work",
+      "headline_es": "Té en Por el camino de Swann", "explanation_es": "Una taza de té basta para que Combray vuelva a desplegarse. Lee *Por el camino de Swann* despacio, como si el vapor pudiera abrir una puerta secreta de la memoria.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-proust-te"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-bulgakov-vodka-ruso", "author_id": "mikhail-bulgakov", "work_id": "mikhail-bulgakov-master-i-margarita", "drink_id": "russian-vodka", "relationship_type": "appears_in_work",
+      "headline_es": "Vodka ruso en El maestro y Margarita", "explanation_es": "El vodka ruso entra en *El maestro y Margarita* con una pregunta que invita a desconfiar de la velada. Sírvelo solo y deja un asiento libre para el gato que habla demasiado.", "confidence": "medium", "evidence_ids": ["evidencia-investigacion-2026-bulgakov-vodka-ruso"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-eca-champagne", "author_id": "eca-de-queiros", "work_id": "eca-de-queiros-os-maias", "drink_id": "champagne", "relationship_type": "appears_in_work",
+      "headline_es": "Champaña en Los Maia", "explanation_es": "En *Los Maia*, una botella de champaña puede comprar una historia y encender un salón lisboeta. Léela en copa alta, con ganas de escuchar el chisme completo.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-eca-champagne"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-machado-champagne", "author_id": "machado-de-assis", "work_id": "machado-de-assis-ressurreicao", "drink_id": "champagne", "relationship_type": "appears_in_work",
+      "headline_es": "Champaña en Resurrección", "explanation_es": "La champaña aparece en *Resurrección* con el brillo excesivo de una anécdota de salón. Una copa fría para entrar al ingenio de Machado de Assis con una sonrisa ladeada.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-machado-champagne"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-amado-cachaca", "author_id": "jorge-amado", "work_id": "jorge-amado-gabriela-cravo-e-canela", "drink_id": "cachaca", "relationship_type": "appears_in_work",
+      "headline_es": "Cachaça en Gabriela, clavo y canela", "explanation_es": "La cachaça de Ilhéus pasa de mano en mano en *Gabriela, clavo y canela*. Una medida corta para abrir el libro con calor bahiano, música y una siesta en suspenso.", "confidence": "medium", "evidence_ids": ["evidencia-investigacion-2026-amado-cachaca"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-ribeyro-pisco", "author_id": "julio-ramon-ribeyro", "work_id": "julio-ramon-ribeyro-los-huaqueros", "drink_id": "pisco", "relationship_type": "appears_in_work",
+      "headline_es": "Pisco en Los huaqueros", "explanation_es": "En *Los huaqueros*, una botella de pisco espera el momento de festejar un hallazgo. Sirve poco, mira bien el suelo y deja que Ribeyro haga el resto.", "confidence": "medium", "evidence_ids": ["evidencia-investigacion-2026-ribeyro-pisco"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-orwell-cerveza", "author_id": "george-orwell", "work_id": "george-orwell-the-moon-under-water", "drink_id": "cerveza", "relationship_type": "appears_in_work",
+      "headline_es": "Cerveza en La luna bajo el agua", "explanation_es": "En la taberna imaginada por Orwell, la cerveza merece conversación y una jarra adecuada. Abre *La luna bajo el agua* y busca una mesa tranquila, lejos de la radio.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-orwell-cerveza"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-tolstoy-champagne", "author_id": "leo-tolstoy", "work_id": "anna-karenina", "drink_id": "champagne", "relationship_type": "appears_in_work",
+      "headline_es": "Champaña en Ana Karenina", "explanation_es": "La champaña atraviesa los encuentros de *Ana Karenina* con facilidad de club y noche larga. Una copa para seguir a Oblonsky antes de que cambie de conversación.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-tolstoy-champagne"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "investigacion-2026-woolf-vino", "author_id": "virginia-woolf", "work_id": "virginia-woolf-a-room-of-ones-own", "drink_id": "vino", "relationship_type": "appears_in_work",
+      "headline_es": "Vino en Una habitación propia", "explanation_es": "Una botella de vino acompaña la imaginación de una mesa propia en el ensayo de Woolf. Lee *Una habitación propia* con una copa y espacio suficiente para pensar en voz alta.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-woolf-vino"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
     }
   ],
   "evidence": [
@@ -28408,6 +28704,42 @@
       "evidence_kind": "bibliographic_reference",
       "supports_claim": true,
       "checked_at": "2026-07-29"
+    },
+    {
+      "id": "evidencia-investigacion-2026-wharton-champagne", "recommendation_id": "investigacion-2026-wharton-champagne", "source_id": "fuente-investigacion-2026-wharton", "claim": "La cena de La edad de la inocencia incluye champaña.", "support_excerpt": "There was smoking and champagne.", "locator": "Capítulo XXXIV", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-cather-cerveza", "recommendation_id": "investigacion-2026-cather-cerveza", "source_id": "fuente-investigacion-2026-cather", "claim": "My Ántonia menciona una colación con cerveza.", "support_excerpt": "a lunch of smoked salmon or anchovies and beer", "locator": "Libro III, capítulo I", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-chopin-champagne", "recommendation_id": "investigacion-2026-chopin-champagne", "source_id": "fuente-investigacion-2026-chopin", "claim": "El despertar contrapone claret tibio y champaña fría en una cena.", "support_excerpt": "The claret was warm and the champagne was cold.", "locator": "Capítulo XXIII", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-proust-te", "recommendation_id": "investigacion-2026-proust-te", "source_id": "fuente-investigacion-2026-proust", "claim": "La memoria narrada en Swann's Way se activa con el sabor del té.", "support_excerpt": "the taste ... of a cup of tea", "locator": "Overture", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-bulgakov-vodka-ruso", "recommendation_id": "investigacion-2026-bulgakov-vodka-ruso", "source_id": "fuente-investigacion-2026-bulgakov", "claim": "Un personaje pregunta si la bebida servida es vodka en El maestro y Margarita.", "support_excerpt": "Is that vodka?", "locator": "Parte II, capítulo 24, The Master Is Released", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-eca-champagne", "recommendation_id": "investigacion-2026-eca-champagne", "source_id": "fuente-investigacion-2026-eca", "claim": "Os Maias menciona una botella de champaña.", "support_excerpt": "uma garrafa de Champagne", "locator": "Libro I, capítulo I", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-machado-champagne", "recommendation_id": "investigacion-2026-machado-champagne", "source_id": "fuente-investigacion-2026-machado", "claim": "Ressurreição menciona beber champaña por una botina.", "support_excerpt": "chegara a beber champagne por uma botina", "locator": "Capítulo XIII, Crise", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-amado-cachaca", "recommendation_id": "investigacion-2026-amado-cachaca", "source_id": "fuente-investigacion-2026-amado", "claim": "Gabriela, Cravo e Canela alude al gusto por la cachaça de Ilhéus.", "support_excerpt": "Como gostavam da cachaça ilheense!", "locator": "Extracto Do navio sueco com sereia de amor; edición Record, 1977, p. 357", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-ribeyro-pisco", "recommendation_id": "investigacion-2026-ribeyro-pisco", "source_id": "fuente-investigacion-2026-ribeyro", "claim": "Los huaqueros reserva una botella de pisco para festejar tesoros enterrados.", "support_excerpt": "la botella de pisco para festejar por los tesoros enterrados", "locator": "Pasaje de Los huaqueros", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-orwell-cerveza", "recommendation_id": "investigacion-2026-orwell-cerveza", "source_id": "fuente-investigacion-2026-orwell", "claim": "La taberna imaginada por Orwell valora la conversación tanto como la cerveza.", "support_excerpt": "conversation as much as for the beer", "locator": "The Moon Under Water", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-tolstoy-champagne", "recommendation_id": "investigacion-2026-tolstoy-champagne", "source_id": "fuente-investigacion-2026-tolstoy", "claim": "Anna Karenina describe a un personaje como amigo familiar de quienes tomaban champaña con él.", "support_excerpt": "He was the familiar friend of everyone with whom he took a glass of champagne.", "locator": "Parte I, capítulo 7", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-investigacion-2026-woolf-vino", "recommendation_id": "investigacion-2026-woolf-vino", "source_id": "fuente-investigacion-2026-woolf", "claim": "A Room of One's Own relaciona la conversación y la imaginación con una botella de vino.", "support_excerpt": "off a bird and a bottle of wine", "locator": "Capítulo 1", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
     }
   ],
   "sources": [
@@ -28839,6 +29171,42 @@
       "accessed_at": "2026-07-29",
       "language": "es",
       "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "fuente-investigacion-2026-wharton", "source_type": "literary_work", "title": "The Age of Innocence", "author_or_publisher": "Edith Wharton / Project Gutenberg", "url": "https://www.gutenberg.org/files/541/541-h/541-h.htm", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-cather", "source_type": "literary_work", "title": "My Ántonia", "author_or_publisher": "Willa Cather / Project Gutenberg", "url": "https://www.gutenberg.org/files/242/242-h/242-h.htm", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-chopin", "source_type": "literary_work", "title": "The Awakening", "author_or_publisher": "Kate Chopin / Project Gutenberg", "url": "https://www.gutenberg.org/files/160/160-h/160-h.htm", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-proust", "source_type": "literary_work", "title": "Swann's Way", "author_or_publisher": "Marcel Proust / Project Gutenberg", "url": "https://www.gutenberg.org/files/7178/7178-h/7178-h.htm", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-bulgakov", "source_type": "literary_excerpt", "title": "The Master Is Released", "author_or_publisher": "Mijaíl Bulgákov / Davar", "url": "https://www.davar.net/EXTRACTS/FICTION/EXTRMSTR.HTM", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "fuente-investigacion-2026-eca", "source_type": "literary_work", "title": "Os Maias", "author_or_publisher": "Eça de Queirós / Wikisource", "url": "https://pt.wikisource.org/wiki/Os_Maias/Livro_I/I", "accessed_at": "2026-09-19", "language": "pt", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-machado", "source_type": "literary_work", "title": "Ressurreição", "author_or_publisher": "Machado de Assis / Wikisource", "url": "https://pt.wikisource.org/wiki/Anexo:Imprimir/Ressurrei%C3%A7%C3%A3o_(Machado_de_Assis)", "accessed_at": "2026-09-19", "language": "pt", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-amado", "source_type": "educational_excerpt", "title": "Gabriela, Cravo e Canela", "author_or_publisher": "Secretaria da Educação do Espírito Santo", "url": "https://curriculo.sedu.es.gov.br/curriculo/wp-content/uploads/2025/05/3a-Serie_LP_RPE_QUINZENA-10_LIVRETO.pdf", "accessed_at": "2026-09-19", "language": "pt", "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "fuente-investigacion-2026-ribeyro", "source_type": "literary_work", "title": "Los huaqueros", "author_or_publisher": "Julio Ramón Ribeyro / Universidad del Pacífico", "url": "https://blogs.up.edu.pe/nubes/wp-content/uploads/2012/02/Ribeyro-Los-huaqueros.pdf", "accessed_at": "2026-09-19", "language": "es", "reliability_tier": "reputable_secondary"
+    },
+    {
+      "id": "fuente-investigacion-2026-orwell", "source_type": "literary_work", "title": "The Moon Under Water", "author_or_publisher": "George Orwell / The Orwell Foundation", "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/the-moon-under-water/", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-tolstoy", "source_type": "literary_work", "title": "Anna Karenina", "author_or_publisher": "Leo Tolstoy / Project Gutenberg", "url": "https://www.gutenberg.org/ebooks/1399", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-investigacion-2026-woolf", "source_type": "literary_work", "title": "A Room of One's Own", "author_or_publisher": "Virginia Woolf / Project Gutenberg Canada", "url": "https://www.gutenberg.ca/ebooks/woolfv-aroomofonesown/woolfv-aroomofonesown-00-h.html", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
     }
   ],
   "discoveries": []
