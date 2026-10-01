@@ -4148,6 +4148,29 @@
       "country": "Perú",
       "birth_year": 1929,
       "death_year": 1994
+    },
+    {
+      "id": "nikolai-gogol",
+      "slug": "nikolai-gogol",
+      "canonical_name": "Nikolái Gógol",
+      "aliases": [
+        "Nikolai Gogol",
+        "Nikolay Gogol",
+        "Nikolái Gogol",
+        "Gógol",
+        "Gogol",
+        "Николай Гоголь"
+      ],
+      "country": "Imperio ruso",
+      "birth_year": 1809,
+      "death_year": 1852,
+      "bio_es": "Narrador y dramaturgo en lengua rusa, nacido en la actual Ucrania. Su humor grotesco convierte burócratas, terratenientes y ambiciones cotidianas en personajes memorables.",
+      "featured_works": [
+        "nikolai-gogol-dead-souls",
+        "nikolai-gogol-the-government-inspector"
+      ],
+      "status": "published",
+      "reviewed_at": "2026-10-01"
     }
   ],
   "works": [
@@ -9502,6 +9525,28 @@
       "identifiers": {},
       "notes": "Ensayo vinculado a la evidencia primaria consultada para esta recomendación.",
       "metadata_status": "minimal"
+    },
+    {
+      "id": "nikolai-gogol-dead-souls",
+      "author_id": "nikolai-gogol",
+      "original_title": "Мёртвые души",
+      "display_title_es": "Almas muertas",
+      "publication_year": 1842,
+      "language": "ru",
+      "identifiers": {
+        "gutenberg": "1081"
+      },
+      "notes": "Primera parte publicada en 1842. Fecha y contexto cotejados en la introducción de John Cournos a la traducción de D. J. Hogarth, Project Gutenberg 1081. El gogol-mógol se propone como maridaje editorial, no como bebida aparecida en la novela."
+    },
+    {
+      "id": "nikolai-gogol-the-government-inspector",
+      "author_id": "nikolai-gogol",
+      "original_title": "Ревизор",
+      "display_title_es": "El inspector",
+      "publication_year": 1836,
+      "language": "ru",
+      "identifiers": {},
+      "notes": "Obra y fecha cotejadas en la bibliografía de la introducción de John Cournos a Dead Souls, Project Gutenberg 1081."
     }
   ],
   "drinks": [
@@ -18021,6 +18066,38 @@
       "glassware": "Copa de vino",
       "recipe_note": "Servicio genérico; la fuente no especifica una variedad ni una preparación concreta.",
       "recipe_status": "serving_only"
+    },
+    {
+      "id": "gogol-mogol-goat-milk-rum",
+      "name_es": "Gogol-mógol de Gógol",
+      "aliases": [
+        "Gogol-mógol",
+        "Gogol-mogol",
+        "Гоголь-моголь",
+        "Leche de cabra con ron"
+      ],
+      "category": "Bebida caliente con ron",
+      "alcoholic": true,
+      "ingredients": [
+        {
+          "name": "Leche de cabra pasteurizada",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Ron",
+          "amount": 30,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Calienta la leche de cabra en una olla pequeña hasta que comience a hervir suavemente.",
+        "Retira la olla del fuego, añade el ron y mezcla.",
+        "Sirve caliente en una taza."
+      ],
+      "glassware": "Taza resistente al calor",
+      "recipe_note": "Adaptación editorial para una taza del preparado de leche de cabra cocida con ron descrito por Iván Zolotariov, recogido por Vikenti Veresáiev en Gógol en la vida, tomo 1, sección 25. Las cantidades de 200 ml y 30 ml son una proporción de la casa; el testimonio no da medidas ni detalla el método especial de cocción. Esta versión reproduce esos dos ingredientes y se distingue de las preparaciones con huevo y azúcar llamadas también gogol-mógol.",
+      "recipe_status": "source_adapted"
     }
   ],
   "recommendations": [
@@ -23931,6 +24008,24 @@
     {
       "id": "investigacion-2026-woolf-vino", "author_id": "virginia-woolf", "work_id": "virginia-woolf-a-room-of-ones-own", "drink_id": "vino", "relationship_type": "appears_in_work",
       "headline_es": "Vino en Una habitación propia", "explanation_es": "Una botella de vino acompaña la imaginación de una mesa propia en el ensayo de Woolf. Lee *Una habitación propia* con una copa y espacio suficiente para pensar en voz alta.", "confidence": "high", "evidence_ids": ["evidencia-investigacion-2026-woolf-vino"], "editorial_status": "published", "reviewed_by": "investigación editorial web", "reviewed_at": "2026-09-19"
+    },
+    {
+      "id": "nikolai-gogol-gogol-mogol",
+      "author_id": "nikolai-gogol",
+      "work_id": "nikolai-gogol-dead-souls",
+      "drink_id": "gogol-mogol-goat-milk-rum",
+      "relationship_type": "editorial_pairing",
+      "headline_es": "Una taza para negociar con los muertos",
+      "explanation_es": "Leche de cabra caliente y un golpe de ron: sirve un gogol-mógol y toma asiento entre los terratenientes de *Almas muertas*. Chíchikov anda comprando campesinos que siguen vivos en el registro y muertos bajo tierra; Sobakévich cobra cada nombre como si vendiera una joya. Tú disfruta la taza: el próximo regateo viene con sobremesa.",
+      "confidence": "medium",
+      "evidence_ids": [
+        "evidencia-gogol-mogol-zolotariov",
+        "evidencia-gogol-cocina-aksakov",
+        "evidencia-gogol-almas-muertas-maridaje"
+      ],
+      "editorial_status": "published",
+      "reviewed_by": "investigación editorial web a solicitud de la persona propietaria",
+      "reviewed_at": "2026-10-01"
     }
   ],
   "evidence": [
@@ -28740,6 +28835,37 @@
     },
     {
       "id": "evidencia-investigacion-2026-woolf-vino", "recommendation_id": "investigacion-2026-woolf-vino", "source_id": "fuente-investigacion-2026-woolf", "claim": "A Room of One's Own relaciona la conversación y la imaginación con una botella de vino.", "support_excerpt": "off a bird and a bottle of wine", "locator": "Capítulo 1", "evidence_kind": "direct_quote", "supports_claim": true, "checked_at": "2026-09-19"
+    },
+    {
+      "id": "evidencia-gogol-mogol-zolotariov",
+      "recommendation_id": "nikolai-gogol-gogol-mogol",
+      "source_id": "fuente-gogol-veresaev-tomo-1",
+      "claim": "La recopilación transmite el recuerdo de Iván Zolotariov: Gógol apreciaba la leche de cabra, la cocía él mismo añadiendo ron y llamaba a esa preparación gogol-mógol. Es un recuerdo retrospectivo recogido por un tercero, no una receta autógrafa ni una prueba de que inventara la bebida homónima.",
+      "support_excerpt": "Эту стряпню он называл гоголь-моголем и часто, смеясь, говорил: «Гоголь любит гоголь-моголь».",
+      "locator": "Sección 25, «За границей» (En el extranjero), pp. 214–215 de la paginación transcrita; I. F. Zolotariov, recogido por K. Obodovski; referencia allí consignada: Исторический вестник, 1893, I, p. 36. Se verificó la transcripción de Veresáiev, no el ejemplar de la revista de 1893.",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-10-01"
+    },
+    {
+      "id": "evidencia-gogol-cocina-aksakov",
+      "recommendation_id": "nikolai-gogol-gogol-mogol",
+      "source_id": "fuente-gogol-veresaev-tomo-1",
+      "claim": "Serguéi Aksákov recuerda cómo Gógol preparaba macarrones con mantequilla, sal, pimienta y queso para su círculo de amigos; el episodio respalda su gusto por cocinar en compañía.",
+      "locator": "Sección 27, «В России» (En Rusia), episodio del 3 de enero de 1840, pp. 259–261 de la paginación transcrita; referencia consignada: S. T. Aksákov, История знакомства, pp. 31–32.",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-10-01"
+    },
+    {
+      "id": "evidencia-gogol-almas-muertas-maridaje",
+      "recommendation_id": "nikolai-gogol-gogol-mogol",
+      "source_id": "fuente-gogol-dead-souls-gutenberg",
+      "claim": "En la primera parte, capítulo V, Sobakévich negocia con Chíchikov el precio de los siervos muertos; el capítulo XI explica el proyecto de usarlos como garantía. Estas escenas motivan el maridaje editorial con el gogol-mógol biográfico, sin atribuir su aparición a la novela.",
+      "locator": "Primera parte, capítulos V (comida y negociación con Sobakévich) y XI (proyecto de Chíchikov). Introducción de John Cournos: datos biográficos, primera publicación de Almas muertas y bibliografía de El inspector.",
+      "evidence_kind": "paraphrase",
+      "supports_claim": true,
+      "checked_at": "2026-10-01"
     }
   ],
   "sources": [
@@ -29207,6 +29333,27 @@
     },
     {
       "id": "fuente-investigacion-2026-woolf", "source_type": "literary_work", "title": "A Room of One's Own", "author_or_publisher": "Virginia Woolf / Project Gutenberg Canada", "url": "https://www.gutenberg.ca/ebooks/woolfv-aroomofonesown/woolfv-aroomofonesown-00-h.html", "accessed_at": "2026-09-19", "language": "en", "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-gogol-veresaev-tomo-1",
+      "source_type": "memoir_compilation",
+      "title": "Гоголь в жизни. Том 1 (Gógol en la vida, tomo 1)",
+      "author_or_publisher": "Vikenti Veresáiev, recopilador / Wikisource",
+      "edition": "Recopilación publicada originalmente en 1933; transcripción digital consultada en Wikisource.",
+      "url": "https://ru.wikisource.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_%D0%B2_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8._%D0%A2%D0%BE%D0%BC_1_(%D0%92%D0%B5%D1%80%D0%B5%D1%81%D0%B0%D0%B5%D0%B2)",
+      "accessed_at": "2026-10-01",
+      "language": "ru",
+      "reliability_tier": "primary"
+    },
+    {
+      "id": "fuente-gogol-dead-souls-gutenberg",
+      "source_type": "literary_work",
+      "title": "Dead Souls (Almas muertas)",
+      "author_or_publisher": "Nikolái Gógol / traducción de D. J. Hogarth; introducción de John Cournos / Project Gutenberg",
+      "url": "https://www.gutenberg.org/files/1081/1081-h/1081-h.htm",
+      "accessed_at": "2026-10-01",
+      "language": "en",
+      "reliability_tier": "primary"
     }
   ],
   "discoveries": []
