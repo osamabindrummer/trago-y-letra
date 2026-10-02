@@ -61,3 +61,7 @@ public/images/            recursos visuales propios
 library/                  biblioteca local privada e ignorada
 tests/                    pruebas unitarias, de componentes y E2E
 ```
+
+## Uso en Linux
+
+[Guía para Linux](LINUX.md): instalación y apertura local desde la terminal.

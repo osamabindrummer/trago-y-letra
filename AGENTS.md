@@ -33,3 +33,10 @@
 Tras cambiar datos o código, ejecuta la comprobación proporcional al cambio. Para contenido: `npm run validate:content`, `npm run build:content`, `npm run test` y `npm run build`.
 
 Mantén el README alineado con los comandos y la arquitectura vigentes.
+
+## Puertos y servidores locales
+
+- El lanzador usa exclusivamente el rango `127.0.0.1:28950–28999`. El desarrollo manual usa `5173` y la vista previa manual `4173`.
+- Antes de añadir o cambiar un servidor, revisar los puertos documentados en los demás repositorios de `~/Developer`; reservar una dirección propia y actualizar en el mismo cambio el lanzador, la configuración, los enlaces internos y el README.
+- Los lanzadores deben fallar con un mensaje claro si su puerto está ocupado. No usar una respuesta HTTP de otro proceso como prueba de que arrancó el servidor propio; verificar el proceso o una señal de identidad antes de abrir el navegador.
+- No iniciar automáticamente otro puerto si el puerto esperado está ocupado, salvo que el proyecto tenga un rango exclusivo documentado y muestre la dirección elegida.
